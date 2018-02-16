@@ -1,0 +1,22 @@
+{
+  "name": "coinspec-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coinspec/data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coinspec/data/issues"
+  },
+  "homepage": "https://github.com/coinspec/data#readme",
+  "dependencies": {
+    "coinspec-schema": "git+https://github.com/coinspec/schema.git"
+  }
+}
