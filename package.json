@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/coinspec/data#readme",
   "dependencies": {
-    "coinspec-schema": "git+https://github.com/coinspec/schema.git"
+    "coinspec-data-tools": "git+https://github.com/coinspec/data-tools.git"
   }
 }
