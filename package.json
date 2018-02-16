@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha node_modules/coinspec-schema/test.js",
-    "build": "node_modules/coinspec-schema/test.js build",
-    "print": "node_modules/coinspec-schema/test.js print"
+    "build": "node_modules/coinspec-data-tools/test.js build",
+    "print": "node_modules/coinspec-data-tools/test.js print"
   },
   "repository": {
     "type": "git",
