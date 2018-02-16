@@ -4,11 +4,11 @@ proof_type: PoW
 web: https://litecoin.org/
 denominations:
   plural: Litecoin
-  symbol:	Ł
+  symbol: Ł
   subunits:
     - unit: 1e-3
       name: lites
     - unit: 1e-6
       name: photons
     - unit: 1e-8
-      name: photons
+      name: litoshis
