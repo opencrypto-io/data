@@ -1,1 +1,4 @@
 name: Litecoin
+start_date: '2011-10-13'
+proof_type: PoW 
+web: https://litecoin.org/
