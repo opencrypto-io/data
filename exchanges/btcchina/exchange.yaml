@@ -1,4 +1,5 @@
 name: BTCChina
+web: 'https://www.btcchina.com'
 markets:
   - BCH/CNY
   - BTC/CNY

@@ -1,4 +1,5 @@
 name: CoinSpot
+web: 'https://www.coinspot.com.au'
 markets:
   - BTC/AUD
   - DOGE/AUD

@@ -1,4 +1,5 @@
 name: Bitfinex v2
+web: 'https://www.bitfinex.com'
 markets:
   - AID/BTC
   - AID/ETH

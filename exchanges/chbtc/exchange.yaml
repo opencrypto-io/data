@@ -1,4 +1,5 @@
 name: CHBTC
+web: 'https://trade.chbtc.com/api'
 markets:
   - BCH/CNY
   - BTC/CNY

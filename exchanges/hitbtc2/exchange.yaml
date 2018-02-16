@@ -1,4 +1,5 @@
 name: HitBTC v2
+web: 'https://hitbtc.com'
 markets:
   - 1ST/BTC
   - 1ST/ETH

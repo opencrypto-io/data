@@ -1,4 +1,5 @@
 name: BTCTurk
+web: 'https://www.btcturk.com'
 markets:
   - BTC/TRY
   - ETH/BTC

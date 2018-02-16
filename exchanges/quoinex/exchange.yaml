@@ -1,4 +1,5 @@
 name: QUOINEX
+web: 'https://quoinex.com/'
 markets:
   - BCH/JPY
   - BCH/SGD

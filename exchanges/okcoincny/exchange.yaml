@@ -1,4 +1,5 @@
 name: OKCoin CNY
+web: 'https://www.okcoin.cn'
 markets:
   - BCH/CNY
   - BTC/CNY

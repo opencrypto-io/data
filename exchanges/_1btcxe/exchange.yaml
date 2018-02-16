@@ -1,4 +1,5 @@
 name: 1BTCXE
+web: 'https://1btcxe.com'
 markets:
   - BTC/AED
   - BTC/AUD

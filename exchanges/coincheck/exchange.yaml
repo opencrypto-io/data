@@ -1,3 +1,4 @@
 name: coincheck
+web: 'https://coincheck.com'
 markets:
   - BTC/JPY

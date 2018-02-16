@@ -1,4 +1,5 @@
 name: GetBTC
+web: 'https://getbtc.org'
 markets:
   - BTC/EUR
   - BTC/RUB

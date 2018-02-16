@@ -1,4 +1,5 @@
 name: coinfloor
+web: 'https://www.coinfloor.co.uk'
 markets:
   - BCH/GBP
   - BTC/EUR

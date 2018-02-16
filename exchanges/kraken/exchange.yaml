@@ -1,4 +1,5 @@
 name: Kraken
+web: 'https://www.kraken.com'
 markets:
   - BCH/BTC
   - BCH/EUR

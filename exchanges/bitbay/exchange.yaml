@@ -1,4 +1,5 @@
 name: BitBay
+web: 'https://bitbay.net'
 markets:
   - BCH/BTC
   - BCH/EUR

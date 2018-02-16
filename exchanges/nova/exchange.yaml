@@ -1,4 +1,5 @@
 name: Novaexchange
+web: 'https://novaexchange.com'
 markets:
   - B3/BTC
   - B3/DOGE

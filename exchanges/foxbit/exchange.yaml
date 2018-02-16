@@ -1,4 +1,5 @@
 name: FoxBit
+web: 'https://foxbit.exchange'
 markets:
   - BTC/BRL
   - BTC/CLP

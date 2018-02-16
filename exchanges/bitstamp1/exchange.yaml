@@ -1,4 +1,5 @@
 name: Bitstamp v1
+web: 'https://www.bitstamp.net'
 markets:
   - BTC/EUR
   - BTC/USD

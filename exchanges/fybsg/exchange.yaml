@@ -1,4 +1,5 @@
 name: FYB-SG
+web: 'https://www.fybsg.com'
 markets:
   - BTC/SEK
   - BTC/SGD

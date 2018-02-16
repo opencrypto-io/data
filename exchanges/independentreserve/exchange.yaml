@@ -1,4 +1,5 @@
 name: Independent Reserve
+web: 'https://www.independentreserve.com'
 markets:
   - BCH/AUD
   - BCH/NZD

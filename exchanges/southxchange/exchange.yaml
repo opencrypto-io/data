@@ -1,4 +1,5 @@
 name: SouthXchange
+web: 'https://www.southxchange.com'
 markets:
   - AC3/BTC
   - ACH/BTC

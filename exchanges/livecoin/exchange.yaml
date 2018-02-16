@@ -1,4 +1,5 @@
 name: LiveCoin
+web: 'https://www.livecoin.net'
 markets:
   - ABN/BTC
   - ACN/BTC

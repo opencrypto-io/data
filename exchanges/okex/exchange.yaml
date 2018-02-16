@@ -1,4 +1,5 @@
 name: OKEX
+web: 'https://www.okex.com'
 markets:
   - 1ST/BTC
   - 1ST/ETH

@@ -1,4 +1,5 @@
 name: QRYPTOS
+web: 'https://www.qryptos.com'
 markets:
   - BCH/BTC
   - BMC/BTC

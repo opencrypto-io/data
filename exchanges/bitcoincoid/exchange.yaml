@@ -1,4 +1,5 @@
 name: Bitcoin.co.id
+web: 'https://www.bitcoin.co.id'
 markets:
   - BCH/IDR
   - BTC/IDR

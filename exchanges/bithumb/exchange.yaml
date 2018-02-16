@@ -1,4 +1,5 @@
 name: Bithumb
+web: 'https://www.bithumb.com'
 markets:
   - BCH/KRW
   - BTC/KRW

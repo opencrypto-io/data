@@ -1,4 +1,5 @@
 name: C-CEX
+web: 'https://c-cex.com'
 markets:
   - 611/BTC
   - 611/DOGE

@@ -1,4 +1,5 @@
 name: Allcoin
+web: 'https://www.allcoin.com'
 markets:
   - A0101/CNET
   - ACC/BTC

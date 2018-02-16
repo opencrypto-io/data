@@ -1,4 +1,5 @@
 name: VirWoX
+web: 'https://www.virwox.com'
 markets:
   - BTC/SLL
   - CHF/SLL

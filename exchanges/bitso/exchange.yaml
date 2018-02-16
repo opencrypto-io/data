@@ -1,4 +1,5 @@
 name: Bitso
+web: 'https://bitso.com'
 markets:
   - BCH/BTC
   - BTC/MXN

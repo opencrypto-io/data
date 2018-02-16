@@ -1,4 +1,5 @@
 name: Gate.io
+web: 'https://gate.io/'
 markets:
   - ADA/BTC
   - ADA/USDT

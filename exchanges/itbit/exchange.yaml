@@ -1,4 +1,5 @@
 name: itBit
+web: 'https://www.itbit.com'
 markets:
   - BTC/EUR
   - BTC/SGD

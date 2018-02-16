@@ -1,4 +1,5 @@
 name: BTCExchange
+web: 'https://www.btcexchange.ph'
 markets:
   - BTC/PHP
   - BTC/TRY

@@ -1,4 +1,5 @@
 name: Poloniex
+web: 'https://poloniex.com'
 markets:
   - AMP/BTC
   - ARDR/BTC

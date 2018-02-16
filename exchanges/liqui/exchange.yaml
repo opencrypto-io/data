@@ -1,4 +1,5 @@
 name: Liqui
+web: 'https://liqui.io'
 markets:
   - 1ST/BTC
   - 1ST/ETH

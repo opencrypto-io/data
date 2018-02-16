@@ -1,4 +1,5 @@
 name: VBTC
+web: 'https://vbtc.exchange'
 markets:
   - BTC/BRL
   - BTC/CLP

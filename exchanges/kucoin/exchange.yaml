@@ -1,4 +1,5 @@
 name: Kucoin
+web: 'https://kucoin.com'
 markets:
   - ACAT/BTC
   - ACAT/ETH

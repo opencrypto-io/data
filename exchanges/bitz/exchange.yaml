@@ -1,4 +1,5 @@
 name: Bit-Z
+web: 'https://www.bit-z.com/'
 markets:
   - AIDOC/BTC
   - AIDOC/ETH

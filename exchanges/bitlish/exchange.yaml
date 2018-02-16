@@ -1,4 +1,5 @@
 name: Bitlish
+web: 'https://bitlish.com'
 markets:
   - BCH/BTC
   - BCH/EUR

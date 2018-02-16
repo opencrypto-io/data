@@ -1,4 +1,5 @@
 name: Huobi Pro
+web: 'https://www.huobi.pro'
 markets:
   - ACT/BTC
   - ACT/ETH

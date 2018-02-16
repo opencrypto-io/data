@@ -1,4 +1,5 @@
 name: SurBitcoin
+web: 'https://surbitcoin.com'
 markets:
   - BTC/BRL
   - BTC/CLP

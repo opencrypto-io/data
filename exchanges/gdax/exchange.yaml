@@ -1,4 +1,5 @@
 name: GDAX
+web: 'https://www.gdax.com'
 markets:
   - BCH/BTC
   - BCH/EUR

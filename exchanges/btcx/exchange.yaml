@@ -1,4 +1,5 @@
 name: BTCX
+web: 'https://btc-x.is'
 markets:
   - BTC/EUR
   - BTC/USD

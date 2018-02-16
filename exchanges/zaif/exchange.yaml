@@ -1,4 +1,5 @@
 name: Zaif
+web: 'https://zaif.jp'
 markets:
   - BCH/BTC
   - BCH/JPY

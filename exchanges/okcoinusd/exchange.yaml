@@ -1,4 +1,5 @@
 name: OKCoin USD
+web: 'https://www.okcoin.com'
 markets:
   - BCH/USD
   - BTC/USD

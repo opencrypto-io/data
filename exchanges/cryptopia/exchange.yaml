@@ -1,4 +1,5 @@
 name: Cryptopia
+web: 'https://www.cryptopia.co.nz'
 markets:
   - $$$/BTC
   - $$$/DOGE

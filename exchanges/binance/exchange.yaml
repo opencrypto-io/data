@@ -1,6 +1,5 @@
 name: Binance
-countries:
-  - JP
+web: 'https://www.binance.com'
 markets:
   - ADA/BTC
   - ADA/ETH

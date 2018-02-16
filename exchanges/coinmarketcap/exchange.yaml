@@ -1,4 +1,5 @@
 name: CoinMarketCap
+web: 'https://coinmarketcap.com'
 markets:
   - $$$/AUD
   - $$$/BRL

@@ -1,4 +1,5 @@
 name: QuadrigaCX
+web: 'https://www.quadrigacx.com'
 markets:
   - BCH/BTC
   - BCH/CAD

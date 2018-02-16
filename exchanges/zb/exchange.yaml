@@ -1,4 +1,5 @@
 name: ZB
+web: 'https://trade.zb.com/api'
 markets:
   - 1ST/BTC
   - 1ST/QC

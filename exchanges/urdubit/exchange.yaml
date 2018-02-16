@@ -1,4 +1,5 @@
 name: UrduBit
+web: 'https://urdubit.com'
 markets:
   - BTC/BRL
   - BTC/CLP

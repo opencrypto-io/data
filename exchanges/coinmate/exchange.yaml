@@ -1,4 +1,5 @@
 name: CoinMate
+web: 'https://coinmate.io'
 markets:
   - BTC/CZK
   - BTC/EUR

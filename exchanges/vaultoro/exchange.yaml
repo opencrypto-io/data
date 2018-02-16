@@ -1,3 +1,4 @@
 name: Vaultoro
+web: 'https://www.vaultoro.com'
 markets:
   - BTC/GLD

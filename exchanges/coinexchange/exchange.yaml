@@ -1,4 +1,5 @@
 name: CoinExchange
+web: 'https://www.coinexchange.io'
 markets:
   - 1337/BTC
   - 1337/DOGE

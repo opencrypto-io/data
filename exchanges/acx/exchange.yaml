@@ -1,4 +1,5 @@
 name: ACX
+web: 'https://acx.io'
 markets:
   - BCH/AUD
   - BTC/AUD

@@ -1,4 +1,5 @@
 name: luno
+web: 'https://www.luno.com'
 markets:
   - BTC/IDR
   - BTC/MYR

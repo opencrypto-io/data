@@ -1,4 +1,5 @@
 name: WEX
+web: 'https://wex.nz'
 markets:
   - BCH/BTC
   - BCH/DASH

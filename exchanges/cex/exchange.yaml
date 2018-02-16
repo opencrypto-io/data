@@ -1,4 +1,5 @@
 name: CEX.IO
+web: 'https://cex.io'
 markets:
   - BCH/BTC
   - BCH/EUR

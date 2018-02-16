@@ -1,4 +1,5 @@
 name: COBINHOOD
+web: 'https://cobinhood.com'
 markets:
   - BAR/BTC
   - BAR/ETH

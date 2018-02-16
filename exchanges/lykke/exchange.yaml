@@ -1,4 +1,5 @@
 name: Lykke
+web: 'https://www.lykke.com'
 markets:
   - AE/BTC
   - AE/ETH

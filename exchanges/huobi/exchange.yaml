@@ -1,4 +1,5 @@
 name: Huobi
+web: 'https://www.huobi.com'
 markets:
   - BTC/CNY
   - LTC/CNY

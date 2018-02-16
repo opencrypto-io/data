@@ -1,4 +1,7 @@
 name: BitMarket
+web:
+  - 'https://www.bitmarket.pl'
+  - 'https://www.bitmarket.net'
 markets:
   - BCH/PLN
   - BTC/EUR

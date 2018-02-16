@@ -1,4 +1,5 @@
 name: EXMO
+web: 'https://exmo.me'
 markets:
   - BCH/BTC
   - BCH/ETH

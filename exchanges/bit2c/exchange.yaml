@@ -1,4 +1,5 @@
 name: Bit2C
+web: 'https://www.bit2c.co.il'
 markets:
   - BCH/NIS
   - BTC/NIS

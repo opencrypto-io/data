@@ -1,4 +1,5 @@
 name: MixCoins
+web: 'https://mixcoins.com'
 markets:
   - BCH/BTC
   - BCH/USD

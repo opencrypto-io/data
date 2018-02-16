@@ -1,4 +1,5 @@
 name: Bitstamp
+web: 'https://www.bitstamp.net'
 markets:
   - BCH/BTC
   - BCH/EUR
