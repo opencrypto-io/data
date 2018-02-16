@@ -1,0 +1,7 @@
+name: coinfloor
+markets:
+  - BCH/GBP
+  - BTC/EUR
+  - BTC/GBP
+  - BTC/PLN
+  - BTC/USD

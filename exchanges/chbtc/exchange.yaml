@@ -1,0 +1,10 @@
+name: CHBTC
+markets:
+  - BCH/CNY
+  - BTC/CNY
+  - BTS/CNY
+  - ETC/CNY
+  - ETH/CNY
+  - HSR/CNY
+  - LTC/CNY
+  - QTUM/CNY

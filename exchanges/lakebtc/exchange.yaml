@@ -1,0 +1,27 @@
+name: LakeBTC
+markets:
+  - AUD/USD
+  - BAC/ETH
+  - BTC/AUD
+  - BTC/CAD
+  - BTC/CHF
+  - BTC/EUR
+  - BTC/GBP
+  - BTC/HKD
+  - BTC/JPY
+  - BTC/NGN
+  - BTC/NZD
+  - BTC/SGD
+  - BTC/USD
+  - ETH/BTC
+  - EUR/USD
+  - GBP/USD
+  - LTC/BTC
+  - NZD/USD
+  - USD/CAD
+  - USD/CHF
+  - USD/HKD
+  - USD/JPY
+  - USD/NGN
+  - USD/SGD
+  - XRP/BTC

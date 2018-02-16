@@ -1,0 +1,32 @@
+name: CEX.IO
+markets:
+  - BCH/BTC
+  - BCH/EUR
+  - BCH/GBP
+  - BCH/USD
+  - BTC/EUR
+  - BTC/GBP
+  - BTC/RUB
+  - BTC/USD
+  - BTG/BTC
+  - BTG/EUR
+  - BTG/USD
+  - DASH/BTC
+  - DASH/EUR
+  - DASH/GBP
+  - DASH/USD
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/GBP
+  - ETH/USD
+  - GHS/BTC
+  - XLM/BTC
+  - XLM/EUR
+  - XLM/USD
+  - XRP/BTC
+  - XRP/EUR
+  - XRP/USD
+  - ZEC/BTC
+  - ZEC/EUR
+  - ZEC/GBP
+  - ZEC/USD

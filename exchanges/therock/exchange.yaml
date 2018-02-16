@@ -1,0 +1,20 @@
+name: TheRockTrading
+markets:
+  - BCH/BTC
+  - BTC/EUR
+  - BTC/EURN
+  - BTC/XRP
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/EURN
+  - EUR/EURN
+  - EUR/XRP
+  - LTC/BTC
+  - LTC/EUR
+  - NOK/UBTC
+  - NOK/UETH
+  - NOK/UEURN
+  - PPC/BTC
+  - PPC/EUR
+  - ZEC/BTC
+  - ZEC/EUR

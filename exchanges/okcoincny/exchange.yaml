@@ -1,0 +1,7 @@
+name: OKCoin CNY
+markets:
+  - BCH/CNY
+  - BTC/CNY
+  - ETC/CNY
+  - ETH/CNY
+  - LTC/CNY

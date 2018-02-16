@@ -1,0 +1,6 @@
+name: luno
+markets:
+  - BTC/IDR
+  - BTC/MYR
+  - BTC/NGN
+  - BTC/ZAR

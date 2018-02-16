@@ -1,0 +1,7 @@
+name: BTCChina
+markets:
+  - BCH/CNY
+  - BTC/CNY
+  - ETH/CNY
+  - LTC/BTC
+  - LTC/CNY

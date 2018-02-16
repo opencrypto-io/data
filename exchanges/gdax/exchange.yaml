@@ -1,0 +1,14 @@
+name: GDAX
+markets:
+  - BCH/BTC
+  - BCH/EUR
+  - BCH/USD
+  - BTC/EUR
+  - BTC/GBP
+  - BTC/USD
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/USD
+  - LTC/BTC
+  - LTC/EUR
+  - LTC/USD

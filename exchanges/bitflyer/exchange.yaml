@@ -1,0 +1,11 @@
+name: bitFlyer
+markets:
+  - BCH/BTC
+  - BTC/EUR
+  - BTC/JPY
+  - BTC/USD
+  - BTCJPY02MAR2018
+  - BTCJPY16FEB2018
+  - BTCJPY23FEB2018
+  - ETH/BTC
+  - FX_BTC_JPY

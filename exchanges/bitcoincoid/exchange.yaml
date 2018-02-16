@@ -1,0 +1,23 @@
+name: Bitcoin.co.id
+markets:
+  - BCH/IDR
+  - BTC/IDR
+  - BTG/IDR
+  - BTS/BTC
+  - DASH/BTC
+  - DOGE/BTC
+  - ETC/IDR
+  - ETH/BTC
+  - ETH/IDR
+  - IGNIS/IDR
+  - LTC/BTC
+  - LTC/IDR
+  - NXT/BTC
+  - NXT/IDR
+  - WAVES/IDR
+  - XEM/BTC
+  - XLM/BTC
+  - XLM/IDR
+  - XRP/BTC
+  - XRP/IDR
+  - XZC/IDR

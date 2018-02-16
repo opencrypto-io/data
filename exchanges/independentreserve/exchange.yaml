@@ -1,0 +1,11 @@
+name: Independent Reserve
+markets:
+  - BCH/AUD
+  - BCH/NZD
+  - BCH/USD
+  - BTC/AUD
+  - BTC/NZD
+  - BTC/USD
+  - ETH/AUD
+  - ETH/NZD
+  - ETH/USD

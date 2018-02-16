@@ -1,0 +1,5 @@
+name: Mercado Bitcoin
+markets:
+  - BCH/BRL
+  - BTC/BRL
+  - LTC/BRL

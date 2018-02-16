@@ -1,0 +1,24 @@
+name: Braziliex
+markets:
+  - BCH/BRL
+  - BCH/BTC
+  - BTC/BRL
+  - BTG/BRL
+  - BTG/BTC
+  - CRW/BRL
+  - CRW/BTC
+  - DASH/BRL
+  - DASH/BTC
+  - ETH/BRL
+  - ETH/BTC
+  - LTC/BRL
+  - LTC/BTC
+  - MXT/BRL
+  - MXT/BTC
+  - PRSP/BTC
+  - SNGLS/BRL
+  - SNGLS/BTC
+  - XMR/BRL
+  - XMR/BTC
+  - ZEC/BRL
+  - ZEC/BTC

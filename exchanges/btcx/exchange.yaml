@@ -1,0 +1,4 @@
+name: BTCX
+markets:
+  - BTC/EUR
+  - BTC/USD

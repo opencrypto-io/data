@@ -1,0 +1,33 @@
+name: BitBay
+markets:
+  - BCH/BTC
+  - BCH/EUR
+  - BCH/PLN
+  - BCH/USD
+  - BTC/EUR
+  - BTC/PLN
+  - BTC/USD
+  - BTG/BTC
+  - BTG/EUR
+  - BTG/PLN
+  - BTG/USD
+  - DASH/BTC
+  - DASH/EUR
+  - DASH/PLN
+  - DASH/USD
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/PLN
+  - ETH/USD
+  - GAME/BTC
+  - GAME/EUR
+  - GAME/PLN
+  - GAME/USD
+  - LSK/BTC
+  - LSK/EUR
+  - LSK/PLN
+  - LSK/USD
+  - LTC/BTC
+  - LTC/EUR
+  - LTC/PLN
+  - LTC/USD

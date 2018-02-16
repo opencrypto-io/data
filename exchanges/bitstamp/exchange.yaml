@@ -1,0 +1,17 @@
+name: Bitstamp
+markets:
+  - BCH/BTC
+  - BCH/EUR
+  - BCH/USD
+  - BTC/EUR
+  - BTC/USD
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/USD
+  - EUR/USD
+  - LTC/BTC
+  - LTC/EUR
+  - LTC/USD
+  - XRP/BTC
+  - XRP/EUR
+  - XRP/USD

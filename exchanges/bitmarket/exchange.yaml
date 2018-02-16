@@ -1,0 +1,9 @@
+name: BitMarket
+markets:
+  - BCH/PLN
+  - BTC/EUR
+  - BTC/PLN
+  - BTG/PLN
+  - LTC/BTC
+  - LTC/PLN
+  - LiteMineX/BTC

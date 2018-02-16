@@ -1,0 +1,5 @@
+name: BTCTurk
+markets:
+  - BTC/TRY
+  - ETH/BTC
+  - ETH/TRY

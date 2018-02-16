@@ -1,0 +1,14 @@
+name: Bithumb
+markets:
+  - BCH/KRW
+  - BTC/KRW
+  - BTG/KRW
+  - DASH/KRW
+  - EOS/KRW
+  - ETC/KRW
+  - ETH/KRW
+  - LTC/KRW
+  - QTUM/KRW
+  - XMR/KRW
+  - XRP/KRW
+  - ZEC/KRW

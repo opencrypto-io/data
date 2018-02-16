@@ -1,0 +1,29 @@
+name: Bitlish
+markets:
+  - BCH/BTC
+  - BCH/EUR
+  - BTC/EUR
+  - BTC/RUB
+  - BTC/USD
+  - BTG/BTC
+  - BTG/EUR
+  - DASH/BTC
+  - DASH/EUR
+  - DASH/RUB
+  - DASH/USD
+  - DOGE/BTC
+  - DOGE/EUR
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/RUB
+  - ETH/USD
+  - LTC/BTC
+  - LTC/EUR
+  - LTC/RUB
+  - LTC/USD
+  - XMR/BTC
+  - XMR/EUR
+  - ZEC/BTC
+  - ZEC/EUR
+  - ZEC/RUB
+  - ZEC/USD

@@ -1,0 +1,5 @@
+name: CoinMate
+markets:
+  - BTC/CZK
+  - BTC/EUR
+  - LTC/BTC

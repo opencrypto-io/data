@@ -1,0 +1,5 @@
+name: CoinSpot
+markets:
+  - BTC/AUD
+  - DOGE/AUD
+  - LTC/AUD

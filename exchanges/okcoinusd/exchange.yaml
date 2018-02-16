@@ -1,0 +1,7 @@
+name: OKCoin USD
+markets:
+  - BCH/USD
+  - BTC/USD
+  - ETC/USD
+  - ETH/USD
+  - LTC/USD

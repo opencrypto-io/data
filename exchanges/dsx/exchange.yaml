@@ -1,0 +1,25 @@
+name: DSX
+markets:
+  - BCH/BTC
+  - BCH/EUR
+  - BCH/GBP
+  - BCH/USD
+  - BTC/EUR
+  - BTC/GBP
+  - BTC/RUB
+  - BTC/USD
+  - BTG/BTC
+  - BTG/EUR
+  - BTG/GBP
+  - BTG/USD
+  - ETH/BTC
+  - ETH/EUR
+  - ETH/GBP
+  - ETH/USD
+  - EUR/USD
+  - GBP/USD
+  - LTC/BTC
+  - LTC/EUR
+  - LTC/GBP
+  - LTC/USD
+  - USD/RUB

@@ -1,0 +1,13 @@
+name: BTC Markets
+markets:
+  - BCH/AUD
+  - BCH/BTC
+  - BTC/AUD
+  - ETC/AUD
+  - ETC/BTC
+  - ETH/AUD
+  - ETH/BTC
+  - LTC/AUD
+  - LTC/BTC
+  - XRP/AUD
+  - XRP/BTC

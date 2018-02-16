@@ -1,0 +1,6 @@
+name: BTCExchange
+markets:
+  - BTC/PHP
+  - BTC/TRY
+  - ETH/BTC
+  - ETH/TRY

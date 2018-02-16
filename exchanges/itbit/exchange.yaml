@@ -1,0 +1,5 @@
+name: itBit
+markets:
+  - BTC/EUR
+  - BTC/SGD
+  - BTC/USD

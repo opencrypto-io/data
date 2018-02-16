@@ -1,0 +1,10 @@
+name: Bitso
+markets:
+  - BCH/BTC
+  - BTC/MXN
+  - ETH/BTC
+  - ETH/MXN
+  - LTC/BTC
+  - LTC/MXN
+  - XRP/BTC
+  - XRP/MXN

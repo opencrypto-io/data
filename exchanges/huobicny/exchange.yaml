@@ -1,0 +1,5 @@
+name: Huobi CNY
+markets:
+  - BCH/CNY
+  - ETC/CNY
+  - ETH/CNY

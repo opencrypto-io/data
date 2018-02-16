@@ -1,0 +1,5 @@
+name: GetBTC
+markets:
+  - BTC/EUR
+  - BTC/RUB
+  - BTC/USD

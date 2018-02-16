@@ -1,0 +1,12 @@
+name: QuadrigaCX
+markets:
+  - BCH/BTC
+  - BCH/CAD
+  - BTC/CAD
+  - BTC/USD
+  - BTG/BTC
+  - BTG/CAD
+  - ETH/BTC
+  - ETH/CAD
+  - LTC/BTC
+  - LTC/CAD

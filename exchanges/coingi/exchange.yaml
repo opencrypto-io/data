@@ -1,0 +1,16 @@
+name: Coingi
+markets:
+  - BTC/EUR
+  - BTC/USD
+  - DASH/BTC
+  - DOGE/BTC
+  - DOGE/USD
+  - EUR/USD
+  - LTC/BTC
+  - LTC/EUR
+  - LTC/USD
+  - NMC/BTC
+  - PPC/BTC
+  - PPC/EUR
+  - PPC/USD
+  - VTC/BTC
