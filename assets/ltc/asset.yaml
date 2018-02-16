@@ -2,3 +2,13 @@ name: Litecoin
 start_date: '2011-10-13'
 proof_type: PoW 
 web: https://litecoin.org/
+denominations:
+  plural: Litecoin
+  symbol:	Ł
+  subunits:
+    - unit: 1e-3
+      name: lites
+    - unit: 1e-6
+      name: photons
+    - unit: 1e-8
+      name: photons
