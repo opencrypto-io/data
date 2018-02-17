@@ -1,0 +1,13 @@
+name: EquiTrader
+symbol: EQT
+type: coin
+web:
+  - 'http://www.equitrader.co/'
+webids:
+  coinmarketcap: equitrader
+  telegram: Equi_Trader
+  github: equitrader
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/eqt/'
+mineable: false

@@ -1,0 +1,11 @@
+name: GanjaCoin
+symbol: MRJA
+type: coin
+web:
+  - 'https://www.ganjacoinpro.com/'
+webids:
+  coinmarketcap: ganjacoin
+tools:
+  explorer:
+    - 'http://ganjacoinexplorer.com/'
+mineable: true

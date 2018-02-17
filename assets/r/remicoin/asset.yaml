@@ -1,0 +1,12 @@
+name: Remicoin
+symbol: RMC
+type: token
+web:
+  - 'http://www.remicoin.org/'
+webids:
+  coinmarketcap: remicoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x7Dc4f41294697a7903C4027f6Ac528C5d14cd7eB'
+    - 'https://ethplorer.io/address/0x7Dc4f41294697a7903C4027f6Ac528C5d14cd7eB'
+mineable: false

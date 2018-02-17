@@ -1,0 +1,14 @@
+name: CPChain
+symbol: CPC
+type: token
+web:
+  - 'http://www.cpchain.io/'
+webids:
+  coinmarketcap: cpchain
+  telegram: cpchain
+  github: cpchain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090'
+    - 'https://ethplorer.io/address/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090'
+mineable: false

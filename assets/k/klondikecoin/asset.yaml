@@ -1,0 +1,11 @@
+name: KlondikeCoin
+symbol: KDC
+type: coin
+web:
+  - 'http://klondikecoin.com/'
+webids:
+  coinmarketcap: klondikecoin
+tools:
+  explorer:
+    - 'http://explorer.klondikecoin.com/chain/klondikecoin/'
+mineable: true

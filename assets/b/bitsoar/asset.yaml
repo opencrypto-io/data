@@ -1,0 +1,11 @@
+name: BitSoar
+symbol: BSR
+type: coin
+web:
+  - 'http://bitsoar.com/'
+webids:
+  coinmarketcap: bitsoar
+tools:
+  explorer:
+    - 'http://bsrblockchain.com/'
+mineable: true

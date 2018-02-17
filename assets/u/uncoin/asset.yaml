@@ -1,0 +1,12 @@
+name: UNCoin
+symbol: UNC
+type: coin
+web:
+  - 'http://uncoin.org/'
+webids:
+  coinmarketcap: uncoin
+  github: belledejour
+tools:
+  explorer:
+    - 'http://chain.uncoin.org/'
+mineable: false

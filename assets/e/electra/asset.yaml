@@ -1,0 +1,14 @@
+name: Electra
+symbol: ECA
+type: coin
+web:
+  - 'https://electraproject.org/'
+webids:
+  coinmarketcap: electra
+  telegram: Electracoin
+  github: Electra-project
+tools:
+  explorer:
+    - 'https://cryptobe.com/chain/Electra/'
+    - 'https://www.electraexplorer.com/'
+mineable: true

@@ -1,0 +1,17 @@
+name: NEM
+symbol: XEM
+type: coin
+web:
+  - 'http://nem.io'
+resources:
+  message-board:
+    - 'https://forum.nem.io/'
+webids:
+  coinmarketcap: nem
+  telegram: nemred
+  github: NemProject
+tools:
+  explorer:
+    - 'http://nembex.nem.ninja/'
+    - 'http://explorer.ournem.com'
+mineable: false

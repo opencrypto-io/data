@@ -1,0 +1,12 @@
+name: EuropeCoin
+symbol: ERC
+type: coin
+web:
+  - 'https://www.europecoin.eu.org'
+webids:
+  coinmarketcap: europecoin
+  github: LIMXTEC
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/erc/'
+mineable: true

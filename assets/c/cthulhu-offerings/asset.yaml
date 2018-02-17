@@ -1,0 +1,12 @@
+name: Cthulhu Offerings
+symbol: 'OFF'
+type: coin
+web:
+  - 'http://cthulhuofferings.tk/'
+webids:
+  coinmarketcap: cthulhu-offerings
+  github: thegreatoldone
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/off/'
+mineable: true

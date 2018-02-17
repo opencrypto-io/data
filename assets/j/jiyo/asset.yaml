@@ -1,0 +1,11 @@
+name: Jiyo
+symbol: JIYO
+type: coin
+web:
+  - 'https://www.jiyo.io/'
+webids:
+  coinmarketcap: jiyo
+tools:
+  explorer:
+    - 'http://chain.jiyo.io/'
+mineable: true

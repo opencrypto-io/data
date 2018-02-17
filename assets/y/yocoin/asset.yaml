@@ -1,0 +1,11 @@
+name: Yocoin
+symbol: YOC
+type: coin
+web:
+  - 'http://www.yocoin.org/'
+webids:
+  coinmarketcap: yocoin
+tools:
+  explorer:
+    - 'http://yoscan.io'
+mineable: true

@@ -1,0 +1,11 @@
+name: ZenGold
+symbol: ZENGOLD
+type: token
+web:
+  - 'http://www.zengold.org/'
+webids:
+  coinmarketcap: zengold
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/ZENGOLD'
+mineable: false

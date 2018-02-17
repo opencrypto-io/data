@@ -1,0 +1,13 @@
+name: Eidoo
+symbol: EDO
+type: token
+web:
+  - 'https://eidoo.io/'
+webids:
+  coinmarketcap: eidoo
+  telegram: joinchat/F4ox3EO_ubynqlzakd6lKw
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xced4e93198734ddaff8492d525bd258d49eb388e'
+    - 'https://ethplorer.io/address/0xced4e93198734ddaff8492d525bd258d49eb388e'
+mineable: false

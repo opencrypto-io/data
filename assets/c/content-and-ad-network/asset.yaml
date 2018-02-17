@@ -1,0 +1,10 @@
+name: Content and AD Network
+symbol: CAN
+type: token
+web:
+  - 'http://mobipromo.io/cn/'
+webids:
+  coinmarketcap: content-and-ad-network
+tools:
+  explorer: []
+mineable: false

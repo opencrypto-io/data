@@ -1,0 +1,17 @@
+name: PIVX
+symbol: PIVX
+type: coin
+web:
+  - 'http://www.pivx.org'
+resources:
+  message-board:
+    - 'https://forum.pivx.org/'
+webids:
+  coinmarketcap: pivx
+  github: PIVX-Project
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pivx/'
+    - 'http://www.presstab.pw/phpexplorer/PIVX/'
+    - 'http://pivx.presstab.pw'
+mineable: false

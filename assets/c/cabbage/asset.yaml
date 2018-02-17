@@ -1,0 +1,10 @@
+name: Cabbage
+symbol: CAB
+type: coin
+web:
+  - 'http://www.cabbage.tech'
+webids:
+  coinmarketcap: cabbage
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,11 @@
+name: Universa
+symbol: UTNP
+type: token
+web:
+  - 'https://www.universa.io/'
+webids:
+  coinmarketcap: universa
+  telegram: Uplatform
+tools:
+  explorer: []
+mineable: false

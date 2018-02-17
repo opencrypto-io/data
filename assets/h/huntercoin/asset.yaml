@@ -1,0 +1,12 @@
+name: HunterCoin
+symbol: HUC
+type: coin
+web:
+  - 'http://huntercoin.org/'
+webids:
+  coinmarketcap: huntercoin
+  github: chronokings
+tools:
+  explorer:
+    - 'https://www.huntercoin.info/blockExplorer'
+mineable: true

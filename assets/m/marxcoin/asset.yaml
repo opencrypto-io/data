@@ -1,0 +1,12 @@
+name: MarxCoin
+symbol: MARX
+type: coin
+web:
+  - 'https://www.marxcoin.com/'
+webids:
+  coinmarketcap: marxcoin
+  github: MARXCOIN01
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/marx'
+mineable: true

@@ -1,0 +1,12 @@
+name: Huncoin
+symbol: HNC
+type: coin
+web:
+  - 'http://huncoin.org/'
+webids:
+  coinmarketcap: huncoin
+  github: huncoin
+tools:
+  explorer:
+    - 'http://huncoin.explorer.web.za/'
+mineable: true

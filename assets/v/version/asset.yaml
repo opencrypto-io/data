@@ -1,0 +1,12 @@
+name: Version
+symbol: V
+type: coin
+web:
+  - 'http://version2.org/'
+webids:
+  coinmarketcap: version
+tools:
+  explorer:
+    - 'http://explorer.version2.org/chain/Version/'
+    - 'http://cryptoguru.tk/Blocks/index.php?Currency=V'
+mineable: true

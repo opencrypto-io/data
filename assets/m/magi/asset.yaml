@@ -1,0 +1,12 @@
+name: Magi
+symbol: XMG
+type: coin
+web:
+  - 'http://coinmagi.org/'
+webids:
+  coinmarketcap: magi
+  github: magi-project
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/xmg/'
+mineable: true

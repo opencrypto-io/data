@@ -1,0 +1,10 @@
+name: InfChain
+symbol: INF
+type: coin
+web:
+  - 'http://www.infchain.com/index-en.html'
+webids:
+  coinmarketcap: infchain
+tools:
+  explorer: []
+mineable: true

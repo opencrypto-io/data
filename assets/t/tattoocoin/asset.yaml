@@ -1,0 +1,15 @@
+name: Tattoocoin (Standard Edition)
+symbol: TSE
+type: coin
+web:
+  - 'http://tattoocoin.net/'
+resources:
+  message-board:
+    - 'http://tattoocoin.net/bbpress/'
+webids:
+  coinmarketcap: tattoocoin
+tools:
+  explorer:
+    - 'http://chains.sye.host/ttc/'
+    - 'http://tattoocoin.thecryptochat.net/'
+mineable: false

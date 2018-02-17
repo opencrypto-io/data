@@ -1,0 +1,13 @@
+name: Honey
+symbol: HONEY
+type: coin
+web:
+  - 'http://honeycoin.info'
+webids:
+  coinmarketcap: honey
+  github: cryptofun
+tools:
+  explorer:
+    - 'http://node.honeycoin.info/'
+    - 'http://honey.thecryptochat.net/'
+mineable: true

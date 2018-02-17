@@ -1,0 +1,10 @@
+name: RichCoin
+symbol: RICHX
+type: coin
+web: []
+webids:
+  coinmarketcap: richcoin
+tools:
+  explorer:
+    - 'http://explorer.richcoin.us/'
+mineable: true

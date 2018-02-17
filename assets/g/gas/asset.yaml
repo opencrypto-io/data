@@ -1,0 +1,16 @@
+name: Gas
+symbol: GAS
+type: token
+web:
+  - 'https://neo.org/'
+webids:
+  coinmarketcap: gas
+tools:
+  explorer:
+    - >-
+      https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7
+    - >-
+      https://neoexplorer.co/assets/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7
+    - >-
+      https://antchain.xyz/asset/hash/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7
+mineable: false

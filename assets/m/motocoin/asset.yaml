@@ -1,0 +1,11 @@
+name: Motocoin
+symbol: MOTO
+type: coin
+web:
+  - 'http://motocoin.org/'
+webids:
+  coinmarketcap: motocoin
+tools:
+  explorer:
+    - 'http://moto.explorer.superpool.in/'
+mineable: true

@@ -1,0 +1,13 @@
+name: Lampix
+symbol: PIX
+type: token
+web:
+  - 'https://www.lampix.co/'
+webids:
+  coinmarketcap: lampix
+  telegram: lampix_project
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15'
+    - 'https://ethplorer.io/address/0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15'
+mineable: false

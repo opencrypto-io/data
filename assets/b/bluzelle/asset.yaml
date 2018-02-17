@@ -1,0 +1,13 @@
+name: Bluzelle
+symbol: BLZ
+type: token
+web:
+  - 'https://bluzelle.com/'
+webids:
+  coinmarketcap: bluzelle
+  telegram: bluzelle
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668'
+    - 'https://ethplorer.io/address/0x5732046a883704404f284ce41ffadd5b007fd668'
+mineable: false

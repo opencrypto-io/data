@@ -1,0 +1,12 @@
+name: Capricoin
+symbol: CPC
+type: coin
+web:
+  - 'http://capricoin.org/'
+webids:
+  coinmarketcap: capricoin
+  github: Capricoinofficial
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/cpc/'
+mineable: false

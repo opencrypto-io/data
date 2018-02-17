@@ -1,0 +1,19 @@
+name: Decred
+symbol: DCR
+type: coin
+web:
+  - 'https://www.decred.org/'
+  - 'https://docs.decred.org/'
+resources:
+  message-board:
+    - 'https://medium.com/decred'
+    - 'https://forum.decred.org/'
+webids:
+  coinmarketcap: decred
+  github: decred
+tools:
+  explorer:
+    - 'https://mainnet.decred.org/'
+    - 'https://explorer.dcrdata.org/'
+    - 'https://stats.decred.org/'
+mineable: true

@@ -1,0 +1,16 @@
+name: Elite
+symbol: '1337'
+type: coin
+web:
+  - 'https://www.1337coin.net/'
+resources:
+  message-board:
+    - 'https://bitcointalk.org/index.php?topic=2249640'
+webids:
+  coinmarketcap: 1337coin
+  telegram: elitecoinofficial
+  github: xenonflux
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/1337/'
+mineable: false

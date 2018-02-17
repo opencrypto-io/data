@@ -1,0 +1,10 @@
+name: TerraNova
+symbol: TER
+type: coin
+web: []
+webids:
+  coinmarketcap: terranova
+tools:
+  explorer:
+    - 'http://194.87.96.140:3001/'
+mineable: true

@@ -1,0 +1,13 @@
+name: Emphy
+symbol: EPY
+type: token
+web:
+  - 'https://emphy.io/'
+webids:
+  coinmarketcap: emphy
+  telegram: joinchat/HCXRaUMf41kmp6jtG1qxxg
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d'
+    - 'https://ethplorer.io/address/0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d'
+mineable: false

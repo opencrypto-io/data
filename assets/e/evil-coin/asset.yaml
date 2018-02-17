@@ -1,0 +1,13 @@
+name: Evil Coin
+symbol: EVIL
+type: coin
+web:
+  - 'http://evilcoin.xyz/'
+webids:
+  coinmarketcap: evil-coin
+  github: coins4lunch
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/EvilCoin'
+    - 'http://www.tekyexplorer.xyz/evil/'
+mineable: true

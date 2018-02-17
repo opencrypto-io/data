@@ -1,0 +1,13 @@
+name: Minereum
+symbol: MNE
+type: token
+web:
+  - 'https://www.minereum.com/'
+webids:
+  coinmarketcap: minereum
+  telegram: MinereumToken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x1a95b271b0535d15fa49932daba31ba612b52946'
+    - 'https://ethplorer.io/address/0x1a95b271b0535d15fa49932daba31ba612b52946'
+mineable: false

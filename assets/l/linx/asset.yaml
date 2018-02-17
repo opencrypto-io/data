@@ -1,0 +1,18 @@
+name: Linx
+symbol: LINX
+type: coin
+web:
+  - 'https://mylinx.io/'
+resources:
+  message-board:
+    - 'https://mylinx.io/news/'
+webids:
+  coinmarketcap: linx
+  telegram: LINXCOIN/
+  github: linX-project
+tools:
+  explorer:
+    - 'http://explorer.mylinx.io/'
+    - 'http://explorer2.mylinx.io/'
+    - 'https://chainz.cryptoid.info/linx/'
+mineable: true

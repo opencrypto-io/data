@@ -1,0 +1,14 @@
+name: Bitcore
+symbol: BTX
+type: coin
+web:
+  - 'http://bitcore.cc/'
+webids:
+  coinmarketcap: bitcore
+  telegram: bitcore_btx_official
+  github: LIMXTEC
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/btx'
+    - 'http://insight.bitcore.cc/'
+mineable: true

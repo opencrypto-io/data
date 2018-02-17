@@ -1,0 +1,10 @@
+name: MaxCoin
+symbol: MAX
+type: coin
+web:
+  - 'https://www.maxcoinproject.org/'
+webids:
+  coinmarketcap: maxcoin
+tools:
+  explorer: []
+mineable: true

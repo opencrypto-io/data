@@ -1,0 +1,12 @@
+name: Money
+symbol: $$$
+type: coin
+web:
+  - 'http://moneyfoundation.github.io/moneypage/index.html'
+webids:
+  coinmarketcap: money
+  github: moneyfoundation
+tools:
+  explorer:
+    - 'http://money.explorer.bitnodes.net/'
+mineable: true

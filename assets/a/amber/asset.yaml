@@ -1,0 +1,17 @@
+name: Ambrosus
+symbol: AMB
+type: token
+web:
+  - 'http://ambrosus.com/'
+resources:
+  message-board:
+    - 'https://blog.ambrosus.com/'
+webids:
+  coinmarketcap: amber
+  telegram: ambrosuschat
+  github: ambrosus
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce'
+    - 'https://ethplorer.io/address/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce'
+mineable: false

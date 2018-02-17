@@ -1,0 +1,12 @@
+name: B3Coin
+symbol: KB3
+type: coin
+web:
+  - 'http://b3coin.io/'
+webids:
+  coinmarketcap: b3coin
+  github: B3-Coin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/b3/'
+mineable: true

@@ -1,0 +1,12 @@
+name: VIP Tokens
+symbol: VIP
+type: coin
+web:
+  - 'http://viptokens.club/'
+webids:
+  coinmarketcap: vip-tokens
+  github: viptokens
+tools:
+  explorer:
+    - 'http://viptokensexplorer.ddns.net/'
+mineable: false

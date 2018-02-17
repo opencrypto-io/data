@@ -1,0 +1,12 @@
+name: BillaryCoin
+symbol: BLRY
+type: coin
+web:
+  - 'http://billary.rocks/'
+webids:
+  coinmarketcap: billarycoin
+  github: Billary
+tools:
+  explorer:
+    - 'https://cryptobe.com/chain/BillaryCoin'
+mineable: true

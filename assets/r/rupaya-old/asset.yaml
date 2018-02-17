@@ -1,0 +1,10 @@
+name: 'Rupaya [OLD]'
+symbol: RUPX
+type: coin
+web:
+  - 'http://www.rupayacoin.org/'
+webids:
+  coinmarketcap: rupaya-old
+tools:
+  explorer: []
+mineable: true

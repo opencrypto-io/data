@@ -1,0 +1,12 @@
+name: Growers International
+symbol: GRWI
+type: coin
+web:
+  - 'http://growersintl.com/coin/'
+webids:
+  coinmarketcap: growers-international
+  github: growersintl
+tools:
+  explorer:
+    - 'http://growersintl.com/explorer/'
+mineable: false

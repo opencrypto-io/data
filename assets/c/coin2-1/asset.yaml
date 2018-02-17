@@ -1,0 +1,11 @@
+name: Coin2.1
+symbol: C2
+type: coin
+web:
+  - 'http://www.coin2.us'
+webids:
+  coinmarketcap: coin2-1
+tools:
+  explorer:
+    - 'http://c2chain.info/'
+mineable: false

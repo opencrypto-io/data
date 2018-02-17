@@ -1,0 +1,11 @@
+name: JobsCoin
+symbol: JOBS
+type: coin
+web:
+  - 'http://jobscoin.us/'
+webids:
+  coinmarketcap: jobscoin
+tools:
+  explorer:
+    - 'http://5.9.158.101:3001/'
+mineable: true

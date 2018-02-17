@@ -1,0 +1,13 @@
+name: iBTC
+symbol: IBTC
+type: token
+web:
+  - 'http://ibtctoken.com/'
+webids:
+  coinmarketcap: ibtc
+  telegram: joinchat/FNH590OePKXIG4kci-Z--w
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x90c88ccd74e57e016acae8ad1eaa12ecf4c06f33'
+    - 'https://ethplorer.io/address/0x90c88ccd74e57e016acae8ad1eaa12ecf4c06f33'
+mineable: false

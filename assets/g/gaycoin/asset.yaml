@@ -1,0 +1,12 @@
+name: GAY Money
+symbol: GAY
+type: coin
+web:
+  - 'http://www.gaycoin.online/'
+webids:
+  coinmarketcap: gaycoin
+  github: Gaycoins
+tools:
+  explorer:
+    - 'http://explorer.gay.money/'
+mineable: true

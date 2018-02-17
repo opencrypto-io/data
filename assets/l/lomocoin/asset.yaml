@@ -1,0 +1,13 @@
+name: LoMoCoin
+symbol: LMC
+type: coin
+web:
+  - 'http://www.lomostar.com/'
+webids:
+  coinmarketcap: lomocoin
+  telegram: lomocoin
+  github: lomocoin
+tools:
+  explorer:
+    - 'http://explorer.lomocoin.com/'
+mineable: false

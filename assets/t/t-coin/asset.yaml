@@ -1,0 +1,10 @@
+name: T-coin
+symbol: TCOIN
+type: coin
+web:
+  - 'http://www.trcplatform.com/'
+webids:
+  coinmarketcap: t-coin
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,12 @@
+name: High Performance Blockchain
+symbol: HPB
+type: coin
+web:
+  - 'http://www.gxn.io/'
+webids:
+  coinmarketcap: high-performance-blockchain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2'
+    - 'https://ethplorer.io/address/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2'
+mineable: false

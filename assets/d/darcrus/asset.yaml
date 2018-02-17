@@ -1,0 +1,14 @@
+name: Darcrus
+symbol: DAR
+type: token
+web:
+  - 'https://darcr.us/'
+webids:
+  coinmarketcap: darcrus
+  telegram: darcrus
+  github: SigwoTechnologies
+tools:
+  explorer:
+    - >-
+      http://www.wavesgo.com/assets.html?2Y8eFFXDTkxgCvXbMT5K4J38cpDYYbQdciJEZb48vTDj
+mineable: false

@@ -1,0 +1,16 @@
+name: TheGCCcoin
+symbol: GCC
+type: coin
+web:
+  - 'https://www.thegcccoin.com/'
+resources:
+  message-board:
+    - 'https://www.thegcccoin.com/community/'
+    - 'https://medium.com/@thegcccoin'
+webids:
+  coinmarketcap: thegcccoin
+  github: TheGCCcoin
+tools:
+  explorer:
+    - 'http://144.76.113.28/chain/TheGCCcoin'
+mineable: false

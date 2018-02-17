@@ -1,0 +1,12 @@
+name: Breakout
+symbol: BRK
+type: coin
+web:
+  - 'http://www.breakoutcoin.com/'
+webids:
+  coinmarketcap: breakout
+  github: BreakoutCoin
+tools:
+  explorer:
+    - 'http://chain.breakoutcoin.com/BlockCrawler/block_crawler.php'
+mineable: true

@@ -1,0 +1,11 @@
+name: LinkedCoin
+symbol: LKC
+type: coin
+web:
+  - 'https://www.linkedcoin.com/'
+webids:
+  coinmarketcap: linkedcoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/lkc2'
+mineable: true

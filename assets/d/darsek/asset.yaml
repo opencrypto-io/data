@@ -1,0 +1,11 @@
+name: Darsek
+symbol: KED
+type: coin
+web:
+  - 'http://ked.scificrypto.info/'
+webids:
+  coinmarketcap: darsek
+tools:
+  explorer:
+    - 'http://cryptoguru.tk/CurrencyInfo/index.php?Currency=KED'
+mineable: true

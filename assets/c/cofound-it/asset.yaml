@@ -1,0 +1,11 @@
+name: Cofound.it
+symbol: CFI
+type: token
+web:
+  - 'https://cofound.it/'
+webids:
+  coinmarketcap: cofound-it
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e'
+mineable: false

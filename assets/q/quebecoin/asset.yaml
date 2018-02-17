@@ -1,0 +1,13 @@
+name: Quebecoin
+symbol: QBC
+type: coin
+web:
+  - 'http://quebeco.in'
+  - 'http://quebecoin.org/'
+webids:
+  coinmarketcap: quebecoin
+  github: jpgagnon
+tools:
+  explorer:
+    - 'http://explorateur-qbc.circonference.ca/'
+mineable: true

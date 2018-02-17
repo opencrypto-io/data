@@ -1,0 +1,11 @@
+name: DaxxCoin
+symbol: DAXX
+type: coin
+web:
+  - 'https://daxxcoin.org/'
+webids:
+  coinmarketcap: daxxcoin
+tools:
+  explorer:
+    - 'https://daxxcoin.org/explorer.html'
+mineable: true

@@ -1,0 +1,10 @@
+name: Wink
+symbol: WINK
+type: coin
+web: []
+webids:
+  coinmarketcap: wink
+  github: winkchain
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,11 @@
+name: TopChain
+symbol: TOPC
+type: coin
+web:
+  - 'http://www.topc.io/'
+webids:
+  coinmarketcap: topchain
+  telegram: topchaincoin
+tools:
+  explorer: []
+mineable: false

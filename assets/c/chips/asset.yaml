@@ -1,0 +1,12 @@
+name: CHIPS
+symbol: CHIPS
+type: coin
+web: []
+webids:
+  coinmarketcap: chips
+  github: DeckerSU
+tools:
+  explorer:
+    - 'http://chips1.explorer.supernet.org/'
+    - 'http://explorer.chips.cash/'
+mineable: true

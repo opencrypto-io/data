@@ -1,0 +1,13 @@
+name: Namecoin
+symbol: NMC
+type: coin
+web:
+  - 'https://www.namecoin.org/'
+webids:
+  coinmarketcap: namecoin
+  github: namecoin
+tools:
+  explorer:
+    - 'https://namecoin.webbtc.com/'
+    - 'https://namecha.in/'
+mineable: true

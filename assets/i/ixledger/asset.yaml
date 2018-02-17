@@ -1,0 +1,13 @@
+name: iXledger
+symbol: IXT
+type: token
+web:
+  - 'https://www.ixledger.com/'
+webids:
+  coinmarketcap: ixledger
+  telegram: iXledger
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094'
+    - 'https://ethplorer.io/address/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094'
+mineable: false

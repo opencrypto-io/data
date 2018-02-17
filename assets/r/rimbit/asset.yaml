@@ -1,0 +1,15 @@
+name: Rimbit
+symbol: RBT
+type: coin
+web:
+  - 'http://www.rimbit.com'
+resources:
+  message-board:
+    - 'http://www.rimbit.com/forums/'
+webids:
+  coinmarketcap: rimbit
+  github: Rimbit
+tools:
+  explorer:
+    - 'http://rimbit.org/'
+mineable: false

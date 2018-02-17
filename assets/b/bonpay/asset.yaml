@@ -1,0 +1,17 @@
+name: Bonpay
+symbol: BON
+type: token
+web:
+  - 'https://bonpay.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@bonpay'
+webids:
+  coinmarketcap: bonpay
+  telegram: bonpay_eng
+  github: bonpay
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xcc34366e3842ca1bd36c1f324d15257960fcc801'
+    - 'https://ethplorer.io/address/0xcc34366e3842ca1bd36c1f324d15257960fcc801'
+mineable: false

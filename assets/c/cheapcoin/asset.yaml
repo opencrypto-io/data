@@ -1,0 +1,10 @@
+name: Cheapcoin
+symbol: CHEAP
+type: coin
+web: []
+webids:
+  coinmarketcap: cheapcoin
+  github: cheapandcloud
+tools:
+  explorer: []
+mineable: false

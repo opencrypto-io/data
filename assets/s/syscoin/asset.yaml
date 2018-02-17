@@ -1,0 +1,13 @@
+name: Syscoin
+symbol: SYS
+type: coin
+web:
+  - 'http://syscoin.org'
+webids:
+  coinmarketcap: syscoin
+  telegram: joinchat/AAAAAEHzByog3h1qutnjhQ
+  github: syscoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/sys/'
+mineable: true

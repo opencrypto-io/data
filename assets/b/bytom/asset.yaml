@@ -1,0 +1,14 @@
+name: Bytom
+symbol: BTM
+type: token
+web:
+  - 'http://bytom.io/'
+webids:
+  coinmarketcap: bytom
+  telegram: bytomchinese
+  github: Bytom
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750'
+    - 'https://ethplorer.io/address/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750'
+mineable: false

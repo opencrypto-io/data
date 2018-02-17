@@ -1,0 +1,19 @@
+name: DeepOnion
+symbol: ONION
+type: coin
+web:
+  - 'https://deeponion.org/'
+  - 'http://www.deeponion.watch/'
+resources:
+  message-board:
+    - 'https://deeponion.org/community/'
+webids:
+  coinmarketcap: deeponion
+  telegram: DeepOnionCoin
+  github: deeponion
+tools:
+  explorer:
+    - 'http://onionexplorer.youngwebsolutions.com:3001/'
+    - 'http://explorer.deeponion.org/'
+    - 'https://prohashing.com/explorer/Deeponion/'
+mineable: true

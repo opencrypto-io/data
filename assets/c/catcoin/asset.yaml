@@ -1,0 +1,14 @@
+name: Catcoin
+symbol: CAT
+type: coin
+web:
+  - 'http://www.catcoins.org/'
+webids:
+  coinmarketcap: catcoin
+  github: CatcoinOfficial
+tools:
+  explorer:
+    - 'http://catcoinwallets.com:2750/chain/Catcoin'
+    - 'http://cat.smartchain.cc/'
+    - 'https://prohashing.com/explorer/Catcoin/'
+mineable: true

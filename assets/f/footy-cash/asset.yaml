@@ -1,0 +1,13 @@
+name: Footy Cash
+symbol: XFT
+type: coin
+web:
+  - 'http://footycash.com/'
+  - 'http://beta.footycash.com/'
+webids:
+  coinmarketcap: footy-cash
+  github: FootyCash
+tools:
+  explorer:
+    - 'http://xft.dblocks.io/'
+mineable: true

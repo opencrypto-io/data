@@ -1,0 +1,14 @@
+name: Cyder
+symbol: CYDER
+type: coin
+web:
+  - 'http://cydercoin.com/'
+webids:
+  coinmarketcap: cyder
+  telegram: cydercoin
+  github: cyderenergy
+tools:
+  explorer:
+    - 'http://blockchaincyder.com/'
+    - 'http://cydercoin.lchain.cc/'
+mineable: false

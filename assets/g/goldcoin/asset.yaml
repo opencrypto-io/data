@@ -1,0 +1,16 @@
+name: GoldCoin
+symbol: GLD
+type: coin
+web:
+  - 'https://www.goldcoin.org/'
+resources:
+  message-board:
+    - 'https://www.goldcointalk.org'
+webids:
+  coinmarketcap: goldcoin
+  telegram: goldcoin
+  github: goldcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/gld/'
+mineable: true

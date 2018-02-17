@@ -1,0 +1,11 @@
+name: SydPak
+symbol: SDP
+type: coin
+web:
+  - 'http://www.sydpak.com/'
+webids:
+  coinmarketcap: sydpak
+tools:
+  explorer:
+    - 'http://sdp.miningalts.com/'
+mineable: false

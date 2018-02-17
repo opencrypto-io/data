@@ -1,0 +1,11 @@
+name: Happy Creator Coin
+symbol: HCC
+type: coin
+web:
+  - 'http://www.hccunited.net/'
+webids:
+  coinmarketcap: happy-creator-coin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/hcc'
+mineable: false

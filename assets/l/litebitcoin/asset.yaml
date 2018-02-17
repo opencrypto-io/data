@@ -1,0 +1,12 @@
+name: LiteBitcoin
+symbol: LBTC
+type: coin
+web:
+  - 'http://www.lbtc.info/'
+webids:
+  coinmarketcap: litebitcoin
+  github: litebitcoins
+tools:
+  explorer:
+    - 'http://litebitcoins.thecryptochat.net/'
+mineable: true

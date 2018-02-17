@@ -1,0 +1,12 @@
+name: Pure
+symbol: PURE
+type: coin
+web:
+  - 'https://purealt.org/'
+webids:
+  coinmarketcap: pure
+  github: puredev321
+tools:
+  explorer:
+    - 'http://purexplorer.dynu.net/'
+mineable: true

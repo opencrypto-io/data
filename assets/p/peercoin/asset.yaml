@@ -1,0 +1,19 @@
+name: Peercoin
+symbol: PPC
+type: coin
+web:
+  - 'http://www.peercoin.net'
+resources:
+  message-board:
+    - 'https://talk.peercoin.net'
+    - 'https://peercoin.chat/'
+webids:
+  coinmarketcap: peercoin
+  telegram: peercoin
+  github: peercoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ppc/'
+    - 'https://peercoin.mintr.org/'
+    - 'https://www.coinexplorer.net/PPC'
+mineable: true

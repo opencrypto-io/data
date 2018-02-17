@@ -1,0 +1,17 @@
+name: VIVO
+symbol: VIVO
+type: coin
+web:
+  - 'https://www.vivocrypto.com/'
+resources:
+  message-board:
+    - >-
+      https://join.slack.com/t/vivocoin/shared_invite/MjM3MTQzNjgzOTIwLTE1MDQ4MDg4MDAtMmVkNTRjOGM1Yg
+webids:
+  coinmarketcap: vivo
+  telegram: VIVOcoin
+  github: vivocoin
+tools:
+  explorer:
+    - 'http://vivo.explorerz.top:3003/'
+mineable: true

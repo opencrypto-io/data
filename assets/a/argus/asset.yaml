@@ -1,0 +1,11 @@
+name: Argus
+symbol: ARGUS
+type: coin
+web:
+  - 'https://www.argusnetwork.co'
+webids:
+  coinmarketcap: argus
+tools:
+  explorer:
+    - 'http://blockexp.com:8046/'
+mineable: true

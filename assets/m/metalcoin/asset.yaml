@@ -1,0 +1,12 @@
+name: MetalCoin
+symbol: METAL
+type: coin
+web:
+  - 'http://www.metalmoshpit.com/'
+webids:
+  coinmarketcap: metalcoin
+  github: Metalde
+tools:
+  explorer:
+    - 'https://xchain.io/asset/METALCOIN'
+mineable: false

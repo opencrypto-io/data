@@ -1,0 +1,14 @@
+name: bitSilver
+symbol: BITSILVER
+type: token
+web:
+  - 'http://bit.ly/BitShares_SILVER'
+resources:
+  message-board:
+    - 'https://bitsharestalk.org/'
+webids:
+  coinmarketcap: bitsilver
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/SILVER'
+mineable: false

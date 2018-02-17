@@ -1,0 +1,12 @@
+name: X-Coin
+symbol: XCO
+type: coin
+web:
+  - 'http://x-coin.info/'
+webids:
+  coinmarketcap: x-coin
+  github: jimblasko
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/xco'
+mineable: false

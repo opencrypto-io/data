@@ -1,0 +1,12 @@
+name: ECC
+symbol: ECC
+type: coin
+web:
+  - 'https://ecc.network/'
+webids:
+  coinmarketcap: eccoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ecc/'
+    - 'https://cryptobe.com/chain/E-CurrencyCoin'
+mineable: true

@@ -1,0 +1,15 @@
+name: OKCash
+symbol: OK
+type: coin
+web:
+  - 'http://okcash.co'
+resources:
+  message-board:
+    - 'https://okcashtalk.org/'
+webids:
+  coinmarketcap: okcash
+  github: okcashpro
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ok/'
+mineable: false

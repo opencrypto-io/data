@@ -1,0 +1,12 @@
+name: United Bitcoin
+symbol: UBTC
+type: coin
+web:
+  - 'http://ub.com/'
+webids:
+  coinmarketcap: united-bitcoin
+  github: UnitedBitcoin
+tools:
+  explorer:
+    - 'https://www.ub.com/explorer'
+mineable: true

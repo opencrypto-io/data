@@ -1,0 +1,11 @@
+name: ARbit
+symbol: ARB
+type: coin
+web: []
+webids:
+  coinmarketcap: arbit
+  github: ARbitcoin
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/ARbitCoin'
+mineable: true

@@ -1,0 +1,11 @@
+name: Jinn
+symbol: JINN
+type: token
+web:
+  - 'http://www.jinnlabs.com'
+webids:
+  coinmarketcap: jinn
+tools:
+  explorer:
+    - 'https://www.mynxt.info/asset/3061160746493230502'
+mineable: false

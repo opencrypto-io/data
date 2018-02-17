@@ -1,0 +1,10 @@
+name: P7Coin
+symbol: P7C
+type: coin
+web: []
+webids:
+  coinmarketcap: p7coin
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/P7Coin'
+mineable: true

@@ -1,0 +1,11 @@
+name: Golos Gold
+symbol: GBG
+type: coin
+web:
+  - 'https://golos.io/'
+webids:
+  coinmarketcap: golos-gold
+tools:
+  explorer:
+    - 'http://golosd.com/'
+mineable: false

@@ -1,0 +1,12 @@
+name: Canada eCoin
+symbol: CDN
+type: coin
+web:
+  - 'http://www.canadaecoin.ca/'
+webids:
+  coinmarketcap: canada-ecoin
+  github: Canada-eCoin
+tools:
+  explorer:
+    - 'http://explorer.canadaecoin.ca/'
+mineable: true

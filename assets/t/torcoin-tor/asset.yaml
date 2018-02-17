@@ -1,0 +1,12 @@
+name: Torcoin
+symbol: TOR
+type: coin
+web:
+  - 'http://torcoin.org/'
+webids:
+  coinmarketcap: torcoin-tor
+  github: TorCoinProject
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/tor/'
+mineable: true

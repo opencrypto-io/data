@@ -1,0 +1,12 @@
+name: Bitz
+symbol: BITZ
+type: coin
+web:
+  - 'https://bitz.biz/'
+webids:
+  coinmarketcap: bitz
+  github: MOJOv3
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bitz/'
+mineable: true

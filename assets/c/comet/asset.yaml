@@ -1,0 +1,10 @@
+name: Comet
+symbol: CMT
+type: coin
+web:
+  - 'https://cometcoin.com/'
+webids:
+  coinmarketcap: comet
+tools:
+  explorer: []
+mineable: true

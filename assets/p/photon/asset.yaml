@@ -1,0 +1,13 @@
+name: Photon
+symbol: PHO
+type: coin
+web:
+  - 'http://www.photoncc.com/'
+webids:
+  coinmarketcap: photon
+  telegram: Blake_Community
+  github: photonproject
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pho/'
+mineable: true

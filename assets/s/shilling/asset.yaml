@@ -1,0 +1,12 @@
+name: Shilling
+symbol: SH
+type: coin
+web:
+  - 'https://digitalshilling.org/'
+webids:
+  coinmarketcap: shilling
+  github: yavwa
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/sh/'
+mineable: false

@@ -1,0 +1,10 @@
+name: Bankcoin
+symbol: B@
+type: token
+web:
+  - 'http://bankcoin.global/'
+webids:
+  coinmarketcap: bankcoin
+tools:
+  explorer: []
+mineable: false

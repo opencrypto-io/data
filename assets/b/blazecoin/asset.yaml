@@ -1,0 +1,12 @@
+name: BlazeCoin
+symbol: BLZ
+type: coin
+web:
+  - 'http://blazeco.in/'
+webids:
+  coinmarketcap: blazecoin
+  github: wpstudio
+tools:
+  explorer:
+    - 'https://prohashing.com/explorer/Blazecoin/'
+mineable: true

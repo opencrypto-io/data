@@ -1,0 +1,11 @@
+name: PizzaCoin
+symbol: PIZZA
+type: coin
+web:
+  - 'http://pizzacoin.net/'
+webids:
+  coinmarketcap: pizzacoin
+tools:
+  explorer:
+    - 'http://104.251.215.66:3001/'
+mineable: true

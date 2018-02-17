@@ -1,0 +1,11 @@
+name: Hexx
+symbol: HXX
+type: coin
+web: []
+webids:
+  coinmarketcap: hexx
+  github: hexxcointakeover
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/hxx/'
+mineable: false

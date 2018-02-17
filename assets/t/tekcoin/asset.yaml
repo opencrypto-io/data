@@ -1,0 +1,12 @@
+name: TEKcoin
+symbol: TEK
+type: coin
+web:
+  - 'http://tekcoin.org/'
+webids:
+  coinmarketcap: tekcoin
+  github: maxxine
+tools:
+  explorer:
+    - 'http://blockexperts.com/tek'
+mineable: true

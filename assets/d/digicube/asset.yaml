@@ -1,0 +1,11 @@
+name: DigiCube
+symbol: CUBE
+type: coin
+web:
+  - 'http://www.freestaking.com'
+webids:
+  coinmarketcap: digicube
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/CUBE/chain.php'
+mineable: false

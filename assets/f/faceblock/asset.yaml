@@ -1,0 +1,12 @@
+name: Faceblock
+symbol: FBL
+type: token
+web: []
+webids:
+  coinmarketcap: faceblock
+  telegram: faceblock
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xc0c2ee1ce1fed8f6e2764363a36db3dd4cf10022'
+    - 'https://ethplorer.io/address/0xc0c2ee1ce1fed8f6e2764363a36db3dd4cf10022'
+mineable: false

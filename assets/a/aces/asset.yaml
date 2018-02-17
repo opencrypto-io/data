@@ -1,0 +1,11 @@
+name: Aces
+symbol: ACES
+type: coin
+web: []
+webids:
+  coinmarketcap: aces
+  telegram: acescoinchat
+  github: aces-coin
+tools:
+  explorer: []
+mineable: false

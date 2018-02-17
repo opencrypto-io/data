@@ -1,0 +1,13 @@
+name: Unify
+symbol: UNIFY
+type: coin
+web:
+  - 'http://www.unify.today/'
+webids:
+  coinmarketcap: unify
+  telegram: joinchat/GaJPt0Ls6GxPhCTPXS3a4w
+  github: SBDomains
+tools:
+  explorer:
+    - 'http://www.unify.today/explorer/'
+mineable: false

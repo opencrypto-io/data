@@ -1,0 +1,9 @@
+name: CryptopiaFeeShares
+symbol: CEFS
+type: token
+web: []
+webids:
+  coinmarketcap: cryptopiafeeshares
+tools:
+  explorer: []
+mineable: false

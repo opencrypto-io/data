@@ -1,0 +1,12 @@
+name: Garlicoin
+symbol: GRLC
+type: coin
+web:
+  - 'https://garlicoin.io/'
+webids:
+  coinmarketcap: garlicoin
+  github: GarlicoinOrg
+tools:
+  explorer:
+    - 'https://explorer.grlc-bakery.fun/'
+mineable: true

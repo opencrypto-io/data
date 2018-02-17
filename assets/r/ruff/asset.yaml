@@ -1,0 +1,14 @@
+name: Ruff
+symbol: RUFF
+type: token
+web:
+  - 'http://ruffchain.com/'
+webids:
+  coinmarketcap: ruff
+  telegram: RuffChain
+  github: RuffNotes
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf278c1ca969095ffddded020290cf8b5c424ace2'
+    - 'https://ethplorer.io/address/0xf278c1ca969095ffddded020290cf8b5c424ace2'
+mineable: false

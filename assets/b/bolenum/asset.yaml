@@ -1,0 +1,14 @@
+name: Bolenum
+symbol: BLN
+type: token
+web:
+  - 'http://bolenum.com/'
+  - 'https://bolenumexchange.com/'
+webids:
+  coinmarketcap: bolenum
+  github: Bolenum
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xCA29db4221c111888a7e80b12eAc8a266Da3Ee0d'
+    - 'http://ethplorer.io/address/0xCA29db4221c111888a7e80b12eAc8a266Da3Ee0d'
+mineable: false

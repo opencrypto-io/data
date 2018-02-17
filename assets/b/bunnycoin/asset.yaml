@@ -1,0 +1,11 @@
+name: BunnyCoin
+symbol: BUN
+type: coin
+web:
+  - 'http://bunnycoin.org/'
+webids:
+  coinmarketcap: bunnycoin
+tools:
+  explorer:
+    - 'http://bunnycoin.thecryptochat.net/'
+mineable: true

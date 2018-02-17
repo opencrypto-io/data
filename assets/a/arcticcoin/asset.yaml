@@ -1,0 +1,12 @@
+name: ArcticCoin
+symbol: ARC
+type: coin
+web:
+  - 'https://arcticcoin.org/'
+webids:
+  coinmarketcap: arcticcoin
+  github: ArcticCore
+tools:
+  explorer:
+    - 'http://explorer.arcticcoin.org/'
+mineable: true

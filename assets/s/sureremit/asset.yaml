@@ -1,0 +1,13 @@
+name: SureRemit
+symbol: RMT
+type: token
+web:
+  - 'https://token.sureremit.co/'
+webids:
+  coinmarketcap: sureremit
+  telegram: sureremit/
+tools:
+  explorer:
+    - >-
+      https://stellar.expert/explorer/asset/RMT-GCVWTTPADC5YB5AYDKJCTUYSCJ7RKPGE4HT75NIZOUM4L7VRTS5EKLFN
+mineable: false

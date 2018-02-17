@@ -1,0 +1,13 @@
+name: MOAC
+symbol: MOAC
+type: token
+web:
+  - 'http://moac.io/'
+webids:
+  coinmarketcap: moac
+  github: MOACChain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xCBcE61316759D807c474441952cE41985bBC5a40'
+    - 'https://ethplorer.io/address/0xcbce61316759d807c474441952ce41985bbc5a40'
+mineable: false

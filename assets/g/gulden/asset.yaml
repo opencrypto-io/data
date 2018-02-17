@@ -1,0 +1,11 @@
+name: Gulden
+symbol: NLG
+type: coin
+web:
+  - 'https://gulden.com/'
+webids:
+  coinmarketcap: gulden
+tools:
+  explorer:
+    - 'https://blockchain.gulden.com/'
+mineable: true

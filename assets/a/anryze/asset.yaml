@@ -1,0 +1,15 @@
+name: ANRYZE
+symbol: RYZ
+type: token
+web:
+  - 'https://anryze.com/'
+resources:
+  message-board:
+    - 'https://medium.com/anryze'
+webids:
+  coinmarketcap: anryze
+  telegram: anryze
+tools:
+  explorer:
+    - 'https://wavesexplorer.com/tx/HXdFUiw5yLLWhkorsRy1E5GttG2QZfzEYAVgEgjBNh8t'
+mineable: false

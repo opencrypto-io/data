@@ -1,0 +1,17 @@
+name: Stratis
+symbol: STRAT
+type: coin
+web:
+  - 'http://stratisplatform.com/'
+resources:
+  message-board:
+    - 'https://www.stratistalk.org/'
+webids:
+  coinmarketcap: stratis
+  telegram: StratisPlatform
+  github: stratisproject
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/strat/'
+    - 'http://cryptobe.com/chain/Stratis'
+mineable: false

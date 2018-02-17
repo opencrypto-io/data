@@ -1,0 +1,11 @@
+name: Centurion
+symbol: CNT
+type: coin
+web:
+  - 'http://www.centurionlab.org/'
+webids:
+  coinmarketcap: centurion
+tools:
+  explorer:
+    - 'http://www.centurionexplorer.com/'
+mineable: true

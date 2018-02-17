@@ -1,0 +1,16 @@
+name: Newbium
+symbol: NEWB
+type: token
+web:
+  - 'https://coins.newbium.com/'
+  - 'http://newbium.com/'
+resources:
+  message-board:
+    - 'https://coins.newbium.com/coins/36-newbium'
+webids:
+  coinmarketcap: newbium
+tools:
+  explorer:
+    - 'https://nxtportal.org/assets/4207789768563155290'
+    - 'https://etherscan.io/token/0x814964b1bceaf24e26296d031eadf134a2ca4105'
+mineable: false

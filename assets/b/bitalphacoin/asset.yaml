@@ -1,0 +1,11 @@
+name: BitAlphaCoin
+symbol: BAC
+type: coin
+web:
+  - 'http://bitalphacoin.com/'
+webids:
+  coinmarketcap: bitalphacoin
+tools:
+  explorer:
+    - 'https://www.blocktube.net/bitalphablockchain'
+mineable: true

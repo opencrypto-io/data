@@ -1,0 +1,10 @@
+name: Acute Angle Cloud
+symbol: AAC
+type: coin
+web:
+  - 'http://acuteangle.com/'
+webids:
+  coinmarketcap: acute-angle-cloud
+tools:
+  explorer: []
+mineable: false

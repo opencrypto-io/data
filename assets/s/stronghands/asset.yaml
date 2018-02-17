@@ -1,0 +1,13 @@
+name: StrongHands
+symbol: SHND
+type: coin
+web:
+  - 'https://www.stronghands.info/'
+webids:
+  coinmarketcap: stronghands
+  telegram: stronghands
+  github: stronghands
+tools:
+  explorer:
+    - 'https://cryptobe.com/chain/StrongHands'
+mineable: true

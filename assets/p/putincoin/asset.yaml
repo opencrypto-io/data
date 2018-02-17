@@ -1,0 +1,17 @@
+name: PutinCoin
+symbol: PUT
+type: coin
+web:
+  - 'https://putincoin.org'
+  - 'https://putincoin.info/'
+resources:
+  message-board:
+    - 'https://putincoin.org/forum/'
+webids:
+  coinmarketcap: putincoin
+  github: PutinCoinPUT
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/put/'
+    - 'http://explorer.putincoin.org:8080/'
+mineable: true

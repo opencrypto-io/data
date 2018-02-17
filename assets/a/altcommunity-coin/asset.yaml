@@ -1,0 +1,12 @@
+name: SONO
+symbol: ALTCOM
+type: coin
+web:
+  - 'http://altcoincommunity.co/'
+  - 'https://projectsono.io'
+webids:
+  coinmarketcap: altcommunity-coin
+  github: altcommunitycoin
+tools:
+  explorer: []
+mineable: true

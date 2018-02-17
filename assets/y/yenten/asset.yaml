@@ -1,0 +1,12 @@
+name: YENTEN
+symbol: YTN
+type: coin
+web:
+  - 'https://conan-equal-newone.github.io/yenten/'
+webids:
+  coinmarketcap: yenten
+  github: conan-equal-newone
+tools:
+  explorer:
+    - 'https://cryptoservices.net/en/ytn-explorer'
+mineable: true

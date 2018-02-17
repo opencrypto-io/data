@@ -1,0 +1,12 @@
+name: SpreadCoin
+symbol: SPR
+type: coin
+web:
+  - 'http://www.spreadcoin.info'
+webids:
+  coinmarketcap: spreadcoin
+  github: spreadcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/spr/'
+mineable: true

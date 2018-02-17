@@ -1,0 +1,11 @@
+name: AlpaCoin
+symbol: APC
+type: coin
+web:
+  - 'http://alpacoin.com/'
+webids:
+  coinmarketcap: alpacoin
+tools:
+  explorer:
+    - 'https://www.blocktube.net/alpablockchain'
+mineable: true

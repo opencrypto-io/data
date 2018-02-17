@@ -1,0 +1,12 @@
+name: bitqy
+symbol: BQ
+type: token
+web:
+  - 'https://bitqy.org/'
+webids:
+  coinmarketcap: bitqy
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5'
+    - 'https://ethplorer.io/address/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5'
+mineable: false

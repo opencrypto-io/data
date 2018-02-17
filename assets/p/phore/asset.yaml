@@ -1,0 +1,12 @@
+name: Phore
+symbol: PHR
+type: coin
+web:
+  - 'https://phore.io/'
+webids:
+  coinmarketcap: phore
+  github: phoreproject
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/phr/'
+mineable: false

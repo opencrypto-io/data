@@ -1,0 +1,12 @@
+name: Rise
+symbol: RISE
+type: coin
+web:
+  - 'https://rise.vision/'
+webids:
+  coinmarketcap: rise
+  github: risevision
+tools:
+  explorer:
+    - 'http://explorer.rise.vision/'
+mineable: false

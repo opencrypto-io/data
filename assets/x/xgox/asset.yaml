@@ -1,0 +1,17 @@
+name: XGOX
+symbol: XGOX
+type: coin
+web:
+  - 'http://xgox.rocks/'
+resources:
+  message-board:
+    - 'https://gocoin.rocks/forum/'
+webids:
+  coinmarketcap: xgox
+  telegram: xgoxcoin
+  github: bumbacoin
+tools:
+  explorer:
+    - 'http://173.254.204.74:12313/'
+    - 'http://explorer.xgox.rocks/'
+mineable: true

@@ -1,0 +1,11 @@
+name: Tokugawa
+symbol: TOK
+type: coin
+web:
+  - 'http://www.tokugawacoin.com/'
+webids:
+  coinmarketcap: tokugawa
+tools:
+  explorer:
+    - 'http://explorer.tokugawacoin.com/'
+mineable: false

@@ -1,0 +1,13 @@
+name: RevolverCoin
+symbol: XRE
+type: coin
+web:
+  - 'http://revolvercoin.org/'
+webids:
+  coinmarketcap: revolvercoin
+  github: RevolverCoin
+tools:
+  explorer:
+    - 'http://revolvercoin.org:3001/'
+    - 'http://yiimp.ccminer.org/explorer/XRE'
+mineable: true

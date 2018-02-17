@@ -1,0 +1,12 @@
+name: QubitCoin
+symbol: Q2C
+type: coin
+web:
+  - 'https://qubitcoin.cc/'
+webids:
+  coinmarketcap: qubitcoin
+  github: willowrose
+tools:
+  explorer:
+    - 'http://qubitcoinxplorer.cc'
+mineable: true

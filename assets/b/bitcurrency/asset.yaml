@@ -1,0 +1,11 @@
+name: Bitcurrency
+symbol: BTCR
+type: coin
+web: []
+webids:
+  coinmarketcap: bitcurrency
+  github: tokyoghetto
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/btcr/'
+mineable: false

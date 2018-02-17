@@ -1,0 +1,10 @@
+name: NumusCash
+symbol: NUMUS
+type: coin
+web: []
+webids:
+  coinmarketcap: numuscash
+  github: Numuscash
+tools:
+  explorer: []
+mineable: false

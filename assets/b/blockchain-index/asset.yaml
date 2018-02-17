@@ -1,0 +1,12 @@
+name: Blockchain Index
+symbol: BLX
+type: token
+web:
+  - 'https://www.iconomi.net/dashboard/#/INDEX'
+webids:
+  coinmarketcap: blockchain-index
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970'
+    - 'https://ethplorer.io/address/0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970'
+mineable: false

@@ -1,0 +1,11 @@
+name: HEAT
+symbol: HEAT
+type: coin
+web:
+  - 'http://heatledger.com/'
+webids:
+  coinmarketcap: heat-ledger
+  github: Heat-Ledger-Ltd
+tools:
+  explorer: []
+mineable: false

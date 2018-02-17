@@ -1,0 +1,12 @@
+name: BlackCoin
+symbol: BLK
+type: coin
+web:
+  - 'http://www.blackcoin.co/'
+webids:
+  coinmarketcap: blackcoin
+  telegram: blackcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/blk/'
+mineable: false

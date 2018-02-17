@@ -1,0 +1,10 @@
+name: Xaucoin
+symbol: XAU
+type: coin
+web: []
+webids:
+  coinmarketcap: xaucoin
+tools:
+  explorer:
+    - 'http://cryptoplorer.com:3003/'
+mineable: true

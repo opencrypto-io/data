@@ -1,0 +1,12 @@
+name: Monero Gold
+symbol: XMRG
+type: token
+web: []
+webids:
+  coinmarketcap: monero-gold
+  telegram: joinchat/GRIKyxEB8BPqDqz6Xaz_Bw
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0f598112679b78e17a4a9febc83703710d33489c'
+    - 'https://ethplorer.io/address/0x0f598112679b78e17a4a9febc83703710d33489c'
+mineable: false

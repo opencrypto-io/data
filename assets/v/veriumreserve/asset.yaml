@@ -1,0 +1,13 @@
+name: VeriumReserve
+symbol: VRM
+type: coin
+web:
+  - 'http://www.vericoin.info/veriumlaunch.html'
+webids:
+  coinmarketcap: veriumreserve
+  github: VeriumReserve
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/vrm/'
+    - 'http://explorer.vrm.vericoin.info/'
+mineable: true

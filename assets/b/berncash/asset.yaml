@@ -1,0 +1,12 @@
+name: BERNcash
+symbol: BERN
+type: coin
+web:
+  - 'http://berncoin.org/'
+webids:
+  coinmarketcap: berncash
+  github: BERNiecoin
+tools:
+  explorer:
+    - 'http://158.69.205.238:3002/'
+mineable: true

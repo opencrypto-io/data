@@ -1,0 +1,14 @@
+name: Blocknet
+symbol: BLOCK
+type: coin
+web:
+  - 'http://blocknet.co/'
+  - 'https://blocknetprotocol.com/'
+webids:
+  coinmarketcap: blocknet
+  telegram: Blocknet
+  github: BlocknetDX
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/block/'
+mineable: false

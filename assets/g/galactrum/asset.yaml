@@ -1,0 +1,12 @@
+name: Galactrum
+symbol: ORE
+type: coin
+web:
+  - 'https://galactrum.org/'
+webids:
+  coinmarketcap: galactrum
+  github: galactrum
+tools:
+  explorer:
+    - 'https://explorer.galactrum.org'
+mineable: true

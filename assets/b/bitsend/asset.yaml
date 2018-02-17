@@ -1,0 +1,14 @@
+name: BitSend
+symbol: BSD
+type: coin
+web:
+  - 'http://www.bitsend.info/'
+  - 'http://www.mybitsend.com/'
+webids:
+  coinmarketcap: bitsend
+  github: LIMXTEC
+tools:
+  explorer:
+    - 'http://exp.mybitsend.com/'
+    - 'https://chainz.cryptoid.info/bsd/'
+mineable: true

@@ -1,0 +1,12 @@
+name: Sphere
+symbol: SPHR
+type: coin
+web:
+  - 'https://sphrpay.io/'
+webids:
+  coinmarketcap: sphere
+  github: SphereDevs
+tools:
+  explorer:
+    - 'http://sphere.iquidus.io/'
+mineable: false

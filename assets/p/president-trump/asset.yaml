@@ -1,0 +1,11 @@
+name: President Trump
+symbol: PRES
+type: token
+web:
+  - 'http://trump.2016coin.org/'
+webids:
+  coinmarketcap: president-trump
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=68'
+mineable: false

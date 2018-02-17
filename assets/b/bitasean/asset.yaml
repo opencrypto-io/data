@@ -1,0 +1,13 @@
+name: BitAsean
+symbol: BAS
+type: token
+web:
+  - 'https://www.bitasean.org/'
+webids:
+  coinmarketcap: bitasean
+  github: ByteCodeTeam
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1'
+    - 'https://ethplorer.io/address/0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1'
+mineable: false

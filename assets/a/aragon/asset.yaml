@@ -1,0 +1,15 @@
+name: Aragon
+symbol: ANT
+type: token
+web:
+  - 'https://aragon.one/'
+resources:
+  message-board:
+    - 'https://blog.aragon.one/'
+webids:
+  coinmarketcap: aragon
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Aragon'
+    - 'https://ethplorer.io/address/0x960b236a07cf122663c4303350609a66a7b288c0'
+mineable: false

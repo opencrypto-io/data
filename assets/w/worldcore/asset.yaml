@@ -1,0 +1,13 @@
+name: Worldcore
+symbol: WRC
+type: token
+web:
+  - 'https://worldcore.com/'
+webids:
+  coinmarketcap: worldcore
+  telegram: 'http://t.me/worldcore'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x72adadb447784dd7ab1f472467750fc485e4cb2d'
+    - 'https://ethplorer.io/address/0x72adadb447784dd7ab1f472467750fc485e4cb2d'
+mineable: false

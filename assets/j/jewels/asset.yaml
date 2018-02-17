@@ -1,0 +1,11 @@
+name: Jewels
+symbol: JWL
+type: coin
+web:
+  - 'http://jewelsproject.com/'
+webids:
+  coinmarketcap: jewels
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/jwl/'
+mineable: false

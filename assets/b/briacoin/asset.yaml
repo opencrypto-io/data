@@ -1,0 +1,11 @@
+name: BriaCoin
+symbol: BRIA
+type: coin
+web:
+  - 'https://briacoin.com'
+webids:
+  coinmarketcap: briacoin
+tools:
+  explorer:
+    - 'http://block.briacoin.com/'
+mineable: false

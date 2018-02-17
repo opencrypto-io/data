@@ -1,0 +1,12 @@
+name: 300 Token
+symbol: '300'
+type: token
+web:
+  - 'http://300tokensparta.com/'
+webids:
+  coinmarketcap: 300-token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xaec98a708810414878c3bcdf46aad31ded4a4557'
+    - 'https://ethplorer.io/address/0xaec98a708810414878c3bcdf46aad31ded4a4557'
+mineable: false

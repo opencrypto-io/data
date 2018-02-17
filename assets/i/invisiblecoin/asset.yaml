@@ -1,0 +1,10 @@
+name: InvisibleCoin
+symbol: IVZ
+type: coin
+web: []
+webids:
+  coinmarketcap: invisiblecoin
+  github: ivzdev/invisiblecoin
+tools:
+  explorer: []
+mineable: false

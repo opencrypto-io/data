@@ -1,0 +1,14 @@
+name: Infinity Economics
+symbol: XIN
+type: coin
+web:
+  - 'http://www.infinity-economics.org/'
+resources:
+  message-board:
+    - 'https://forum.infinity-economics.org/'
+webids:
+  coinmarketcap: infinity-economics
+tools:
+  explorer:
+    - 'http://www.infinity-economics.org/block/#/blocks'
+mineable: false

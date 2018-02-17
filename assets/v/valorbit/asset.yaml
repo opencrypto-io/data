@@ -1,0 +1,12 @@
+name: Valorbit
+symbol: VAL
+type: coin
+web:
+  - 'https://valorbit.com/'
+webids:
+  coinmarketcap: valorbit
+  github: valorbit
+tools:
+  explorer:
+    - 'http://unblock.valorbit.com/'
+mineable: true

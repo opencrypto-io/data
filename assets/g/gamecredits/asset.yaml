@@ -1,0 +1,11 @@
+name: GameCredits
+symbol: GAME
+type: coin
+web:
+  - 'http://gamecredits.com'
+webids:
+  coinmarketcap: gamecredits
+tools:
+  explorer:
+    - 'https://blockexplorer.gamecredits.com/'
+mineable: true

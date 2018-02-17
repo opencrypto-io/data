@@ -1,0 +1,11 @@
+name: Compcoin
+symbol: CMP
+type: coin
+web:
+  - 'https://compcoin.com/'
+webids:
+  coinmarketcap: compcoin
+tools:
+  explorer:
+    - 'http://blocks.compcoin.com/'
+mineable: true

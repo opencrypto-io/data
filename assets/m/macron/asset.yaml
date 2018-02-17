@@ -1,0 +1,11 @@
+name: MACRON
+symbol: MCRN
+type: coin
+web: []
+webids:
+  coinmarketcap: macron
+  github: MacronCoin
+tools:
+  explorer:
+    - 'http://mcrn.acc-pool.pw/'
+mineable: false

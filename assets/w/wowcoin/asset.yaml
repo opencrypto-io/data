@@ -1,0 +1,9 @@
+name: Wowcoin
+symbol: WOW
+type: coin
+web: []
+webids:
+  coinmarketcap: wowcoin
+tools:
+  explorer: []
+mineable: true

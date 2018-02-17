@@ -1,0 +1,11 @@
+name: FuturXe
+symbol: FXE
+type: token
+web:
+  - 'https://futurxe.io/'
+webids:
+  coinmarketcap: futurexe
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9653cfd0865ad8313bea2f0c2ec0584bfd05115b'
+mineable: false

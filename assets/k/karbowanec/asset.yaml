@@ -1,0 +1,14 @@
+name: Karbo
+symbol: KRB
+type: coin
+web:
+  - 'http://karbowanec.com/'
+  - 'https://karbo.io/'
+webids:
+  coinmarketcap: karbowanec
+  github: seredat
+tools:
+  explorer:
+    - 'http://explorer.karbowanec.com/en/'
+    - 'http://democats.org/blockchain/?name=karbowanec'
+mineable: true

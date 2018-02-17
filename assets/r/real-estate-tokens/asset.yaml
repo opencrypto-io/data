@@ -1,0 +1,12 @@
+name: REX
+symbol: REX
+type: token
+web:
+  - 'http://rexmls.com/'
+webids:
+  coinmarketcap: real-estate-tokens
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C'
+    - 'https://ethplorer.io/address/0xf05a9382a4c3f29e2784502754293d88b835109c'
+mineable: false

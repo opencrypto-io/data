@@ -1,0 +1,15 @@
+name: ION
+symbol: ION
+type: coin
+web:
+  - 'https://ionomy.com/'
+resources:
+  message-board:
+    - 'http://ion.community'
+webids:
+  coinmarketcap: ion
+  github: ionomy
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ion/'
+mineable: false

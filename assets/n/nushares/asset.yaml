@@ -1,0 +1,15 @@
+name: NuShares
+symbol: NSR
+type: token
+web:
+  - 'https://nubits.com/nushares'
+resources:
+  source:
+    - 'https://bitbucket.org/JordanLeePeershares/nubit/overview'
+webids:
+  coinmarketcap: nushares
+tools:
+  explorer:
+    - 'https://explorer.nubits.com/'
+    - 'https://nuexplorer.ddns.net'
+mineable: false

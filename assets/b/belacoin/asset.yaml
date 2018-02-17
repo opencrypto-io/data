@@ -1,0 +1,13 @@
+name: Bela
+symbol: BELA
+type: coin
+web:
+  - 'http://livebela.com/'
+webids:
+  coinmarketcap: belacoin
+  github: bellacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bela/'
+    - 'https://prohashing.com/explorer/Bellacoin/'
+mineable: true

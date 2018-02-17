@@ -1,0 +1,12 @@
+name: Novacoin
+symbol: NVC
+type: coin
+web:
+  - 'http://novacoin.org'
+webids:
+  coinmarketcap: novacoin
+  github: novacoin-project
+tools:
+  explorer:
+    - 'https://explorer.novaco.in/'
+mineable: true

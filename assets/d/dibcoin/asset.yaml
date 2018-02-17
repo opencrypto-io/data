@@ -1,0 +1,11 @@
+name: DIBCOIN
+symbol: DIBC
+type: token
+web:
+  - 'https://dibcoin.us/'
+webids:
+  coinmarketcap: dibcoin
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=89'
+mineable: false

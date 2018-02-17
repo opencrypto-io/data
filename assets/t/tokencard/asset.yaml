@@ -1,0 +1,12 @@
+name: TokenCard
+symbol: TKN
+type: token
+web:
+  - 'http://tokencard.io/'
+webids:
+  coinmarketcap: tokencard
+tools:
+  explorer:
+    - 'https://etherscan.io/token/TokenCard'
+    - 'https://ethplorer.io/address/0xaaaf91d9b90df800df4f55c205fd6989c977e73a'
+mineable: false

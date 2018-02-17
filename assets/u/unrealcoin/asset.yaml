@@ -1,0 +1,10 @@
+name: Unrealcoin
+symbol: URC
+type: coin
+web: []
+webids:
+  coinmarketcap: unrealcoin
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/UnrealCoin'
+mineable: true

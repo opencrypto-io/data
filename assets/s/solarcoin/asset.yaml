@@ -1,0 +1,12 @@
+name: SolarCoin
+symbol: SLR
+type: coin
+web:
+  - 'http://solarcoin.org/'
+webids:
+  coinmarketcap: solarcoin
+  github: onsightit
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/slr/'
+mineable: false

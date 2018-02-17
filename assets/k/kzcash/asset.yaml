@@ -1,0 +1,15 @@
+name: Kzcash
+symbol: KZC
+type: coin
+web:
+  - 'https://kzcash.kz/'
+resources:
+  message-board:
+    - 'https://vk.com/kzcash'
+webids:
+  coinmarketcap: kzcash
+  telegram: KZCashCommunity
+tools:
+  explorer:
+    - 'https://chain.kzcash.kz/'
+mineable: true

@@ -1,0 +1,11 @@
+name: BlockPay
+symbol: BLOCKPAY
+type: token
+web:
+  - 'https://blockpay.ch/'
+webids:
+  coinmarketcap: blockpay
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/BLOCKPAY'
+mineable: false

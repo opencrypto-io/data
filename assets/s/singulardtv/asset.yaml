@@ -1,0 +1,12 @@
+name: SingularDTV
+symbol: SNGLS
+type: token
+web:
+  - 'https://singulardtv.com/'
+  - 'https://medium.com/@SingularDTV'
+webids:
+  coinmarketcap: singulardtv
+tools:
+  explorer:
+    - 'https://etherscan.io/token/SNGLS'
+mineable: false

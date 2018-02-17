@@ -1,0 +1,14 @@
+name: LATOKEN
+symbol: LA
+type: token
+web:
+  - 'https://latoken.com/'
+webids:
+  coinmarketcap: latoken
+  telegram: latoken
+  github: ElKornacio
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf'
+    - 'https://ethplorer.io/address/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf'
+mineable: false

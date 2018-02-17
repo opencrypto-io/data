@@ -1,0 +1,15 @@
+name: OAX
+symbol: OAX
+type: token
+web:
+  - 'https://oax.org/'
+resources:
+  source:
+    - 'https://gitlab.com/groups/oax/'
+webids:
+  coinmarketcap: oax
+  telegram: openanxteam
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d'
+mineable: false

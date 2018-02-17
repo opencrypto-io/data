@@ -1,0 +1,11 @@
+name: BTSR
+symbol: BTSR
+type: token
+web:
+  - 'https://btsr.io/'
+webids:
+  coinmarketcap: btsr
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/BTSR'
+mineable: false

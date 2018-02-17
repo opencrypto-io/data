@@ -1,0 +1,11 @@
+name: PayPeer
+symbol: PAYP
+type: coin
+web:
+  - 'http://www.paypeer.pw/'
+webids:
+  coinmarketcap: paypeer
+  github: paypeer
+tools:
+  explorer: []
+mineable: true

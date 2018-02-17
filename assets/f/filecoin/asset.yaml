@@ -1,0 +1,11 @@
+name: 'Filecoin [Futures]'
+symbol: FIL
+type: coin
+web:
+  - 'https://filecoin.io/'
+  - 'https://protocol.ai'
+webids:
+  coinmarketcap: filecoin
+tools:
+  explorer: []
+mineable: true

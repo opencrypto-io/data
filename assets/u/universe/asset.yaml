@@ -1,0 +1,16 @@
+name: Universe
+symbol: UNI
+type: coin
+web:
+  - 'http://unicoin.pw/'
+resources:
+  message-board:
+    - 'http://forum.unicoin.pw'
+webids:
+  coinmarketcap: universe
+  telegram: UniverseUNI
+  github: UniverseUNI
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/uni/'
+mineable: false

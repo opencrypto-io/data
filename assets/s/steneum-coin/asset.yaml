@@ -1,0 +1,13 @@
+name: Steneum Coin
+symbol: STN
+type: coin
+web:
+  - 'http://www.steneum.com/'
+webids:
+  coinmarketcap: steneum-coin
+  telegram: steneum
+  github: dhabitafx
+tools:
+  explorer:
+    - 'http://explorer.steneum.com/'
+mineable: false

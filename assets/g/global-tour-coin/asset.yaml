@@ -1,0 +1,13 @@
+name: Global Tour Coin
+symbol: GTC
+type: coin
+web:
+  - 'http://www.gtccoinclub.com/'
+webids:
+  coinmarketcap: global-tour-coin
+  github: gtccoins
+tools:
+  explorer:
+    - 'http://162.243.101.66:3001/'
+    - 'http://43.225.159.229/cn/'
+mineable: true

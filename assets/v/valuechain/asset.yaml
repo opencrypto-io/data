@@ -1,0 +1,10 @@
+name: ValueChain
+symbol: VLC
+type: token
+web:
+  - 'http://valuechain.biz/'
+webids:
+  coinmarketcap: valuechain
+tools:
+  explorer: []
+mineable: false

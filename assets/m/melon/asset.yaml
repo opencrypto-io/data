@@ -1,0 +1,14 @@
+name: Melon
+symbol: MLN
+type: token
+web:
+  - 'https://melonport.com/'
+  - 'https://ipfs.io/ipns/melon.fund/'
+webids:
+  coinmarketcap: melon
+  github: melonproject
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Melon'
+    - 'https://ethplorer.io/address/0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1'
+mineable: false

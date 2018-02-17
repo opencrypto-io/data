@@ -1,0 +1,17 @@
+name: Unikoin Gold
+symbol: UKG
+type: token
+web:
+  - 'https://unikrn.com/'
+  - 'https://unikoingold.com/'
+resources:
+  message-board:
+    - 'https://unikrn.com/'
+webids:
+  coinmarketcap: unikoin-gold
+  github: unikoingold
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b'
+    - 'https://ethplorer.io/address/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b'
+mineable: false

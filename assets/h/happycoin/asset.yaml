@@ -1,0 +1,14 @@
+name: Happycoin
+symbol: HPC
+type: coin
+web:
+  - 'http://happycointech.org/'
+webids:
+  coinmarketcap: happycoin
+  telegram: happycoinofficial
+  github: happycoinmaster
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/hpc'
+    - 'https://cryptobe.com/chain/HappyCoin'
+mineable: true

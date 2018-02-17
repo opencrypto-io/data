@@ -1,0 +1,14 @@
+name: SONM
+symbol: SNM
+type: token
+web:
+  - 'https://sonm.io/'
+webids:
+  coinmarketcap: sonm
+  telegram: sonm_eng
+  github: sonm-io
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63'
+    - 'https://ethplorer.io/address/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63'
+mineable: false

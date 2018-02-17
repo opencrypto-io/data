@@ -1,0 +1,11 @@
+name: Helleniccoin
+symbol: HNC
+type: coin
+web:
+  - 'http://www.helleniccoin.gr/'
+webids:
+  coinmarketcap: helleniccoin
+tools:
+  explorer:
+    - 'http://blockexplorer.helleniccoin.gr/'
+mineable: true

@@ -1,0 +1,11 @@
+name: Nework
+symbol: NKC
+type: coin
+web:
+  - 'http://nework.pro/'
+webids:
+  coinmarketcap: nework
+  telegram: nework_pro
+tools:
+  explorer: []
+mineable: false

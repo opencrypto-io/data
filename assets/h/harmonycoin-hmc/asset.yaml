@@ -1,0 +1,11 @@
+name: HarmonyCoin
+symbol: HMC
+type: coin
+web:
+  - 'https://www.hmc21.co/'
+webids:
+  coinmarketcap: harmonycoin-hmc
+tools:
+  explorer:
+    - 'http://138.197.18.171/'
+mineable: true

@@ -1,0 +1,12 @@
+name: BitBar
+symbol: BTB
+type: coin
+web:
+  - 'http://bitbar.co/'
+webids:
+  coinmarketcap: bitbar
+  github: Bitbarcoin
+tools:
+  explorer:
+    - 'http://btb.altcoinwarz.com'
+mineable: true

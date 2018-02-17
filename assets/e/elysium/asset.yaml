@@ -1,0 +1,10 @@
+name: Elysium
+symbol: ELS
+type: coin
+web: []
+webids:
+  coinmarketcap: elysium
+tools:
+  explorer:
+    - 'http://blockexp.com:7000/'
+mineable: true

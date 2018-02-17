@@ -1,0 +1,17 @@
+name: eBitcoin
+symbol: EBTC
+type: token
+web:
+  - 'https://ebitcoin.org/'
+resources:
+  message-board:
+    - 'https://medium.com/@eBTCFoundation'
+webids:
+  coinmarketcap: ebtcnew
+  telegram: ComTrust/
+  github: eBTCCommunityTrustToken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xeb7c20027172e5d143fb030d50f91cece2d1485d'
+    - 'https://ethplorer.io/address/0xeb7c20027172e5d143fb030d50f91cece2d1485d'
+mineable: false

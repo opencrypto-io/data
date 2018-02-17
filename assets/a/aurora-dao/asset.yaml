@@ -1,0 +1,16 @@
+name: Aurora DAO
+symbol: AURA
+type: token
+web:
+  - 'https://auroradao.com'
+resources:
+  message-board:
+    - 'https://medium.com/aurora-dao'
+webids:
+  coinmarketcap: aurora-dao
+  telegram: joinchat/FT1IVA8AWHiyUkU3adehxA
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814'
+    - 'https://ethplorer.io/address/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814'
+mineable: false

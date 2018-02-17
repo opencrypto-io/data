@@ -1,0 +1,17 @@
+name: SportyCo
+symbol: SPF
+type: token
+web:
+  - 'https://www.sportyco.io/'
+resources:
+  message-board:
+    - 'https://news.sportyco.io/'
+webids:
+  coinmarketcap: sportyco
+  telegram: SportyCo_official
+  github: sportyfi
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef'
+    - 'https://ethplorer.io/address/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef'
+mineable: false

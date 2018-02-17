@@ -1,0 +1,12 @@
+name: Cream
+symbol: CRM
+type: coin
+web:
+  - 'https://creamcoin.com/'
+webids:
+  coinmarketcap: cream
+  github: creamcoin
+tools:
+  explorer:
+    - 'http://www.creamchain.info/'
+mineable: true

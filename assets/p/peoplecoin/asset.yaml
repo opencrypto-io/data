@@ -1,0 +1,12 @@
+name: PeopleCoin
+symbol: MEN
+type: coin
+web:
+  - 'https://www.peoplecoin.pw/'
+webids:
+  coinmarketcap: peoplecoin
+  github: peopleproject/people
+tools:
+  explorer:
+    - 'https://ex.peoplecoin.pw/'
+mineable: true

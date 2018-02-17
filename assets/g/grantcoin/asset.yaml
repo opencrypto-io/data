@@ -1,0 +1,11 @@
+name: Manna
+symbol: MANNA
+type: coin
+web:
+  - 'http://www.grantcoin.org/'
+webids:
+  coinmarketcap: grantcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/manna/'
+mineable: false

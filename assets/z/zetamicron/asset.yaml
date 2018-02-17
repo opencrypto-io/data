@@ -1,0 +1,13 @@
+name: ZetaMicron
+symbol: ZMC
+type: coin
+web: []
+resources:
+  message-board:
+    - 'http://zetamicron.boards.net/'
+webids:
+  coinmarketcap: zetamicron
+tools:
+  explorer:
+    - 'http://www.fuzzbawls.pw/explore/ZetaMicron/'
+mineable: false

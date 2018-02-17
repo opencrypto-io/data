@@ -1,0 +1,11 @@
+name: Sharkcoin
+symbol: SAK
+type: coin
+web:
+  - 'http://www.sharkcoin.org'
+webids:
+  coinmarketcap: sharkcoin
+  github: shark-git
+tools:
+  explorer: []
+mineable: true

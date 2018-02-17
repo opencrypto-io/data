@@ -1,0 +1,12 @@
+name: UR
+symbol: UR
+type: coin
+web:
+  - 'https://ur.technology/'
+webids:
+  coinmarketcap: ur
+  github: ur-technology
+tools:
+  explorer:
+    - 'http://explorer.ur.technology/'
+mineable: true

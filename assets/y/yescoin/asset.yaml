@@ -1,0 +1,11 @@
+name: Yescoin
+symbol: 'YES'
+type: coin
+web:
+  - 'http://yescoin.us/'
+webids:
+  coinmarketcap: yescoin
+  github: yescoindev
+tools:
+  explorer: []
+mineable: true

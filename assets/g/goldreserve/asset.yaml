@@ -1,0 +1,12 @@
+name: GoldReserve
+symbol: XGR
+type: coin
+web:
+  - 'http://www.goldreservecoin.com/'
+webids:
+  coinmarketcap: goldreserve
+  github: Mesterlovesz74
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/xgr'
+mineable: true

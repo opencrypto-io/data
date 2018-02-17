@@ -1,0 +1,12 @@
+name: InPay
+symbol: INPAY
+type: token
+web:
+  - 'https://inpay.tech/'
+webids:
+  coinmarketcap: inpay
+  telegram: inpaychat
+tools:
+  explorer:
+    - 'http://explorer.inpay.tech/'
+mineable: false

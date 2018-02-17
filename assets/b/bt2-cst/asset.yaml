@@ -1,0 +1,10 @@
+name: 'BT2 [CST]'
+symbol: BT2
+type: coin
+web:
+  - 'https://www.bitfinex.com/legal/cst/segwit2x'
+webids:
+  coinmarketcap: bt2-cst
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,13 @@
+name: Diamond
+symbol: DMD
+type: coin
+web:
+  - 'http://bit.diamonds'
+webids:
+  coinmarketcap: diamond
+  github: DMDcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dmd/'
+    - 'https://masternodes.online/currencies/DMD/'
+mineable: true

@@ -1,0 +1,12 @@
+name: Bitcoin Fast
+symbol: BCF
+type: coin
+web:
+  - 'http://bitcoinfast.co/'
+webids:
+  coinmarketcap: bitcoinfast
+  github: Crypto-Currency
+tools:
+  explorer:
+    - 'http://bcf.altcoinwarz.com:3003/'
+mineable: true

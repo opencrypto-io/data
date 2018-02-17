@@ -1,0 +1,11 @@
+name: MergeCoin
+symbol: MGC
+type: coin
+web:
+  - 'http://www.mergecoin.com/'
+webids:
+  coinmarketcap: mergecoin
+tools:
+  explorer:
+    - 'http://www.mergechain.com:3000/'
+mineable: false

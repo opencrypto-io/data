@@ -1,0 +1,13 @@
+name: Dimecoin
+symbol: DIME
+type: coin
+web:
+  - 'https://www.dimecoin.com.co'
+webids:
+  coinmarketcap: dimecoin
+  telegram: joinchat/IDfbLUjg4fSP0Ap6h2UtiA
+  github: dime-coin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dime/'
+mineable: true

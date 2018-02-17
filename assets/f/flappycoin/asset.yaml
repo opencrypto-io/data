@@ -1,0 +1,11 @@
+name: FlappyCoin
+symbol: FLAP
+type: coin
+web:
+  - 'https://flappycoins.wordpress.com/'
+webids:
+  coinmarketcap: flappycoin
+tools:
+  explorer:
+    - 'http://explorer.goflap.io'
+mineable: true

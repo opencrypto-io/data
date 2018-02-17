@@ -1,0 +1,10 @@
+name: AvatarCoin
+symbol: AV
+type: coin
+web: []
+webids:
+  coinmarketcap: avatarcoin
+  github: avatarcoin
+tools:
+  explorer: []
+mineable: false

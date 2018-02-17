@@ -1,0 +1,12 @@
+name: Bitcoin Red
+symbol: BTCRED
+type: token
+web:
+  - 'http://www.bitcoinred.io/'
+webids:
+  coinmarketcap: bitcoin-red
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11'
+    - 'https://ethplorer.io/address/0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11'
+mineable: false

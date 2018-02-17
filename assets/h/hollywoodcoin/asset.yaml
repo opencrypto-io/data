@@ -1,0 +1,13 @@
+name: HollyWoodCoin
+symbol: HWC
+type: coin
+web:
+  - 'http://hollywoodcoin.us/'
+webids:
+  coinmarketcap: hollywoodcoin
+  telegram: hollywoodcoin
+  github: Hollywoodcoiin
+tools:
+  explorer:
+    - 'http://chain.hollywoodcoin.biz/'
+mineable: true

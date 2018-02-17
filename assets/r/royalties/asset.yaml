@@ -1,0 +1,12 @@
+name: Royalties
+symbol: XRY
+type: coin
+web:
+  - 'https://xry.io/'
+webids:
+  coinmarketcap: royalties
+  github: Vetro7
+tools:
+  explorer:
+    - 'http://xryexplorer.info/'
+mineable: true

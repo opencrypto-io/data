@@ -1,0 +1,10 @@
+name: StarChain
+symbol: STC
+type: token
+web:
+  - 'http://www.starchain.one/'
+webids:
+  coinmarketcap: starchain
+tools:
+  explorer: []
+mineable: false

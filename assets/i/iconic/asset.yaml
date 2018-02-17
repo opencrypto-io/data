@@ -1,0 +1,12 @@
+name: Iconic
+symbol: ICON
+type: coin
+web:
+  - 'http://iconicproject.com/'
+webids:
+  coinmarketcap: iconic
+  github: iconictoken
+tools:
+  explorer:
+    - 'http://explorer.iconicproject.com/'
+mineable: false

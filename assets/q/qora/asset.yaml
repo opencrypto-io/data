@@ -1,0 +1,15 @@
+name: Qora
+symbol: QORA
+type: coin
+web:
+  - 'http://qora.org'
+resources:
+  message-board:
+    - 'http://forum.qora.tech/'
+webids:
+  coinmarketcap: qora
+  github: Qoracoin
+tools:
+  explorer:
+    - 'http://node.qora.tech:9090/index/blockexplorer.html'
+mineable: false

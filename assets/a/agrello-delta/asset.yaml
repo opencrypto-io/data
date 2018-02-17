@@ -1,0 +1,15 @@
+name: Agrello
+symbol: DLT
+type: token
+web:
+  - 'https://www.agrello.org/'
+  - 'https://www.agrello.io/'
+webids:
+  coinmarketcap: agrello-delta
+  telegram: agrello
+  github: Agrello
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f'
+    - 'https://ethplorer.io/address/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f'
+mineable: false

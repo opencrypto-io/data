@@ -1,0 +1,12 @@
+name: Mysterium
+symbol: MYST
+type: token
+web:
+  - 'https://mysterium.network/'
+webids:
+  coinmarketcap: mysterium
+  github: MysteriumNetwork
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xa645264C5603E96c3b0B078cdab68733794B0A71'
+mineable: false

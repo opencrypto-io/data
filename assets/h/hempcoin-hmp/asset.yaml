@@ -1,0 +1,11 @@
+name: HempCoin
+symbol: HMP
+type: coin
+web:
+  - 'http://hempcoin.com/'
+webids:
+  coinmarketcap: hempcoin-hmp
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/hmp'
+mineable: true

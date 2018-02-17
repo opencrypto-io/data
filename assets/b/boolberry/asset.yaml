@@ -1,0 +1,12 @@
+name: Boolberry
+symbol: BBR
+type: coin
+web:
+  - 'http://boolberry.com/'
+webids:
+  coinmarketcap: boolberry
+tools:
+  explorer:
+    - 'http://explorer.mining.blue/en/'
+    - 'https://chainradar.com/bbr/blocks'
+mineable: true

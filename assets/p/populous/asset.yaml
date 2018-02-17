@@ -1,0 +1,14 @@
+name: Populous
+symbol: PPT
+type: token
+web:
+  - 'http://populous.co/'
+webids:
+  coinmarketcap: populous
+  telegram: ppttalk
+  github: bitpopulous
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a'
+    - 'https://ethplorer.io/address/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a'
+mineable: false

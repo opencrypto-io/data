@@ -1,0 +1,13 @@
+name: Neuro
+symbol: NRO
+type: coin
+web:
+  - 'http://neurocoin.org/'
+webids:
+  coinmarketcap: neuro
+  telegram: neurocoin
+  github: neurocoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/nro/'
+mineable: true

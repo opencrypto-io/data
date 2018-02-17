@@ -1,0 +1,11 @@
+name: AppleCoin
+symbol: APW
+type: coin
+web:
+  - 'http://apcoin.co/'
+webids:
+  coinmarketcap: applecoin-apw
+tools:
+  explorer:
+    - 'http://explorer.apcoin.co/'
+mineable: true

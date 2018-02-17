@@ -1,0 +1,11 @@
+name: Veltor
+symbol: VLT
+type: coin
+web: []
+webids:
+  coinmarketcap: veltor
+  github: veltor
+tools:
+  explorer:
+    - 'http://block.veltor.org:8080'
+mineable: true

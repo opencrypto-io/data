@@ -1,0 +1,12 @@
+name: Rupaya
+symbol: RUPX
+type: coin
+web:
+  - 'http://www.rupayacoin.org/'
+webids:
+  coinmarketcap: rupaya
+  github: rupaya-project
+tools:
+  explorer:
+    - 'http://node2.rupayacoin.org/'
+mineable: true

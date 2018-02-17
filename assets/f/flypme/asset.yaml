@@ -1,0 +1,13 @@
+name: FlypMe
+symbol: FYP
+type: token
+web:
+  - 'https://flyp.me/'
+webids:
+  coinmarketcap: flypme
+  github: flypme
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8f0921f30555624143d427b340b1156914882c10'
+    - 'https://ethplorer.io/address/0x8f0921f30555624143d427b340b1156914882c10'
+mineable: false

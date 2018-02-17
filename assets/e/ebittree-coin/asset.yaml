@@ -1,0 +1,11 @@
+name: Ebittree Coin
+symbol: EBT
+type: coin
+web:
+  - 'https://www.ebittree.com/'
+webids:
+  coinmarketcap: ebittree-coin
+tools:
+  explorer:
+    - 'http://174.138.74.243/'
+mineable: true

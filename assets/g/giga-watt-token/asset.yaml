@@ -1,0 +1,13 @@
+name: Giga Watt Token
+symbol: WTT
+type: token
+web:
+  - 'http://www.giga-watt.com/'
+webids:
+  coinmarketcap: giga-watt-token
+  telegram: wtt_token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda'
+    - 'https://ethplorer.io/address/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda'
+mineable: false

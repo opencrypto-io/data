@@ -1,0 +1,17 @@
+name: CanYaCoin
+symbol: CAN
+type: token
+web:
+  - 'https://canya.io/'
+resources:
+  message-board:
+    - 'https://blog.canya.com.au/'
+webids:
+  coinmarketcap: canyacoin
+  telegram: canyacoin
+  github: CanYaCoinSale
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0'
+    - 'https://ethplorer.io/address/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0'
+mineable: false

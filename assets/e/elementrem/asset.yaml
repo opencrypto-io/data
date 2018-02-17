@@ -1,0 +1,12 @@
+name: Elementrem
+symbol: ELE
+type: coin
+web:
+  - 'http://www.elementrem.org/'
+webids:
+  coinmarketcap: elementrem
+  github: elementrem
+tools:
+  explorer:
+    - 'http://www.elementrem.net/'
+mineable: true

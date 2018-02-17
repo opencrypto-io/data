@@ -1,0 +1,12 @@
+name: Philosopher Stones
+symbol: PHS
+type: coin
+web:
+  - 'http://philosopherstones.org/'
+webids:
+  coinmarketcap: philosopher-stones
+  github: VladK75
+tools:
+  explorer:
+    - 'http://philosopherstones.org/block/'
+mineable: false

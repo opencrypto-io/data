@@ -1,0 +1,12 @@
+name: BnrtxCoin
+symbol: BNX
+type: coin
+web:
+  - 'http://www.bnrtx.com/'
+webids:
+  coinmarketcap: bnrtxcoin
+  github: bnrtx
+tools:
+  explorer:
+    - 'http://bnx.miningalts.com/'
+mineable: true

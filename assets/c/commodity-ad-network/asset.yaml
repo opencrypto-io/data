@@ -1,0 +1,12 @@
+name: Commodity Ad Network
+symbol: CDX
+type: token
+web:
+  - 'https://commodityadnetwork.com/'
+webids:
+  coinmarketcap: commodity-ad-network
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b'
+    - 'https://ethplorer.io/address/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b'
+mineable: false

@@ -1,0 +1,11 @@
+name: India Coin
+symbol: INDIA
+type: coin
+web:
+  - 'https://www.indiacoin.club/'
+webids:
+  coinmarketcap: india-coin
+tools:
+  explorer:
+    - 'http://lpool.name/explorer/INDIA'
+mineable: false

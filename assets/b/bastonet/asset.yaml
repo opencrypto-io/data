@@ -1,0 +1,10 @@
+name: Bastonet
+symbol: BSN
+type: coin
+web:
+  - 'http://www.bastonet.com/'
+webids:
+  coinmarketcap: bastonet
+tools:
+  explorer: []
+mineable: false

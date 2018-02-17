@@ -1,0 +1,13 @@
+name: Virtacoin
+symbol: VTA
+type: coin
+web:
+  - 'https://www.virtacoin.world/'
+webids:
+  coinmarketcap: virtacoin
+  github: virtacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/vta/'
+    - 'https://www.virtacoin.world/C-Data/'
+mineable: true

@@ -1,0 +1,13 @@
+name: Bitair
+symbol: BTCA
+type: token
+web:
+  - 'https://www.bitair.io/'
+webids:
+  coinmarketcap: bitair
+  github: BitAir
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x02725836ebf3ecdb1cdf1c7b02fcbbfaa2736af8'
+    - 'https://ethplorer.io/address/0x02725836ebf3ecdb1cdf1c7b02fcbbfaa2736af8'
+mineable: false

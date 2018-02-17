@@ -1,0 +1,10 @@
+name: First Bitcoin Capital
+symbol: BITCF
+type: token
+web:
+  - 'http://bitcoincapitalcorp.com/'
+webids:
+  coinmarketcap: first-bitcoin-capital
+tools:
+  explorer: []
+mineable: false

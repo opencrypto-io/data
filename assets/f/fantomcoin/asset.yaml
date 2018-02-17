@@ -1,0 +1,12 @@
+name: Fantomcoin
+symbol: FCN
+type: coin
+web:
+  - 'http://fantomcoin.org/'
+webids:
+  coinmarketcap: fantomcoin
+  github: amphibia
+tools:
+  explorer:
+    - 'http://chainradar.com/fcn/blocks'
+mineable: true

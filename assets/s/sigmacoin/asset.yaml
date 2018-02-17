@@ -1,0 +1,10 @@
+name: SIGMAcoin
+symbol: SIGMA
+type: coin
+web:
+  - 'http://www.sigmacoin.org/'
+webids:
+  coinmarketcap: sigmacoin
+tools:
+  explorer: []
+mineable: false

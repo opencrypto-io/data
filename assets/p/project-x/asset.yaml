@@ -1,0 +1,10 @@
+name: Project-X
+symbol: NANOX
+type: coin
+web: []
+webids:
+  coinmarketcap: project-x
+tools:
+  explorer:
+    - 'http://207.126.164.144:1337/'
+mineable: false

@@ -1,0 +1,12 @@
+name: AllSafe
+symbol: ASAFE2
+type: coin
+web:
+  - 'https://allsafetoken.pw/'
+webids:
+  coinmarketcap: allsafe
+  github: Securitybank
+tools:
+  explorer:
+    - 'http://explorer.allsafetoken.pw:3001/'
+mineable: false

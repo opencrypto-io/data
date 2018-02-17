@@ -1,0 +1,12 @@
+name: FIMKrypto
+symbol: FIMK
+type: coin
+web:
+  - 'http://fimk.fi/'
+webids:
+  coinmarketcap: fimkrypto
+  github: fimkrypto
+tools:
+  explorer:
+    - 'https://www.mofowallet.com/launch.html#/activity/fim/activity/latest'
+mineable: false

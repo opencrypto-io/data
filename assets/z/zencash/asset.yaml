@@ -1,0 +1,17 @@
+name: ZenCash
+symbol: ZEN
+type: coin
+web:
+  - 'https://zensystem.io/'
+resources:
+  message-board:
+    - 'https://forum.zensystem.io/'
+    - 'https://blog.zensystem.io/'
+webids:
+  coinmarketcap: zencash
+  telegram: zencash
+  github: ZencashOfficial
+tools:
+  explorer:
+    - 'https://explorer.zensystem.io/'
+mineable: true

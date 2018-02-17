@@ -1,0 +1,16 @@
+name: Komodo
+symbol: KMD
+type: coin
+web:
+  - 'https://komodoplatform.com/'
+resources:
+  message-board:
+    - 'https://blog.komodoplatform.com/'
+webids:
+  coinmarketcap: komodo
+  github: KomodoPlatform
+tools:
+  explorer:
+    - 'http://kmd.explorer.supernet.org/'
+    - 'http://kmd.komodochainz.info'
+mineable: true

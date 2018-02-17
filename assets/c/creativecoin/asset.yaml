@@ -1,0 +1,13 @@
+name: Creativecoin
+symbol: CREA
+type: coin
+web:
+  - 'https://www.creativechain.org/'
+webids:
+  coinmarketcap: creativecoin
+  github: creativechain
+tools:
+  explorer:
+    - 'https://search.creativechain.net/'
+    - 'https://chainz.cryptoid.info/crea/'
+mineable: true

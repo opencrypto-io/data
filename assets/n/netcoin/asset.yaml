@@ -1,0 +1,15 @@
+name: NetCoin
+symbol: NET
+type: coin
+web:
+  - 'http://netcoin.io'
+resources:
+  message-board:
+    - 'http://forum.netcoin.io'
+webids:
+  coinmarketcap: netcoin
+  github: netcoinfoundation
+tools:
+  explorer:
+    - 'http://cryptoguru.tk/CurrencyInfo/index.php?Currency=NET'
+mineable: true

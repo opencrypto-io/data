@@ -1,0 +1,12 @@
+name: Theresa May Coin
+symbol: MAY
+type: coin
+web:
+  - 'http://www.theresamaycoin.com/'
+webids:
+  coinmarketcap: theresa-may-coin
+  github: ZuluFourM1ke
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/may/'
+mineable: true

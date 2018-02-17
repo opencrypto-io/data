@@ -1,0 +1,11 @@
+name: UniversalRoyalCoin
+symbol: UNRC
+type: coin
+web:
+  - 'https://universalroyalcoin.com/'
+webids:
+  coinmarketcap: universalroyalcoin
+tools:
+  explorer:
+    - 'https://ex.unrc.eu/'
+mineable: false

@@ -1,0 +1,13 @@
+name: Verge
+symbol: XVG
+type: coin
+web:
+  - 'http://vergecurrency.com/'
+webids:
+  coinmarketcap: verge
+  telegram: VERGExvg
+  github: vergecurrency
+tools:
+  explorer:
+    - 'https://verge-blockchain.info/'
+mineable: true

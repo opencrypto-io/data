@@ -1,0 +1,10 @@
+name: ENTCash
+symbol: ENT
+type: coin
+web:
+  - 'http://entcash.com/'
+webids:
+  coinmarketcap: entcash
+tools:
+  explorer: []
+mineable: false

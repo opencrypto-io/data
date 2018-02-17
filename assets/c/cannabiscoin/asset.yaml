@@ -1,0 +1,12 @@
+name: CannabisCoin
+symbol: CANN
+type: coin
+web:
+  - 'http://cannabiscoin.net'
+webids:
+  coinmarketcap: cannabiscoin
+  github: cannabiscoindev
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/cann/'
+mineable: true

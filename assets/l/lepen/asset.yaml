@@ -1,0 +1,10 @@
+name: LePen
+symbol: LEPEN
+type: coin
+web: []
+webids:
+  coinmarketcap: lepen
+  github: LePenCoin
+tools:
+  explorer: []
+mineable: false

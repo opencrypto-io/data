@@ -1,0 +1,10 @@
+name: iBank
+symbol: IBANK
+type: coin
+web: []
+webids:
+  coinmarketcap: ibank
+  github: ibankgroup
+tools:
+  explorer: []
+mineable: true

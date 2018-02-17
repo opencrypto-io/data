@@ -1,0 +1,10 @@
+name: Protean
+symbol: PRN
+type: coin
+web:
+  - 'http://www.proteania.com/'
+webids:
+  coinmarketcap: protean
+tools:
+  explorer: []
+mineable: false

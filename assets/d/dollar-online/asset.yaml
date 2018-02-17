@@ -1,0 +1,12 @@
+name: Dollar Online
+symbol: DOLLAR
+type: coin
+web:
+  - 'http://www.edollar.online/'
+webids:
+  coinmarketcap: dollar-online
+  github: DOLLAR-ONLINE
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dollar/'
+mineable: true

@@ -1,0 +1,12 @@
+name: Coimatic 3.0
+symbol: CTIC3
+type: token
+web:
+  - 'http://coimatic.com/'
+webids:
+  coinmarketcap: coimatic-3
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0743392132d1a03a902c477e5a176f256ba3220c'
+    - 'https://ethplorer.io/address/0x0743392132d1a03a902c477e5a176f256ba3220c'
+mineable: false

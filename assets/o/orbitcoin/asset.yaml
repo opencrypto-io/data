@@ -1,0 +1,12 @@
+name: Orbitcoin
+symbol: ORB
+type: coin
+web:
+  - 'http://orbitcoin.org/'
+webids:
+  coinmarketcap: orbitcoin
+  github: Orbitcoin
+tools:
+  explorer:
+    - 'http://atlas.phoenixcoin.org:1080/chain/Orbitcoin/'
+mineable: true

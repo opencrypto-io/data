@@ -1,0 +1,11 @@
+name: SkinCoin
+symbol: SKIN
+type: token
+web:
+  - 'https://skincoin.org/'
+webids:
+  coinmarketcap: skincoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x2bdc0d42996017fce214b21607a515da41a9e0c5'
+mineable: false

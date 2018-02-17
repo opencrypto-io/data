@@ -1,0 +1,13 @@
+name: LeviarCoin
+symbol: XLC
+type: coin
+web:
+  - 'https://leviarcoin.org/'
+webids:
+  coinmarketcap: leviarcoin
+  telegram: leviarcoinofficial
+  github: leviarcoin
+tools:
+  explorer:
+    - 'http://46.101.28.201/'
+mineable: true

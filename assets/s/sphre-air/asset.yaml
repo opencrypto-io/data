@@ -1,0 +1,12 @@
+name: 'Sphre AIR '
+symbol: XID
+type: token
+web:
+  - 'http://www.sphre.co/'
+webids:
+  coinmarketcap: sphre-air
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xb110ec7b1dcb8fab8dedbf28f53bc63ea5bedd84'
+    - 'https://ethplorer.io/address/0xb110ec7b1dcb8fab8dedbf28f53bc63ea5bedd84'
+mineable: false

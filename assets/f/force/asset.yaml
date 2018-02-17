@@ -1,0 +1,13 @@
+name: FORCE
+symbol: FOR
+type: coin
+web:
+  - 'https://forcecoin.io/'
+webids:
+  coinmarketcap: force
+  github: forceunited
+tools:
+  explorer:
+    - 'http://explorer.forcecoin.io/'
+    - 'http://for.explorerz.top:3027/'
+mineable: false

@@ -1,0 +1,12 @@
+name: Energycoin
+symbol: ENRG
+type: coin
+web:
+  - 'https://energycoin.eu/'
+webids:
+  coinmarketcap: energycoin
+  github: EnergyCoinProject
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/enrg/'
+mineable: true

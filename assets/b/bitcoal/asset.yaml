@@ -1,0 +1,12 @@
+name: BitCoal
+symbol: COAL
+type: coin
+web:
+  - 'https://bitcoal.io/'
+webids:
+  coinmarketcap: bitcoal
+  github: bitcoal
+tools:
+  explorer:
+    - 'http://democats.org/blockchain/?name=bitcoal'
+mineable: true

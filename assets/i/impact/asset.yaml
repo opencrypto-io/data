@@ -1,0 +1,12 @@
+name: Impact
+symbol: IMX
+type: coin
+web:
+  - 'http://impact-coin.com/'
+webids:
+  coinmarketcap: impact
+  github: Impactcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/imx/'
+mineable: true

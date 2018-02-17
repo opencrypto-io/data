@@ -1,0 +1,10 @@
+name: International Diamond
+symbol: XID
+type: coin
+web:
+  - 'http://xidcoin.com/'
+webids:
+  coinmarketcap: international-diamond
+tools:
+  explorer: []
+mineable: true

@@ -1,0 +1,12 @@
+name: Xaurum
+symbol: XAUR
+type: token
+web:
+  - 'http://www.xaurum.org/'
+webids:
+  coinmarketcap: xaurum
+  github: XaurumTeam
+tools:
+  explorer:
+    - 'http://etherscan.io/token/0x4DF812F6064def1e5e029f1ca858777CC98D2D81'
+mineable: false

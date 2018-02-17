@@ -1,0 +1,12 @@
+name: Infinitecoin
+symbol: IFC
+type: coin
+web:
+  - 'http://www.infiniteco.in'
+webids:
+  coinmarketcap: infinitecoin
+  github: infinitecoin
+tools:
+  explorer:
+    - 'http://exploretheblocks.com:2750/chain/InfiniteCoin/'
+mineable: true

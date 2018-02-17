@@ -1,0 +1,13 @@
+name: KekCoin
+symbol: KEK
+type: coin
+web:
+  - 'http://kekcoin.co/'
+webids:
+  coinmarketcap: kekcoin
+  telegram: KekcoinOfficial
+  github: Kekcoin-Core
+tools:
+  explorer:
+    - 'http://explorer.kekcoin.co/'
+mineable: false

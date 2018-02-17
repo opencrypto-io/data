@@ -1,0 +1,10 @@
+name: Pirate Blocks
+symbol: SKULL
+type: coin
+web: []
+webids:
+  coinmarketcap: pirate-blocks
+tools:
+  explorer:
+    - 'http://skull.servep2p.com:3001/'
+mineable: true

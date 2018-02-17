@@ -1,0 +1,10 @@
+name: CryptoWorldX Token
+symbol: CWXT
+type: coin
+web: []
+webids:
+  coinmarketcap: cryptoworldx-token
+tools:
+  explorer:
+    - 'https://explorer.cryptoworldx.com/'
+mineable: false

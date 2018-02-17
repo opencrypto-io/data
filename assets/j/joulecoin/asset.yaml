@@ -1,0 +1,12 @@
+name: Joulecoin
+symbol: XJO
+type: coin
+web:
+  - 'http://www.jouleco.in/'
+webids:
+  coinmarketcap: joulecoin
+  github: joulecoin
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/xjo/'
+mineable: true

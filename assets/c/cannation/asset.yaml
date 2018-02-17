@@ -1,0 +1,12 @@
+name: Cannation
+symbol: CNNC
+type: coin
+web:
+  - 'http://www.cannationcoin.com/'
+webids:
+  coinmarketcap: cannation
+  github: cannationproject
+tools:
+  explorer:
+    - 'http://cannationcoin.thecryptochat.net/'
+mineable: true

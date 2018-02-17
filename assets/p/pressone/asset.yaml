@@ -1,0 +1,10 @@
+name: PressOne
+symbol: PRS
+type: coin
+web:
+  - 'http://press.one/en'
+webids:
+  coinmarketcap: pressone
+tools:
+  explorer: []
+mineable: false

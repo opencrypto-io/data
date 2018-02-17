@@ -1,0 +1,12 @@
+name: Franko
+symbol: FRK
+type: coin
+web:
+  - 'http://frankos.org'
+webids:
+  coinmarketcap: franko
+  github: franko-org
+tools:
+  explorer:
+    - 'https://cryptobe.com/chain/FrankoCoin'
+mineable: true

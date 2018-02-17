@@ -1,0 +1,16 @@
+name: Hackspace Capital
+symbol: HAC
+type: token
+web:
+  - 'https://hackspace.capital/'
+resources:
+  message-board:
+    - 'https://medium.com/@hackspacecap'
+webids:
+  coinmarketcap: hackspace-capital
+  telegram: joinchat/Askr5UMsqSY43VQKFoS-kQ
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x43567eb78638A55bbE51E9f9FB5B2D7AD1F125aa'
+    - 'https://ethplorer.io/address/0x43567eb78638a55bbe51e9f9fb5b2d7ad1f125aa'
+mineable: false

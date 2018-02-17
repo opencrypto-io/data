@@ -1,0 +1,11 @@
+name: VapersCoin
+symbol: VPRC
+type: coin
+web: []
+webids:
+  coinmarketcap: vaperscoin
+  github: vaperscoin
+tools:
+  explorer:
+    - 'http://blockexplorer.vaperscoin.com/'
+mineable: true

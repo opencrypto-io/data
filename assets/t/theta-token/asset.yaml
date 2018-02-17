@@ -1,0 +1,14 @@
+name: Theta Token
+symbol: THETA
+type: token
+web:
+  - 'https://www.thetatoken.org/'
+webids:
+  coinmarketcap: theta-token
+  telegram: joinchat/Gt6mbxJb-2XukwGA_atLjg
+  github: thetatoken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x3883f5e181fccaF8410FA61e12b59BAd963fb645'
+    - 'https://ethplorer.io/address/0x3883f5e181fccaf8410fa61e12b59bad963fb645'
+mineable: false

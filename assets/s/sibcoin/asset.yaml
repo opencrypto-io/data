@@ -1,0 +1,14 @@
+name: SIBCoin
+symbol: SIB
+type: coin
+web:
+  - 'https://sibcoin.money/'
+  - 'http://sibcoin.org'
+webids:
+  coinmarketcap: sibcoin
+  telegram: sibcoin_ru
+  github: ivansib
+tools:
+  explorer:
+    - 'http://chain.sibcoin.net/'
+mineable: true

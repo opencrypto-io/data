@@ -1,0 +1,11 @@
+name: EarthCoin
+symbol: EAC
+type: coin
+web:
+  - 'http://earthcoin.io/'
+webids:
+  coinmarketcap: earthcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/eac/'
+mineable: true

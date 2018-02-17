@@ -1,0 +1,10 @@
+name: ArtByte
+symbol: ABY
+type: coin
+web:
+  - 'https://www.artbyte.me/'
+webids:
+  coinmarketcap: artbyte
+tools:
+  explorer: []
+mineable: true

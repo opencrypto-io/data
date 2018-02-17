@@ -1,0 +1,10 @@
+name: QuazarCoin
+symbol: QCN
+type: coin
+web: []
+webids:
+  coinmarketcap: quazarcoin
+tools:
+  explorer:
+    - 'http://chainradar.com/qcn/blocks'
+mineable: true

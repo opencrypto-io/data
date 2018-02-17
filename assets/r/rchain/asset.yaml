@@ -1,0 +1,16 @@
+name: RChain
+symbol: RHOC
+type: token
+web:
+  - 'https://www.rchain.coop/'
+resources:
+  message-board:
+    - 'https://medium.com/rchain-cooperative'
+webids:
+  coinmarketcap: rchain
+  github: rchain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5'
+    - 'https://ethplorer.io/address/0x168296bb09e24a88805cb9c33356536b980d3fc5'
+mineable: false

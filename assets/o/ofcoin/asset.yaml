@@ -1,0 +1,13 @@
+name: OFCOIN
+symbol: OF
+type: coin
+web:
+  - 'http://www.ofbank.com/'
+  - 'https://www.ofid.io/'
+webids:
+  coinmarketcap: ofcoin
+  github: ofproject
+tools:
+  explorer:
+    - 'http://browser.ofbank.com/'
+mineable: false

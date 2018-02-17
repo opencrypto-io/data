@@ -1,0 +1,11 @@
+name: Concoin
+symbol: CONX
+type: coin
+web:
+  - 'http://www.concoin.com/'
+webids:
+  coinmarketcap: concoin
+tools:
+  explorer:
+    - 'http://94.176.236.84:3001/'
+mineable: true

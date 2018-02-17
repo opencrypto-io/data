@@ -1,0 +1,17 @@
+name: Nano
+symbol: XRB
+type: coin
+web:
+  - 'http://nano.org/en'
+  - 'https://raiblocks.net/'
+resources:
+  message-board:
+    - 'https://forum.raiblocks.net/'
+webids:
+  coinmarketcap: raiblocks
+  github: nanocurrency
+tools:
+  explorer:
+    - 'https://raiblocks.net/page/summary.php'
+    - 'https://www.raiblocks.club/'
+mineable: false

@@ -1,0 +1,11 @@
+name: Tristar Coin
+symbol: TSTR
+type: coin
+web:
+  - 'http://www.tristarcoin.com/'
+webids:
+  coinmarketcap: tristar-coin
+tools:
+  explorer:
+    - 'http://159.203.112.182:3001/'
+mineable: true

@@ -1,0 +1,11 @@
+name: CybCSec
+symbol: XCS
+type: coin
+web:
+  - 'https://cybcsec.com/'
+webids:
+  coinmarketcap: cybcsec
+tools:
+  explorer:
+    - 'http://cybcsecexplorer.com/'
+mineable: false

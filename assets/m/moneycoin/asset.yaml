@@ -1,0 +1,14 @@
+name: MoneyCoin
+symbol: MONEY
+type: coin
+web:
+  - 'http://moneycoin.pw/'
+resources:
+  message-board:
+    - 'https://bitcointalk.org/index.php?topic=1711625.0'
+webids:
+  coinmarketcap: moneycoin
+tools:
+  explorer:
+    - 'http://138.68.44.164:18888/'
+mineable: true

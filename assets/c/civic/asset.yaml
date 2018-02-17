@@ -1,0 +1,11 @@
+name: Civic
+symbol: CVC
+type: token
+web:
+  - 'https://www.civic.com/'
+webids:
+  coinmarketcap: civic
+tools:
+  explorer:
+    - 'https://etherscan.io/token/civic'
+mineable: false

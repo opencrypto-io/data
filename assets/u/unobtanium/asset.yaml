@@ -1,0 +1,13 @@
+name: Unobtanium
+symbol: UNO
+type: coin
+web:
+  - 'http://unobtanium.uno'
+webids:
+  coinmarketcap: unobtanium
+  telegram: unobtaniumuno
+  github: unobtanium-official
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/uno/'
+mineable: true

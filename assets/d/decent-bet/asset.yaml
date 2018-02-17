@@ -1,0 +1,12 @@
+name: DecentBet
+symbol: DBET
+type: token
+web:
+  - 'https://www.decent.bet/'
+webids:
+  coinmarketcap: decent-bet
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9b68bfae21df5a510931a262cecf63f41338f264'
+    - 'https://ethplorer.io/address/0x9b68bfae21df5a510931a262cecf63f41338f264'
+mineable: false

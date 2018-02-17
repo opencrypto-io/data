@@ -1,0 +1,12 @@
+name: Netko
+symbol: NETKO
+type: coin
+web:
+  - 'http://netko.tech/'
+webids:
+  coinmarketcap: netko
+  github: netkotech
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/netko/'
+mineable: true

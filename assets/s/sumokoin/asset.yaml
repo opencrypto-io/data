@@ -1,0 +1,12 @@
+name: Sumokoin
+symbol: SUMO
+type: coin
+web:
+  - 'https://www.sumokoin.org/'
+webids:
+  coinmarketcap: sumokoin
+  github: sumoprojects
+tools:
+  explorer:
+    - 'https://explorer.sumokoin.com/'
+mineable: true

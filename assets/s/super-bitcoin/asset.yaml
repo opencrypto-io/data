@@ -1,0 +1,16 @@
+name: Super Bitcoin
+symbol: SBTC
+type: coin
+web:
+  - 'http://supersmartbitcoin.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@sbtc.org'
+webids:
+  coinmarketcap: super-bitcoin
+  telegram: superbitcoinofficial
+  github: superbitcoin
+tools:
+  explorer:
+    - 'http://block.superbtc.org/'
+mineable: true

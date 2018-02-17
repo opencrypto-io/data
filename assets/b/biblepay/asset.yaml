@@ -1,0 +1,12 @@
+name: BiblePay
+symbol: BBP
+type: coin
+web:
+  - 'https://biblepay.org/'
+webids:
+  coinmarketcap: biblepay
+  github: biblepay
+tools:
+  explorer:
+    - 'https://biblepay-explorer.org/'
+mineable: true

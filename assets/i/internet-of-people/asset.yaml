@@ -1,0 +1,13 @@
+name: Internet of People
+symbol: IOP
+type: coin
+web:
+  - 'http://iop.global/'
+webids:
+  coinmarketcap: internet-of-people
+  telegram: IoPofficial
+  github: Internet-of-People
+tools:
+  explorer:
+    - 'http://mainnet.iop.cash'
+mineable: true

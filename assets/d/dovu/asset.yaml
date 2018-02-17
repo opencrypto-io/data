@@ -1,0 +1,17 @@
+name: Dovu
+symbol: DOVU
+type: token
+web:
+  - 'https://dovu.io/'
+resources:
+  message-board:
+    - 'https://blog.dovu.io/'
+webids:
+  coinmarketcap: dovu
+  telegram: dovuico
+  github: TokenMarketNet
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xac3211a5025414af2866ff09c23fc18bc97e79b1'
+    - 'https://ethplorer.io/address/0xac3211a5025414af2866ff09c23fc18bc97e79b1'
+mineable: false

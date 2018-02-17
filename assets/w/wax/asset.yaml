@@ -1,0 +1,17 @@
+name: WAX
+symbol: WAX
+type: token
+web:
+  - 'https://wax.io/'
+resources:
+  message-board:
+    - 'https://medium.com/wax-io/'
+webids:
+  coinmarketcap: wax
+  telegram: waxtokenannoucements
+  github: waxio
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022'
+    - 'https://ethplorer.io/address/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022'
+mineable: false

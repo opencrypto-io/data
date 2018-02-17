@@ -1,0 +1,12 @@
+name: Red Pulse
+symbol: RPX
+type: token
+web:
+  - 'https://www.red-pulse.com/landing'
+webids:
+  coinmarketcap: red-pulse
+  telegram: redpulse
+tools:
+  explorer:
+    - 'https://neotracker.io/asset/ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9'
+mineable: false

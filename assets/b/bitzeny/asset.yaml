@@ -1,0 +1,14 @@
+name: Bitzeny
+symbol: ZNY
+type: coin
+web:
+  - 'http://bitzeny.org/'
+  - 'https://bitzeny.info/'
+webids:
+  coinmarketcap: bitzeny
+  github: bitzeny
+tools:
+  explorer:
+    - 'https://zenyinsight.tomotomo9696.xyz'
+    - 'https://zeny.insight.monaco-ex.org/'
+mineable: true

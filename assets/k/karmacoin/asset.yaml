@@ -1,0 +1,12 @@
+name: Karmacoin
+symbol: KARMA
+type: coin
+web:
+  - 'http://www.givekarma.net/'
+webids:
+  coinmarketcap: karmacoin
+  github: karmateam
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/karm/'
+mineable: true

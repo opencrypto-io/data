@@ -1,0 +1,11 @@
+name: Wild Beast Block
+symbol: WBB
+type: coin
+web:
+  - 'http://wbbos.com/'
+webids:
+  coinmarketcap: wild-beast-block
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/wbb/'
+mineable: true

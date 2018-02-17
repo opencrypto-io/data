@@ -1,0 +1,13 @@
+name: CacheCoin
+symbol: CACH
+type: coin
+web:
+  - 'https://www.cachecoin.cc/'
+  - 'https://www.cachecoin.net/'
+webids:
+  coinmarketcap: cachecoin
+  github: kalgecin
+tools:
+  explorer:
+    - 'http://cerberus.ageleis.de/'
+mineable: true

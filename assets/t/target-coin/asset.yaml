@@ -1,0 +1,12 @@
+name: Target Coin
+symbol: TGT
+type: token
+web:
+  - 'https://www.tgtcoins.com/'
+webids:
+  coinmarketcap: target-coin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xac3da587eac229c9896d919abc235ca4fd7f72c1'
+    - 'https://ethplorer.io/address/0xac3da587eac229c9896d919abc235ca4fd7f72c1'
+mineable: false

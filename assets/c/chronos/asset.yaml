@@ -1,0 +1,12 @@
+name: Chronos
+symbol: CRX
+type: coin
+web:
+  - 'http://chronos-coin.com/'
+webids:
+  coinmarketcap: chronos
+  github: chronoscoin
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/Chronos'
+mineable: true

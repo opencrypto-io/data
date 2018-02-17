@@ -1,0 +1,12 @@
+name: AntiBitcoin
+symbol: ANTI
+type: coin
+web:
+  - 'http://anti.cash/'
+webids:
+  coinmarketcap: antibitcoin
+  github: antibitcoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/anti'
+mineable: true

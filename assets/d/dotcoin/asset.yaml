@@ -1,0 +1,11 @@
+name: Dotcoin
+symbol: DOT
+type: token
+web:
+  - 'https://www.cryptopia.co.nz/'
+webids:
+  coinmarketcap: dotcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dot/'
+mineable: false

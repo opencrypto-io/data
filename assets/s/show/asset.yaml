@@ -1,0 +1,10 @@
+name: Show
+symbol: SHOW
+type: coin
+web:
+  - 'http://www.show.one/'
+webids:
+  coinmarketcap: show
+tools:
+  explorer: []
+mineable: false

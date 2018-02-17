@@ -1,0 +1,16 @@
+name: Auroracoin
+symbol: AUR
+type: coin
+web:
+  - 'http://auroracoin.is/'
+resources:
+  message-board:
+    - 'http://auroraspjall.is/'
+webids:
+  coinmarketcap: auroracoin
+  github: aurarad
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/aur/'
+    - 'http://insight.auroracoin.is/'
+mineable: true

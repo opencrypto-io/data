@@ -1,0 +1,12 @@
+name: BTCMoon
+symbol: BTCM
+type: token
+web:
+  - 'https://btcmoon.info/'
+webids:
+  coinmarketcap: btcmoon
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd'
+    - 'https://ethplorer.io/address/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd'
+mineable: false

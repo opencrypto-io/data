@@ -1,0 +1,11 @@
+name: Pabyosi Coin (Special)
+symbol: PCS
+type: coin
+web:
+  - 'http://pcsblockchain.com/'
+webids:
+  coinmarketcap: pabyosi-coin-special
+tools:
+  explorer:
+    - 'http://pcsblockchain.com/'
+mineable: true

@@ -1,0 +1,15 @@
+name: Einsteinium
+symbol: EMC2
+type: coin
+web:
+  - 'https://www.emc2.foundation/'
+resources:
+  message-board:
+    - 'https://emc2slack.herokuapp.com/'
+webids:
+  coinmarketcap: einsteinium
+  github: emc2foundation
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/emc2/'
+mineable: true

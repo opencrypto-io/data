@@ -1,0 +1,12 @@
+name: MojoCoin
+symbol: MOJO
+type: coin
+web:
+  - 'https://mojocoin.org/'
+webids:
+  coinmarketcap: mojocoin
+  github: MOJOv3
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/mojo3/'
+mineable: false

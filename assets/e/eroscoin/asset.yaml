@@ -1,0 +1,17 @@
+name: Eroscoin
+symbol: ERO
+type: token
+web:
+  - 'https://eroscoin.org/'
+resources:
+  message-board:
+    - 'https://blog.eroscoin.org/'
+webids:
+  coinmarketcap: eroscoin
+  telegram: eroscoinplatform
+  github: eroscoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x74ceda77281b339142a36817fa5f9e29412bab85'
+    - 'https://ethplorer.io/address/0x74ceda77281b339142a36817fa5f9e29412bab85'
+mineable: false

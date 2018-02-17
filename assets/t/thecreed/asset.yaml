@@ -1,0 +1,10 @@
+name: TheCreed
+symbol: TCR
+type: coin
+web:
+  - 'http://thecreed.tech/'
+webids:
+  coinmarketcap: thecreed
+tools:
+  explorer: []
+mineable: true

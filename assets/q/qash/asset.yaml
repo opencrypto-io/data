@@ -1,0 +1,16 @@
+name: QASH
+symbol: QASH
+type: token
+web:
+  - 'https://liquid.plus/'
+resources:
+  message-board:
+    - 'https://steemit.com/@quoineliquid'
+webids:
+  coinmarketcap: qash
+  telegram: QUOINE
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
+    - 'https://ethplorer.io/address/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
+mineable: false

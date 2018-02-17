@@ -1,0 +1,11 @@
+name: FuelCoin
+symbol: FC2
+type: coin
+web:
+  - 'http://www.fuelcoin.org/'
+webids:
+  coinmarketcap: fuelcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/fuel/'
+mineable: true

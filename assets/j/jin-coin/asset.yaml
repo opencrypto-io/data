@@ -1,0 +1,13 @@
+name: Jin Coin
+symbol: JIN
+type: coin
+web:
+  - 'http://jin-coin.info/'
+webids:
+  coinmarketcap: jin-coin
+  github: JinCoin
+tools:
+  explorer:
+    - 'http://jin-coin.info/explorer'
+    - 'http://explorer.jin-coin.com/ext/getmoneysupply'
+mineable: true

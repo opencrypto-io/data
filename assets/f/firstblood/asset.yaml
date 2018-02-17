@@ -1,0 +1,11 @@
+name: FirstBlood
+symbol: 1ST
+type: token
+web:
+  - 'https://firstblood.io/'
+webids:
+  coinmarketcap: firstblood
+tools:
+  explorer:
+    - 'https://etherscan.io/token/FirstBlood'
+mineable: false

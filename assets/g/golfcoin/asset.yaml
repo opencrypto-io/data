@@ -1,0 +1,10 @@
+name: Golfcoin
+symbol: GOLF
+type: coin
+web: []
+webids:
+  coinmarketcap: golfcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/golf/'
+mineable: true

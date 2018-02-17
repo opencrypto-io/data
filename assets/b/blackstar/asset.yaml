@@ -1,0 +1,12 @@
+name: Blackstar
+symbol: BSTAR
+type: coin
+web:
+  - 'http://blackstarotc.com/'
+webids:
+  coinmarketcap: blackstar
+  github: bstarcoin
+tools:
+  explorer:
+    - 'http://104.238.184.49:3001/'
+mineable: false

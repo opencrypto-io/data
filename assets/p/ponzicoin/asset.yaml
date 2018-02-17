@@ -1,0 +1,10 @@
+name: PonziCoin
+symbol: PONZI
+type: coin
+web: []
+webids:
+  coinmarketcap: ponzicoin
+tools:
+  explorer:
+    - 'http://fickschnitzel.pw:2001/'
+mineable: true

@@ -1,0 +1,11 @@
+name: EOT Token
+symbol: EOT
+type: token
+web:
+  - 'http://eottoken.com/'
+webids:
+  coinmarketcap: eot-token
+tools:
+  explorer:
+    - 'http://eotcoin.info/'
+mineable: false

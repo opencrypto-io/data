@@ -1,0 +1,13 @@
+name: GoByte
+symbol: GBX
+type: coin
+web:
+  - 'https://gobyte.network/'
+webids:
+  coinmarketcap: gobyte
+  github: gobytecoin
+tools:
+  explorer:
+    - 'http://explorer.gobyte.network:5001/'
+    - 'http://gobyte.ezmine.io/'
+mineable: true

@@ -1,0 +1,16 @@
+name: Expanse
+symbol: EXP
+type: coin
+web:
+  - 'http://www.expanse.tech/'
+resources:
+  message-board:
+    - 'http://forum.expanse.tech/'
+webids:
+  coinmarketcap: expanse
+  github: expanse-org
+tools:
+  explorer:
+    - 'http://www.gander.tech/'
+    - 'http://www.expanse.tech/explorer'
+mineable: true

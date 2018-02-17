@@ -1,0 +1,13 @@
+name: Tracto
+symbol: TRCT
+type: token
+web:
+  - 'http://www.tracto.org/'
+webids:
+  coinmarketcap: tracto
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x30cecb5461a449a90081f5a5f55db4e048397bab'
+    - 'https://ethplorer.io/address/0x30cecb5461a449a90081f5a5f55db4e048397bab'
+    - 'http://www.tractochain.com/'
+mineable: false

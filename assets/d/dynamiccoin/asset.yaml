@@ -1,0 +1,11 @@
+name: DynamicCoin
+symbol: DMC
+type: coin
+web:
+  - 'http://dynamiccoin.org/'
+webids:
+  coinmarketcap: dynamiccoin
+tools:
+  explorer:
+    - 'http://explorer.dynamiccoin.net/'
+mineable: true

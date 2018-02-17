@@ -1,0 +1,14 @@
+name: Gnosis
+symbol: GNO
+type: token
+web:
+  - 'https://gnosis.pm/'
+resources:
+  message-board:
+    - 'https://medium.com/gnosis-pm'
+webids:
+  coinmarketcap: gnosis-gno
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Gnosis'
+mineable: false

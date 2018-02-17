@@ -1,0 +1,11 @@
+name: SelfSell
+symbol: SSC
+type: coin
+web:
+  - 'https://www.selfsell.com/'
+webids:
+  coinmarketcap: selfsell
+  github: SelfSellTeam
+tools:
+  explorer: []
+mineable: false

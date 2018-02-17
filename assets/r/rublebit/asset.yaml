@@ -1,0 +1,11 @@
+name: RubleBit
+symbol: RUBIT
+type: coin
+web:
+  - 'http://rublebit.com/'
+webids:
+  coinmarketcap: rublebit
+tools:
+  explorer:
+    - 'http://explorer.rublebit.info/'
+mineable: true

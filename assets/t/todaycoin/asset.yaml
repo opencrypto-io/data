@@ -1,0 +1,10 @@
+name: TodayCoin
+symbol: TODAY
+type: coin
+web: []
+webids:
+  coinmarketcap: todaycoin
+  github: todayimage
+tools:
+  explorer: []
+mineable: true

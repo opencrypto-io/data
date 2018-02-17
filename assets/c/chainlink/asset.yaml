@@ -1,0 +1,12 @@
+name: ChainLink
+symbol: LINK
+type: token
+web:
+  - 'https://smartcontract.com/'
+webids:
+  coinmarketcap: chainlink
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca'
+    - 'https://ethplorer.io/address/0x514910771af9ca656af840dff83e8264ecf986ca'
+mineable: false

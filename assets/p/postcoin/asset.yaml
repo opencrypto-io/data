@@ -1,0 +1,16 @@
+name: PostCoin
+symbol: POST
+type: coin
+web:
+  - 'https://postcoin.top/'
+resources:
+  message-board:
+    - 'https://postcoin.top/forum/'
+webids:
+  coinmarketcap: postcoin
+  github: PostCoinDevelopers
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/post'
+    - 'https://bitexplorer.top/'
+mineable: false

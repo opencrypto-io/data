@@ -1,0 +1,13 @@
+name: CannaCoin
+symbol: CCN
+type: coin
+web:
+  - 'http://www.cannacoin.tech/'
+webids:
+  coinmarketcap: cannacoin
+  github: Cannacoin-Project
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ccn/'
+    - 'http://ccn.smartchain.cc/'
+mineable: true

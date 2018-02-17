@@ -1,0 +1,12 @@
+name: LeafCoin
+symbol: LEAF
+type: coin
+web:
+  - 'http://leafco.in/'
+webids:
+  coinmarketcap: leafcoin
+  github: leafcoin
+tools:
+  explorer:
+    - 'http://explorer.leafco.in/'
+mineable: true

@@ -1,0 +1,11 @@
+name: CFun
+symbol: CFUN
+type: token
+web:
+  - 'https://www.cfunproject.com/'
+webids:
+  coinmarketcap: cfun
+tools:
+  explorer:
+    - 'https://explorer.qtum.org/token/8b9500e2b789e002c1d0e744bd0ac7aa60dbffcc'
+mineable: false

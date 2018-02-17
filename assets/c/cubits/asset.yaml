@@ -1,0 +1,11 @@
+name: Cubits
+symbol: QBT
+type: coin
+web:
+  - 'http://qbt.scificrypto.info/'
+webids:
+  coinmarketcap: cubits
+  github: scificrypto
+tools:
+  explorer: []
+mineable: true

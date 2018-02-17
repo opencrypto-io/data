@@ -1,0 +1,11 @@
+name: Slothcoin
+symbol: SLOTH
+type: coin
+web:
+  - 'http://www.slothcoin.org/'
+webids:
+  coinmarketcap: slothcoin
+tools:
+  explorer:
+    - 'http://188.226.214.24/crawler/block_crawler.php'
+mineable: true

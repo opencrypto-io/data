@@ -1,0 +1,11 @@
+name: ZSEcoin
+symbol: ZSE
+type: coin
+web:
+  - 'https://zsecoin.com/'
+webids:
+  coinmarketcap: zsecoin
+tools:
+  explorer:
+    - 'http://explorer.zsecoin.com/'
+mineable: true

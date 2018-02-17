@@ -1,0 +1,15 @@
+name: Presearch
+symbol: PRE
+type: token
+web:
+  - 'https://www.presearch.io/'
+  - 'https://presearchcommunity.com/'
+webids:
+  coinmarketcap: presearch
+  telegram: presearch
+  github: presearchofficial
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa'
+    - 'https://ethplorer.io/address/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa'
+mineable: false

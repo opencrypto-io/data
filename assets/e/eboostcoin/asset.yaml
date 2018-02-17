@@ -1,0 +1,11 @@
+name: eBoost
+symbol: EBST
+type: coin
+web:
+  - 'http://www.eboost.fun'
+webids:
+  coinmarketcap: eboostcoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/ebst'
+mineable: false

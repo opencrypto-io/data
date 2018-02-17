@@ -1,0 +1,12 @@
+name: Independent Money System
+symbol: IMS
+type: coin
+web:
+  - 'http://independentmoneysystem.com/'
+webids:
+  coinmarketcap: independent-money-system
+  github: independentmoneysystem
+tools:
+  explorer:
+    - 'http://96.44.134.252:3001/'
+mineable: true

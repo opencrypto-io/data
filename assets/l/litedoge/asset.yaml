@@ -1,0 +1,16 @@
+name: LiteDoge
+symbol: LDOGE
+type: coin
+web:
+  - 'http://www.ldoge.tech/'
+  - 'http://ldoge.info/'
+resources:
+  source:
+    - 'https://bitbucket.org/ctgiant/litedoge/src/'
+webids:
+  coinmarketcap: litedoge
+tools:
+  explorer:
+    - 'http://ldoge.miningalts.com/'
+    - 'https://prohashing.com/explorer/LiteDogecoin/'
+mineable: false

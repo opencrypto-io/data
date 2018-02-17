@@ -1,0 +1,14 @@
+name: Ripio Credit Network
+symbol: RCN
+type: token
+web:
+  - 'https://ripiocredit.network/'
+webids:
+  coinmarketcap: ripio-credit-network
+  telegram: RCNchat
+  github: ripio
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6'
+    - 'https://ethplorer.io/address/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6'
+mineable: false

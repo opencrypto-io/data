@@ -1,0 +1,15 @@
+name: VeriCoin
+symbol: VRC
+type: coin
+web:
+  - 'http://www.vericoin.info/'
+resources:
+  message-board:
+    - 'https://www.vericoinforums.com'
+webids:
+  coinmarketcap: vericoin
+  github: vericoin
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/vrc/'
+mineable: true

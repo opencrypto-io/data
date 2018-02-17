@@ -1,0 +1,11 @@
+name: Runners
+symbol: RUNNERS
+type: coin
+web:
+  - 'https://runners.cash/'
+webids:
+  coinmarketcap: runners
+tools:
+  explorer:
+    - 'https://lpool.name/explorer/RUN'
+mineable: false

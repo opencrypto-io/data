@@ -1,0 +1,12 @@
+name: Yacoin
+symbol: YAC
+type: coin
+web:
+  - 'http://www.yacoin.org'
+webids:
+  coinmarketcap: yacoin
+  github: yacoin
+tools:
+  explorer:
+    - 'https://coinplorer.com/YAC'
+mineable: true

@@ -1,0 +1,12 @@
+name: NamoCoin
+symbol: NAMO
+type: coin
+web:
+  - 'http://namocoin.co.in/'
+webids:
+  coinmarketcap: namocoin
+  github: namocoin
+tools:
+  explorer:
+    - 'http://namocoin.dynns.com:3001/'
+mineable: true

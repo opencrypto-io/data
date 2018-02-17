@@ -1,0 +1,13 @@
+name: Mintcoin
+symbol: MINT
+type: coin
+web:
+  - 'http://www.mintcoinofficial.com'
+webids:
+  coinmarketcap: mintcoin
+  telegram: joinchat/AYSXZBGdWRH6jeIX_EJijg
+  github: MintcoinCommunity
+tools:
+  explorer:
+    - 'http://www.fuzzbawls.pw/explore/MintCoin/'
+mineable: false

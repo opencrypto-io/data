@@ -1,0 +1,15 @@
+name: CVCoin
+symbol: CVCOIN
+type: token
+web:
+  - 'https://crypviser.net'
+resources:
+  message-board:
+    - 'http://www.crypviser-forum.com/'
+webids:
+  coinmarketcap: cvcoin
+  telegram: crypviser
+tools:
+  explorer:
+    - 'https://openledger.io/asset/CVCOIN'
+mineable: false

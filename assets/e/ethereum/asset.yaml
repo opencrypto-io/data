@@ -1,0 +1,17 @@
+name: Ethereum
+symbol: ETH
+type: coin
+web:
+  - 'https://www.ethereum.org/'
+resources:
+  message-board:
+    - 'https://forum.ethereum.org/'
+webids:
+  coinmarketcap: ethereum
+  github: ethereum
+tools:
+  explorer:
+    - 'https://etherscan.io/'
+    - 'https://ethplorer.io/'
+    - 'https://etherchain.org/'
+mineable: true

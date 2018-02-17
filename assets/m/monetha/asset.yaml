@@ -1,0 +1,17 @@
+name: Monetha
+symbol: MTH
+type: token
+web:
+  - 'https://www.monetha.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@monetha'
+webids:
+  coinmarketcap: monetha
+  telegram: Monethagroup
+  github: monetha
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16'
+    - 'https://ethplorer.io/address/0xaf4dce16da2877f8c9e00544c93b62ac40631f16'
+mineable: false

@@ -1,0 +1,11 @@
+name: GeertCoin
+symbol: GEERT
+type: coin
+web: []
+webids:
+  coinmarketcap: geertcoin
+  github: GeertAltCoin
+tools:
+  explorer:
+    - 'http://explorer.geertcoin.com/'
+mineable: true

@@ -1,0 +1,14 @@
+name: EtherSportz
+symbol: ESZ
+type: token
+web:
+  - 'https://ethersportz.com'
+webids:
+  coinmarketcap: ethersportz
+  telegram: ESZCoin
+  github: EtherSportz
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe8a1df958be379045e2b46a31a98b93a2ecdfded'
+    - 'https://ethplorer.io/address/0xe8a1df958be379045e2b46a31a98b93a2ecdfded'
+mineable: false

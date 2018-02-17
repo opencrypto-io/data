@@ -1,0 +1,11 @@
+name: GameLeagueCoin
+symbol: GML
+type: coin
+web:
+  - 'https://bitcointalk.org/index.php?topic=595779.0'
+webids:
+  coinmarketcap: gameleaguecoin
+  github: gameleague/gameleaguecoin
+tools:
+  explorer: []
+mineable: false

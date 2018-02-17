@@ -1,0 +1,11 @@
+name: FUNCoin
+symbol: FUNC
+type: token
+web:
+  - 'http://www.funcoin.io/'
+webids:
+  coinmarketcap: funcoin
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/FUNC'
+mineable: false

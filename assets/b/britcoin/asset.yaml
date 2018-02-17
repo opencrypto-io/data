@@ -1,0 +1,12 @@
+name: BritCoin
+symbol: BRIT
+type: coin
+web:
+  - 'http://britcoin.xyz/'
+webids:
+  coinmarketcap: britcoin
+  github: britcoin3
+tools:
+  explorer:
+    - 'http://brit.coinzone.info/chain/BritCoin'
+mineable: true

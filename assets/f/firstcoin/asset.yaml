@@ -1,0 +1,11 @@
+name: FirstCoin
+symbol: FRST
+type: coin
+web:
+  - 'http://firstcoinproject.com/'
+webids:
+  coinmarketcap: firstcoin
+tools:
+  explorer:
+    - 'http://explorer.firstcoinproject.com/'
+mineable: true

@@ -1,0 +1,12 @@
+name: Binance Coin
+symbol: BNB
+type: token
+web:
+  - 'https://www.binance.com/'
+webids:
+  coinmarketcap: binance-coin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52'
+    - 'https://ethplorer.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52'
+mineable: false

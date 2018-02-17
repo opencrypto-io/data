@@ -1,0 +1,17 @@
+name: Coinlancer
+symbol: CL
+type: token
+web:
+  - 'https://www.coinlancer.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@coinlancer'
+webids:
+  coinmarketcap: coinlancer
+  telegram: Coinlancer
+  github: coinlancer
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f'
+    - 'https://ethplorer.io/address/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f'
+mineable: false

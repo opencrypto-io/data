@@ -1,0 +1,12 @@
+name: AirToken
+symbol: AIR
+type: token
+web:
+  - 'https://www.airtoken.com/'
+webids:
+  coinmarketcap: airtoken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488'
+    - 'https://ethplorer.io/address/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488'
+mineable: false

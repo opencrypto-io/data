@@ -1,0 +1,13 @@
+name: Aidos Kuneen
+symbol: ADK
+type: coin
+web:
+  - 'http://aidoskuneen.com/'
+webids:
+  coinmarketcap: aidos-kuneen
+  telegram: aidos_kuneen
+  github: AidosKuneen
+tools:
+  explorer:
+    - 'http://explorer.aidoskuneen.com/'
+mineable: false

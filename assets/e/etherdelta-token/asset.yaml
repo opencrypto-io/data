@@ -1,0 +1,13 @@
+name: EtherDelta Token
+symbol: EDT
+type: token
+web:
+  - 'https://crowdsale.etherdelta.com/'
+  - 'https://etherdelta.com/'
+webids:
+  coinmarketcap: etherdelta-token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xce53a179047ebed80261689367c093c90a94cc08'
+    - 'https://ethplorer.io/address/0xce53a179047ebed80261689367c093c90a94cc08'
+mineable: false

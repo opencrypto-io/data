@@ -1,0 +1,13 @@
+name: Primalbase Token
+symbol: PBT
+type: token
+web:
+  - 'https://primalbase.com/'
+webids:
+  coinmarketcap: primalbase
+  telegram: joinchat/AAAAAELBNMavaVUQvMRffQ
+tools:
+  explorer:
+    - >-
+      http://www.wavesgo.com/assets.html?EdDvbhk4wJ1kL6pMCq1V36GbQE2nGE7Metb87zbaY2JL
+mineable: false

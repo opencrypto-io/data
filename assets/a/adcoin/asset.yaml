@@ -1,0 +1,13 @@
+name: AdCoin
+symbol: ACC
+type: coin
+web:
+  - 'https://www.getadcoin.com/'
+webids:
+  coinmarketcap: adcoin
+  telegram: adcoinacc
+  github: adcoin-project
+tools:
+  explorer:
+    - 'http://explorer.getadcoin.com:5000/'
+mineable: true

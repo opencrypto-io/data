@@ -1,0 +1,14 @@
+name: district0x
+symbol: DNT
+type: token
+web:
+  - 'https://district0x.io/'
+webids:
+  coinmarketcap: district0x
+  telegram: district0x
+  github: district0x
+tools:
+  explorer:
+    - 'https://etherscan.io/token/district0x'
+    - 'http://ethplorer.io/address/0x0abdace70d3790235af448c88547603b945604ea'
+mineable: false

@@ -1,0 +1,12 @@
+name: Beatcoin
+symbol: XBTS
+type: coin
+web:
+  - 'http://beatcoin.info/'
+webids:
+  coinmarketcap: beatcoin
+  github: beatscoindev
+tools:
+  explorer:
+    - 'http://cryptoguru.tk/CurrencyInfo/index.php?Currency=BEATS'
+mineable: true

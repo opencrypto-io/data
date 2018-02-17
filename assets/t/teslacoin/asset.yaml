@@ -1,0 +1,12 @@
+name: TeslaCoin
+symbol: TES
+type: coin
+web:
+  - 'http://tesla-coin.com/'
+webids:
+  coinmarketcap: teslacoin
+  github: TeslacoinFoundation
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/tes/'
+mineable: true

@@ -1,0 +1,12 @@
+name: FinCoin
+symbol: FNC
+type: coin
+web:
+  - 'http://fincoin.co/'
+webids:
+  coinmarketcap: fincoin
+  github: Fincoinltd
+tools:
+  explorer:
+    - 'http://explorer.fincoin.co/'
+mineable: false

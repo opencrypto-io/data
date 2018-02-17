@@ -1,0 +1,12 @@
+name: Solarflarecoin
+symbol: SFC
+type: coin
+web:
+  - 'http://solarflarecoin.us/'
+webids:
+  coinmarketcap: solarflarecoin
+  github: solarflareproject
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/sfc'
+mineable: true

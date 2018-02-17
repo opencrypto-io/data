@@ -1,0 +1,16 @@
+name: CRYPTO20
+symbol: C20
+type: token
+web:
+  - 'https://crypto20.com/'
+resources:
+  message-board:
+    - 'https://medium.crypto20.com'
+webids:
+  coinmarketcap: c20
+  github: cryptotwenty
+tools:
+  explorer:
+    - 'http://etherscan.io/token/0x26e75307fc0c021472feb8f727839531f112f317'
+    - 'https://ethplorer.io/address/0x26e75307fc0c021472feb8f727839531f112f317'
+mineable: false

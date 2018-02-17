@@ -1,0 +1,12 @@
+name: IrishCoin
+symbol: IRL
+type: coin
+web:
+  - 'http://irishcoin.org/'
+webids:
+  coinmarketcap: irishcoin
+  github: IrishCoinProject
+tools:
+  explorer:
+    - 'http://block.irishcoin.org:2750/chain/Irishcoin  '
+mineable: true

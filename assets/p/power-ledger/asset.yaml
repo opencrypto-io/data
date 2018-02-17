@@ -1,0 +1,16 @@
+name: Power Ledger
+symbol: POWR
+type: token
+web:
+  - 'https://powerledger.io/'
+resources:
+  message-board:
+    - 'https://medium.com/power-ledger'
+webids:
+  coinmarketcap: power-ledger
+  telegram: joinchat/Gop-90DIMiPF7N_EtvFzjA
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269'
+    - 'https://ethplorer.io/address/0x595832f8fc6bf59c85c527fec3740a1b7a361269'
+mineable: false

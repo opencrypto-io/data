@@ -1,0 +1,11 @@
+name: BiosCrypto
+symbol: BIOS
+type: coin
+web:
+  - 'http://bioscrypto.com/'
+webids:
+  coinmarketcap: bios-crypto
+tools:
+  explorer:
+    - 'https://blockexperts.com/bios'
+mineable: false

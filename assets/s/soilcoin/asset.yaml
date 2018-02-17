@@ -1,0 +1,12 @@
+name: SOILcoin
+symbol: SOIL
+type: coin
+web:
+  - 'https://soil.cash/'
+webids:
+  coinmarketcap: soilcoin
+  github: Soilcoin
+tools:
+  explorer:
+    - 'http://178.62.133.174:9001/#/chain/'
+mineable: true

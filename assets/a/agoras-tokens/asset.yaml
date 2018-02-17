@@ -1,0 +1,13 @@
+name: Agoras Tokens
+symbol: AGRS
+type: token
+web:
+  - 'http://www.idni.org/'
+webids:
+  coinmarketcap: agoras-tokens
+  telegram: tauchain
+  github: naturalog
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=58'
+mineable: false

@@ -1,0 +1,11 @@
+name: Granite
+symbol: GRN
+type: coin
+web:
+  - 'http://www.granitecoin.com/'
+webids:
+  coinmarketcap: granitecoin
+  github: chrysophylax69
+tools:
+  explorer: []
+mineable: true

@@ -1,0 +1,16 @@
+name: Fortuna
+symbol: FOTA
+type: token
+web:
+  - 'https://www.fota.top/'
+resources:
+  message-board:
+    - 'https://medium.com/@Fota'
+webids:
+  coinmarketcap: fortuna
+  telegram: FortunaOfficial
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c'
+    - 'https://ethplorer.io/address/0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c'
+mineable: false

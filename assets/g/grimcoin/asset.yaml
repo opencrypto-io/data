@@ -1,0 +1,12 @@
+name: Grimcoin
+symbol: GRIM
+type: coin
+web:
+  - 'http://reaper.rocks/'
+webids:
+  coinmarketcap: grimcoin
+  github: GrimReaperCoins
+tools:
+  explorer:
+    - 'http://grim.reaper.rocks/'
+mineable: true

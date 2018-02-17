@@ -1,0 +1,13 @@
+name: Flixxo
+symbol: FLIXX
+type: token
+web:
+  - 'https://www.flixxo.com/'
+webids:
+  coinmarketcap: flixxo
+  telegram: flixxo
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf04a8ac553fcedb5ba99a64799155826c136b0be'
+    - 'https://ethplorer.io/address/0xf04a8ac553fcedb5ba99a64799155826c136b0be'
+mineable: false

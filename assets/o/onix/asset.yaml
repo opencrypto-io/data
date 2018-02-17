@@ -1,0 +1,13 @@
+name: Onix
+symbol: ONX
+type: coin
+web:
+  - 'http://www.onixcoin.com/'
+webids:
+  coinmarketcap: onix
+  telegram: onixcoin
+  github: onix-project
+tools:
+  explorer:
+    - 'http://explorer.onixcoin.com/'
+mineable: true

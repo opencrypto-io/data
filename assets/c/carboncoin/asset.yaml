@@ -1,0 +1,12 @@
+name: Carboncoin
+symbol: CARBON
+type: coin
+web:
+  - 'http://carboncoin.cc'
+webids:
+  coinmarketcap: carboncoin
+  github: carboncointrust
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/carbon/'
+mineable: true

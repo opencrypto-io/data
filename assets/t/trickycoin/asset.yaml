@@ -1,0 +1,10 @@
+name: TrickyCoin
+symbol: TRICK
+type: coin
+web: []
+webids:
+  coinmarketcap: trickycoin
+  github: TrickyCoin/trickycoin
+tools:
+  explorer: []
+mineable: true

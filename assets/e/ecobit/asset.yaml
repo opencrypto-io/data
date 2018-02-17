@@ -1,0 +1,11 @@
+name: Ecobit
+symbol: ECOB
+type: token
+web:
+  - 'http://www.ecobit.io/'
+webids:
+  coinmarketcap: ecobit
+  telegram: EcobitOfficialTelegram
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,11 @@
+name: APX
+symbol: APX
+type: token
+web:
+  - 'https://apxv.org/'
+webids:
+  coinmarketcap: apx
+  telegram: apxventures
+tools:
+  explorer: []
+mineable: false

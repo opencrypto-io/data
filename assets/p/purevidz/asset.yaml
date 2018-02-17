@@ -1,0 +1,12 @@
+name: PureVidz
+symbol: VIDZ
+type: coin
+web:
+  - 'http://purevidz.net/'
+webids:
+  coinmarketcap: purevidz
+  github: purevidz
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/vidz/'
+mineable: false

@@ -1,0 +1,14 @@
+name: U.CASH
+symbol: UCASH
+type: token
+web:
+  - 'https://u.cash'
+webids:
+  coinmarketcap: ucash
+  telegram: ucash
+  github: udotcash
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37'
+    - 'https://ethplorer.io/address/0x92e52a1a235d9a103d970901066ce910aacefd37'
+mineable: false

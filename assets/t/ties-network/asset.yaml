@@ -1,0 +1,14 @@
+name: TIES Network
+symbol: TIE
+type: token
+web:
+  - 'https://ties.network/'
+webids:
+  coinmarketcap: ties-network
+  telegram: tiesnetwork
+  github: tiesnetwork
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0'
+    - 'https://ethplorer.io/address/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0'
+mineable: false

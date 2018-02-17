@@ -1,0 +1,13 @@
+name: AquariusCoin
+symbol: ARCO
+type: coin
+web:
+  - 'http://aquariuscoin.com/'
+webids:
+  coinmarketcap: aquariuscoin
+  github: AquariusNetwork
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/arco/'
+    - 'https://www.blockexperts.com/arco'
+mineable: false

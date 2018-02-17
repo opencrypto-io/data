@@ -1,0 +1,12 @@
+name: Universal Currency
+symbol: UNIT
+type: coin
+web:
+  - 'http://www.u-currency.com/'
+webids:
+  coinmarketcap: universal-currency
+  github: unitcurrency
+tools:
+  explorer:
+    - 'https://explorer.u-currency.com/'
+mineable: true

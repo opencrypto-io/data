@@ -1,0 +1,12 @@
+name: Dynamic Trading Rights
+symbol: DTR
+type: token
+web:
+  - 'http://www.tokens.net/'
+webids:
+  coinmarketcap: dynamic-trading-rights
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7'
+    - 'https://ethplorer.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7'
+mineable: false

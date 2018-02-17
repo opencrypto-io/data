@@ -1,0 +1,14 @@
+name: Francs
+symbol: FRN
+type: coin
+web:
+  - 'http://www.francs.paris/'
+resources:
+  message-board:
+    - 'http://francs.heberg-forum.org/'
+webids:
+  coinmarketcap: francs
+tools:
+  explorer:
+    - 'http://explorer.francs.paris/'
+mineable: true

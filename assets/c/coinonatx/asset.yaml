@@ -1,0 +1,14 @@
+name: CoinonatX
+symbol: XCXT
+type: coin
+web:
+  - 'https://community.coinonatx.io/'
+webids:
+  coinmarketcap: coinonatx
+  github: xcxt-community
+tools:
+  explorer:
+    - 'http://193.70.109.114:5003/'
+    - 'http://193.70.109.114/'
+    - 'https://www.coinexplorer.net/XCXT/dashboard'
+mineable: true

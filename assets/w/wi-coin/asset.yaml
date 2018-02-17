@@ -1,0 +1,13 @@
+name: Wi Coin
+symbol: WIC
+type: token
+web:
+  - 'https://www.cryptowi.com/'
+webids:
+  coinmarketcap: wi-coin
+  telegram: WiCoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5e4abe6419650ca839ce5bb7db422b881a6064bb'
+    - 'https://ethplorer.io/address/0x5e4abe6419650ca839ce5bb7db422b881a6064bb'
+mineable: false

@@ -1,0 +1,13 @@
+name: BridgeCoin
+symbol: BCO
+type: coin
+web:
+  - 'https://www.crypto-bridge.org/'
+  - 'https://bridgecoin.org/'
+webids:
+  coinmarketcap: bridgecoin
+  telegram: CryptoBridge
+tools:
+  explorer:
+    - 'https://explorer.bridgecoin.org/'
+mineable: true

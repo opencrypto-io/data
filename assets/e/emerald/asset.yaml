@@ -1,0 +1,13 @@
+name: Emerald Crypto
+symbol: EMD
+type: coin
+web:
+  - 'http://www.emeraldcrypto.de/'
+webids:
+  coinmarketcap: emerald
+  github: crypto-currency
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/emd/'
+    - 'http://emd.blockexp.info/'
+mineable: true

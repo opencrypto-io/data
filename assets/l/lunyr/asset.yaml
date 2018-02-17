@@ -1,0 +1,12 @@
+name: Lunyr
+symbol: LUN
+type: token
+web:
+  - 'https://lunyr.com/'
+webids:
+  coinmarketcap: lunyr
+  github: Lunyr
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Lunyr'
+mineable: false

@@ -1,0 +1,12 @@
+name: BumbaCoin
+symbol: BUMBA
+type: coin
+web:
+  - 'http://bumbacoin.com/'
+webids:
+  coinmarketcap: bumbacoin
+  github: bumbacoin
+tools:
+  explorer:
+    - 'http://blockchain.bumbacoin.com/'
+mineable: true

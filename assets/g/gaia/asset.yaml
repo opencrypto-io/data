@@ -1,0 +1,11 @@
+name: GAIA
+symbol: GAIA
+type: coin
+web:
+  - 'http://gaiaplatform.com/'
+webids:
+  coinmarketcap: gaia
+tools:
+  explorer:
+    - 'http://www.gaiaplatform.com/explorer/'
+mineable: false

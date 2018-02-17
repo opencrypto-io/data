@@ -1,0 +1,12 @@
+name: Vsync
+symbol: VSX
+type: coin
+web:
+  - 'https://vsync.pw/'
+webids:
+  coinmarketcap: vsync-vsx
+  github: VsyncCrypto
+tools:
+  explorer:
+    - 'https://explorer.vsync.pw/'
+mineable: true

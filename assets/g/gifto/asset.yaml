@@ -1,0 +1,17 @@
+name: Gifto
+symbol: GTO
+type: token
+web:
+  - 'https://gifto.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@GIFTO'
+webids:
+  coinmarketcap: gifto
+  telegram: GIFTOOfficial
+  github: GIFTO-io
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xc5bbae50781be1669306b9e001eff57a2957b09d'
+    - 'https://ethplorer.io/address/0xc5bbae50781be1669306b9e001eff57a2957b09d'
+mineable: false

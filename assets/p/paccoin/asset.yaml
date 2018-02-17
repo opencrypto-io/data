@@ -1,0 +1,12 @@
+name: PACcoin
+symbol: PAC
+type: coin
+web:
+  - 'http://paccoin.net/'
+webids:
+  coinmarketcap: paccoin
+  github: PaccoinCommunity
+tools:
+  explorer:
+    - 'http://paccoinexplorer.com/'
+mineable: true

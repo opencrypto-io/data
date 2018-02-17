@@ -1,0 +1,10 @@
+name: Alphacat
+symbol: ACAT
+type: token
+web:
+  - 'https://www.alphacat.io/'
+webids:
+  coinmarketcap: alphacat
+tools:
+  explorer: []
+mineable: false

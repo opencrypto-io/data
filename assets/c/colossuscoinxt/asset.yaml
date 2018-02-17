@@ -1,0 +1,13 @@
+name: ColossusCoinXT
+symbol: COLX
+type: coin
+web:
+  - 'http://colossuscoinxt.org/'
+webids:
+  coinmarketcap: colossuscoinxt
+  github: ColossusCoinXT
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/COLX/index.php'
+    - 'https://masternodes.online/currencies/COLX'
+mineable: true

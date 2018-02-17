@@ -1,0 +1,12 @@
+name: 808Coin
+symbol: '808'
+type: coin
+web:
+  - 'http://808bass.space/'
+webids:
+  coinmarketcap: 808coin
+  github: maxxine
+tools:
+  explorer:
+    - 'http://explorer.808bass.space'
+mineable: true

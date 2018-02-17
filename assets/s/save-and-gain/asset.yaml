@@ -1,0 +1,11 @@
+name: Save and Gain
+symbol: SANDG
+type: coin
+web:
+  - 'http://coinaid.co.uk/'
+webids:
+  coinmarketcap: save-and-gain
+tools:
+  explorer:
+    - 'http://sandg.miningalts.com/'
+mineable: true

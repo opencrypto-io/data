@@ -1,0 +1,12 @@
+name: Litecoin Plus
+symbol: LCP
+type: coin
+web:
+  - 'http://litecoinplus.co'
+webids:
+  coinmarketcap: litecoin-plus
+  github: Crypto-Currency
+tools:
+  explorer:
+    - 'http://lcp.altcoinwarz.com:3004/'
+mineable: false

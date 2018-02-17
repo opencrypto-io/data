@@ -1,0 +1,10 @@
+name: Huobi Token
+symbol: HT
+type: coin
+web:
+  - 'https://www.huobi.pro/'
+webids:
+  coinmarketcap: huobi-token
+tools:
+  explorer: []
+mineable: false

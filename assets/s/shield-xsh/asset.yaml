@@ -1,0 +1,16 @@
+name: SHIELD
+symbol: XSH
+type: coin
+web:
+  - 'https://shieldcurrency.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@SHIELDcurrency'
+webids:
+  coinmarketcap: shield-xsh
+  github: ShieldCoin
+tools:
+  explorer:
+    - 'http://188.226.178.216:3001/'
+    - 'https://altmix.org/coins/2-SHIELD'
+mineable: true

@@ -1,0 +1,11 @@
+name: DAPPSTER
+symbol: DLISK
+type: coin
+web:
+  - 'https://dlisk.com/'
+webids:
+  coinmarketcap: dappster
+  github: DLiskProject
+tools:
+  explorer: []
+mineable: false

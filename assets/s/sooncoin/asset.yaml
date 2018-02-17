@@ -1,0 +1,11 @@
+name: SoonCoin
+symbol: SOON
+type: coin
+web:
+  - 'http://www.sooncoin.com/'
+webids:
+  coinmarketcap: sooncoin
+tools:
+  explorer:
+    - 'http://explorer.sooncoin.com/'
+mineable: false

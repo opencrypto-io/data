@@ -1,0 +1,13 @@
+name: Mothership
+symbol: MSP
+type: token
+web:
+  - 'https://mothership.cx/'
+webids:
+  coinmarketcap: mothership
+  telegram: mothershipcx
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x68aa3f232da9bdc2343465545794ef3eea5209bd'
+    - 'http://ethplorer.io/address/0x68aa3f232da9bdc2343465545794ef3eea5209bd'
+mineable: false

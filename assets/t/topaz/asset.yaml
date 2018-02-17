@@ -1,0 +1,11 @@
+name: Topaz Coin
+symbol: TOPAZ
+type: coin
+web: []
+webids:
+  coinmarketcap: topaz
+  github: cryptocoderz
+tools:
+  explorer:
+    - 'http://topazcoin.thecryptochat.net'
+mineable: true

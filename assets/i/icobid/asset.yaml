@@ -1,0 +1,12 @@
+name: ICOBID
+symbol: ICOB
+type: coin
+web:
+  - 'http://icobidplatform.net/'
+webids:
+  coinmarketcap: icobid
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/icob'
+    - 'http://explorer.icobidplatform.com/'
+mineable: false

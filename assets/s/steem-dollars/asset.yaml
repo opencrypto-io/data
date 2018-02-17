@@ -1,0 +1,13 @@
+name: Steem Dollars
+symbol: SBD
+type: coin
+web:
+  - 'https://steem.io/'
+webids:
+  coinmarketcap: steem-dollars
+  github: steemit
+tools:
+  explorer:
+    - 'https://steemd.com/'
+    - 'https://steemdb.com/'
+mineable: false

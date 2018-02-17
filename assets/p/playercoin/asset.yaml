@@ -1,0 +1,12 @@
+name: PlayerCoin
+symbol: PLACO
+type: coin
+web:
+  - 'http://www.playercoin.world/'
+webids:
+  coinmarketcap: playercoin
+  github: TheCryptoServices
+tools:
+  explorer:
+    - 'http://miningpool2.thruhere.net:11003/'
+mineable: true

@@ -1,0 +1,11 @@
+name: Akuya Coin
+symbol: AKY
+type: coin
+web:
+  - 'http://akuyacoin.co/'
+webids:
+  coinmarketcap: akuya-coin
+tools:
+  explorer:
+    - 'http://akuyacoin.io:3001/'
+mineable: true

@@ -1,0 +1,11 @@
+name: Ammo Reloaded
+symbol: AMMO
+type: coin
+web:
+  - 'http://ammoreloaded.io/'
+webids:
+  coinmarketcap: ammo-rewards
+  github: AmmoCore
+tools:
+  explorer: []
+mineable: false

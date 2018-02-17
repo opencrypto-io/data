@@ -1,0 +1,12 @@
+name: Guncoin
+symbol: GUN
+type: coin
+web:
+  - 'http://www.guncoin.info/'
+webids:
+  coinmarketcap: guncoin
+  github: guncoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/gun/'
+mineable: true

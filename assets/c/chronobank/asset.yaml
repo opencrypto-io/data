@@ -1,0 +1,12 @@
+name: Chronobank
+symbol: TIME
+type: token
+web:
+  - 'https://chronobank.io/'
+webids:
+  coinmarketcap: chronobank
+  github: ChronoBank
+tools:
+  explorer:
+    - 'https://etherscan.io/token/TIME'
+mineable: false

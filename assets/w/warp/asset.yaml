@@ -1,0 +1,16 @@
+name: WARP
+symbol: WARP
+type: coin
+web:
+  - 'http://www.warpcoin.com/'
+resources:
+  message-board:
+    - 'http://www.warpcoin.com/forum/'
+webids:
+  coinmarketcap: warp
+  github: warpcoin
+tools:
+  explorer:
+    - 'http://explorer.warpcoin.com/'
+    - 'https://chainz.cryptoid.info/warp/'
+mineable: false

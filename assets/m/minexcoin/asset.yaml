@@ -1,0 +1,13 @@
+name: MinexCoin
+symbol: MNX
+type: coin
+web:
+  - 'https://minexcoin.com/'
+webids:
+  coinmarketcap: minexcoin
+  telegram: minexcoin
+  github: minexcoin
+tools:
+  explorer:
+    - 'https://minexexplorer.com/'
+mineable: true

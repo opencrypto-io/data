@@ -1,0 +1,15 @@
+name: MaidSafeCoin
+symbol: MAID
+type: token
+web:
+  - 'http://maidsafe.net'
+resources:
+  message-board:
+    - 'https://safenetforum.org'
+webids:
+  coinmarketcap: maidsafecoin
+  github: maidsafe
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=3'
+mineable: false

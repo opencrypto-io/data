@@ -1,0 +1,17 @@
+name: BLOCKv
+symbol: VEE
+type: token
+web:
+  - 'https://blockv.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@blockv_io'
+webids:
+  coinmarketcap: blockv
+  telegram: block_v
+  github: BLOCKvIO
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7'
+    - 'https://ethplorer.io/address/0x340d2bde5eb28c1eed91b2f790723e3b160613b7'
+mineable: false

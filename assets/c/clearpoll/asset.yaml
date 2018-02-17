@@ -1,0 +1,13 @@
+name: ClearPoll
+symbol: POLL
+type: token
+web:
+  - 'http://polltokens.io/'
+webids:
+  coinmarketcap: clearpoll
+  telegram: joinchat/GTXXzULLOaZbxN_VLu8DTw
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9'
+    - 'https://ethplorer.io/address/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9'
+mineable: false

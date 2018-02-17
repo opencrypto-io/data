@@ -1,0 +1,11 @@
+name: Ethereum Movie Venture
+symbol: EMV
+type: token
+web:
+  - 'http://emovieventure.com/'
+webids:
+  coinmarketcap: ethereum-movie-venture
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xB802b24E0637c2B87D2E8b7784C055BBE921011a'
+mineable: false

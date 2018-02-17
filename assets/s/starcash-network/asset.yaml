@@ -1,0 +1,13 @@
+name: StarCash Network
+symbol: STARS
+type: coin
+web:
+  - 'http://starcash.co/'
+webids:
+  coinmarketcap: starcash-network
+  telegram: joinchat/FI0zqw69dJJEsXoq-DzBCQ
+  github: cybernetik7
+tools:
+  explorer:
+    - 'http://45.63.54.41/'
+mineable: false

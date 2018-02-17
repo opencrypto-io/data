@@ -1,0 +1,16 @@
+name: Monero
+symbol: XMR
+type: coin
+web:
+  - 'http://www.monero.cc'
+resources:
+  message-board:
+    - 'https://forum.getmonero.org/'
+webids:
+  coinmarketcap: monero
+  github: monero-project
+tools:
+  explorer:
+    - 'http://moneroblocks.info/'
+    - 'http://chainradar.com/xmr/blocks'
+mineable: true

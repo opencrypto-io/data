@@ -1,0 +1,14 @@
+name: Confido
+symbol: CFD
+type: token
+web:
+  - 'http://confido.io/'
+  - 'https://medium.com/@Confido.io'
+webids:
+  coinmarketcap: confido
+  telegram: joinchat/GB_OvkRMT0F4YkU-nz4y-g
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x14839bf22810F09fb163AF69BD21Bd5476F445Cd'
+    - 'https://ethplorer.io/address/0x14839bf22810F09fb163AF69BD21Bd5476F445Cd'
+mineable: false

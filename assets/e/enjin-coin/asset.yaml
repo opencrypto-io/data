@@ -1,0 +1,15 @@
+name: Enjin Coin
+symbol: ENJ
+type: token
+web:
+  - 'https://www.enjin.com/'
+  - 'https://enjincoin.io/'
+webids:
+  coinmarketcap: enjin-coin
+  telegram: enjin_coin
+  github: enjin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c'
+    - 'https://ethplorer.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c'
+mineable: false

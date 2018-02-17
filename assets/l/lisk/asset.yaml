@@ -1,0 +1,15 @@
+name: Lisk
+symbol: LSK
+type: coin
+web:
+  - 'https://lisk.io/'
+resources:
+  message-board:
+    - 'https://forum.lisk.io/'
+webids:
+  coinmarketcap: lisk
+  github: LiskHQ
+tools:
+  explorer:
+    - 'https://explorer.lisk.io/'
+mineable: false

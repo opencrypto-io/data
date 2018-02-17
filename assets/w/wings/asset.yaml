@@ -1,0 +1,11 @@
+name: Wings
+symbol: WINGS
+type: token
+web:
+  - 'https://wings.ai/'
+webids:
+  coinmarketcap: wings
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF'
+mineable: false

@@ -1,0 +1,17 @@
+name: Bitcoin Silver
+symbol: BTCS
+type: token
+web:
+  - 'https://bitcoinsilver.io/'
+resources:
+  source:
+    - >-
+      https://etherscan.io/address/0xd96b9fd7586d9ea24c950d24399be4fb65372fdd#code
+webids:
+  coinmarketcap: bitcoin-silver
+  telegram: bitcoinsilverbtcs
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xd96b9fd7586d9ea24c950d24399be4fb65372fdd'
+    - 'https://ethplorer.io/address/0xd96b9fd7586d9ea24c950d24399be4fb65372fdd'
+mineable: false

@@ -1,0 +1,13 @@
+name: YOYOW
+symbol: YOYOW
+type: token
+web:
+  - 'https://yoyow.org/'
+webids:
+  coinmarketcap: yoyow
+  telegram: HelloYOYOW
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903'
+    - 'https://ethplorer.io/address/0xcbeaec699431857fdb4d37addbbdc20e132d4903'
+mineable: false

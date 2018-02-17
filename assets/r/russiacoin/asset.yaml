@@ -1,0 +1,12 @@
+name: RussiaCoin
+symbol: RC
+type: coin
+web:
+  - 'http://www.russiacoin.info/'
+webids:
+  coinmarketcap: russiacoin
+  github: RussiaCoinDotInfo
+tools:
+  explorer:
+    - 'http://explorer.russiacoin.info/'
+mineable: true

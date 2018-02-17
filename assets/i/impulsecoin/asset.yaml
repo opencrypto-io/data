@@ -1,0 +1,12 @@
+name: ImpulseCoin
+symbol: IMPS
+type: coin
+web:
+  - 'http://www.impulsecoin.io/'
+webids:
+  coinmarketcap: impulsecoin
+  github: Impulsecoin
+tools:
+  explorer:
+    - 'http://explorer.impulsecoin.io/'
+mineable: true

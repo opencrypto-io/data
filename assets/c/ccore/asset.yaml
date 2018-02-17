@@ -1,0 +1,13 @@
+name: Ccore
+symbol: CCO
+type: token
+web:
+  - 'https://ccore.azureedge.net/'
+webids:
+  coinmarketcap: ccore
+  telegram: ccore_news
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x679badc551626e01b23ceecefbc9b877ea18fc46'
+    - 'https://ethplorer.io/address/0x679badc551626e01b23ceecefbc9b877ea18fc46'
+mineable: false

@@ -1,0 +1,12 @@
+name: RSGPcoin
+symbol: RSGP
+type: coin
+web:
+  - 'http://rsgpcoin.com/'
+webids:
+  coinmarketcap: rsgpcoin
+  github: ulandort
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/rsgp/'
+mineable: false

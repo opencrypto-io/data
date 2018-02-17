@@ -1,0 +1,12 @@
+name: DavorCoin
+symbol: DAV
+type: coin
+web:
+  - 'https://davor.io/'
+webids:
+  coinmarketcap: davorcoin
+  telegram: officialdavorcoin
+tools:
+  explorer:
+    - 'http://explorer.davor.io'
+mineable: false

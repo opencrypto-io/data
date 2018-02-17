@@ -1,0 +1,12 @@
+name: Cryptojacks
+symbol: CJ
+type: coin
+web:
+  - 'http://cryptojacks.com/'
+webids:
+  coinmarketcap: cryptojacks
+  github: cryptojacks
+tools:
+  explorer:
+    - 'http://node1.cryptojacks.com/'
+mineable: true

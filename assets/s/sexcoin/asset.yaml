@@ -1,0 +1,12 @@
+name: Sexcoin
+symbol: SXC
+type: coin
+web:
+  - 'http://www.sexcoin.info/'
+webids:
+  coinmarketcap: sexcoin
+  github: sexcoin-project
+tools:
+  explorer:
+    - 'http://blockexplorer.lavajumper.com/chain/Sexcoin'
+mineable: true

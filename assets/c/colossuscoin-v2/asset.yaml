@@ -1,0 +1,12 @@
+name: Colossuscoin V2
+symbol: CV2
+type: coin
+web:
+  - 'http://colossuscoin.org'
+webids:
+  coinmarketcap: colossuscoin-v2
+  github: Sudo23
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/CV2/'
+mineable: false

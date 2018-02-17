@@ -1,0 +1,12 @@
+name: Trollcoin
+symbol: TROLL
+type: coin
+web:
+  - 'http://trollcoinbase.com'
+webids:
+  coinmarketcap: trollcoin
+  github: TrollCoin2
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info'
+mineable: true

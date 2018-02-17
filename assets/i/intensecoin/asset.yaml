@@ -1,0 +1,12 @@
+name: IntenseCoin
+symbol: ITNS
+type: coin
+web:
+  - 'https://intensecoin.com/'
+webids:
+  coinmarketcap: intensecoin
+  github: valiant1x
+tools:
+  explorer:
+    - 'http://intensecoin.com/explorer/'
+mineable: true

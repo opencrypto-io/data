@@ -1,0 +1,12 @@
+name: Zero
+symbol: ZER
+type: coin
+web:
+  - 'https://zero-currency.com/'
+webids:
+  coinmarketcap: zero
+  github: backendmaster
+tools:
+  explorer:
+    - 'http://zeroexplorer.forgetop.com/'
+mineable: true

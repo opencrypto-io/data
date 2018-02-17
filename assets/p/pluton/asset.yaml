@@ -1,0 +1,11 @@
+name: Pluton
+symbol: PLU
+type: token
+web:
+  - 'https://plutus.it/'
+webids:
+  coinmarketcap: pluton
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Pluton'
+mineable: false

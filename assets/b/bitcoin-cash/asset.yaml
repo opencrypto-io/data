@@ -1,0 +1,14 @@
+name: Bitcoin Cash
+symbol: BCH
+type: coin
+web:
+  - 'https://www.bitcoincash.org/'
+webids:
+  coinmarketcap: bitcoin-cash
+  github: bitcoincashorg
+tools:
+  explorer:
+    - 'https://blockchair.com/bitcoin-cash/blocks'
+    - 'http://blockdozer.com/insight/'
+    - 'https://www.blocktrail.com/BCC'
+mineable: true

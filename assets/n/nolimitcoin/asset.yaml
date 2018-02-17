@@ -1,0 +1,13 @@
+name: NoLimitCoin
+symbol: NLC2
+type: coin
+web:
+  - 'https://nolimitcoin.org/'
+webids:
+  coinmarketcap: nolimitcoin
+  telegram: NoLimitCoinNLC2
+  github: NoLimitCoin
+tools:
+  explorer:
+    - 'http://nolimitcoin.info/'
+mineable: false

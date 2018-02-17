@@ -1,0 +1,11 @@
+name: Kolion
+symbol: KLN
+type: token
+web:
+  - 'http://kolionovo.org/'
+webids:
+  coinmarketcap: kolion
+tools:
+  explorer:
+    - 'http://wavesgo.com/tokens/EYz8Zvs62D4d7F5ZgXHCWuzuFaZg63FYnfVQrTWQoLSK'
+mineable: true

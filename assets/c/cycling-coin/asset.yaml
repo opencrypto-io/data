@@ -1,0 +1,10 @@
+name: Cycling Coin
+symbol: CYC
+type: coin
+web: []
+webids:
+  coinmarketcap: cycling-coin
+  github: cyclingcoin
+tools:
+  explorer: []
+mineable: false

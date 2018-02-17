@@ -1,0 +1,12 @@
+name: DigitalNote
+symbol: XDN
+type: coin
+web:
+  - 'http://digitalnote.org/'
+webids:
+  coinmarketcap: digitalnote
+  github: xdn-project
+tools:
+  explorer:
+    - 'http://chainradar.com/xdn/blocks'
+mineable: true

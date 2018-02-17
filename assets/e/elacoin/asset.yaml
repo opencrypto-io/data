@@ -1,0 +1,12 @@
+name: Elacoin
+symbol: ELC
+type: coin
+web:
+  - 'http://elc.22web.org/'
+webids:
+  coinmarketcap: elacoin
+  github: TheRCG
+tools:
+  explorer:
+    - 'http://51.255.6.35:30004/'
+mineable: true

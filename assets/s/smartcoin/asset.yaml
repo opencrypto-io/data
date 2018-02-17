@@ -1,0 +1,12 @@
+name: SmartCoin
+symbol: SMC
+type: coin
+web:
+  - 'http://smartcoin.cc/'
+webids:
+  coinmarketcap: smartcoin
+  github: psionin
+tools:
+  explorer:
+    - 'http://smartchain.cc'
+mineable: true

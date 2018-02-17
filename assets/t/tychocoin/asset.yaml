@@ -1,0 +1,11 @@
+name: Tychocoin
+symbol: TYCHO
+type: coin
+web:
+  - 'https://tychocoin.com/'
+webids:
+  coinmarketcap: tychocoin
+tools:
+  explorer:
+    - 'http://explorer.tychocoin.info'
+mineable: true

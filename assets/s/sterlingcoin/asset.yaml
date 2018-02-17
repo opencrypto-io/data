@@ -1,0 +1,12 @@
+name: Sterlingcoin
+symbol: SLG
+type: coin
+web:
+  - 'http://sterlingcoin.org/'
+webids:
+  coinmarketcap: sterlingcoin
+  github: Sterlingcoin
+tools:
+  explorer:
+    - 'http://transactions.sterlingcoin.org/'
+mineable: true

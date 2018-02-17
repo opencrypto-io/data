@@ -1,0 +1,14 @@
+name: Time New Bank
+symbol: TNB
+type: token
+web:
+  - 'http://tnb.fund/'
+webids:
+  coinmarketcap: time-new-bank
+  telegram: tnb_en
+  github: fanxiong
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf7920b0768ecb20a123fac32311d07d193381d6f'
+    - 'https://ethplorer.io/address/0xf7920b0768ecb20a123fac32311d07d193381d6f'
+mineable: false

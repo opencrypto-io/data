@@ -1,0 +1,11 @@
+name: MagicCoin
+symbol: MAGE
+type: coin
+web:
+  - 'https://magiccoin.io/'
+webids:
+  coinmarketcap: magiccoin
+tools:
+  explorer:
+    - 'http://explorer.magiccoin.io:3001/'
+mineable: true

@@ -1,0 +1,11 @@
+name: Altcoin
+symbol: ALT
+type: token
+web:
+  - 'http://altcoinmarketcap.com/'
+webids:
+  coinmarketcap: altcoin-alt
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=149'
+mineable: false

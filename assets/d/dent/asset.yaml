@@ -1,0 +1,13 @@
+name: Dent
+symbol: DENT
+type: token
+web:
+  - 'https://www.dentcoin.com/'
+webids:
+  coinmarketcap: dent
+  telegram: dentcoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258'
+    - 'https://ethplorer.io/address/0x3597bfd533a99c9aa083587b074434e61eb0a258'
+mineable: false

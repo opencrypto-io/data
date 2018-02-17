@@ -1,0 +1,12 @@
+name: adToken
+symbol: ADT
+type: token
+web:
+  - 'https://adtoken.com/'
+webids:
+  coinmarketcap: adtoken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/AdToken'
+    - 'https://ethplorer.io/address/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd'
+mineable: false

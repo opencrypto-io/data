@@ -1,0 +1,13 @@
+name: Natcoin
+symbol: NTC
+type: token
+web:
+  - 'https://www.natcoin.io/'
+webids:
+  coinmarketcap: natcoin
+  github: natcoiner
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8d5a69dc82a47594881256f2eef81770274fa30f'
+    - 'https://ethplorer.io/address/0x8d5a69dc82a47594881256f2eef81770274fa30f'
+mineable: false

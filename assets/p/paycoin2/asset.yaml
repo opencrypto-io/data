@@ -1,0 +1,14 @@
+name: PayCoin
+symbol: XPY
+type: coin
+web:
+  - 'http://www.paycoin.com'
+resources:
+  message-board:
+    - 'http://www.talkxpy.com/'
+webids:
+  coinmarketcap: paycoin2
+tools:
+  explorer:
+    - 'https://ledger.paycoin.com/'
+mineable: true

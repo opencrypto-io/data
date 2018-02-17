@@ -1,0 +1,13 @@
+name: Bitcloud
+symbol: BTDX
+type: coin
+web:
+  - 'https://bit-cloud.info/'
+webids:
+  coinmarketcap: bitcloud
+  telegram: joinchat/B-3sT0NDiALPTtDEU_qp5A
+  github: LIMXTEC
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/btdx/'
+mineable: true

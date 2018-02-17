@@ -1,0 +1,12 @@
+name: Dix Asset
+symbol: DIX
+type: token
+web:
+  - 'https://www.dixassetcoin.net/'
+webids:
+  coinmarketcap: dix-asset
+  telegram: DixAssetCoin
+tools:
+  explorer:
+    - 'https://www.mynxt.info/asset/3300333279580786000'
+mineable: false

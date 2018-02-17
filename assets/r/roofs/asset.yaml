@@ -1,0 +1,15 @@
+name: Roofs
+symbol: ROOFS
+type: coin
+web:
+  - 'https://www.roofs.business/'
+resources:
+  message-board:
+    - 'https://bitcoingarden.org/forum/index.php?topic=18152.0'
+webids:
+  coinmarketcap: roofs
+  github: roofsdev
+tools:
+  explorer:
+    - 'https://lpool.name/explorer/ROOFS'
+mineable: false

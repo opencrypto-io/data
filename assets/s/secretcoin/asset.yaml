@@ -1,0 +1,11 @@
+name: SecretCoin
+symbol: SCRT
+type: coin
+web:
+  - 'https://secretcoin.club/'
+webids:
+  coinmarketcap: secretcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/scrt/'
+mineable: false

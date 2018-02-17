@@ -1,0 +1,12 @@
+name: Ignis
+symbol: IGNIS
+type: token
+web:
+  - 'https://www.jelurida.com/ico'
+  - 'https://www.jelurida.com'
+webids:
+  coinmarketcap: ignis
+tools:
+  explorer:
+    - 'https://ardor.tools/'
+mineable: false

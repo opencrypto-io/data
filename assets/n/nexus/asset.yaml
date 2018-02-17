@@ -1,0 +1,14 @@
+name: Nexus
+symbol: NXS
+type: coin
+web:
+  - 'http://www.nexusearth.com/'
+webids:
+  coinmarketcap: nexus
+  github: Nexusoft
+tools:
+  explorer:
+    - 'http://nexusoft.io/platform/Explorer'
+    - 'http://nxs.efficienthash.com/'
+    - 'http://nxsorbitalscan.com/'
+mineable: true

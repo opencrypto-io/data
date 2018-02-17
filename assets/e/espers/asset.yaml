@@ -1,0 +1,15 @@
+name: Espers
+symbol: ESP
+type: coin
+web:
+  - 'http://espers.io/'
+  - 'http://cryptocoderz.com/espers.html'
+webids:
+  coinmarketcap: espers
+  telegram: EspersCoin
+  github: cryptocoderz
+tools:
+  explorer:
+    - 'http://espv2.miningalts.com/'
+    - 'http://espers.thecryptochat.net/'
+mineable: true

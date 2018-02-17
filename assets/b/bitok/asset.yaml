@@ -1,0 +1,12 @@
+name: Bitok
+symbol: BITOK
+type: coin
+web:
+  - 'http://bitok.online/'
+webids:
+  coinmarketcap: bitok
+  github: bitokproject
+tools:
+  explorer:
+    - 'http://bitok.steeppool.com/'
+mineable: false

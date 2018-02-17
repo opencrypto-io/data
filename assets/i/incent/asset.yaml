@@ -1,0 +1,11 @@
+name: Incent
+symbol: INCNT
+type: token
+web:
+  - 'https://www.incentloyalty.com/'
+webids:
+  coinmarketcap: incent
+tools:
+  explorer:
+    - 'http://www.wavesgo.com/'
+mineable: false

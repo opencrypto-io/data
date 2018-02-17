@@ -1,0 +1,14 @@
+name: Hyper TV
+symbol: HYTV
+type: token
+web:
+  - 'https://www.hypertvtoken.info/'
+webids:
+  coinmarketcap: hyper-tv
+  telegram: HYPERTVOFF
+  github: HYPERTVJOSH/HyperTV/
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x7259fddca8d5f0184b3b12aa7e8401964b703a4f'
+    - 'https://ethplorer.io/address/0x7259fddca8d5f0184b3b12aa7e8401964b703a4f'
+mineable: false

@@ -1,0 +1,10 @@
+name: Antimatter
+symbol: ANTX
+type: coin
+web: []
+webids:
+  coinmarketcap: antimatter
+  github: antimattercoin
+tools:
+  explorer: []
+mineable: true

@@ -1,0 +1,11 @@
+name: Birds
+symbol: BIRDS
+type: coin
+web:
+  - 'https://www.birdscoin.com/'
+webids:
+  coinmarketcap: birds
+  github: Birdsdev
+tools:
+  explorer: []
+mineable: true

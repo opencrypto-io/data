@@ -1,0 +1,16 @@
+name: Counterparty
+symbol: XCP
+type: coin
+web:
+  - 'http://counterparty.io/'
+resources:
+  message-board:
+    - 'https://counterpartytalk.org/'
+webids:
+  coinmarketcap: counterparty
+  github: CounterpartyXCP
+tools:
+  explorer:
+    - 'https://xchain.io/'
+    - 'https://counterpartychain.io/'
+mineable: false

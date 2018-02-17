@@ -1,0 +1,11 @@
+name: First Bitcoin
+symbol: BIT
+type: coin
+web:
+  - 'http://bitcoincapitalcorp.com/'
+webids:
+  coinmarketcap: first-bitcoin
+tools:
+  explorer:
+    - 'http://explorer.altcoinmarketcap.com/bit/chain'
+mineable: true

@@ -1,0 +1,12 @@
+name: Flaxscript
+symbol: FLAX
+type: coin
+web:
+  - 'http://flaxscript.org'
+webids:
+  coinmarketcap: flaxscript
+  github: thegreatoldone
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/flax/'
+mineable: true

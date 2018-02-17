@@ -1,0 +1,13 @@
+name: OP Coin
+symbol: OPC
+type: coin
+web:
+  - 'http://opcoin.info/'
+webids:
+  coinmarketcap: op-coin
+  github: rfo92
+tools:
+  explorer:
+    - 'http://104.223.43.151:8080/'
+    - 'http://opcoin.prenges.rocks/'
+mineable: false

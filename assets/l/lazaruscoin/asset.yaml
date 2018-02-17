@@ -1,0 +1,10 @@
+name: Lazaruscoin
+symbol: LAZ
+type: coin
+web:
+  - 'http://lazaruscoin.com/'
+webids:
+  coinmarketcap: lazaruscoin
+tools:
+  explorer: []
+mineable: false

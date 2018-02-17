@@ -1,0 +1,16 @@
+name: BlockCAT
+symbol: CAT
+type: token
+web:
+  - 'https://blockcat.io/'
+resources:
+  message-board:
+    - 'https://medium.com/blockcat'
+webids:
+  coinmarketcap: blockcat
+  telegram: blockcatio
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8'
+    - 'https://ethplorer.io/address/0x56ba2ee7890461f463f7be02aac3099f6d5811a8'
+mineable: false

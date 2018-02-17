@@ -1,0 +1,12 @@
+name: BitTokens
+symbol: BXT
+type: coin
+web:
+  - 'http://www.bittoken.pw/'
+webids:
+  coinmarketcap: bittokens
+  github: BitTokens
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bxt/'
+mineable: true

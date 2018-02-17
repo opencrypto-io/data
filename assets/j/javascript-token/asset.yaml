@@ -1,0 +1,13 @@
+name: JavaScript Token
+symbol: JS
+type: token
+web:
+  - 'http://jschain.io/'
+webids:
+  coinmarketcap: javascript-token
+  github: jschain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5046e860ff274fb8c66106b0ffb8155849fb0787'
+    - 'https://ethplorer.io/address/0x5046e860ff274fb8c66106b0ffb8155849fb0787'
+mineable: false

@@ -1,0 +1,11 @@
+name: Internet of Things
+symbol: XOT
+type: token
+web:
+  - 'http://iotcoin.io/'
+webids:
+  coinmarketcap: internet-of-things
+tools:
+  explorer:
+    - 'https://nxtportal.org/currencies/2334865625411578067'
+mineable: false

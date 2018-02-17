@@ -1,0 +1,11 @@
+name: Starta
+symbol: STA
+type: token
+web:
+  - 'https://startaico.com/'
+webids:
+  coinmarketcap: starta
+  telegram: starta_ico
+tools:
+  explorer: []
+mineable: false

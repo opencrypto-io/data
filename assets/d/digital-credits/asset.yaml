@@ -1,0 +1,11 @@
+name: Digital Credits
+symbol: DGCS
+type: coin
+web:
+  - 'http://dcredits.com/'
+webids:
+  coinmarketcap: digital-credits
+tools:
+  explorer:
+    - 'http://explorer.dcredits.com/'
+mineable: true

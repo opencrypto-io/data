@@ -1,0 +1,12 @@
+name: Flash
+symbol: FLASH
+type: coin
+web:
+  - 'https://flashcoin.io/'
+webids:
+  coinmarketcap: flash
+  github: flash-coin
+tools:
+  explorer:
+    - 'https://explorer.flashcoin.io/'
+mineable: false

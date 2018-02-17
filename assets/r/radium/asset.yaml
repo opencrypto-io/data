@@ -1,0 +1,15 @@
+name: Radium
+symbol: RADS
+type: coin
+web:
+  - 'https://radiumcore.org/'
+resources:
+  message-board:
+    - 'https://blog.radiumcore.org/'
+webids:
+  coinmarketcap: radium
+  github: RadiumCore
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/rads/'
+mineable: false

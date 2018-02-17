@@ -1,0 +1,16 @@
+name: MediShares
+symbol: MDS
+type: token
+web:
+  - 'http://www.medishares.org/'
+resources:
+  message-board:
+    - 'http://weibo.com/MediShares'
+webids:
+  coinmarketcap: medishares
+  github: MediShares
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x66186008C1050627F979d464eABb258860563dbE'
+    - 'https://ethplorer.io/address/0x66186008c1050627f979d464eabb258860563dbe'
+mineable: false

@@ -1,0 +1,17 @@
+name: Gatcoin
+symbol: GAT
+type: token
+web:
+  - 'https://www.gatcoin.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@gatcoin'
+webids:
+  coinmarketcap: gatcoin
+  telegram: gatcoin
+  github: gatcoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x687174f8c49ceb7729d925c3a961507ea4ac7b28'
+    - 'https://ethplorer.io/address/0x687174f8c49ceb7729d925c3a961507ea4ac7b28'
+mineable: false

@@ -1,0 +1,12 @@
+name: VoteCoin
+symbol: VOT
+type: coin
+web:
+  - 'https://votecoin.site/'
+webids:
+  coinmarketcap: votecoin
+  github: Tomas-M
+tools:
+  explorer:
+    - 'http://explorer.votecoin.site/'
+mineable: true

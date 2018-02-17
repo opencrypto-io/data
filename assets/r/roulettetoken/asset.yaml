@@ -1,0 +1,12 @@
+name: RouletteToken
+symbol: RLT
+type: token
+web:
+  - 'https://smartplay.tech/'
+webids:
+  coinmarketcap: roulettetoken
+  github: Smartroulette
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xcced5b8288086be8c38e23567e684c3740be4d48'
+mineable: false

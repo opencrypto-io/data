@@ -1,0 +1,16 @@
+name: Grid+
+symbol: GRID
+type: token
+web:
+  - 'http://gridplus.io/'
+resources:
+  message-board:
+    - 'https://blog.gridplus.io/?gi=a39516b31e86'
+webids:
+  coinmarketcap: grid
+  github: gridplus
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd'
+    - 'https://ethplorer.io/address/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd'
+mineable: false

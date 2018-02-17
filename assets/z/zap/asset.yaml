@@ -1,0 +1,14 @@
+name: Zap
+symbol: ZAP
+type: token
+web:
+  - 'http://www.zap.org/'
+webids:
+  coinmarketcap: zap
+  telegram: ZapStore
+  github: zapproject
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104'
+    - 'https://ethplorer.io/address/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104'
+mineable: false

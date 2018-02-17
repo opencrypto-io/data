@@ -1,0 +1,17 @@
+name: Decentraland
+symbol: MANA
+type: token
+web:
+  - 'https://decentraland.org/'
+resources:
+  message-board:
+    - 'https://forum.decentraland.org/'
+webids:
+  coinmarketcap: decentraland
+  telegram: dcl_market
+  github: decentraland
+tools:
+  explorer:
+    - 'https://etherscan.io/token/decentraland'
+    - 'https://ethplorer.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942'
+mineable: false

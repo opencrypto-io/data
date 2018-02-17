@@ -1,0 +1,12 @@
+name: Useless Ethereum Token
+symbol: UET
+type: token
+web:
+  - 'https://uetoken.com/'
+webids:
+  coinmarketcap: useless-ethereum-token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6'
+    - 'https://ethplorer.io/address/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6'
+mineable: false

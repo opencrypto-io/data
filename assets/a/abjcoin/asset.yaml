@@ -1,0 +1,13 @@
+name: Abjcoin
+symbol: ABJ
+type: coin
+web:
+  - 'https://www.abjcoin.org/'
+webids:
+  coinmarketcap: abjcoin
+  telegram: joinchat/GsIPTEPs0w9qTLNYZ_2IeQ
+  github: abjcoinblockchain
+tools:
+  explorer:
+    - 'http://www.abjcoin.io/'
+mineable: true

@@ -1,0 +1,12 @@
+name: FairCoin
+symbol: FAIR
+type: coin
+web:
+  - 'http://fair-coin.org/'
+webids:
+  coinmarketcap: faircoin
+  github: FairCoinTeam
+tools:
+  explorer:
+    - 'https://chain.fair.to/'
+mineable: false

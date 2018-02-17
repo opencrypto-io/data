@@ -1,0 +1,14 @@
+name: Blitzcash
+symbol: BLITZ
+type: coin
+web:
+  - 'http://blitz.cash'
+resources:
+  source:
+    - 'https://bitbucket.org/blitz-dev/blitz-public/src'
+webids:
+  coinmarketcap: blitzcash
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/blitz/'
+mineable: false

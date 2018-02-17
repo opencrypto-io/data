@@ -1,0 +1,12 @@
+name: Sequence
+symbol: SEQ
+type: coin
+web:
+  - 'https://duality.solutions'
+webids:
+  coinmarketcap: sequence
+  github: duality-solutions
+tools:
+  explorer:
+    - 'http://seq.blocksandchain.com'
+mineable: true

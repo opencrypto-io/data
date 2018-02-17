@@ -1,0 +1,10 @@
+name: Yee
+symbol: YEE
+type: token
+web:
+  - 'http://www.yeefoundation.com/'
+webids:
+  coinmarketcap: yee
+tools:
+  explorer: []
+mineable: false

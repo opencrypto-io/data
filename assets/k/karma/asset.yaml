@@ -1,0 +1,16 @@
+name: Karma
+symbol: KRM
+type: token
+web:
+  - 'https://karma.red/'
+resources:
+  message-board:
+    - 'https://medium.com/@karma.project'
+webids:
+  coinmarketcap: karma
+  telegram: karmawithgeorge
+  github: Karma-blockchain
+tools:
+  explorer:
+    - 'https://krm-db.com/'
+mineable: false

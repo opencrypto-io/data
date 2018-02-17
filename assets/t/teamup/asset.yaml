@@ -1,0 +1,10 @@
+name: TeamUp
+symbol: TEAM
+type: coin
+web: []
+webids:
+  coinmarketcap: teamup
+  github: teamupdev/teamup/
+tools:
+  explorer: []
+mineable: false

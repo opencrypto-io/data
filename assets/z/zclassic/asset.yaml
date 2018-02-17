@@ -1,0 +1,12 @@
+name: ZClassic
+symbol: ZCL
+type: coin
+web:
+  - 'http://zclassic.org/'
+webids:
+  coinmarketcap: zclassic
+  github: z-classic
+tools:
+  explorer:
+    - 'http://zcl-explorer.com/insight/'
+mineable: true

@@ -1,0 +1,11 @@
+name: Candy
+symbol: CANDY
+type: coin
+web:
+  - 'https://candy.one/'
+webids:
+  coinmarketcap: candy
+  telegram: candyoneofficial
+tools:
+  explorer: []
+mineable: false

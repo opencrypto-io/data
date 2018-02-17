@@ -1,0 +1,12 @@
+name: Travelflex
+symbol: TRF
+type: coin
+web:
+  - 'https://travelflex.org/'
+webids:
+  coinmarketcap: travelflex
+  telegram: travelflexchat
+tools:
+  explorer:
+    - 'https://explorer.travelflex.org/'
+mineable: true

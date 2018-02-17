@@ -1,0 +1,15 @@
+name: ShadowCash
+symbol: SDC
+type: coin
+web:
+  - 'http://shadowproject.io/'
+resources:
+  message-board:
+    - 'https://talk.shadowproject.io/'
+webids:
+  coinmarketcap: shadowcash
+  github: shadowproject
+tools:
+  explorer:
+    - 'http://explorer.shadow.cash/chain/ShadowCash'
+mineable: false

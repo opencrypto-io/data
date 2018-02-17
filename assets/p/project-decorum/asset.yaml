@@ -1,0 +1,14 @@
+name: Project Decorum
+symbol: PDC
+type: token
+web:
+  - 'http://www.project-decorum.com/'
+resources:
+  message-board:
+    - 'https://safenetforum.org/tags/project-decorum'
+webids:
+  coinmarketcap: project-decorum
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=59'
+mineable: false

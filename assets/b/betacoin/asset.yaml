@@ -1,0 +1,11 @@
+name: BetaCoin
+symbol: BET
+type: coin
+web:
+  - 'https://betacoin.info/'
+webids:
+  coinmarketcap: betacoin
+  github: betacoindev
+tools:
+  explorer: []
+mineable: true

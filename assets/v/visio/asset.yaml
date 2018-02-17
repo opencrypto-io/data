@@ -1,0 +1,12 @@
+name: Visio
+symbol: VISIO
+type: coin
+web:
+  - 'http://www.visioplatform.com/'
+webids:
+  coinmarketcap: visio
+  github: Fladirmacht
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/visio/'
+mineable: false

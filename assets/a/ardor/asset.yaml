@@ -1,0 +1,17 @@
+name: Ardor
+symbol: ARDR
+type: coin
+web:
+  - 'https://www.ardorplatform.org/'
+resources:
+  source:
+    - 'https://bitbucket.org/Jelurida/ardor/src'
+  message-board:
+    - 'https://nxtforum.org'
+webids:
+  coinmarketcap: ardor
+tools:
+  explorer:
+    - 'https://ardor.tools/'
+    - 'https://ardorportal.org'
+mineable: false

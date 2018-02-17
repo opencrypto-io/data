@@ -1,0 +1,13 @@
+name: HTML5COIN
+symbol: HTML5
+type: coin
+web:
+  - 'http://www.htmlcoin.com'
+webids:
+  coinmarketcap: htmlcoin
+  telegram: htmlcoinofficial
+  github: HTMLCOIN
+tools:
+  explorer:
+    - 'http://crawler.htmlcoin.com'
+mineable: true

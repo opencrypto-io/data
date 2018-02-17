@@ -1,0 +1,12 @@
+name: WayGuide
+symbol: WAY
+type: coin
+web:
+  - 'https://wayguide.club/'
+webids:
+  coinmarketcap: wayguide
+  github: wayguide
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/way'
+mineable: false

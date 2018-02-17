@@ -1,0 +1,10 @@
+name: Miners' Reward Token
+symbol: MRT
+type: token
+web:
+  - 'http://wavescommunity.com/miners-reward-token/'
+webids:
+  coinmarketcap: miners-reward-token
+tools:
+  explorer: []
+mineable: false

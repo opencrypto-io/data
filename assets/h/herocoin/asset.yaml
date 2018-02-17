@@ -1,0 +1,13 @@
+name: HEROcoin
+symbol: PLAY
+type: token
+web:
+  - 'https://www.herocoin.io/'
+webids:
+  coinmarketcap: herocoin
+  telegram: joinchat/FsEwOwtrCZMWwHokEj70Gw
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe477292f1b3268687a29376116b0ed27a9c76170'
+    - 'https://ethplorer.io/address/0xe477292f1b3268687a29376116b0ed27a9c76170'
+mineable: false

@@ -1,0 +1,11 @@
+name: Magnum
+symbol: MGM
+type: coin
+web:
+  - 'https://www.mgmcoin.org/'
+webids:
+  coinmarketcap: magnum
+tools:
+  explorer:
+    - 'http://45.55.250.118/'
+mineable: true

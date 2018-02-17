@@ -1,0 +1,11 @@
+name: Tokes
+symbol: TKS
+type: token
+web:
+  - 'https://tokesplatform.org/'
+webids:
+  coinmarketcap: tokes
+tools:
+  explorer:
+    - 'http://wavesexplorer.com/tx/BDMRyZsmDZpgKhdM7fUTknKcUbVVkDpMcqEj31PUzjMy'
+mineable: false

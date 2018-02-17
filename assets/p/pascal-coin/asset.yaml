@@ -1,0 +1,13 @@
+name: Pascal Coin
+symbol: PASC
+type: coin
+web:
+  - 'http://www.pascalcoin.org/'
+webids:
+  coinmarketcap: pascal-coin
+  telegram: pascalcoin
+  github: PascalCoin
+tools:
+  explorer:
+    - 'http://explorer.pascalcoin.org/'
+mineable: true

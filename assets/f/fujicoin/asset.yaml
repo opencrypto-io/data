@@ -1,0 +1,12 @@
+name: FujiCoin
+symbol: FJC
+type: coin
+web:
+  - 'http://www.fujicoin.org/'
+webids:
+  coinmarketcap: fujicoin
+  github: fujicoin
+tools:
+  explorer:
+    - 'http://explorer.fujicoin.org/'
+mineable: true

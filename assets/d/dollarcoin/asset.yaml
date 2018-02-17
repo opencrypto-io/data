@@ -1,0 +1,11 @@
+name: Dollarcoin
+symbol: DLC
+type: coin
+web: []
+webids:
+  coinmarketcap: dollarcoin
+  github: dollarcoins
+tools:
+  explorer:
+    - 'http://dollar.explorer.bitnodes.net'
+mineable: true

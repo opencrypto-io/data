@@ -1,0 +1,12 @@
+name: DomRaider
+symbol: DRT
+type: token
+web:
+  - 'https://www.domraider.io/'
+webids:
+  coinmarketcap: domraider
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab'
+    - 'https://ethplorer.io/address/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab'
+mineable: false

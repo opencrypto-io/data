@@ -1,0 +1,17 @@
+name: Telcoin
+symbol: TEL
+type: token
+web:
+  - 'https://www.telco.in/'
+resources:
+  message-board:
+    - 'https://medium.com/@telcoin'
+webids:
+  coinmarketcap: telcoin
+  telegram: telcoincommunity
+  github: telcoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x85e076361cc813a908ff672f9bad1541474402b2'
+    - 'https://ethplorer.io/address/0x85e076361cc813a908ff672f9bad1541474402b2'
+mineable: false

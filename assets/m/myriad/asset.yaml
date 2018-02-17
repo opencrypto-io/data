@@ -1,0 +1,15 @@
+name: Myriad
+symbol: XMY
+type: coin
+web:
+  - 'http://myriadcoin.org/'
+webids:
+  coinmarketcap: myriad
+  telegram: Myriadcoinofficial
+  github: myriadteam
+tools:
+  explorer:
+    - 'https://cryptap.us/myr/explorer/chain/Myriadcoin'
+    - 'http://insight-myr.cryptap.us/'
+    - 'https://chainz.cryptoid.info/xmy/'
+mineable: true
