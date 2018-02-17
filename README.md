@@ -4,9 +4,9 @@ Community driven dataset about cryptocurrencies.
 
 | Count | Collection | Description |
 | ---: | --- |  --- |
-| 3 | [Assets](/Assets) | eq. Coins or Tokens
-| 94 | [Exchanges](/Exchanges) | 
-| 2 | [Wallets](/Wallets) | 
+| 3 | [Assets](/assets) | eq. Coins or Tokens
+| 94 | [Exchanges](/exchanges) | 
+| 2 | [Wallets](/wallets) | 
 
 ## How to build & test
 

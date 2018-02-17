@@ -4,7 +4,7 @@ Community driven dataset about cryptocurrencies.
 
 | Count | Collection | Description |
 | ---: | --- |  --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
-| <%= col.count | 0 %> | [<%= col.name %>](/<%= col.name %>) | <%= col.desc %><% } %>
+| <%= col.count | 0 %> | [<%= col.name %>](/<%= col.name.toLowerCase() %>) | <%= col.desc %><% } %>
 
 ## How to build & test
 
