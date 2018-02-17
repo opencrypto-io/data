@@ -2,9 +2,9 @@
 
 Community driven dataset about cryptocurrencies.
 
-| Count | Collection | Description |
-| ---: | --- |  --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
-| <%= col.count | 0 %> | [<%= col.name %>](/<%= col.name.toLowerCase() %>) | <%= col.desc %><% } %>
+| Count | Collection | Description | |
+| ---: | --- |  --- | --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
+| <%= col.count | 0 %> | [<%= col.name %>](/<%= colId %>) | <%= col.desc %> | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/<%= colId %>.yaml) |<% } %>
 
 ## How to build & test
 

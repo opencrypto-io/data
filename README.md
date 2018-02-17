@@ -2,11 +2,11 @@
 
 Community driven dataset about cryptocurrencies.
 
-| Count | Collection | Description |
-| ---: | --- |  --- |
-| 3 | [Assets](/assets) | eq. Coins or Tokens
-| 94 | [Exchanges](/exchanges) | 
-| 2 | [Wallets](/wallets) | 
+| Count | Collection | Description | |
+| ---: | --- |  --- | --- |
+| 3 | [Assets](/assets) | eq. Coins or Tokens | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/assets.yaml) |
+| 94 | [Exchanges](/exchanges) |  | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/exchanges.yaml) |
+| 2 | [Wallets](/wallets) |  | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/wallets.yaml) |
 
 ## How to build & test
 
