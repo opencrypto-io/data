@@ -1,4 +1,12 @@
-# coinspec data
+# CoinSpec Data
+
+Community driven dataset about cryptocurrencies.
+
+| Count | Collection | Description |
+| ---: | --- |  --- |
+| 3 | [Assets](/Assets) | eq. Coins or Tokens
+| 94 | [Exchanges](/Exchanges) | 
+| 2 | [Wallets](/Wallets) | 
 
 ## How to build & test
 
