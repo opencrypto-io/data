@@ -1,0 +1,13 @@
+name: TaaS
+symbol: TAAS
+type: token
+web:
+  - 'https://taas.fund/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Taas'
+    - 'http://explorer.ambisafe.co/#/asset/TAAS/2?_k=9wkwx8'
+mineable: false

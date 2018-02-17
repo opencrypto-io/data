@@ -1,0 +1,15 @@
+name: PopularCoin
+symbol: POP
+type: coin
+web:
+  - 'https://www.popularcoin.com/'
+resources:
+  message-board: []
+webids:
+  github: Pop-Currency-Foundation
+  coinmarketcap: popularcoin
+tools:
+  explorer:
+    - 'http://popularcoin.com:3751/'
+    - 'http://popularcoin.info/chain/PopCoin/'
+mineable: true

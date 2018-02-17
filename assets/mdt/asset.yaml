@@ -1,0 +1,15 @@
+name: Measurable Data Token
+symbol: MDT
+type: coin
+web:
+  - 'https://www.mdt.co/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: measurable-data-token
+  telegram: 'https://t.me/measurabledata'
+  github: measurabledatatoken
+tools:
+  explorer: []
+mineable: false

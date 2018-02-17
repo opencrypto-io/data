@@ -1,0 +1,15 @@
+name: Safe Trade Coin
+symbol: XSTC
+type: coin
+web:
+  - 'http://safetradecoin.net/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: safe-trade-coin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/xstc/'
+    - 'https://poswallet.com/blockChain/xstc/'
+mineable: false

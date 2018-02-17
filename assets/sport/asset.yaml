@@ -1,0 +1,15 @@
+name: SportsCoin
+symbol: SPORT
+type: coin
+web:
+  - 'https://www.thesportscoin.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: sportscoin
+  github: thesportscoin
+tools:
+  explorer:
+    - 'http://63.142.255.39:3001/'
+mineable: false

@@ -1,0 +1,13 @@
+name: G3N
+symbol: G3N
+type: coin
+web:
+  - 'http://www.g3n.info/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: genstake
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/G3N/index.php'
+mineable: true

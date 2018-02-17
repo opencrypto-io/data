@@ -1,0 +1,14 @@
+name: Curecoin
+symbol: CURE
+type: coin
+web:
+  - 'https://curecoin.net/'
+resources:
+  message-board: []
+webids:
+  github: cygnusxi
+  coinmarketcap: curecoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/cure/'
+mineable: true

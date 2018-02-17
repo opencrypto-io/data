@@ -1,0 +1,12 @@
+name: Sovereign Hero
+symbol: HERO
+type: token
+web:
+  - 'http://www.sovereignhero.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://cryptofresh.com/a/HERO'
+mineable: false

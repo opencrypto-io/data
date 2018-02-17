@@ -1,0 +1,12 @@
+name: Rubies
+symbol: RBIES
+type: coin
+web:
+  - 'http://rbies.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://blockexplorer.betterbets.io:8080/'
+mineable: false

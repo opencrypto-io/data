@@ -1,0 +1,13 @@
+name: StarCredits
+symbol: STRC
+type: token
+web:
+  - 'https://backto.earth/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x46492473755e8df960f8034877f61732d718ce96'
+    - 'https://ethplorer.io/address/0x46492473755e8df960f8034877f61732d718ce96'
+mineable: false

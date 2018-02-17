@@ -1,0 +1,12 @@
+name: Orlycoin
+symbol: ORLY
+type: coin
+web:
+  - 'http://www.orlycoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/orly'
+mineable: true

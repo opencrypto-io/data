@@ -1,0 +1,14 @@
+name: AmsterdamCoin
+symbol: AMS
+type: coin
+web:
+  - 'http://amsterdamcoin.com/'
+resources:
+  message-board: []
+webids:
+  github: CoinProjects
+  coinmarketcap: amsterdamcoin
+tools:
+  explorer:
+    - 'http://www.amsterdamblockchain.info/'
+mineable: true

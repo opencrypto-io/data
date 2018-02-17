@@ -1,0 +1,12 @@
+name: Bowhead
+symbol: AHT
+type: token
+web:
+  - 'https://bowheadhealth.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://wavesexplorer.com/tx/HfFHZaPzGMSdHvaaZ7S8mrZrPWEyGzfA6VDuSRzb8uY6'
+mineable: false

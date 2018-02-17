@@ -1,0 +1,15 @@
+name: SmileyCoin
+symbol: SMLY
+type: coin
+web:
+  - 'http://tutor-web.info'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/SmileyCoinInternational'
+  github: tutor-web
+  coinmarketcap: smileycoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/smly/'
+mineable: true

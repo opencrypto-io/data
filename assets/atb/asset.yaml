@@ -1,0 +1,13 @@
+name: ATBCoin
+symbol: ATB
+type: coin
+web:
+  - 'https://atbcoin.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/atbcoinchat'
+tools:
+  explorer:
+    - 'https://explorer.atbcoin.com/'
+mineable: true

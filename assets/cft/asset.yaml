@@ -1,0 +1,13 @@
+name: CryptoForecast
+symbol: CFT
+type: token
+web:
+  - 'https://cryptoforecast.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/CryptoForecastint'
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=158'
+mineable: false

@@ -1,0 +1,12 @@
+name: HealthyWormCoin
+symbol: WORM
+type: coin
+web:
+  - 'http://healthyworm.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/worm/'
+mineable: true

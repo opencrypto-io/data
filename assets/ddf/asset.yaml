@@ -1,0 +1,13 @@
+name: DigitalDevelopersFund
+symbol: DDF
+type: token
+web:
+  - 'https://www.digitaldevelopersfund.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38'
+    - 'https://ethplorer.io/address/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38'
+mineable: false

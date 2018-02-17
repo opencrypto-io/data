@@ -1,0 +1,15 @@
+name: WINCOIN
+symbol: WC
+type: coin
+web:
+  - 'https://wincoin.co/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: win-coin
+  github: Wincoinofficial
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/wc'
+mineable: true

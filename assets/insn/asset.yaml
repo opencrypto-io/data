@@ -1,0 +1,15 @@
+name: InsaneCoin
+symbol: INSN
+type: coin
+web:
+  - 'http://www.insanecoin.com'
+resources:
+  message-board: []
+webids:
+  github: CryptoCoderz
+  coinmarketcap: insanecoin-insn
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/insn/'
+    - 'http://insane.thecryptochat.net/'
+mineable: true

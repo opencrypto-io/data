@@ -1,0 +1,14 @@
+name: BitBay
+symbol: BAY
+type: coin
+web:
+  - 'http://bitbay.market/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/bitbayofficial'
+tools:
+  explorer:
+    - 'http://explorer.bitbay.market/'
+    - 'https://chainz.cryptoid.info/bay/'
+mineable: false

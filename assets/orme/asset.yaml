@@ -1,0 +1,14 @@
+name: Ormeus Coin
+symbol: ORME
+type: token
+web:
+  - 'https://ormeuscoin.com/'
+resources:
+  message-board:
+    - 'https://bitcointalk.org/index.php?topic=2127561'
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x516e5436bafdc11083654de7bb9b95382d08d5de'
+    - 'https://ethplorer.io/address/0x516e5436bafdc11083654de7bb9b95382d08d5de'
+mineable: false

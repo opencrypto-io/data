@@ -1,0 +1,15 @@
+name: BlakeStar
+symbol: BLAS
+type: coin
+web:
+  - 'http://www.blakestar.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/BlakeStarCoin'
+  github: cryptofun
+  coinmarketcap: blakestar
+tools:
+  explorer:
+    - 'https://explorer.blakestar.io/'
+mineable: true

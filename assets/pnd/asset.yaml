@@ -1,0 +1,15 @@
+name: Pandacoin
+symbol: PND
+type: coin
+web:
+  - 'http://digitalpandacoin.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/DigitalPandacoin'
+  github: DigitalPandacoin
+  coinmarketcap: pandacoin-pnd
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pnd/'
+mineable: true

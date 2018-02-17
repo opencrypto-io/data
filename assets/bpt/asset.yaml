@@ -1,0 +1,17 @@
+name: Blockport
+symbol: BPT
+type: token
+web:
+  - 'https://www.blockport.io/'
+resources:
+  message-board:
+    - 'https://medium.com/blockport'
+webids:
+  telegram: 'https://t.me/blockport'
+  github: Blockport
+  coinmarketcap: blockport
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x327682779bab2bf4d1337e8974ab9de8275a7ca8'
+    - 'https://ethplorer.io/address/0x327682779bab2bf4d1337e8974ab9de8275a7ca8'
+mineable: false

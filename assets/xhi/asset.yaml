@@ -1,0 +1,14 @@
+name: HiCoin
+symbol: XHI
+type: coin
+web:
+  - 'http://xhicoin.com/'
+resources:
+  message-board: []
+webids:
+  github: hicoindev
+  coinmarketcap: hicoin
+tools:
+  explorer:
+    - 'http://explorer.xhicoin.com/'
+mineable: true

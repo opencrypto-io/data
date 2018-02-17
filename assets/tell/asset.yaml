@@ -1,0 +1,15 @@
+name: Tellurion
+symbol: TELL
+type: coin
+web:
+  - 'http://www.tellurion.info/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: tellurion
+  github: telluriondev
+tools:
+  explorer:
+    - 'http://blockchain.megacrypton.com/tell/'
+mineable: true

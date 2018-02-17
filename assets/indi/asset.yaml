@@ -1,0 +1,15 @@
+name: Indicoin
+symbol: INDI
+type: token
+web:
+  - 'https://www.indicoin.org.in/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: indicoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'
+    - 'https://ethplorer.io/address/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1'
+mineable: false

@@ -1,0 +1,12 @@
+name: Tether
+symbol: USDT
+type: token
+web:
+  - 'https://tether.to'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=31'
+mineable: false

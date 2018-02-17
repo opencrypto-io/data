@@ -1,0 +1,15 @@
+name: ReddCoin
+symbol: RDD
+type: coin
+web:
+  - 'http://www.reddcoin.com/'
+resources:
+  message-board:
+    - 'https://www.reddcointalk.org/'
+webids:
+  github: reddcoin-project
+  coinmarketcap: reddcoin
+tools:
+  explorer:
+    - 'http://live.reddcoin.com/'
+mineable: false

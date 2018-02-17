@@ -1,0 +1,14 @@
+name: SaluS
+symbol: SLS
+type: coin
+web:
+  - 'http://saluscoin.info/'
+resources:
+  message-board: []
+webids:
+  github: saluscoin
+  coinmarketcap: salus
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/SLS'
+mineable: false

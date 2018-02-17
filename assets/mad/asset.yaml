@@ -1,0 +1,13 @@
+name: SatoshiMadness
+symbol: MAD
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: playpossat
+  coinmarketcap: satoshimadness
+tools:
+  explorer:
+    - 'http://mad.blockpioneers.pw/'
+mineable: false

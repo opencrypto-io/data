@@ -1,0 +1,15 @@
+name: WeAreSatoshi
+symbol: WSX
+type: coin
+web:
+  - 'http://www.wsx.co.in'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: wearesatoshi
+  github: WeAreSatoshi
+tools:
+  explorer:
+    - 'http://explorer.wsx.co.in'
+mineable: true

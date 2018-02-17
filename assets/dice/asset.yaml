@@ -1,0 +1,13 @@
+name: Etheroll
+symbol: DICE
+type: token
+web:
+  - 'https://etheroll.com/'
+  - 'https://etheroll.wordpress.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x2e071D2966Aa7D8dECB1005885bA1977D6038A65'
+mineable: false

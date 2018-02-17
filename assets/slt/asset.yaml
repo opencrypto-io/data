@@ -1,0 +1,17 @@
+name: Smartlands
+symbol: SLT
+type: token
+web:
+  - 'https://smartlands.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@smartlands'
+webids:
+  telegram: 'https://t.me/smartlandschat'
+  github: Smartlands-Platform
+  coinmarketcap: smartlands
+tools:
+  explorer:
+    - >-
+      https://stellar.expert/explorer/asset/SLT-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP
+mineable: false

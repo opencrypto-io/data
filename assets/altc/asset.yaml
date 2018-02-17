@@ -1,0 +1,13 @@
+name: Antilitecoin
+symbol: ALTC
+type: coin
+web:
+  - 'http://antilitecoin.pw/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: antilitecoin
+tools:
+  explorer:
+    - 'http://tekyexplorer.xyz/altc/'
+mineable: true

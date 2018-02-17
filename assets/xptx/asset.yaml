@@ -1,0 +1,14 @@
+name: PlatinumBAR
+symbol: XPTX
+type: coin
+web:
+  - 'http://platinumbar.io'
+resources:
+  message-board: []
+webids:
+  github: xptx
+  coinmarketcap: platinumbar
+tools:
+  explorer:
+    - 'http://xptx.io/'
+mineable: true

@@ -1,0 +1,12 @@
+name: Unity Ingot
+symbol: UNY
+type: token
+web:
+  - 'https://unityingot.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x1a986F1659e11E2AE7CC6543F307bAE5cDe1C761'
+mineable: false

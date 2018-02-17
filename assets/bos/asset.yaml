@@ -1,0 +1,17 @@
+name: BOScoin
+symbol: BOS
+type: coin
+web:
+  - 'https://boscoin.io/'
+resources:
+  message-board:
+    - 'https://forum.boscoin.io'
+webids:
+  coinmarketcap: boscoin
+  github: owlchain
+tools:
+  explorer:
+    - 'http://boschain.org/'
+    - 'https://bosradar.com/'
+    - 'http://www.bosnode.com/'
+mineable: false

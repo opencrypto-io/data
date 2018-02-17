@@ -1,0 +1,14 @@
+name: Hshare
+symbol: HSR
+type: coin
+web:
+  - 'https://h.cash/'
+resources:
+  message-board: []
+webids:
+  github: HcashOrg
+  coinmarketcap: hshare
+tools:
+  explorer:
+    - 'http://explorer.h.cash/'
+mineable: true

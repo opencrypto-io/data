@@ -1,0 +1,15 @@
+name: Numus
+symbol: NMS
+type: coin
+web:
+  - 'http://numus.cash/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: numus
+  github: numuscrypto
+tools:
+  explorer:
+    - 'https://numus.info/'
+mineable: false

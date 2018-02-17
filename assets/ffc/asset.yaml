@@ -1,0 +1,13 @@
+name: FireFlyCoin
+symbol: FFC
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: fireflycoin
+tools:
+  explorer:
+    - 'http://31.220.50.241:8250/'
+mineable: true

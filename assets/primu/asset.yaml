@@ -1,0 +1,14 @@
+name: Primulon
+symbol: PRIMU
+type: coin
+web:
+  - 'https://www.primulon.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: primulon
+  github: primulondev2
+tools:
+  explorer: []
+mineable: true

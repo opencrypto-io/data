@@ -1,0 +1,13 @@
+name: Upfiring
+symbol: UFR
+type: token
+web:
+  - 'https://www.upfiring.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xea097a2b1db00627b2fa17460ad260c016016977'
+    - 'https://ethplorer.io/address/0xea097a2b1db00627b2fa17460ad260c016016977'
+mineable: false

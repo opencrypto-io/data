@@ -1,0 +1,13 @@
+name: Pepe Cash
+symbol: PEPECASH
+type: token
+web:
+  - 'http://rarepepedirectory.com/'
+  - 'http://rarepepewallet.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://xchain.io/asset/PEPECASH'
+mineable: false

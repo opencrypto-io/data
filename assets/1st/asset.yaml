@@ -1,0 +1,12 @@
+name: FirstBlood
+symbol: 1ST
+type: token
+web:
+  - 'https://firstblood.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/FirstBlood'
+mineable: false

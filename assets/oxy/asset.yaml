@@ -1,0 +1,15 @@
+name: Oxycoin
+symbol: OXY
+type: coin
+web:
+  - 'https://oxycoin.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@oxycoin/'
+webids:
+  github: oxycoin
+  coinmarketcap: oxycoin
+tools:
+  explorer:
+    - 'https://explorer.oxycoin.io/'
+mineable: true

@@ -1,0 +1,14 @@
+name: NVO
+symbol: NVST
+type: token
+web:
+  - 'https://nvo.io/'
+resources:
+  message-board: []
+webids:
+  github: nvoproject
+  coinmarketcap: nvo
+tools:
+  explorer:
+    - 'https://xchain.io/asset/NVST'
+mineable: false

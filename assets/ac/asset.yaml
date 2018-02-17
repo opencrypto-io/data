@@ -1,0 +1,12 @@
+name: AsiaCoin
+symbol: AC
+type: coin
+web:
+  - 'http://www.thecoin.asia/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ac/'
+mineable: true

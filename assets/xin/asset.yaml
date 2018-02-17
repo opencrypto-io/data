@@ -1,0 +1,14 @@
+name: Mixin
+symbol: XIN
+type: token
+web:
+  - 'https://mixin.one/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: mixin
+  github: MixinMessenger
+tools:
+  explorer: []
+mineable: false

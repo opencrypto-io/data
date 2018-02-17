@@ -1,0 +1,15 @@
+name: ZCoin
+symbol: XZC
+type: coin
+web:
+  - 'https://zcoin.io'
+resources:
+  message-board: []
+webids:
+  github: zcoinofficial
+  coinmarketcap: zcoin
+tools:
+  explorer:
+    - 'http://explorer.zcoin.io'
+    - 'https://chainz.cryptoid.info/xzc/'
+mineable: true

@@ -1,0 +1,15 @@
+name: Pioneer Coin
+symbol: PCOIN
+type: coin
+web:
+  - 'https://pioneercoin.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/F1zHDA2qvbmuxzCau5lSzQ'
+  github: PCOIN
+  coinmarketcap: pioneer-coin
+tools:
+  explorer:
+    - 'http://www.pioneerchain.com/'
+mineable: true

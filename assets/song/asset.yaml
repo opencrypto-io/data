@@ -1,0 +1,14 @@
+name: SongCoin
+symbol: SONG
+type: coin
+web:
+  - 'http://www.songcoin.org'
+resources:
+  message-board: []
+webids:
+  github: Songcoin
+  coinmarketcap: songcoin
+tools:
+  explorer:
+    - 'http://altcoinguys.blockexperts.com/song'
+mineable: true

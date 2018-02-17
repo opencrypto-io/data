@@ -1,0 +1,14 @@
+name: TajCoin
+symbol: TAJ
+type: coin
+web:
+  - 'http://tajcoin.tech/'
+resources:
+  message-board: []
+webids:
+  github: Taj-Coin
+  coinmarketcap: tajcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/taj/'
+mineable: true

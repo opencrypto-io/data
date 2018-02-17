@@ -1,0 +1,12 @@
+name: OBITS
+symbol: OBITS
+type: token
+web:
+  - 'http://www.obits.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/OBITS'
+mineable: false

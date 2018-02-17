@@ -1,0 +1,15 @@
+name: PayCon
+symbol: CON
+type: coin
+web:
+  - 'https://paycon.pw/'
+resources:
+  message-board: []
+webids:
+  github: cryptotech
+  coinmarketcap: paycon
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/paycon/'
+    - 'https://www.cryptopia.co.nz/BlockExplorer?coin=CON'
+mineable: false

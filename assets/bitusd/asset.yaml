@@ -1,0 +1,13 @@
+name: bitUSD
+symbol: BITUSD
+type: token
+web:
+  - 'http://bit.ly/BitShares_USD'
+resources:
+  message-board:
+    - 'https://bitsharestalk.org/'
+webids: {}
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/USD'
+mineable: false

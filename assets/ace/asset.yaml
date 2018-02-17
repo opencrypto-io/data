@@ -1,0 +1,16 @@
+name: Ace
+symbol: ACE
+type: token
+web:
+  - 'https://tokenstars.com/en/ace'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/TokenStars_en'
+  github: token-stars
+  coinmarketcap: ace
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8'
+    - 'https://ethplorer.io/address/0x06147110022b768ba8f99a8f385df11a151a9cc8'
+mineable: false

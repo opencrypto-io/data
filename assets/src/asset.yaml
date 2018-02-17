@@ -1,0 +1,14 @@
+name: SecureCoin
+symbol: SRC
+type: coin
+web:
+  - 'https://securechain.info/'
+resources:
+  message-board: []
+webids:
+  github: securecoin
+  coinmarketcap: securecoin
+tools:
+  explorer:
+    - 'https://securechain.info/'
+mineable: true

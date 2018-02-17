@@ -1,0 +1,16 @@
+name: EagleCoin
+symbol: EAGLE
+type: token
+web:
+  - 'https://eaglepay.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/eaglecoinworld'
+  github: elangindonesia
+  coinmarketcap: eaglecoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9'
+    - 'https://ethplorer.io/address/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9'
+mineable: false

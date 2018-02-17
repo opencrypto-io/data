@@ -1,0 +1,15 @@
+name: Pesetacoin
+symbol: PTC
+type: coin
+web:
+  - 'http://pesetacoin.info/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/AAAAAEKf5_1-Yx1b2vYOaw'
+  github: FundacionPesetacoin
+  coinmarketcap: pesetacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ptc/'
+mineable: true

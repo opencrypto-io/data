@@ -1,0 +1,17 @@
+name: DATA
+symbol: DTA
+type: token
+web:
+  - 'http://data.eco/'
+resources:
+  message-board:
+    - 'https://medium.com/@Blockchain_Data'
+webids:
+  coinmarketcap: data
+  telegram: 'https://t.me/blockchainDATA'
+  github: Blockchain-DATA
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x69b148395ce0015c13e36bffbad63f49ef874e03'
+    - 'https://ethplorer.io/address/0x69b148395ce0015c13e36bffbad63f49ef874e03'
+mineable: false

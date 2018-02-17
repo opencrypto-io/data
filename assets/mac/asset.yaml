@@ -1,0 +1,14 @@
+name: Machinecoin
+symbol: MAC
+type: coin
+web:
+  - 'https://machinecoin.io/'
+resources:
+  message-board: []
+webids:
+  github: machinecoin-project
+  coinmarketcap: machinecoin
+tools:
+  explorer:
+    - 'https://explorer.machinecoin.io'
+mineable: true

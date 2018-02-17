@@ -1,0 +1,14 @@
+name: eBitcoinCash
+symbol: EBCH
+type: token
+web:
+  - 'https://www.ebitcoincash.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/ebchcoin/'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xafc39788c51f0c1ff7b55317f3e70299e521fff6'
+    - 'https://ethplorer.io/address/0xafc39788c51f0c1ff7b55317f3e70299e521fff6'
+mineable: false

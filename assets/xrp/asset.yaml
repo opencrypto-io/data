@@ -1,0 +1,16 @@
+name: Ripple
+symbol: XRP
+type: coin
+web:
+  - 'https://ripple.com/'
+resources:
+  message-board:
+    - 'http://www.xrpchat.com/'
+webids:
+  github: ripple
+  coinmarketcap: ripple
+tools:
+  explorer:
+    - 'https://xrpcharts.ripple.com/#/graph/'
+    - 'https://bithomp.com/explorer/'
+mineable: false

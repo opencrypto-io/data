@@ -1,0 +1,15 @@
+name: TransferCoin
+symbol: TX
+type: coin
+web:
+  - 'http://txproject.io/'
+resources:
+  message-board:
+    - 'http://transfercointx.pw'
+webids:
+  github: transferdev
+  coinmarketcap: transfercoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/tx/'
+mineable: false

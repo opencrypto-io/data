@@ -1,0 +1,16 @@
+name: GridCoin
+symbol: GRC
+type: coin
+web:
+  - 'http://www.gridcoin.us/'
+resources:
+  message-board:
+    - 'https://cryptocurrencytalk.com/forum/464-gridcoin-grc/'
+webids:
+  telegram: 'https://t.me/gridcoin'
+  github: gridcoin
+  coinmarketcap: gridcoin
+tools:
+  explorer:
+    - 'http://www.gridresearchcorp.com/gridcoin/'
+mineable: true

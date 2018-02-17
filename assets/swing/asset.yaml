@@ -1,0 +1,14 @@
+name: Swing
+symbol: SWING
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: SwingCoin
+  coinmarketcap: swing
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/swing/'
+    - 'http://cryptobe.com/chain/Swing'
+mineable: true

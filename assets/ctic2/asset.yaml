@@ -1,0 +1,13 @@
+name: Coimatic 2.0
+symbol: CTIC2
+type: coin
+web:
+  - 'http://coimatic.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://193.70.109.114:4002/'
+    - 'http://198.199.90.93/Coimatic2/'
+mineable: true

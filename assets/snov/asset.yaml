@@ -1,0 +1,15 @@
+name: Snovio
+symbol: SNOV
+type: token
+web:
+  - 'https://tokensale.snov.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@ico_snovio'
+webids:
+  telegram: 'https://t.me/snovio_ico'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xbdc5bac39dbe132b1e030e898ae3830017d7d969'
+    - 'https://ethplorer.io/address/0xbdc5bac39dbe132b1e030e898ae3830017d7d969'
+mineable: false

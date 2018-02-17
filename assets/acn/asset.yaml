@@ -1,0 +1,14 @@
+name: Avoncoin
+symbol: ACN
+type: coin
+web:
+  - 'http://avoncoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: avoncoin
+tools:
+  explorer:
+    - 'http://explorer.avoncoin.org'
+mineable: false

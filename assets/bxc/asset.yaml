@@ -1,0 +1,14 @@
+name: Bitcedi
+symbol: BXC
+type: coin
+web:
+  - 'http://bitcedi.org/'
+resources:
+  message-board: []
+webids:
+  github: lulworm
+  coinmarketcap: bitcedi
+tools:
+  explorer:
+    - 'http://185.106.122.31/bitcedi/#blockchain_blocks'
+mineable: true

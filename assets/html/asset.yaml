@@ -1,0 +1,16 @@
+name: HTMLCOIN
+symbol: HTML
+type: coin
+web:
+  - 'http://www.htmlcoin.com/'
+  - 'https://htmlcoin.business/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/htmlcoinofficial'
+  github: HTMLCOIN
+  coinmarketcap: html-coin
+tools:
+  explorer:
+    - 'https://html.mastercalls.io/'
+mineable: true

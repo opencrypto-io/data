@@ -1,0 +1,16 @@
+name: FlutterCoin
+symbol: FLT
+type: coin
+web:
+  - 'http://www.fluttercoin.me/'
+resources:
+  message-board:
+    - 'http://fluttercointalk.com'
+webids:
+  github: ofeefee
+  coinmarketcap: fluttercoin
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/FLT/'
+    - 'https://prohashing.com/explorer/Fluttercoin/'
+mineable: true

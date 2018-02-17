@@ -1,0 +1,15 @@
+name: FAPcoin
+symbol: FAP
+type: token
+web:
+  - 'http://fapcoin.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: fapcoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x6467882316dc6e206feef05fba6deaa69277f155'
+    - 'https://ethplorer.io/address/0x6467882316dc6e206feef05fba6deaa69277f155'
+mineable: false

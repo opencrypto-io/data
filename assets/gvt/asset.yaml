@@ -1,0 +1,16 @@
+name: Genesis Vision
+symbol: GVT
+type: token
+web:
+  - 'https://genesis.vision/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/genesisvision'
+  github: GenesisVision
+  coinmarketcap: genesis-vision
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0'
+    - 'https://ethplorer.io/address/0x103c3a209da59d3e7c4a89307e66521e081cfdf0'
+mineable: false

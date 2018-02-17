@@ -1,0 +1,14 @@
+name: Enigma
+symbol: XNG
+type: coin
+web:
+  - 'http://www.enigmacoin.exnet.su/'
+resources:
+  message-board: []
+webids:
+  github: TeamIntellect
+  coinmarketcap: enigma
+tools:
+  explorer:
+    - 'http://blockexplorer.enigmacoin.exnet.su/'
+mineable: true

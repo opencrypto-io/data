@@ -1,0 +1,15 @@
+name: 42-coin
+symbol: '42'
+type: coin
+web:
+  - 'http://42-coin.org/'
+resources:
+  message-board: []
+webids:
+  github: 42-coin
+  coinmarketcap: 42-coin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/42/'
+    - 'https://prohashing.com/explorer/42/'
+mineable: true

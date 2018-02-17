@@ -1,0 +1,15 @@
+name: Signatum
+symbol: SIGT
+type: coin
+web:
+  - 'https://signatum.org/'
+resources:
+  message-board: []
+webids:
+  github: signatumd
+  coinmarketcap: signatum
+tools:
+  explorer:
+    - 'http://explorer.signatum.download/'
+    - 'http://explorer.signatum.io/'
+mineable: false

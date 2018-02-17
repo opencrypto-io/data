@@ -1,0 +1,12 @@
+name: DECENT
+symbol: DCT
+type: coin
+web:
+  - 'https://decent.ch/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://decent-db.com/'
+mineable: false

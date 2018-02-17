@@ -1,0 +1,15 @@
+name: Envion
+symbol: EVN
+type: token
+web:
+  - 'https://www.envion.org'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: envion
+  telegram: 'https://t.me/Envion'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xd780ae2bf04cd96e577d3d014762f831d97129d0'
+    - 'https://ethplorer.io/address/0xd780ae2bf04cd96e577d3d014762f831d97129d0'
+mineable: false

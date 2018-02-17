@@ -1,0 +1,17 @@
+name: PotCoin
+symbol: POT
+type: coin
+web:
+  - 'http://www.potcoin.com/'
+resources:
+  message-board:
+    - 'https://steemit.com/@potcoin'
+webids:
+  telegram: 'https://t.me/potcoin420'
+  github: potcoin
+  coinmarketcap: potcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pot/'
+    - 'https://chain.potcoin.com/'
+mineable: false

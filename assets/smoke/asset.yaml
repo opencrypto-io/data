@@ -1,0 +1,16 @@
+name: Smoke
+symbol: SMOKE
+type: token
+web:
+  - 'https://www.smoke.network/'
+resources:
+  message-board:
+    - 'https://medium.com/smokenetwork'
+  source: []
+webids:
+  coinmarketcap: smoke
+  github: smokenetwork
+tools:
+  explorer:
+    - 'https://openledger.io/asset/SMOKE'
+mineable: false

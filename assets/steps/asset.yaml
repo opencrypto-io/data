@@ -1,0 +1,12 @@
+name: Steps
+symbol: STEPS
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  coinmarketcap: steps
+tools:
+  explorer:
+    - 'http://chain.altcoinsteps.com/'
+mineable: false

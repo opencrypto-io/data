@@ -1,0 +1,15 @@
+name: BlueCoin
+symbol: BLU
+type: coin
+web:
+  - 'http://www.bluecoin.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/CB8D9A8jicz78p02QWTI6w'
+  github: bluecoiner
+  coinmarketcap: bluecoin
+tools:
+  explorer:
+    - 'http://blockexperts.com/blu'
+mineable: true

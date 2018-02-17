@@ -1,0 +1,15 @@
+name: Xios
+symbol: XIOS
+type: coin
+web:
+  - 'http://www.xioscoin.com/'
+resources:
+  message-board: []
+webids:
+  github: ButterRose
+  coinmarketcap: xios
+tools:
+  explorer:
+    - 'http://107.170.222.106/'
+    - 'https://masternodes.online/currencies/XIOS/'
+mineable: true

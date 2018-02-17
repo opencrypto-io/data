@@ -1,0 +1,15 @@
+name: Particl
+symbol: PART
+type: coin
+web:
+  - 'http://particl.io/'
+resources:
+  message-board: []
+webids:
+  github: particl
+  coinmarketcap: particl
+tools:
+  explorer:
+    - 'https://explorer.particl.io/'
+    - 'https://chainz.cryptoid.info/part/'
+mineable: false

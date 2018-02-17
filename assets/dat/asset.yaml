@@ -1,0 +1,14 @@
+name: Datum
+symbol: DAT
+type: token
+web:
+  - 'https://datum.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/datumnetworkRU'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c'
+    - 'https://ethplorer.io/address/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c'
+mineable: false

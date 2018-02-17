@@ -1,0 +1,14 @@
+name: Influxcoin
+symbol: INFX
+type: coin
+web:
+  - 'http://influxcoin.xyz/'
+resources:
+  message-board: []
+webids:
+  github: chainworksindustries
+  coinmarketcap: influxcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/infx/'
+mineable: true

@@ -1,0 +1,14 @@
+name: RonPaulCoin
+symbol: RPC
+type: coin
+web:
+  - 'http://www.ronpaulcoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/rpc/'
+    - 'http://rpc.blockexp.info/chain/RonPaulCoin'
+    - 'https://www.cryptopia.co.nz/BlockExplorer?coin=RPC'
+mineable: true

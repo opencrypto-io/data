@@ -1,0 +1,13 @@
+name: WETH
+symbol: WETH
+type: token
+web:
+  - 'https://weth.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: weth
+tools:
+  explorer: []
+mineable: false

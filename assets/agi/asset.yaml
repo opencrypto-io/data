@@ -1,0 +1,16 @@
+name: SingularityNET
+symbol: AGI
+type: token
+web:
+  - 'https://singularitynet.io/'
+resources:
+  message-board:
+    - 'https://blog.singularitynet.io/'
+webids:
+  github: singnet
+  coinmarketcap: singularitynet
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285'
+    - 'https://ethplorer.io/address/0x8eb24319393716668d768dcec29356ae9cffe285'
+mineable: false

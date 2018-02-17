@@ -1,0 +1,16 @@
+name: InflationCoin
+symbol: IFLT
+type: coin
+web:
+  - 'http://inflationcoin.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/Inflationcoin'
+  github: inflationcoin
+  coinmarketcap: inflationcoin
+tools:
+  explorer:
+    - 'http://inflationcoin.thecryptochat.net/'
+    - 'http://www.presstab.pw/phpexplorer/IFLT/'
+mineable: false

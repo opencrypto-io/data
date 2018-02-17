@@ -1,0 +1,14 @@
+name: Bitcoin God
+symbol: GOD
+type: coin
+web:
+  - 'https://www.bitcoingod.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: bitcoin-god
+  telegram: 'https://t.me/joinchat/HVP0kBBx-murObE3hpv7HA'
+tools:
+  explorer: []
+mineable: false

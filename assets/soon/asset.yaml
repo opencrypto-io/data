@@ -1,0 +1,12 @@
+name: SoonCoin
+symbol: SOON
+type: coin
+web:
+  - 'http://www.sooncoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.sooncoin.com/'
+mineable: false

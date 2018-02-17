@@ -1,0 +1,14 @@
+name: Hawala.Today
+symbol: HAT
+type: token
+web:
+  - 'https://hawala.today/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/hawala_chat'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9002d4485b7594e3e850f0a206713b305113f69e'
+    - 'https://ethplorer.io/address/0x9002d4485b7594e3e850f0a206713b305113f69e'
+mineable: false

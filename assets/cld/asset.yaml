@@ -1,0 +1,17 @@
+name: Cloud
+symbol: CLD
+type: token
+web:
+  - 'https://cloudwith.me/'
+  - 'https://token.cloudwith.me/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: cloud
+  github: cwmdev
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xc3951d77737733174152532e8b0f27e2c4e9f0dc'
+    - 'https://ethplorer.io/address/0xc3951d77737733174152532e8b0f27e2c4e9f0dc'
+mineable: false

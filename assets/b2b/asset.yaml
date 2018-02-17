@@ -1,0 +1,15 @@
+name: B2BX
+symbol: B2B
+type: token
+web:
+  - 'https://www.b2bx.pro/'
+  - 'https://b2broker.net/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/B2BX_ICO_eng'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393'
+    - 'https://ethplorer.io/address/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393'
+mineable: false

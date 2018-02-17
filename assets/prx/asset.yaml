@@ -1,0 +1,14 @@
+name: Printerium
+symbol: PRX
+type: coin
+web:
+  - 'http://printerium.info/'
+resources:
+  message-board: []
+webids:
+  github: Printerium
+  coinmarketcap: printerium
+tools:
+  explorer:
+    - 'http://explorer.printerium.info:5000/'
+mineable: true

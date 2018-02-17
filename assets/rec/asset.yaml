@@ -1,0 +1,12 @@
+name: Regalcoin
+symbol: REC
+type: coin
+web:
+  - 'https://regalcoin.co/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://regalcoin.info/'
+mineable: true

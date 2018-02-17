@@ -1,0 +1,14 @@
+name: President Johnson
+symbol: GARY
+type: token
+web:
+  - 'http://johnson.2016coin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: president-johnson
+tools:
+  explorer:
+    - 'http://omnichest.info/mdexmarket.aspx?market=66'
+mineable: false

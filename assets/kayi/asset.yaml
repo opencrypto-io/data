@@ -1,0 +1,12 @@
+name: Kayicoin
+symbol: KAYI
+type: coin
+web:
+  - 'https://www.xn--kay-lua.net/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/kayi'
+mineable: false

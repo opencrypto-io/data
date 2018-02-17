@@ -1,0 +1,15 @@
+name: Zilliqa
+symbol: ZIL
+type: token
+web:
+  - 'https://www.zilliqa.com/'
+resources:
+  message-board: []
+webids:
+  github: Zilliqa
+  coinmarketcap: zilliqa
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27'
+    - 'https://ethplorer.io/address/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27'
+mineable: false

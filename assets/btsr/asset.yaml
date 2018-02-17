@@ -1,0 +1,12 @@
+name: BTSR
+symbol: BTSR
+type: token
+web:
+  - 'https://btsr.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/BTSR'
+mineable: false

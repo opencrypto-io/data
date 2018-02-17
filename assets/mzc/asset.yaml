@@ -1,0 +1,15 @@
+name: MAZA
+symbol: MZC
+type: coin
+web:
+  - 'http://www.mazacoin.org/'
+resources:
+  message-board: []
+webids:
+  github: mazacoin
+  coinmarketcap: mazacoin
+tools:
+  explorer:
+    - 'https://mazacha.in/'
+    - 'https://explorer.coinpayments.net/index.php?chain=11'
+mineable: true

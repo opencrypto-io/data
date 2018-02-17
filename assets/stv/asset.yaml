@@ -1,0 +1,14 @@
+name: Sativacoin
+symbol: STV
+type: coin
+web:
+  - 'https://www.sativacoin.io/'
+resources:
+  message-board: []
+webids:
+  github: NewSativacoinDev
+  coinmarketcap: sativacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/stv/'
+mineable: true

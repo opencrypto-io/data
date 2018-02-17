@@ -1,0 +1,14 @@
+name: NevaCoin
+symbol: NEVA
+type: coin
+web:
+  - 'https://nevacoin.net/'
+resources:
+  message-board: []
+webids:
+  github: Nevacoin
+  coinmarketcap: nevacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/neva/'
+mineable: true

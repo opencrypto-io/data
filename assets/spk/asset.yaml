@@ -1,0 +1,15 @@
+name: Sparks
+symbol: SPK
+type: coin
+web:
+  - 'https://sparks.gold/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: sparks
+  github: sparkscrypto
+tools:
+  explorer:
+    - 'http://spk.explorerz.top:3019/'
+mineable: true

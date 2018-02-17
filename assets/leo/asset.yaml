@@ -1,0 +1,15 @@
+name: LEOcoin
+symbol: LEO
+type: coin
+web:
+  - 'http://www.leocoin.org/'
+  - 'http://leocoinfoundation.org/'
+resources:
+  message-board: []
+webids:
+  github: Leocoin-project
+  coinmarketcap: leocoin
+tools:
+  explorer:
+    - 'https://insight.leocoin.org/'
+mineable: false

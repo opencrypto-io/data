@@ -1,0 +1,15 @@
+name: Megacoin
+symbol: MEC
+type: coin
+web:
+  - 'https://www.megacoin.eu/'
+resources:
+  message-board:
+    - 'http://megacointalk.org/'
+webids:
+  github: LIMXTEC
+  coinmarketcap: megacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/mec/'
+mineable: true

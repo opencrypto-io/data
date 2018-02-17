@@ -1,0 +1,17 @@
+name: Streamr DATAcoin
+symbol: DATA
+type: token
+web:
+  - 'https://www.streamr.com/'
+resources:
+  message-board:
+    - 'https://blog.streamr.com/'
+    - 'https://www.reddit.com/r/streamr/'
+webids:
+  github: streamr-dev
+  coinmarketcap: streamr-datacoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023'
+    - 'https://ethplorer.io/address/0x0cf0ee63788a0849fe5297f3407f701e122cc023'
+mineable: false

@@ -1,0 +1,14 @@
+name: Zephyr
+symbol: ZEPH
+type: coin
+web:
+  - 'https://zephyr.bitspark.io/'
+resources:
+  message-board:
+    - 'https://bitsharestalk.org/index.php/topic,24946.0.html'
+webids:
+  telegram: 'https://t.me/joinchat/BQS59kQMk8bL74vR8NkhMg'
+tools:
+  explorer:
+    - 'https://cryptofresh.com/a/ZEPH'
+mineable: false

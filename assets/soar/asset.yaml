@@ -1,0 +1,15 @@
+name: Soarcoin
+symbol: SOAR
+type: token
+web:
+  - 'http://soarlabs.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/FoiRKg5U9wMPNAKz3mVflA'
+tools:
+  explorer:
+    - 'http://explorer.soarlabs.org/'
+    - 'https://etherscan.io/token/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E'
+    - 'https://ethplorer.io/address/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E'
+mineable: false

@@ -1,0 +1,14 @@
+name: SpaceCoin
+symbol: SPACE
+type: coin
+web:
+  - 'http://spacecoin.info/'
+resources:
+  message-board: []
+webids:
+  github: midnight-miner
+  coinmarketcap: spacecoin
+tools:
+  explorer:
+    - 'http://space.midnightminer.net/'
+mineable: true

@@ -1,0 +1,14 @@
+name: Global Currency Reserve
+symbol: GCR
+type: coin
+web:
+  - 'http://gcrcoin.com/'
+resources:
+  message-board: []
+webids:
+  github: globalcurrencyreserve
+  coinmarketcap: global-currency-reserve
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/gcr/'
+mineable: false

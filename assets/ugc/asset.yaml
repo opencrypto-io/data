@@ -1,0 +1,15 @@
+name: ugChain
+symbol: UGC
+type: token
+web:
+  - 'http://www.ugchain.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@ugChainOfficial/'
+  source: []
+webids:
+  coinmarketcap: ugchain
+  telegram: 'https://t.me/ugChainchat'
+tools:
+  explorer: []
+mineable: false

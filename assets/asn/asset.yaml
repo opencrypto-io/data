@@ -1,0 +1,14 @@
+name: Aseancoin
+symbol: ASN
+type: coin
+web:
+  - 'https://asncoin.com'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: aseancoin
+tools:
+  explorer:
+    - 'https://asnblock.com/'
+mineable: true

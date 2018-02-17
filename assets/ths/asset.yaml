@@ -1,0 +1,14 @@
+name: TechShares
+symbol: THS
+type: coin
+web:
+  - 'http://www.techsharescommunity.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: techshares
+tools:
+  explorer:
+    - 'http://www.techsharescommunity.com/wallet#/explorer/blocks'
+mineable: false

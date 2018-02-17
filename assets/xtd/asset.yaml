@@ -1,0 +1,12 @@
+name: XTD Coin
+symbol: XTD
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: xtd-coin
+tools:
+  explorer: []
+mineable: false

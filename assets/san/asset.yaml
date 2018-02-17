@@ -1,0 +1,16 @@
+name: Santiment Net...
+symbol: SAN
+type: token
+web:
+  - 'https://santiment.net/'
+resources:
+  message-board:
+    - 'https://medium.com/santiment'
+webids:
+  github: santiment
+  coinmarketcap: santiment
+tools:
+  explorer:
+    - 'https://etherscan.io/token/SAN'
+    - 'https://ethplorer.io/address/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098'
+mineable: false

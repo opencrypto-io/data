@@ -1,0 +1,17 @@
+name: Aigang
+symbol: AIX
+type: token
+web:
+  - 'https://aigang.network/'
+resources:
+  message-board:
+    - 'https://medium.com/aigang-network'
+webids:
+  telegram: 'https://t.me/aigangnetwork'
+  github: AigangNetwork
+  coinmarketcap: aigang
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988'
+    - 'https://ethplorer.io/address/0x1063ce524265d5a3a624f4914acd573dd89ce988'
+mineable: false

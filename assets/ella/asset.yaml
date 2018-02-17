@@ -1,0 +1,17 @@
+name: Ellaism
+symbol: ELLA
+type: coin
+web:
+  - 'https://ellaism.org/'
+  - 'https://ellaism.io/'
+resources:
+  message-board:
+    - 'https://board.ellaism.io/'
+webids:
+  telegram: 'https://t.me/ellaismcoin'
+  github: ellaism
+  coinmarketcap: ellaism
+tools:
+  explorer:
+    - 'https://explorer.ellaism.org'
+mineable: true

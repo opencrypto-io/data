@@ -1,0 +1,17 @@
+name: Swarm
+symbol: SWM
+type: token
+web:
+  - 'https://www.swarm.fund/'
+resources:
+  message-board:
+    - 'https://bitcointalk.org/index.php?topic=2159615.0'
+  source: []
+webids:
+  coinmarketcap: swarm-fund
+  github: swarmfund
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a'
+    - 'https://ethplorer.io/address/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a'
+mineable: false

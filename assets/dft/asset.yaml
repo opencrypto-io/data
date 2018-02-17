@@ -1,0 +1,13 @@
+name: DraftCoin
+symbol: DFT
+type: coin
+web:
+  - 'http://btcdraft.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/btcdraftcoins'
+tools:
+  explorer:
+    - 'http://explorer.btcdraft.com/'
+mineable: false

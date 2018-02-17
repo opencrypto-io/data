@@ -1,0 +1,16 @@
+name: Bounty0x
+symbol: BNTY
+type: token
+web:
+  - 'https://bounty0x.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/bounty0x'
+  github: bounty0x
+  coinmarketcap: bounty0x
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xd2d6158683aee4cc838067727209a0aaf4359de3'
+    - 'https://ethplorer.io/address/0xd2d6158683aee4cc838067727209a0aaf4359de3'
+mineable: false

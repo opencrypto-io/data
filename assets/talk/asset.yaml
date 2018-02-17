@@ -1,0 +1,13 @@
+name: BTCtalkcoin
+symbol: TALK
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: BCCproject
+  coinmarketcap: btctalkcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/talk/'
+mineable: true

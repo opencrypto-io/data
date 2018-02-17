@@ -1,0 +1,15 @@
+name: Blakecoin
+symbol: BLC
+type: coin
+web:
+  - 'http://www.blakecoin.org/'
+resources:
+  message-board: []
+webids:
+  github: BlueDragon747
+  coinmarketcap: blakecoin
+tools:
+  explorer:
+    - 'http://blc.blakecoin.com'
+    - 'https://blakecoin.org/blakecoin-explorer/'
+mineable: true

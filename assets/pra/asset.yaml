@@ -1,0 +1,17 @@
+name: ProChain
+symbol: PRA
+type: token
+web:
+  - 'https://chain.pro/'
+resources:
+  message-board:
+    - 'https://weibo.com/prochain'
+webids:
+  telegram: 'https://t.me/ProChainTech'
+  github: prochain
+  coinmarketcap: prochain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01'
+    - 'https://ethplorer.io/address/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01'
+mineable: false

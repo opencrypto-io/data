@@ -1,0 +1,12 @@
+name: Rustbits
+symbol: RUSTBITS
+type: token
+web:
+  - 'https://spacepirate.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://xchain.io/asset/RUSTBITS'
+mineable: false

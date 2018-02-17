@@ -1,0 +1,15 @@
+name: Lykke
+symbol: LKK
+type: coin
+web:
+  - 'https://lykke.com'
+resources:
+  message-board: []
+webids:
+  github: LykkeCity
+  coinmarketcap: lykke
+tools:
+  explorer:
+    - >-
+      https://blockchainexplorer.lykke.com/asset/AXkedGbAH1XGDpAypVzA5eyjegX4FaCnvM
+mineable: false

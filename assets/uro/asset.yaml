@@ -1,0 +1,13 @@
+name: Uro
+symbol: URO
+type: coin
+web:
+  - 'http://uro.io'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: uro
+  github: FuelCoinDev
+tools:
+  explorer: []
+mineable: true

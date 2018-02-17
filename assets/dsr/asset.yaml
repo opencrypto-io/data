@@ -1,0 +1,12 @@
+name: Desire
+symbol: DSR
+type: coin
+web:
+  - 'http://www.desire-crypto.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://altmix.org/coins/13-Desire'
+mineable: true

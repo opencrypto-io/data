@@ -1,0 +1,17 @@
+name: OriginTrail
+symbol: TRAC
+type: token
+web:
+  - 'https://origintrail.io/'
+resources:
+  message-board:
+    - 'https://medium.com/origintrail'
+webids:
+  telegram: 'https://t.me/origintrail'
+  github: origintrail
+  coinmarketcap: origintrail
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f'
+    - 'https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f'
+mineable: false

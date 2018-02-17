@@ -1,0 +1,15 @@
+name: Elastic
+symbol: XEL
+type: coin
+web:
+  - 'https://www.elastic.pw/'
+resources:
+  message-board:
+    - 'https://talk.elasticexplorer.org/'
+webids:
+  github: sprocket-fpga
+  coinmarketcap: elastic
+tools:
+  explorer:
+    - 'http://elasticexplorer.org/'
+mineable: false

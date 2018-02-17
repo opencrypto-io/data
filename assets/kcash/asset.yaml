@@ -1,0 +1,15 @@
+name: Kcash
+symbol: KCASH
+type: coin
+web:
+  - 'https://www.kcash.com/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: kcash
+  telegram: 'https://t.me/KcashOfficial'
+tools:
+  explorer:
+    - >-
+      https://browser.achain.com/contract.html#/contractInfo/COND41iays8576giHf6M6Yox1DiBrDmgVyzJ?cl=1
+mineable: false

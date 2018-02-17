@@ -1,0 +1,12 @@
+name: Xonecoin
+symbol: XOC
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  coinmarketcap: xonecoin
+  github: xonecoin
+tools:
+  explorer: []
+mineable: false

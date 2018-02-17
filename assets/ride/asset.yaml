@@ -1,0 +1,14 @@
+name: Ride My Car
+symbol: RIDE
+type: coin
+web:
+  - 'http://www.ridemycar.net/'
+resources:
+  message-board: []
+webids:
+  github: RideMyCar
+  coinmarketcap: ride-my-car
+tools:
+  explorer:
+    - 'http://www.ridemycar.online:3001/'
+mineable: false

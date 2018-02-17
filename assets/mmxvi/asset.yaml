@@ -1,0 +1,14 @@
+name: MMXVI
+symbol: MMXVI
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: mmxvi
+  github: coin2016
+tools:
+  explorer:
+    - 'http://5.196.67.100:6001/'
+mineable: true

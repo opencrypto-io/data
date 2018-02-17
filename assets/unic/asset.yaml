@@ -1,0 +1,12 @@
+name: UniCoin
+symbol: UNIC
+type: coin
+web:
+  - 'http://unicoins.tumblr.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/UniCoin'
+mineable: true

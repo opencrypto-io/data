@@ -1,0 +1,13 @@
+name: 8Bit
+symbol: 8BIT
+type: coin
+web:
+  - 'http://www.8-bit.ga/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.8bit.trade/'
+    - 'http://explorer.8-bit.ga/'
+mineable: false

@@ -1,0 +1,15 @@
+name: UTRUST
+symbol: UTK
+type: token
+web:
+  - 'https://utrust.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@UTRUST'
+webids:
+  telegram: 'https://t.me/utrustofficial'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38'
+    - 'https://ethplorer.io/address/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38'
+mineable: false

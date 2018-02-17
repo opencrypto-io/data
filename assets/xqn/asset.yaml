@@ -1,0 +1,14 @@
+name: Quotient
+symbol: XQN
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: quotient
+  github: CedricProfit
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/xqn/'
+mineable: false

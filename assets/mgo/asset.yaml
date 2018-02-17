@@ -1,0 +1,15 @@
+name: MobileGo
+symbol: MGO
+type: token
+web:
+  - 'https://mobilego.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/mobilego'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x40395044Ac3c0C57051906dA938B54BD6557F212'
+    - >-
+      http://www.wavesgo.com/assets.html?2Y8eFFXDTkxgCvXbMT5K4J38cpDYYbQdciJEZb48vTDj
+mineable: false

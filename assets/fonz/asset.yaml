@@ -1,0 +1,13 @@
+name: Fonziecoin
+symbol: FONZ
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: fonziecoin
+  github: fonziecoin
+tools:
+  explorer: []
+mineable: false

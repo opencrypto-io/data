@@ -1,0 +1,12 @@
+name: Oceanlab
+symbol: OCL
+type: token
+web:
+  - 'https://www.oceanlab.eu/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://gravit.ws/'
+mineable: false

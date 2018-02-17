@@ -1,0 +1,14 @@
+name: Nyancoin
+symbol: NYAN
+type: coin
+web:
+  - 'https://www.nyancoin.info/'
+resources:
+  message-board: []
+webids:
+  github: Nyancoins
+  coinmarketcap: nyancoin
+tools:
+  explorer:
+    - 'https://nyan.space/chain/Nyancoin'
+mineable: true

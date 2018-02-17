@@ -1,0 +1,14 @@
+name: TrueFlip
+symbol: TFL
+type: token
+web:
+  - 'https://trueflip.io/'
+  - 'https://steemit.com/@trueflip/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xa7f976c360ebbed4465c2855684d1aae5271efa9'
+    - 'https://ethplorer.io/address/0xa7f976c360ebbed4465c2855684d1aae5271efa9'
+mineable: false

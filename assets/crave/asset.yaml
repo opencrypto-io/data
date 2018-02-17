@@ -1,0 +1,15 @@
+name: Crave
+symbol: CRAVE
+type: coin
+web:
+  - 'http://www.craveproject.net/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: crave
+  telegram: 'https://t.me/craveproject'
+tools:
+  explorer:
+    - 'http://cryptoblock.xyz:30005'
+mineable: false

@@ -1,0 +1,15 @@
+name: Bulwark
+symbol: BWK
+type: coin
+web:
+  - 'https://bulwarkcrypto.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/bulwarkcrypto'
+  github: bulwark-crypto
+  coinmarketcap: bulwark
+tools:
+  explorer:
+    - 'http://explorer.bulwarkcrypto.com/info'
+mineable: true

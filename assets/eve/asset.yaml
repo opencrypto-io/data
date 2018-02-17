@@ -1,0 +1,16 @@
+name: Devery
+symbol: EVE
+type: token
+web:
+  - 'https://devery.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/deverychat'
+  github: devery
+  coinmarketcap: devery
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c'
+    - 'https://ethplorer.io/address/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c'
+mineable: false

@@ -1,0 +1,13 @@
+name: Authorship
+symbol: ATS
+type: token
+web:
+  - 'http://authorship.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x2dAEE1AA61D60A252DC80564499A69802853583A'
+    - 'https://ethplorer.io/address/0x2daee1aa61d60a252dc80564499a69802853583a'
+mineable: false

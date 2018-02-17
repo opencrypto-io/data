@@ -1,0 +1,14 @@
+name: AudioCoin
+symbol: ADC
+type: coin
+web:
+  - 'http://www.audiocoin.eu/'
+resources:
+  message-board: []
+webids:
+  github: aurovine
+  coinmarketcap: audiocoin
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/ADC/index.php'
+mineable: true

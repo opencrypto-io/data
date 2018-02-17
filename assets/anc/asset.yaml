@@ -1,0 +1,14 @@
+name: Anoncoin
+symbol: ANC
+type: coin
+web:
+  - 'https://anoncoin.net/'
+resources:
+  message-board: []
+webids:
+  github: Anoncoin
+  coinmarketcap: anoncoin
+tools:
+  explorer:
+    - 'http://abe.darkgamex.ch:2751/chain/Anoncoin'
+mineable: true

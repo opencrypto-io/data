@@ -1,0 +1,15 @@
+name: LightChain
+symbol: LIGHT
+type: coin
+web:
+  - 'http://www.lightchain.one/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: lightchain
+  telegram: 'http://t.me/lightchain'
+  github: lightchainone
+tools:
+  explorer: []
+mineable: false

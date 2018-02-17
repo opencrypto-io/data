@@ -1,0 +1,15 @@
+name: MSD
+symbol: MSD
+type: coin
+web:
+  - 'https://mymsdspace.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: msd
+  telegram: 'https://t.me/MsdCommunity'
+tools:
+  explorer:
+    - 'https://mymsdspace.com/en/statistics'
+mineable: false

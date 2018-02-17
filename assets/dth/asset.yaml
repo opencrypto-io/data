@@ -1,0 +1,14 @@
+name: Dether
+symbol: DTH
+type: token
+web:
+  - 'https://dether.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: dether
+  github: dethertech
+tools:
+  explorer: []
+mineable: false

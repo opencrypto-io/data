@@ -1,0 +1,13 @@
+name: netBit
+symbol: NBIT
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: netbit
+  github: NetBit-official
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,14 @@
+name: C-Bit
+symbol: XCT
+type: coin
+web:
+  - 'http://c-bit.me/'
+resources:
+  message-board: []
+webids:
+  github: Infernoman
+  coinmarketcap: c-bit
+tools:
+  explorer:
+    - 'http://www.zpool.ca/explorer/XCT'
+mineable: true

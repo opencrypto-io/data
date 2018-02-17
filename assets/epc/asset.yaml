@@ -1,0 +1,12 @@
+name: Electronic PK Chain
+symbol: EPC
+type: coin
+web:
+  - 'http://epc.im/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: electronic-pk-chain
+tools:
+  explorer: []
+mineable: false

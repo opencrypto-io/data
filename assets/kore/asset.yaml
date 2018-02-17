@@ -1,0 +1,14 @@
+name: Kore
+symbol: KORE
+type: coin
+web:
+  - 'http://kore.life/'
+resources:
+  message-board: []
+webids:
+  github: Kore-Core
+  coinmarketcap: korecoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/kore/'
+mineable: false

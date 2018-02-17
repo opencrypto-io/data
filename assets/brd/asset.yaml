@@ -1,0 +1,14 @@
+name: Bread
+symbol: BRD
+type: token
+web:
+  - 'https://token.breadapp.com/en/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/HB6JsUq7-w-y6l5DrfRV-A'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6'
+    - 'https://ethplorer.io/address/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6'
+mineable: false

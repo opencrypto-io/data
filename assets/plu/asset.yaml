@@ -1,0 +1,12 @@
+name: Pluton
+symbol: PLU
+type: token
+web:
+  - 'https://plutus.it/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Pluton'
+mineable: false

@@ -1,0 +1,15 @@
+name: Po.et
+symbol: POE
+type: token
+web:
+  - 'https://po.et/'
+resources:
+  message-board: []
+webids:
+  github: poetapp
+  coinmarketcap: poet
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195'
+    - 'https://ethplorer.io/address/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195'
+mineable: false

@@ -1,0 +1,14 @@
+name: HyperStake
+symbol: HYP
+type: coin
+web:
+  - 'http://hyperstake.io/'
+resources:
+  message-board: []
+webids:
+  github: hyperstake
+  coinmarketcap: hyperstake
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/HYP/index.php'
+mineable: false

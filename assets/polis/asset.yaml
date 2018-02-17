@@ -1,0 +1,14 @@
+name: Polis
+symbol: POLIS
+type: coin
+web:
+  - 'https://polispay.org/'
+resources:
+  message-board: []
+webids:
+  github: polispay
+  coinmarketcap: polis
+tools:
+  explorer:
+    - 'https://explorer.polispay.org/'
+mineable: true

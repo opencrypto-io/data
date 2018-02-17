@@ -1,0 +1,14 @@
+name: Tao
+symbol: XTO
+type: coin
+web:
+  - 'http://tao.network/'
+resources:
+  message-board: []
+webids:
+  github: taoblockchain
+  coinmarketcap: tao
+tools:
+  explorer:
+    - 'http://www.taoexplorer.com/'
+mineable: true

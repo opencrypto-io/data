@@ -1,0 +1,15 @@
+name: Superior Coin
+symbol: SUP
+type: coin
+web:
+  - 'http://superior-coin.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: superior-coin
+  telegram: 'https://t.me/SuperiorCoin'
+  github: TheSuperiorCoin
+tools:
+  explorer: []
+mineable: true

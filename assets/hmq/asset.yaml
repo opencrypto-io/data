@@ -1,0 +1,16 @@
+name: Humaniq
+symbol: HMQ
+type: token
+web:
+  - 'https://humaniq.co/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/humaniqglobalchallenge'
+  github: humaniq
+  coinmarketcap: humaniq
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Humaniq'
+    - 'https://ethplorer.io/address/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908'
+mineable: false

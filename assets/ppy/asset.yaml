@@ -1,0 +1,15 @@
+name: Peerplays
+symbol: PPY
+type: coin
+web:
+  - 'http://www.peerplays.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/peerplays'
+  github: PBSA
+  coinmarketcap: peerplays-ppy
+tools:
+  explorer:
+    - 'https://peerplaysdb.com/'
+mineable: false

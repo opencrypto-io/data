@@ -1,0 +1,14 @@
+name: Neblio
+symbol: NEBL
+type: coin
+web:
+  - 'https://nebl.io/'
+resources:
+  message-board: []
+webids:
+  github: NeblioTeam
+  coinmarketcap: neblio
+tools:
+  explorer:
+    - 'http://explorer.nebl.io/'
+mineable: false

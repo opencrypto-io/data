@@ -1,0 +1,14 @@
+name: BitQuark
+symbol: BTQ
+type: coin
+web:
+  - 'http://www.bitquark.info/'
+resources:
+  message-board: []
+webids:
+  github: quark-project
+  coinmarketcap: bitquark
+tools:
+  explorer:
+    - 'http://explorer.weminebtq.com:2750/'
+mineable: true

@@ -1,0 +1,13 @@
+name: TurboCoin
+symbol: TURBO
+type: coin
+web:
+  - 'http://turboproject.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: turbocoin
+tools:
+  explorer: []
+mineable: false

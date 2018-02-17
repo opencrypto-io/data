@@ -1,0 +1,12 @@
+name: Cashme
+symbol: CME
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: cashme
+tools:
+  explorer: []
+mineable: true

@@ -1,0 +1,14 @@
+name: Siacoin
+symbol: SC
+type: coin
+web:
+  - 'http://sia.tech/'
+resources:
+  message-board: []
+webids:
+  github: NebulousLabs
+  coinmarketcap: siacoin
+tools:
+  explorer:
+    - 'http://explore.sia.tech/'
+mineable: true

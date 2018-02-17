@@ -1,0 +1,14 @@
+name: CrevaCoin
+symbol: CREVA
+type: coin
+web:
+  - 'http://www.crevacoin.com/'
+resources:
+  message-board: []
+webids:
+  github: crevacoin
+  coinmarketcap: crevacoin
+tools:
+  explorer:
+    - 'http://chains.crevacoin.com/'
+mineable: true

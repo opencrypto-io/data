@@ -1,0 +1,12 @@
+name: OracleChain
+symbol: OCT
+type: token
+web:
+  - 'http://oraclechain.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://cryptofresh.com/a/OCT'
+mineable: false

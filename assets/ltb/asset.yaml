@@ -1,0 +1,14 @@
+name: LiteBar
+symbol: LTB
+type: coin
+web:
+  - 'http://litebar.co/'
+resources:
+  message-board: []
+webids:
+  github: Crypto-Currency
+  coinmarketcap: litebar
+tools:
+  explorer:
+    - 'http://ltb.altcoinwarz.com:3002/'
+mineable: true

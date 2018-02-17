@@ -1,0 +1,14 @@
+name: STRAKS
+symbol: STAK
+type: coin
+web:
+  - 'https://www.straks.io/'
+resources:
+  message-board: []
+webids:
+  github: straks
+  coinmarketcap: straks
+tools:
+  explorer:
+    - 'https://straks.info/'
+mineable: true

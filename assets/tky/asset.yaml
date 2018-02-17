@@ -1,0 +1,15 @@
+name: THEKEY
+symbol: TKY
+type: token
+web:
+  - 'https://www.thekey.vip'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: thekey
+  telegram: 'https://t.me/joinchat/FkZtERGQ1qUEU7iAzC6xVQ'
+  github: thekeygithub
+tools:
+  explorer:
+    - 'https://neotracker.io/asset/132947096727c84c7f9e076c90f08fec3bc17f18'
+mineable: false

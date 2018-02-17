@@ -1,0 +1,16 @@
+name: MediBloc
+symbol: MED
+type: coin
+web:
+  - 'https://medibloc.org/en/'
+resources:
+  message-board:
+    - 'https://medium.com/@MediBloc/'
+webids:
+  telegram: 'https://t.me/medibloc'
+  github: Medibloc
+  coinmarketcap: medibloc
+tools:
+  explorer:
+    - 'https://explorer.qtum.org/token/QQvbcXesB5BbRF3niHcbsfgaJv85gbbuTs'
+mineable: false

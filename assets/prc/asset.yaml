@@ -1,0 +1,12 @@
+name: PRCoin
+symbol: PRC
+type: coin
+web:
+  - 'https://prcoin.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://prcoin.info/chain/Prcoin/'
+mineable: true

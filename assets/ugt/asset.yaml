@@ -1,0 +1,14 @@
+name: UG Token
+symbol: UGT
+type: token
+web:
+  - 'https://ugchain.org/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: ug-token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x43ee79e379e7b78d871100ed696e803e7893b644'
+    - 'https://ethplorer.io/address/0x43ee79e379e7b78d871100ed696e803e7893b644'
+mineable: false

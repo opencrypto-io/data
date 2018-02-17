@@ -1,0 +1,15 @@
+name: DROXNE
+symbol: DRXNE
+type: coin
+web:
+  - 'http://droxne.net/'
+resources:
+  message-board: []
+webids:
+  github: droxdev
+  coinmarketcap: droxne
+tools:
+  explorer:
+    - 'http://www.droxne.network/'
+    - 'http://45.63.119.167:3002/'
+mineable: false

@@ -1,0 +1,15 @@
+name: Bitcoin Diamond
+symbol: BCD
+type: coin
+web:
+  - 'http://btcd.io/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: bitcoin-diamond
+  telegram: 'https://t.me/BCDcommunity'
+  github: eveybcd
+tools:
+  explorer:
+    - 'http://explorer.btcd.io/'
+mineable: true

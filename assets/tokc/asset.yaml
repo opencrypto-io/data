@@ -1,0 +1,15 @@
+name: TOKYO
+symbol: TOKC
+type: coin
+web:
+  - 'http://tokyocoin.info/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/tokyocoin'
+  github: tokyocoindev
+  coinmarketcap: tokyo
+tools:
+  explorer:
+    - 'http://tokyocoin.xyz/network'
+mineable: false

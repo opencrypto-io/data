@@ -1,0 +1,12 @@
+name: ParkByte
+symbol: PKB
+type: coin
+web:
+  - 'http://www.parkbyte.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://insight.parkbyte.com'
+mineable: false

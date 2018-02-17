@@ -1,0 +1,14 @@
+name: Social Send
+symbol: SEND
+type: coin
+web:
+  - 'http://socialsend.io/'
+resources:
+  message-board: []
+webids:
+  github: SocialSend
+  coinmarketcap: social-send
+tools:
+  explorer:
+    - 'https://explorer.socialsend.io/'
+mineable: false

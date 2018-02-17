@@ -1,0 +1,14 @@
+name: Zennies
+symbol: ZENI
+type: coin
+web:
+  - 'http://zeni.zone/'
+resources:
+  message-board: []
+webids:
+  github: zennies
+  coinmarketcap: zennies
+tools:
+  explorer:
+    - 'http://zennies.thecryptochat.net/'
+mineable: false

@@ -1,0 +1,12 @@
+name: DeltaCredits
+symbol: DCRE
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: deltacredits
+tools:
+  explorer: []
+mineable: false

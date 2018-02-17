@@ -1,0 +1,14 @@
+name: RefToken
+symbol: REF
+type: token
+web:
+  - 'https://reftoken.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: reftoken
+  telegram: 'https://t.me/RefToken'
+tools:
+  explorer: []
+mineable: false

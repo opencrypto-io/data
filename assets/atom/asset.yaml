@@ -1,0 +1,13 @@
+name: Atomic Coin
+symbol: ATOM
+type: coin
+web:
+  - 'https://www.atomicproject.org/'
+resources:
+  message-board:
+    - 'https://forum.atomicproject.org/'
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/atom/'
+mineable: true

@@ -1,0 +1,13 @@
+name: Farstcoin
+symbol: FRCT
+type: coin
+web:
+  - 'https://farstcoin.co/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: farstcoin
+tools:
+  explorer: []
+mineable: false

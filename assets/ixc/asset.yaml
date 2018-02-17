@@ -1,0 +1,14 @@
+name: Ixcoin
+symbol: IXC
+type: coin
+web:
+  - 'https://www.ixcoin.net/'
+resources:
+  message-board: []
+webids:
+  github: ixcoin
+  coinmarketcap: ixcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/ixc/'
+mineable: false

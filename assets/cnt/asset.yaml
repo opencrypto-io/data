@@ -1,0 +1,12 @@
+name: Centurion
+symbol: CNT
+type: coin
+web:
+  - 'http://www.centurionlab.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://www.centurionexplorer.com/'
+mineable: true

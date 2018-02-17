@@ -1,0 +1,16 @@
+name: Stealthcoin
+symbol: XST
+type: coin
+web:
+  - 'https://www.stealthcoin.com/'
+resources:
+  message-board: []
+webids:
+  github: StealthSend
+  coinmarketcap: stealthcoin
+tools:
+  explorer:
+    - 'https://chain.stealthcoin.com/'
+    - 'https://chainz.cryptoid.info/xst/'
+    - 'http://www.presstab.pw/phpexplorer/XST/index.php'
+mineable: true

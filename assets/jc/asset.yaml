@@ -1,0 +1,13 @@
+name: Jesus Coin
+symbol: JC
+type: token
+web:
+  - 'https://jesuscoin.network/'
+resources:
+  message-board: []
+webids:
+  github: jesusico
+  coinmarketcap: jesus-coin
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,12 @@
+name: GAIA
+symbol: GAIA
+type: coin
+web:
+  - 'http://gaiaplatform.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://www.gaiaplatform.com/explorer/'
+mineable: false

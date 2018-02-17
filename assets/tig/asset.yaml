@@ -1,0 +1,17 @@
+name: Tigereum
+symbol: TIG
+type: token
+web:
+  - 'https://www.tigereum.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: tigereum
+  telegram: 'https://t.me/tigereum'
+  github: tigertoken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a'
+    - 'https://ethplorer.io/address/0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a'
+mineable: false

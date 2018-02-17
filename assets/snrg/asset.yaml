@@ -1,0 +1,14 @@
+name: Synergy
+symbol: SNRG
+type: coin
+web:
+  - 'http://www.synergycoin.com/'
+resources:
+  message-board: []
+webids:
+  github: Grandpa-Jones
+  coinmarketcap: synergy
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/snrg/'
+mineable: false

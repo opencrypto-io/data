@@ -1,0 +1,15 @@
+name: Nimiq
+symbol: NET
+type: token
+web:
+  - 'https://nimiq.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/AAAAAEJW-ozFwo7Er9jpHw'
+  github: nimiq-network
+  coinmarketcap: nimiq
+tools:
+  explorer:
+    - 'https://etherscan.io/token/NimiqNetwork'
+mineable: false

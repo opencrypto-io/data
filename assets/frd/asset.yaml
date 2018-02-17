@@ -1,0 +1,16 @@
+name: Farad
+symbol: FRD
+type: token
+web:
+  - 'https://farad.energy/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/E5ORhEN6T6yqaAk8aKJkRQ'
+  github: VirtueFintech
+  coinmarketcap: farad
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4'
+    - 'https://ethplorer.io/address/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4'
+mineable: false

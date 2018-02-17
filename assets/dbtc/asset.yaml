@@ -1,0 +1,14 @@
+name: Debitcoin
+symbol: DBTC
+type: coin
+web:
+  - 'https://debitcoin.xyz/'
+resources:
+  message-board: []
+webids:
+  github: Debitcoin
+  coinmarketcap: debitcoin
+tools:
+  explorer:
+    - 'http://debitcoinexplorer.xyz/'
+mineable: true

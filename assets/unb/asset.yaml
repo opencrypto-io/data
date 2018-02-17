@@ -1,0 +1,12 @@
+name: UnbreakableCoin
+symbol: UNB
+type: coin
+web:
+  - 'http://www.unbreakablecoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/unb'
+mineable: true

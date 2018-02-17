@@ -1,0 +1,13 @@
+name: Bytecent
+symbol: BYC
+type: coin
+web:
+  - 'http://bytecent.com'
+resources:
+  message-board:
+    - 'http://byctalk.com/'
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/byc/'
+mineable: true

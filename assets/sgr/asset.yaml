@@ -1,0 +1,14 @@
+name: Sugar Exchange
+symbol: SGR
+type: token
+web:
+  - 'http://sugarexchange.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/GCd1KBFberV538lleS0kZQ'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xCB5A05beF3257613E984C17DbcF039952B6d883F'
+    - 'https://ethplorer.io/address/0xCB5A05beF3257613E984C17DbcF039952B6d883F'
+mineable: false

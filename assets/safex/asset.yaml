@@ -1,0 +1,13 @@
+name: Safe Exchange Coin
+symbol: SAFEX
+type: token
+web:
+  - 'http://safex.io/'
+resources:
+  message-board:
+    - 'http://safe.exchange/'
+webids: {}
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=56'
+mineable: false

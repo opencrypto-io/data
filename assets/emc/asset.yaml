@@ -1,0 +1,16 @@
+name: Emercoin
+symbol: EMC
+type: coin
+web:
+  - 'http://emercoin.com/'
+resources:
+  message-board:
+    - 'http://emercointalk.org/'
+webids:
+  github: emercoin
+  coinmarketcap: emercoin
+tools:
+  explorer:
+    - 'https://emercoin.mintr.org/'
+    - 'https://emcblock.info/'
+mineable: true

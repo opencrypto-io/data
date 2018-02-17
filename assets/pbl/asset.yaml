@@ -1,0 +1,17 @@
+name: Publica
+symbol: PBL
+type: token
+web:
+  - 'https://publica.io/'
+resources:
+  message-board:
+    - 'https://medium.com/publicaio'
+webids:
+  telegram: 'https://t.me/publicaofficial'
+  github: PublicaIO
+  coinmarketcap: publica
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x55648de19836338549130b1af587f16bea46f66b'
+    - 'https://ethplorer.io/address/0x55648de19836338549130b1af587f16bea46f66b'
+mineable: false

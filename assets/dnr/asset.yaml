@@ -1,0 +1,16 @@
+name: Denarius
+symbol: DNR
+type: coin
+web:
+  - 'https://denarius.io/'
+resources:
+  message-board: []
+webids:
+  github: carsenk
+  coinmarketcap: denarius-dnr
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dnr/'
+    - 'http://denarius.name/'
+    - 'https://denariusexplorer.org/'
+mineable: true

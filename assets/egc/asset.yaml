@@ -1,0 +1,14 @@
+name: EverGreenCoin
+symbol: EGC
+type: coin
+web:
+  - 'http://evergreencoin.org/'
+resources:
+  message-board: []
+webids:
+  github: EverGreenCoinDev
+  coinmarketcap: evergreencoin
+tools:
+  explorer:
+    - 'http://transactions.evergreencoin.org/'
+mineable: true

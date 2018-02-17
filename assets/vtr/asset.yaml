@@ -1,0 +1,16 @@
+name: vTorrent
+symbol: VTR
+type: coin
+web:
+  - 'http://vtorrent.info/'
+  - 'http://www.vtorrent.org/'
+resources:
+  message-board: []
+webids:
+  github: vtorrent
+  coinmarketcap: vtorrent
+tools:
+  explorer:
+    - 'http://vtrchains.com/'
+    - 'http://cryptoguru.tk/NetworkInfo/index.php?Currency=VTR'
+mineable: true

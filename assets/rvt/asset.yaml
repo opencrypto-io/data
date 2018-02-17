@@ -1,0 +1,14 @@
+name: Rivetz
+symbol: RVT
+type: token
+web:
+  - 'https://rivetz.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/rivet_group'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244'
+    - 'https://ethplorer.io/address/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244'
+mineable: false

@@ -1,0 +1,17 @@
+name: INS Ecosystem
+symbol: INS
+type: token
+web:
+  - 'https://ins.world/'
+resources:
+  message-board:
+    - 'https://blog.ins.world/'
+webids:
+  telegram: 'https://t.me/ins_ecosystem_cn'
+  github: ins-ecosystem
+  coinmarketcap: ins-ecosystem
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320'
+    - 'https://ethplorer.io/address/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320'
+mineable: false

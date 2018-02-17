@@ -1,0 +1,14 @@
+name: UGAIN
+symbol: GAIN
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: ugain
+  github: ugain1
+tools:
+  explorer:
+    - 'http://ugain.silverdice.us:3002/'
+mineable: true

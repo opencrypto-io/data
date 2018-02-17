@@ -1,0 +1,14 @@
+name: TittieCoin
+symbol: TTC
+type: coin
+web:
+  - 'http://tittiecoin.com'
+resources:
+  message-board: []
+webids:
+  github: tittiecoin
+  coinmarketcap: tittiecoin
+tools:
+  explorer:
+    - 'https://prohashing.com/explorer/Tittiecoin/'
+mineable: true

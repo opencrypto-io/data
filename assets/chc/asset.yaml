@@ -1,0 +1,15 @@
+name: ChainCoin
+symbol: CHC
+type: coin
+web:
+  - 'http://www.chaincoin.org/'
+resources:
+  message-board: []
+webids:
+  github: chaincoin
+  coinmarketcap: chaincoin
+tools:
+  explorer:
+    - 'http://104.238.153.140:3001/'
+    - 'https://minkiz.co/acme/chc'
+mineable: true

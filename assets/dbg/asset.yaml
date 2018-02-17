@@ -1,0 +1,15 @@
+name: Digital Bullion Gold
+symbol: DBG
+type: coin
+web:
+  - 'http://digitalbulliongold.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: digital-bullion-gold
+  github: DBGold
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dbg/'
+mineable: false

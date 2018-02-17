@@ -1,0 +1,14 @@
+name: Factom
+symbol: FCT
+type: coin
+web:
+  - 'http://factom.org/'
+resources:
+  message-board: []
+webids:
+  github: FactomProject
+  coinmarketcap: factom
+tools:
+  explorer:
+    - 'http://explorer.factom.org/'
+mineable: false

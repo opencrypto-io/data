@@ -1,0 +1,15 @@
+name: TopCoin
+symbol: TOP
+type: coin
+web:
+  - 'http://topcoin.us/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: topcoin
+  github: cloudstick
+tools:
+  explorer:
+    - 'http://explorer.topcoin.us/'
+mineable: true

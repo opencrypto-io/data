@@ -1,0 +1,12 @@
+name: ShareX
+symbol: SEXC
+type: coin
+web:
+  - 'https://sharex.vc/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: sharex
+tools:
+  explorer: []
+mineable: false

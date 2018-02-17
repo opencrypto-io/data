@@ -1,0 +1,12 @@
+name: NeosCoin
+symbol: NEOS
+type: coin
+web:
+  - 'http://www.neoscoin.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/neos/'
+mineable: true

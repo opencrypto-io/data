@@ -1,0 +1,14 @@
+name: TeraCoin
+symbol: TERA
+type: coin
+web:
+  - 'http://tera.hosuco.co.kr/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: teracoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/tera'
+mineable: true

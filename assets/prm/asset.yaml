@@ -1,0 +1,13 @@
+name: PrismChain
+symbol: PRM
+type: coin
+web: []
+resources:
+  message-board:
+    - 'http://forum.prismchain.com/'
+  source: []
+webids:
+  coinmarketcap: prismchain
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,13 @@
+name: EncrypGen
+symbol: DNA
+type: token
+web:
+  - 'https://www.encrypgen.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x82b0e50478eeafde392d45d1259ed1071b6fda81'
+    - 'https://etherscan.io/token/0x82b0e50478eeafde392d45d1259ed1071b6fda81'
+mineable: false

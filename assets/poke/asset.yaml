@@ -1,0 +1,14 @@
+name: PokeCoin
+symbol: POKE
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: pokecoin
+  github: PokeCoinDev
+tools:
+  explorer:
+    - 'http://application.id/explorer/poke/'
+mineable: true

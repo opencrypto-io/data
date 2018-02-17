@@ -1,0 +1,13 @@
+name: Primas
+symbol: PST
+type: token
+web:
+  - 'https://primas.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9'
+    - 'https://ethplorer.io/address/0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9'
+mineable: false

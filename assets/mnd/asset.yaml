@@ -1,0 +1,15 @@
+name: MindCoin
+symbol: MND
+type: coin
+web:
+  - 'http://www.mindcoin.xyz/'
+resources:
+  message-board: []
+webids:
+  github: MindCoinTeam
+  coinmarketcap: mindcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/mnd/'
+    - 'http://chain.blockpioneers.info/mnd/explorer.php'
+mineable: true

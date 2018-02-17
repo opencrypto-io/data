@@ -1,0 +1,13 @@
+name: 'EncryptoTel [WAVES]'
+symbol: ETT
+type: token
+web:
+  - 'https://encryptotel.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - >-
+      http://www.wavesgo.com/assets.html?8ofu3VpEaVCFjRqLLqzTMNs5URKUUQMrPp3k6oFmiCc6
+mineable: false

@@ -1,0 +1,14 @@
+name: Magnet
+symbol: MAG
+type: coin
+web:
+  - 'http://magnetwork.io/'
+resources:
+  message-board: []
+webids:
+  github: magnetwork
+  coinmarketcap: magnet
+tools:
+  explorer:
+    - 'http://explorer.magnetwork.io/'
+mineable: true

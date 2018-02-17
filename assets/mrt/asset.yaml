@@ -1,0 +1,11 @@
+name: Miners' Reward Token
+symbol: MRT
+type: token
+web:
+  - 'http://wavescommunity.com/miners-reward-token/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer: []
+mineable: false

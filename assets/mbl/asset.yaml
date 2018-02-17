@@ -1,0 +1,15 @@
+name: MobileCash
+symbol: MBL
+type: coin
+web:
+  - 'http://www.mbl.cash/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: mobilecash
+  github: jk14
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/mbl'
+mineable: true

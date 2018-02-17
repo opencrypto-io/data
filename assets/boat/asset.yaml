@@ -1,0 +1,14 @@
+name: BOAT
+symbol: BOAT
+type: coin
+web:
+  - 'http://boatcoin.net/'
+resources:
+  message-board: []
+webids:
+  github: OBAViJEST
+  coinmarketcap: doubloon
+tools:
+  explorer:
+    - 'http://boat.cryptophi.net/'
+mineable: true

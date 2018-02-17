@@ -1,0 +1,15 @@
+name: Woodcoin
+symbol: LOG
+type: coin
+web:
+  - 'http://woodcoin.org/'
+resources:
+  message-board: []
+webids:
+  github: funkshelper
+  coinmarketcap: woodcoin
+tools:
+  explorer:
+    - 'http://explorer.woodcoin.org/'
+    - 'http://woodcoin.xyz/'
+mineable: true

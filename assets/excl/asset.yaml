@@ -1,0 +1,15 @@
+name: ExclusiveCoin
+symbol: EXCL
+type: coin
+web:
+  - 'http://exclusivecoin.pw'
+resources:
+  message-board: []
+webids:
+  github: exclfork
+  coinmarketcap: exclusivecoin
+tools:
+  explorer:
+    - 'http://www.cryptobe.com/chain/ExclusiveCoin'
+    - 'https://masternodes.online/currencies/EXCL/'
+mineable: true

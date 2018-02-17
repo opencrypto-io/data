@@ -1,0 +1,11 @@
+name: Flycoin
+symbol: FLY
+type: coin
+web: []
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://fly.dnsalias.com/'
+mineable: false

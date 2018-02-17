@@ -1,0 +1,14 @@
+name: Ethereum Cash
+symbol: ECASH
+type: token
+web:
+  - 'https://www.ethereumcash.technology/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/ecashcommunity'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5d21ef5f25a985380b65c8e943a0082feda0db84'
+    - 'https://ethplorer.io/address/0x5d21ef5f25a985380b65c8e943a0082feda0db84'
+mineable: false

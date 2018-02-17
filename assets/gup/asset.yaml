@@ -1,0 +1,16 @@
+name: Matchpool
+symbol: GUP
+type: token
+web:
+  - 'https://matchpool.co/'
+resources:
+  message-board:
+    - 'http://community.matchpool.com/'
+webids:
+  telegram: 'https://t.me/matchpool'
+  github: Matchpool
+  coinmarketcap: guppy
+tools:
+  explorer:
+    - 'https://etherscan.io/token/Guppy'
+mineable: false

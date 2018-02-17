@@ -1,0 +1,15 @@
+name: GoldMint
+symbol: MNTP
+type: coin
+web:
+  - 'https://www.goldmint.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: goldmint
+  telegram: 'https://t.me/goldmintio'
+  github: Goldmint
+tools:
+  explorer: []
+mineable: false

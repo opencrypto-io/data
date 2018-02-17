@@ -1,0 +1,16 @@
+name: Matryx
+symbol: MTX
+type: token
+web:
+  - 'https://matryx.ai/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: matryx
+  telegram: 'https://t.me/matryxai'
+  github: matryx
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a'
+    - 'https://ethplorer.io/address/0x0af44e2784637218dd1d32a322d44e603a8f0c6a'
+mineable: false

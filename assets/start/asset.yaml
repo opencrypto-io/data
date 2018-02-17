@@ -1,0 +1,14 @@
+name: Startcoin
+symbol: START
+type: coin
+web:
+  - 'https://startcoin.org/'
+resources:
+  message-board: []
+webids:
+  github: startcoin-project
+  coinmarketcap: startcoin
+tools:
+  explorer:
+    - 'http://explorer.startcoin.org'
+mineable: true

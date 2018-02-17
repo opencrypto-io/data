@@ -1,0 +1,15 @@
+name: Cardano
+symbol: ADA
+type: coin
+web:
+  - 'https://www.cardanohub.org/'
+resources:
+  message-board:
+    - 'https://forum.cardanohub.org/'
+webids:
+  github: input-output-hk
+  coinmarketcap: cardano
+tools:
+  explorer:
+    - 'https://cardanoexplorer.com/'
+mineable: false

@@ -1,0 +1,14 @@
+name: Yellow Token
+symbol: YEL
+type: token
+web:
+  - 'http://yellow-token.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/yellowtoken'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8633e144f2d9b9b8bDD12ddB58e4bEF1E163a0cE'
+    - 'https://ethplorer.io/address/0x8633e144f2d9b9b8bDD12ddB58e4bEF1E163a0cE'
+mineable: false

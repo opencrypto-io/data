@@ -1,0 +1,15 @@
+name: Zilbercoin
+symbol: ZBC
+type: coin
+web:
+  - 'http://zilbercoin.space/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: zilbercoin
+  github: Zilbercoin
+tools:
+  explorer:
+    - 'https://bex.zilbercoin.space/'
+mineable: false

@@ -1,0 +1,15 @@
+name: NobleCoin
+symbol: NOBL
+type: coin
+web:
+  - 'https://www.noblemovement.com'
+  - 'https://www.noblecoin.io/'
+resources:
+  message-board: []
+webids:
+  github: NobleCoinNOBL
+  coinmarketcap: noblecoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/nobl/'
+mineable: true

@@ -1,0 +1,14 @@
+name: SixEleven
+symbol: '611'
+type: coin
+web:
+  - 'https://611project.org/'
+resources:
+  message-board: []
+webids:
+  github: 611project
+  coinmarketcap: sixeleven
+tools:
+  explorer:
+    - 'http://be.611.to/'
+mineable: true

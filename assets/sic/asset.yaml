@@ -1,0 +1,15 @@
+name: Swisscoin
+symbol: SIC
+type: coin
+web:
+  - 'https://swisscoin.eu/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: swisscoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/sic#'
+    - 'http://explorer.swisscoin.eu/'
+mineable: true

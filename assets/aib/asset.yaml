@@ -1,0 +1,14 @@
+name: Advanced Internet Blocks
+symbol: AIB
+type: coin
+web:
+  - 'http://aib.iobond.com/'
+resources:
+  message-board: []
+webids:
+  github: iobond
+  coinmarketcap: advanced-internet-blocks
+tools:
+  explorer:
+    - 'https://block.aib.one/'
+mineable: true

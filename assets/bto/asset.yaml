@@ -1,0 +1,16 @@
+name: Bottos
+symbol: BTO
+type: token
+web:
+  - 'https://www.bottos.org/'
+resources:
+  message-board:
+    - 'https://medium.com/bottos'
+webids:
+  github: Bottos-project
+  coinmarketcap: bottos
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x36905fc93280f52362a1cbab151f25dc46742fb5'
+    - 'https://ethplorer.io/address/0x36905fc93280f52362a1cbab151f25dc46742fb5'
+mineable: false

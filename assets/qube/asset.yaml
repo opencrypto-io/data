@@ -1,0 +1,12 @@
+name: Qube
+symbol: QUBE
+type: token
+web:
+  - 'http://www.qube.vip/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: qube
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,12 @@
+name: ZrCoin
+symbol: ZRC
+type: token
+web:
+  - 'https://zrcoin.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/AAAAAEDj28WzzuNh5j6tVg'
+tools:
+  explorer: []
+mineable: false

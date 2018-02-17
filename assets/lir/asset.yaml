@@ -1,0 +1,15 @@
+name: LetItRide
+symbol: LIR
+type: coin
+web:
+  - 'http://www.letitri.de/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: letitride
+  github: shogdite
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/lir/'
+    - 'http://chain.blockpioneers.info/lir/'
+mineable: false

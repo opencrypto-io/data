@@ -1,0 +1,14 @@
+name: Gold Pressed Latinum
+symbol: GPL
+type: coin
+web:
+  - 'http://www.scificrypto.info/gpl/index.htm'
+resources:
+  message-board: []
+webids:
+  github: scificrypto
+  coinmarketcap: gold-pressed-latinum
+tools:
+  explorer:
+    - 'http://cryptoguru.tk/index.php?Currency=GPL'
+mineable: true

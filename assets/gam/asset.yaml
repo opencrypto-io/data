@@ -1,0 +1,14 @@
+name: Gambit
+symbol: GAM
+type: coin
+web:
+  - 'http://www.gambitcrypto.com'
+resources:
+  message-board: []
+webids:
+  github: collincrypto
+  coinmarketcap: gambit
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/gam/'
+mineable: false

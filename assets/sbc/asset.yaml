@@ -1,0 +1,16 @@
+name: StrikeBitClub
+symbol: SBC
+type: coin
+web:
+  - 'https://strikebitclub.com/'
+  - 'https://sbccoin.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: strikebitclub
+  github: sbccoin
+tools:
+  explorer:
+    - 'http://explorer.sbccoin.io/'
+mineable: true

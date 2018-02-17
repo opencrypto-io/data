@@ -1,0 +1,15 @@
+name: Prospectors Gold
+symbol: PGL
+type: token
+web:
+  - 'https://prospectors.io/'
+resources:
+  message-board: []
+webids:
+  github: ProspectorsWorld
+  coinmarketcap: prospectors-gold
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2'
+    - 'https://ethplorer.io/address/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2'
+mineable: false

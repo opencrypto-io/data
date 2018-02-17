@@ -1,0 +1,15 @@
+name: Syndicate
+symbol: SYNX
+type: coin
+web:
+  - 'http://syndicateltd.net/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/syndicateLTD'
+  github: SyndicateLtd
+  coinmarketcap: syndicate
+tools:
+  explorer:
+    - 'http://explorer.syndicateltd.net/'
+mineable: false

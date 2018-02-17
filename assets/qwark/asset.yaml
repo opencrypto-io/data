@@ -1,0 +1,12 @@
+name: Qwark
+symbol: QWARK
+type: token
+web:
+  - 'http://www.qwark.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://ubiqscan.io/'
+mineable: false

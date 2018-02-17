@@ -1,0 +1,14 @@
+name: ATMCoin
+symbol: ATMC
+type: coin
+web:
+  - 'https://www.atmcoin.com/website/inicio'
+  - 'https://www.bitsclub.com'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: atmcoin
+tools:
+  explorer:
+    - 'http://explorer.bitsblockchain.net/'
+mineable: false

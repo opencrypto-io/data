@@ -1,0 +1,15 @@
+name: MktCoin
+symbol: MLM
+type: coin
+web:
+  - 'http://mktcoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: mktcoin
+  github: mktcoin
+tools:
+  explorer:
+    - 'https://info.mktcoin.org/'
+mineable: true

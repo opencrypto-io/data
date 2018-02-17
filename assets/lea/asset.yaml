@@ -1,0 +1,13 @@
+name: LeaCoin
+symbol: LEA
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: leacoin
+  coinmarketcap: leacoin
+tools:
+  explorer:
+    - 'https://explorer.leacoin.org/'
+mineable: true

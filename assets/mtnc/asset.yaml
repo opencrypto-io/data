@@ -1,0 +1,14 @@
+name: Masternodecoin
+symbol: MTNC
+type: coin
+web:
+  - 'http://www.masternodecoin.org/'
+resources:
+  message-board: []
+webids:
+  github: masternodecoin
+  coinmarketcap: masternodecoin
+tools:
+  explorer:
+    - 'http://mtnc.snodo.de:3001/'
+mineable: false

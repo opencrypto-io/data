@@ -1,0 +1,15 @@
+name: Dentacoin
+symbol: DCN
+type: token
+web:
+  - 'http://www.dentacoin.com/'
+resources:
+  message-board: []
+webids:
+  github: Dentacoin
+  coinmarketcap: dentacoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6'
+    - 'https://ethplorer.io/address/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6'
+mineable: false

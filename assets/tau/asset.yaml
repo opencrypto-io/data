@@ -1,0 +1,16 @@
+name: Lamden
+symbol: TAU
+type: token
+web:
+  - 'https://lamden.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/lamdenchat'
+  github: Lamden
+  coinmarketcap: lamden
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xc27a2f05fa577a83ba0fdb4c38443c0718356501'
+    - 'https://ethplorer.io/address/0xc27a2f05fa577a83ba0fdb4c38443c0718356501'
+mineable: false

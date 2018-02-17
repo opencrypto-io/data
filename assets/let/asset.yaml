@@ -1,0 +1,14 @@
+name: LinkEye
+symbol: LET
+type: coin
+web:
+  - 'http://www.linkeye.com/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: linkeye
+  telegram: 'https://t.me/linkeye_en'
+  github: LinkEyeOfficial
+tools:
+  explorer: []
+mineable: false

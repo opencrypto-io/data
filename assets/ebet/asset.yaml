@@ -1,0 +1,13 @@
+name: EthBet
+symbol: EBET
+type: token
+web:
+  - 'https://ethbet.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d'
+    - 'https://ethplorer.io/address/0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d'
+mineable: false

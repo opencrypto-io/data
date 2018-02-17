@@ -1,0 +1,14 @@
+name: Jingtum Tech
+symbol: SWTC
+type: coin
+web:
+  - 'https://www.jingtum.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: jingtum-tech
+tools:
+  explorer:
+    - 'http://state.jingtum.com/'
+mineable: false

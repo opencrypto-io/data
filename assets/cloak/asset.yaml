@@ -1,0 +1,16 @@
+name: CloakCoin
+symbol: CLOAK
+type: coin
+web:
+  - 'https://www.cloakcoin.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/cloakproject'
+  github: CloakProject
+  coinmarketcap: cloakcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/cloak/'
+    - 'http://www.presstab.pw/phpexplorer/CLOAK/index.php'
+mineable: false

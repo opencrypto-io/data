@@ -1,0 +1,16 @@
+name: Digitalcoin
+symbol: DGC
+type: coin
+web:
+  - 'http://digitalcoin.co'
+  - 'https://digitalcoin.tech/'
+resources:
+  message-board: []
+webids:
+  github: lomtax
+  coinmarketcap: digitalcoin
+tools:
+  explorer:
+    - 'http://dgc.blockr.io'
+    - 'https://chainz.cryptoid.info/dgc/'
+mineable: true

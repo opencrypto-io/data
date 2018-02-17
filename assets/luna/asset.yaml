@@ -1,0 +1,15 @@
+name: Luna Coin
+symbol: LUNA
+type: coin
+web:
+  - 'https://bitluna.org/'
+resources:
+  message-board:
+    - 'http://lunacoin.org/forum/'
+webids: {}
+tools:
+  explorer:
+    - 'http://blockexperts.com/luna'
+    - 'http://minecoins.online:8090/'
+    - 'http://212.24.102.92/'
+mineable: true

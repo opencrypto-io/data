@@ -1,0 +1,12 @@
+name: Condensate
+symbol: RAIN
+type: coin
+web:
+  - 'http://condensate.co'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://condensate.io/'
+mineable: true

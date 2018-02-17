@@ -1,0 +1,12 @@
+name: Kobocoin
+symbol: KOBO
+type: coin
+web:
+  - 'http://kobocoin.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/kobo/'
+mineable: false

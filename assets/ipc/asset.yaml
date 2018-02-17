@@ -1,0 +1,16 @@
+name: IPChain
+symbol: IPC
+type: token
+web:
+  - 'https://www.ipcchain.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: ipchain
+  github: IPCChain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x622cd54deb2bb7a051515192417109bcf3fe098f'
+    - 'https://ethplorer.io/address/0x622cd54deb2bb7a051515192417109bcf3fe098f'
+mineable: false

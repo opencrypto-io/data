@@ -1,0 +1,13 @@
+name: Tigercoin
+symbol: TGC
+type: coin
+web:
+  - 'http://tigercoin.wordpress.com'
+resources:
+  message-board: []
+webids:
+  github: tigercoin
+  coinmarketcap: tigercoin
+tools:
+  explorer: []
+mineable: true

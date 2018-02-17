@@ -1,0 +1,15 @@
+name: DeusCoin
+symbol: DEUS
+type: coin
+web:
+  - 'http://deuscoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: deuscoin
+  github: deuscoin-org
+tools:
+  explorer:
+    - 'http://explorer.deuscoin.org/'
+mineable: true

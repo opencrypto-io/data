@@ -1,0 +1,14 @@
+name: OctoCoin
+symbol: '888'
+type: coin
+web:
+  - 'http://octocoinfoundation.org/'
+resources:
+  message-board: []
+webids:
+  github: octocoin-project
+  coinmarketcap: octocoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/octo/'
+mineable: true

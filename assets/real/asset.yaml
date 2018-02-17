@@ -1,0 +1,13 @@
+name: REAL
+symbol: REAL
+type: token
+web:
+  - 'https://www.real.markets/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/address/0x9214ec02cb71cba0ada6896b8da260736a67ab10'
+    - 'https://ethplorer.io/address/0x9214ec02cb71cba0ada6896b8da260736a67ab10'
+mineable: false

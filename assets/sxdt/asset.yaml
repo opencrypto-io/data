@@ -1,0 +1,16 @@
+name: Spectre.ai Dividend Token
+symbol: SXDT
+type: token
+web:
+  - 'http://www.spectre.ai/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/FlBl_UORqQZo-FbiPkHikA'
+  github: spectre-ai
+  coinmarketcap: spectre-dividend
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf'
+    - 'https://ethplorer.io/address/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf'
+mineable: false

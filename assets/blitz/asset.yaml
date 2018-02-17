@@ -1,0 +1,12 @@
+name: Blitzcash
+symbol: BLITZ
+type: coin
+web:
+  - 'http://blitz.cash'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/blitz/'
+mineable: false

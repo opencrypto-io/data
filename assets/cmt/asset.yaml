@@ -1,0 +1,17 @@
+name: CyberMiles
+symbol: CMT
+type: token
+web:
+  - 'https://cm.5miles.com/'
+resources:
+  message-board:
+    - 'https://medium.com/cybermiles'
+webids:
+  telegram: 'https://t.me/cybermilestoken'
+  github: cybermiles
+  coinmarketcap: cybermiles
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f'
+    - 'https://ethplorer.io/address/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f'
+mineable: false

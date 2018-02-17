@@ -1,0 +1,16 @@
+name: BitConnect
+symbol: BCC
+type: coin
+web:
+  - 'https://www.bitconnect.co/'
+  - 'https://bitconnectcoin.co/'
+resources:
+  message-board: []
+webids:
+  github: bitconnectcoin
+  coinmarketcap: bitconnect
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bcc/'
+    - 'https://www.blockexperts.com/bcc'
+mineable: true

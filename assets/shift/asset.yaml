@@ -1,0 +1,14 @@
+name: Shift
+symbol: SHIFT
+type: coin
+web:
+  - 'http://www.shiftnrg.org'
+resources:
+  message-board: []
+webids:
+  github: ShiftNrg
+  coinmarketcap: shift
+tools:
+  explorer:
+    - 'https://explorer.shiftnrg.org/'
+mineable: false

@@ -1,0 +1,16 @@
+name: Rebellious
+symbol: REBL
+type: token
+web:
+  - 'https://www.rebellious.io/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: rebellious
+  telegram: 'https://t.me/RebelliousCoin'
+  github: RebelliousToken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf'
+    - 'https://ethplorer.io/address/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf'
+mineable: false

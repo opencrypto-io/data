@@ -1,0 +1,16 @@
+name: PoSToken
+symbol: POS
+type: token
+web:
+  - 'https://postoken.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/PoSToken'
+  github: PoSToken
+  coinmarketcap: postoken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc'
+    - 'https://ethplorer.io/address/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc'
+mineable: false

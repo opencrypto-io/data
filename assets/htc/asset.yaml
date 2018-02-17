@@ -1,0 +1,12 @@
+name: HitCoin
+symbol: HTC
+type: coin
+web:
+  - 'http://hitcoininfo.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://htcblockchain.com/'
+mineable: true

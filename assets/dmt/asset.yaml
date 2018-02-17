@@ -1,0 +1,18 @@
+name: DMarket
+symbol: DMT
+type: token
+web:
+  - 'https://dmarket.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@dmarket'
+  source: []
+webids:
+  coinmarketcap: dmarket
+  telegram: 'https://t.me/joinchat/CV8tCULRq_vJ2Xzu9Iopqg'
+  github: suntechsoft
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1'
+    - 'https://ethplorer.io/address/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1'
+mineable: false

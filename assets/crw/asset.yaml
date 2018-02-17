@@ -1,0 +1,15 @@
+name: Crown
+symbol: CRW
+type: coin
+web:
+  - 'http://crown.tech/'
+resources:
+  message-board: []
+webids:
+  github: Crowndev
+  coinmarketcap: crown
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/crw/'
+    - 'http://crw.blockpioneers.info/index.php'
+mineable: true

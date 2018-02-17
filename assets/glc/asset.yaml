@@ -1,0 +1,14 @@
+name: GlobalCoin
+symbol: GLC
+type: coin
+web:
+  - 'http://www.globalcoin.info/'
+resources:
+  message-board: []
+webids:
+  github: cryptoparts
+  coinmarketcap: globalcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/glc/'
+mineable: true

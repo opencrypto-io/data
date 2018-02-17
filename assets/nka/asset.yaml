@@ -1,0 +1,14 @@
+name: IncaKoin
+symbol: NKA
+type: coin
+web:
+  - 'http://incakoin.info/'
+resources:
+  message-board: []
+webids:
+  github: madross
+  coinmarketcap: incakoin
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/NKA/index.php'
+mineable: true

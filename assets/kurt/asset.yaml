@@ -1,0 +1,15 @@
+name: Kurrent
+symbol: KURT
+type: coin
+web:
+  - 'http://kurrentproject.com/'
+resources:
+  message-board: []
+webids:
+  github: kurrentproject
+  coinmarketcap: kurrent
+tools:
+  explorer:
+    - 'http://explorer.kurrentproject.com/'
+    - 'http://cryptoguru.tk/CurrencyInfo/index.php?Currency=KURT'
+mineable: true

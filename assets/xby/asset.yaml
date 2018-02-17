@@ -1,0 +1,17 @@
+name: XTRABYTES
+symbol: XBY
+type: coin
+web:
+  - 'https://www.xtrabytes.global/'
+resources:
+  message-board:
+    - 'https://community.xtrabytes.global/'
+webids:
+  telegram: 'https://t.me/xtrabytes_official'
+  github: borzalom
+  coinmarketcap: xtrabytes
+tools:
+  explorer:
+    - 'http://www.xtrabytes.info/'
+    - 'http://xbyblockchain.borzalom.hu/'
+mineable: false

@@ -1,0 +1,16 @@
+name: Pakcoin
+symbol: PAK
+type: coin
+web:
+  - 'http://www.pakcoin.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'http://t.me/pakcoingroup'
+  github: pakcoin-project
+  coinmarketcap: pakcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pak/'
+    - 'https://prohashing.com/explorer/Pakcoin/'
+mineable: true

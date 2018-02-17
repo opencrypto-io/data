@@ -1,0 +1,15 @@
+name: GCN Coin
+symbol: GCN
+type: coin
+web:
+  - 'https://gcn.zone'
+resources:
+  message-board:
+    - 'http://gcn-coin.proboards.com'
+webids:
+  telegram: 'https://t.me/GCNcoin'
+tools:
+  explorer:
+    - 'http://www.gcnchain.com/chain/GCoin'
+    - 'http://gcnblock.com/'
+mineable: true

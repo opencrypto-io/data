@@ -1,0 +1,14 @@
+name: ParallelCoin
+symbol: DUO
+type: coin
+web:
+  - 'http://parallelcoin.info/'
+resources:
+  message-board: []
+webids:
+  github: marcetin
+  coinmarketcap: parallelcoin
+tools:
+  explorer:
+    - 'http://explorer.parallelcoin.info/'
+mineable: true

@@ -1,0 +1,16 @@
+name: Nimfamoney
+symbol: NIMFA
+type: token
+web:
+  - 'https://nimfamoney.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'http://t.me/nimfamoney'
+  github: nimfamoney
+  coinmarketcap: nimfamoney
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe26517a9967299453d3f1b48aa005e6127e67210'
+    - 'https://ethplorer.io/address/0xe26517a9967299453d3f1b48aa005e6127e67210'
+mineable: false

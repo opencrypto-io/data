@@ -1,0 +1,11 @@
+name: Slevin
+symbol: SLEVIN
+type: coin
+web: []
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://ec2-52-37-136-30.us-west-2.compute.amazonaws.com:3001/'
+mineable: false

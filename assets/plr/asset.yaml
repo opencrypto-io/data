@@ -1,0 +1,14 @@
+name: Pillar
+symbol: PLR
+type: token
+web:
+  - 'https://pillarproject.io/'
+resources:
+  message-board: []
+webids:
+  github: pillarwallet
+  coinmarketcap: pillar
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17'
+mineable: false

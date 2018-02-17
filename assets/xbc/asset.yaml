@@ -1,0 +1,15 @@
+name: Bitcoin Plus
+symbol: XBC
+type: coin
+web:
+  - 'http://www.bitcoinplus.org'
+resources:
+  message-board: []
+webids:
+  github: bitcoinplusorg
+  coinmarketcap: bitcoin-plus
+tools:
+  explorer:
+    - 'http://block.bitcoinplus.org/'
+    - 'https://www.blockexperts.com/xbc'
+mineable: false

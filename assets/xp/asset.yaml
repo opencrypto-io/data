@@ -1,0 +1,14 @@
+name: Experience Po...
+symbol: XP
+type: coin
+web:
+  - 'http://www.xpcoin.io/'
+resources:
+  message-board: []
+webids:
+  github: eXperiencePoints
+  coinmarketcap: experience-points
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/xp/'
+mineable: true

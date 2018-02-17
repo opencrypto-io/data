@@ -1,0 +1,15 @@
+name: Trinity Network Credit
+symbol: TNC
+type: token
+web:
+  - 'https://trinity.tech/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/TrinityStateChannels'
+  github: trinity-project
+  coinmarketcap: trinity-network-credit
+tools:
+  explorer:
+    - 'https://neotracker.io/asset/08e8c4400f1af2c20c28e0018f29535eb85d15b6'
+mineable: false

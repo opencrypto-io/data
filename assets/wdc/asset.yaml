@@ -1,0 +1,15 @@
+name: WorldCoin
+symbol: WDC
+type: coin
+web:
+  - 'http://worldcoin.global/'
+resources:
+  message-board:
+    - 'http://forum.worldcoin.global/'
+webids:
+  github: worldcoinproject
+  coinmarketcap: worldcoin
+tools:
+  explorer:
+    - 'https://www.wdcexplorer.com/'
+mineable: true

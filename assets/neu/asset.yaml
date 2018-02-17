@@ -1,0 +1,17 @@
+name: Neumark
+symbol: NEU
+type: token
+web:
+  - 'http://neufund.org/'
+resources:
+  message-board:
+    - 'https://blog.neufund.org/'
+webids:
+  telegram: 'https://t.me/neufund'
+  github: Neufund
+  coinmarketcap: neumark
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32'
+    - 'https://ethplorer.io/address/0xa823e6722006afe99e91c30ff5295052fe6b8e32'
+mineable: false

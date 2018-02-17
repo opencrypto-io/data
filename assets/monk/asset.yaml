@@ -1,0 +1,14 @@
+name: Monkey Project
+symbol: MONK
+type: coin
+web:
+  - 'http://monkey.community/'
+resources:
+  message-board: []
+webids:
+  github: MONKEYPROJECT
+  coinmarketcap: monkey-project
+tools:
+  explorer:
+    - 'http://explorer.monkey.community/'
+mineable: true

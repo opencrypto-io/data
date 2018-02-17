@@ -1,0 +1,13 @@
+name: Maecenas
+symbol: ART
+type: token
+web:
+  - 'http://www.maecenas.co/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e'
+    - 'https://ethplorer.io/address/0xfec0cf7fe078a500abf15f1284958f22049c2c7e'
+mineable: false

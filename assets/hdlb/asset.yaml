@@ -1,0 +1,15 @@
+name: HODL Bucks
+symbol: HDLB
+type: token
+web:
+  - 'http://www.hodlbucks.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: hodl-bucks
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xad6714bd97cbbd29788f8838bc865ee71b843eb8'
+    - 'https://ethplorer.io/address/0xad6714bd97cbbd29788f8838bc865ee71b843eb8'
+mineable: false

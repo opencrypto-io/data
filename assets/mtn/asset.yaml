@@ -1,0 +1,15 @@
+name: Medicalchain
+symbol: MTN
+type: token
+web:
+  - 'https://medicalchain.com/en/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: medical-chain
+  telegram: 'https://t.me/medicalchain'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3'
+    - 'https://ethplorer.io/address/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3'
+mineable: false

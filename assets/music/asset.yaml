@@ -1,0 +1,14 @@
+name: Musicoin
+symbol: MUSIC
+type: coin
+web:
+  - 'https://www.musicoin.org/'
+resources:
+  message-board: []
+webids:
+  github: musicoin
+  coinmarketcap: musicoin
+tools:
+  explorer:
+    - 'http://orbiter.musicoin.org/'
+mineable: true

@@ -1,0 +1,16 @@
+name: Ethereum Classic
+symbol: ETC
+type: coin
+web:
+  - 'https://ethereumclassic.github.io/'
+resources:
+  message-board:
+    - 'https://forum.ethereumclassic.org/'
+webids:
+  github: ethereumproject
+  coinmarketcap: ethereum-classic
+tools:
+  explorer:
+    - 'http://gastracker.io/'
+    - 'http://etherhub.io/'
+mineable: true

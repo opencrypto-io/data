@@ -1,0 +1,14 @@
+name: WomenCoin
+symbol: WOMEN
+type: coin
+web:
+  - 'https://www.women-coin.com/'
+resources:
+  message-board: []
+webids:
+  github: womencoin
+  coinmarketcap: women
+tools:
+  explorer:
+    - 'http://womenexplorer.ga/'
+mineable: true

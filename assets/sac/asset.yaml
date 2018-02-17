@@ -1,0 +1,14 @@
+name: SACoin
+symbol: SAC
+type: coin
+web:
+  - 'https://www.sacoin.io/'
+resources:
+  message-board: []
+webids:
+  github: sacoin
+  coinmarketcap: sacoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/sac'
+mineable: true

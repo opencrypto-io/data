@@ -1,0 +1,15 @@
+name: CrowdCoin
+symbol: CRC
+type: coin
+web:
+  - 'http://crowdcoin.site/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/crowdcoin'
+  github: crowdcoinChain
+  coinmarketcap: crowdcoin
+tools:
+  explorer:
+    - 'http://explorer.cryptopros.us/'
+mineable: true

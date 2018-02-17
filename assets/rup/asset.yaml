@@ -1,0 +1,16 @@
+name: Rupee
+symbol: RUP
+type: coin
+web:
+  - 'https://rupeeblockchain.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/rupeeblockchain'
+  github: rupeedigitalassets
+  coinmarketcap: rupee
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/rup'
+    - 'http://rupexplorer.com/'
+mineable: true

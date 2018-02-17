@@ -1,0 +1,14 @@
+name: Greencoin
+symbol: GRE
+type: coin
+web:
+  - 'http://www.grcoin.com/'
+resources:
+  message-board: []
+webids:
+  github: greencoin-dev
+  coinmarketcap: greencoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/gre/'
+mineable: false

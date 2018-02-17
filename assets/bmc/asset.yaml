@@ -1,0 +1,16 @@
+name: Blackmoon
+symbol: BMC
+type: token
+web:
+  - 'https://www.blackmooncrypto.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/blackmooncrypto'
+  github: blackmoonfg
+  coinmarketcap: blackmoon
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xdf6ef343350780bf8c3410bf062e0c015b1dd671'
+    - 'https://ethplorer.io/address/0xdf6ef343350780bf8c3410bf062e0c015b1dd671'
+mineable: false

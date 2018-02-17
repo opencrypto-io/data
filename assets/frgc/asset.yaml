@@ -1,0 +1,14 @@
+name: Fargocoin
+symbol: FRGC
+type: coin
+web:
+  - 'https://fargocoin.org/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: fargocoin
+  github: fargocoin
+tools:
+  explorer:
+    - 'https://fargochain.org/'
+mineable: true

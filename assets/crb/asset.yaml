@@ -1,0 +1,13 @@
+name: Creditbit
+symbol: CRB
+type: token
+web:
+  - 'https://www.creditbit.org/'
+resources:
+  message-board:
+    - 'https://forum.creditbit.org/'
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5'
+mineable: false

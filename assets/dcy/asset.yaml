@@ -1,0 +1,13 @@
+name: Dinastycoin
+symbol: DCY
+type: coin
+web:
+  - 'http://www.dinastycoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://democats.org/blockchain/?name=dinastycoin'
+    - 'http://dcy.ms-pool.net.ua/#blockchain_blocks'
+mineable: true

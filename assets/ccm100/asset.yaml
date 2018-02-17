@@ -1,0 +1,13 @@
+name: CCMiner
+symbol: CCM100
+type: token
+web:
+  - 'https://asset.ccminer.net/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: ccminer
+tools:
+  explorer:
+    - 'http://asset.burstnation.com/asset/5255893438014874161'
+mineable: false

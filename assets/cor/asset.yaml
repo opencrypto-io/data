@@ -1,0 +1,14 @@
+name: CORION
+symbol: COR
+type: token
+web:
+  - 'https://www.corion.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: corion
+tools:
+  explorer:
+    - 'http://gastracker.io/token/0x96d1e6b85d6799678d6e8bf81d3dc0c2f583268f'
+mineable: false

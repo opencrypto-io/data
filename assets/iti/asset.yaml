@@ -1,0 +1,14 @@
+name: iTicoin
+symbol: ITI
+type: coin
+web:
+  - 'http://iticoin.com/'
+resources:
+  message-board: []
+webids:
+  github: sppl
+  coinmarketcap: iticoin
+tools:
+  explorer:
+    - 'http://explorer.iticoin.com/'
+mineable: false

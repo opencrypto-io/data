@@ -1,0 +1,13 @@
+name: OceanChain
+symbol: OC
+type: coin
+web:
+  - 'https://oceanchain.club/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: oceanchain
+  telegram: 'https://t.me/joinchat/EmUWVknGSr_tD7ZqJ4IQOQ'
+tools:
+  explorer: []
+mineable: false

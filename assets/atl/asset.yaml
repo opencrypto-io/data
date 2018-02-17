@@ -1,0 +1,17 @@
+name: ATLANT
+symbol: ATL
+type: token
+web:
+  - 'https://atlant.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@atlantio'
+webids:
+  telegram: 'https://t.me/atlant_eng'
+  github: AtlantPlatform
+  coinmarketcap: atlant
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05'
+    - 'https://ethplorer.io/address/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05'
+mineable: false

@@ -1,0 +1,13 @@
+name: Smart Investment Fund Token
+symbol: SIFT
+type: token
+web:
+  - 'https://smartift.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000'
+    - 'https://ethplorer.io/address/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000'
+mineable: false

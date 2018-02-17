@@ -1,0 +1,14 @@
+name: Animecoin
+symbol: ANI
+type: coin
+web:
+  - 'http://anime-coin.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: animecoin
+  github: testzcrypto
+tools:
+  explorer: []
+mineable: true

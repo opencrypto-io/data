@@ -1,0 +1,13 @@
+name: LAthaan
+symbol: LTH
+type: coin
+web:
+  - 'https://lathaan.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: lathaan
+tools:
+  explorer: []
+mineable: true

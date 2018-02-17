@@ -1,0 +1,15 @@
+name: UFO Coin
+symbol: UFO
+type: coin
+web:
+  - 'https://ufocoin.net/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/UFOCoin'
+  github: UFOCoins
+  coinmarketcap: ufo-coin
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/ufo/'
+mineable: true

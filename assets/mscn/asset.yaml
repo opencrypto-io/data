@@ -1,0 +1,14 @@
+name: Master Swiscoin
+symbol: MSCN
+type: coin
+web:
+  - 'https://www.swisopensource.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://188.166.182.57:3001'
+    - 'https://www.blockexperts.com/mscn'
+    - 'https://chainz.cryptoid.info/mscn/'
+mineable: false

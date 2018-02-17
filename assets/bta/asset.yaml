@@ -1,0 +1,17 @@
+name: Bata
+symbol: BTA
+type: coin
+web:
+  - 'http://www.bata.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@bata.io'
+webids:
+  telegram: 'https://t.me/batacurrency'
+  github: BTA-BATA
+  coinmarketcap: bata
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bta/'
+    - 'http://bata.midnightminer.net/'
+mineable: true

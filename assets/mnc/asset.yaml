@@ -1,0 +1,13 @@
+name: Mincoin
+symbol: MNC
+type: coin
+web:
+  - 'https://www.mincoin.us/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://mnc.cryptoexplore.com/'
+    - 'http://mnc.cointech.net/chain/Mincoin'
+mineable: true

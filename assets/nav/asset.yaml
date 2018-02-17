@@ -1,0 +1,17 @@
+name: NAV Coin
+symbol: NAV
+type: coin
+web:
+  - 'http://www.navcoin.org/'
+resources:
+  message-board:
+    - 'http://medium.com/nav-coin'
+    - 'https://forum.navcoin.org/'
+webids:
+  telegram: 'https://t.me/navcoin'
+  github: NAVCoin
+  coinmarketcap: nav-coin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/nav/'
+mineable: false

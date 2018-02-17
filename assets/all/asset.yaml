@@ -1,0 +1,14 @@
+name: Allion
+symbol: ALL
+type: coin
+web:
+  - 'http://www.trollpay.com/'
+resources:
+  message-board: []
+webids:
+  github: EpyxZ
+  coinmarketcap: allion
+tools:
+  explorer:
+    - 'http://www.trollpay.com/viewpage.php?page_id=19'
+mineable: true

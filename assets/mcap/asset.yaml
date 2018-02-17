@@ -1,0 +1,14 @@
+name: MCAP
+symbol: MCAP
+type: token
+web:
+  - 'https://bitcoingrowthfund.com/mcap'
+  - 'https://www.mcaplabs.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc'
+    - 'https://ethplorer.io/address/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc'
+mineable: false

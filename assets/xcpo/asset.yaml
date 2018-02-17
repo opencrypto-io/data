@@ -1,0 +1,15 @@
+name: Copico
+symbol: XCPO
+type: coin
+web:
+  - 'http://www.copico.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/CopicoOfficial'
+  github: copicogithub1
+  coinmarketcap: copico
+tools:
+  explorer:
+    - 'http://explorer.copico.io:3001/'
+mineable: false

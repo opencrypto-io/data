@@ -1,0 +1,16 @@
+name: SIRIN LABS Token
+symbol: SRN
+type: token
+web:
+  - 'http://www.sirinlabs.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/sirinlabs'
+  github: sirin-labs
+  coinmarketcap: sirin-labs-token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25'
+    - 'https://ethplorer.io/address/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25'
+mineable: false

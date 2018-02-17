@@ -1,0 +1,12 @@
+name: Ecobit
+symbol: ECOB
+type: token
+web:
+  - 'http://www.ecobit.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/EcobitOfficialTelegram'
+tools:
+  explorer: []
+mineable: false

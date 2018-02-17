@@ -1,0 +1,13 @@
+name: BitcoinX
+symbol: BCX
+type: coin
+web:
+  - 'https://bcx.org/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: bitcoinx
+  github: bitcoinx-project
+tools:
+  explorer: []
+mineable: true

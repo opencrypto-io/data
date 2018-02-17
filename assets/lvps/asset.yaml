@@ -1,0 +1,14 @@
+name: LevoPlus
+symbol: LVPS
+type: coin
+web:
+  - 'http://levoplus.com/'
+resources:
+  message-board: []
+webids:
+  github: levoplus
+  coinmarketcap: levoplus
+tools:
+  explorer:
+    - 'http://explorer.levoplus.com/'
+mineable: true

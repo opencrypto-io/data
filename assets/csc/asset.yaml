@@ -1,0 +1,15 @@
+name: CasinoCoin
+symbol: CSC
+type: coin
+web:
+  - 'http://casinocoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: casinocoin
+  github: casinocoin
+tools:
+  explorer:
+    - 'http://explorer.casinocoin.org/'
+mineable: true

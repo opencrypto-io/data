@@ -1,0 +1,15 @@
+name: Quark
+symbol: QRK
+type: coin
+web:
+  - 'http://www.qrknet.info/'
+resources:
+  message-board:
+    - 'https://www.quarktalk.cc/'
+webids:
+  github: quark-project
+  coinmarketcap: quark
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/qrk/'
+mineable: true

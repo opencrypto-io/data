@@ -1,0 +1,12 @@
+name: Cashcoin
+symbol: CASH
+type: coin
+web:
+  - 'https://cashcoin.cash/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/cash'
+mineable: true

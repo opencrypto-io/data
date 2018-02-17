@@ -1,0 +1,14 @@
+name: KashhCoin
+symbol: KASHH
+type: coin
+web:
+  - 'http://www.kashhcoin.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: kashhcoin
+  github: cashhcointech
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,16 @@
+name: WandX
+symbol: WAND
+type: token
+web:
+  - 'https://www.wandx.co/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/wandxbeta'
+  github: WandXDapp
+  coinmarketcap: wandx
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x27f610bf36eca0939093343ac28b1534a721dbb4'
+    - 'https://ethplorer.io/address/0x27f610bf36eca0939093343ac28b1534a721dbb4'
+mineable: false

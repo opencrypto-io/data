@@ -1,0 +1,13 @@
+name: VeChain
+symbol: VEN
+type: token
+web:
+  - 'https://www.vechain.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xd850942ef8811f2a866692a623011bde52a462c1'
+    - 'https://ethplorer.io/address/0xd850942ef8811f2a866692a623011bde52a462c1'
+mineable: false

@@ -1,0 +1,14 @@
+name: Sakuracoin
+symbol: SKR
+type: coin
+web:
+  - 'http://sakuracoin.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: sakuracoin
+tools:
+  explorer:
+    - 'https://prohashing.com/explorer/Sakuracoin/'
+mineable: true

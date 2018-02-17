@@ -1,0 +1,15 @@
+name: GameUnits
+symbol: UNITS
+type: coin
+web:
+  - 'http://gameunits.org/'
+resources:
+  message-board: []
+webids:
+  github: gameunits
+  coinmarketcap: gameunits
+tools:
+  explorer:
+    - 'http://91.121.108.101:3001/'
+    - 'http://5.196.89.126:8080/'
+mineable: false

@@ -1,0 +1,12 @@
+name: CryptoEscudo
+symbol: CESC
+type: coin
+web:
+  - 'http://www.cryptoescudo.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorador.cryptoescudo.net/chain/CryptoEscudo'
+mineable: true

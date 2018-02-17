@@ -1,0 +1,14 @@
+name: GlobalBoost-Y
+symbol: BSTY
+type: coin
+web:
+  - 'http://globalboost-y.com/'
+resources:
+  message-board: []
+webids:
+  github: GlobalBoost
+  coinmarketcap: globalboost-y
+tools:
+  explorer:
+    - 'http://bstyexplorer.globalboost.info/'
+mineable: true

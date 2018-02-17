@@ -1,0 +1,15 @@
+name: SHACoin
+symbol: SHA
+type: coin
+web:
+  - 'http://www.shacoin2.com/'
+  - 'http://shacoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: shacoin
+  github: AltcoinsBeta
+tools:
+  explorer: []
+mineable: true

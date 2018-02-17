@@ -1,0 +1,14 @@
+name: Eurocoin
+symbol: EUC
+type: coin
+web:
+  - 'http://eurocoin-euc.com/'
+resources:
+  message-board: []
+webids:
+  github: scriptexpert
+  coinmarketcap: eurocoin
+tools:
+  explorer:
+    - 'http://explorer.eurocoin-euc.com/'
+mineable: true

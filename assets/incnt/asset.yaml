@@ -1,0 +1,12 @@
+name: Incent
+symbol: INCNT
+type: token
+web:
+  - 'https://www.incentloyalty.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://www.wavesgo.com/'
+mineable: false

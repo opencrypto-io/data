@@ -1,0 +1,13 @@
+name: Indorse Token
+symbol: IND
+type: token
+web:
+  - 'https://indorse.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf8e386eda857484f5a12e4b5daa9984e06e73705'
+    - 'https://ethplorer.io/address/0xf8e386eda857484f5a12e4b5daa9984e06e73705'
+mineable: false

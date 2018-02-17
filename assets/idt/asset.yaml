@@ -1,0 +1,13 @@
+name: InvestDigital
+symbol: IDT
+type: token
+web:
+  - 'https://investdigital.info/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: investdigital
+  github: investdigital
+tools:
+  explorer: []
+mineable: false

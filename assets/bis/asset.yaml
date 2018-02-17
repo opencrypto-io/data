@@ -1,0 +1,15 @@
+name: Bismuth
+symbol: BIS
+type: coin
+web:
+  - 'http://bismuth.cz/'
+resources:
+  message-board:
+    - 'http://bismuth.cz/forum/'
+webids:
+  github: hclivess
+  coinmarketcap: bismuth
+tools:
+  explorer:
+    - 'http://bismuth.online/'
+mineable: true

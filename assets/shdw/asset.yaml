@@ -1,0 +1,13 @@
+name: Shadow Token
+symbol: SHDW
+type: token
+web:
+  - 'http://www.shadowera.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - >-
+      http://www.wavesgo.com/assets.html?ETLzrCpBqTrpyuMGdiVLBPZnUoKwte88oVdJjoFi5R2h
+mineable: false

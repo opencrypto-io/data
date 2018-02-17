@@ -1,0 +1,14 @@
+name: Viacoin
+symbol: VIA
+type: coin
+web:
+  - 'http://viacoin.org'
+resources:
+  message-board: []
+webids:
+  github: viacoin
+  coinmarketcap: viacoin
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/via/'
+mineable: true

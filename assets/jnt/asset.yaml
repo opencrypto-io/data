@@ -1,0 +1,17 @@
+name: Jibrel Network
+symbol: JNT
+type: token
+web:
+  - 'https://jibrel.network/'
+resources:
+  message-board:
+    - 'https://medium.com/@jibrelnetwork'
+webids:
+  telegram: 'https://t.me/jibrel_network'
+  github: jibrelnetwork
+  coinmarketcap: jibrel-network
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7'
+    - 'https://ethplorer.io/address/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7'
+mineable: false

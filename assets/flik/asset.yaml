@@ -1,0 +1,13 @@
+name: FLiK
+symbol: FLIK
+type: token
+web:
+  - 'http://www.theflik.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x17fd666fa0784885fa1afec8ac624d9b7e72b752'
+    - 'https://ethplorer.io/address/0x17fd666fa0784885fa1afec8ac624d9b7e72b752'
+mineable: false

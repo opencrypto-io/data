@@ -1,0 +1,13 @@
+name: Prototanium
+symbol: PR
+type: coin
+web:
+  - 'http://prototanium.uno/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pr/'
+    - 'http://cryptobe.com/chain/Prototanium%20%28UNO%20Testnet%29'
+mineable: true

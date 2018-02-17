@@ -1,0 +1,14 @@
+name: MyBit Token
+symbol: MYB
+type: token
+web:
+  - 'https://mybit.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/mybitio'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090'
+    - 'https://ethplorer.io/address/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090'
+mineable: false

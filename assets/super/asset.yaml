@@ -1,0 +1,14 @@
+name: SuperCoin
+symbol: SUPER
+type: coin
+web:
+  - 'https://supercoin.nl/'
+resources:
+  message-board: []
+webids:
+  github: CryptoUnited
+  coinmarketcap: supercoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/super/'
+mineable: true

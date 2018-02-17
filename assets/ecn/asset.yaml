@@ -1,0 +1,16 @@
+name: E-coin
+symbol: ECN
+type: coin
+web:
+  - 'https://www.ecoinsource.com/'
+resources:
+  message-board: []
+webids:
+  github: ecoinclub
+  coinmarketcap: e-coin
+tools:
+  explorer:
+    - 'http://ecnblockchain.com/'
+    - 'https://chainz.cryptoid.info/ecn/'
+    - 'https://www.blockexperts.com/ecn'
+mineable: true

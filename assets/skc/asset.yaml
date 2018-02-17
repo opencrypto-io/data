@@ -1,0 +1,16 @@
+name: Skeincoin
+symbol: SKC
+type: coin
+web:
+  - 'http://skeincoin.co/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/CqeByhFOKhuFmMjWYN356g'
+  github: skeincoin
+  coinmarketcap: skeincoin
+tools:
+  explorer:
+    - 'http://xplorer.skeincoin.co/'
+    - 'https://chainz.cryptoid.info/skc/'
+mineable: true

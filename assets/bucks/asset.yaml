@@ -1,0 +1,14 @@
+name: SwagBucks
+symbol: BUCKS
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: pinkmagicdev
+  coinmarketcap: swagbucks
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bucks/'
+    - 'http://www.presstab.pw/phpexplorer/BUCKS/index.php'
+mineable: true

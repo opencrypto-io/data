@@ -1,0 +1,16 @@
+name: Bean Cash
+symbol: BITB
+type: coin
+web:
+  - 'http://www.bitbean.org/'
+resources:
+  message-board:
+    - 'http://www.bitbean.org/forum/'
+webids:
+  github: TeamBitBean
+  coinmarketcap: bean-cash
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bitb/'
+    - 'http://aida.ageleis.de/'
+mineable: false

@@ -1,0 +1,16 @@
+name: Memetic / PepeCoin
+symbol: MEME
+type: coin
+web:
+  - 'https://memetic.ai/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/pepecoins'
+  github: pepeteam
+  coinmarketcap: memetic
+tools:
+  explorer:
+    - 'http://memetic.thecryptochat.net/'
+    - 'http://explorer.memetic.ai/'
+mineable: true

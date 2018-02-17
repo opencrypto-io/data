@@ -1,0 +1,17 @@
+name: Harvest Masternode Coin
+symbol: HC
+type: coin
+web:
+  - 'https://www.harvestcoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: harvest-masternode-coin
+  telegram: 'https://t.me/harvestcoin'
+  github: HarvestMasternodecoin
+tools:
+  explorer:
+    - 'http://hmcexplorer.com/'
+    - 'https://masternodes.online/currencies/HC/'
+mineable: true

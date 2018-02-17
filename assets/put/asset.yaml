@@ -1,0 +1,13 @@
+name: Profile Utility Token
+symbol: PUT
+type: token
+web:
+  - 'https://www.robin8put.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/Robin8_PUT'
+tools:
+  explorer:
+    - 'https://explorer.qtum.org/token/4060e21ac01b5c5d2a3f01cecd7cbf820f50be95'
+mineable: false

@@ -1,0 +1,15 @@
+name: Marscoin
+symbol: MARS
+type: coin
+web:
+  - 'http://marscoin.org/'
+resources:
+  message-board: []
+webids:
+  github: marscoin
+  coinmarketcap: marscoin
+tools:
+  explorer:
+    - 'http://explore.marscoin.org/'
+    - 'http://cryptoguru.tk/index.php?Currency=MRS'
+mineable: true

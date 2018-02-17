@@ -1,0 +1,13 @@
+name: CRTCoin
+symbol: CRT
+type: coin
+web:
+  - 'http://crtcoin.com/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: crtcoin
+tools:
+  explorer:
+    - 'http://www.crtcoin.com/explorer/'
+mineable: true

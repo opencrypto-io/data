@@ -1,0 +1,12 @@
+name: SJWCoin
+symbol: SJW
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: sjwcoin
+tools:
+  explorer: []
+mineable: false

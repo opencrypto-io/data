@@ -1,0 +1,12 @@
+name: Dubstep
+symbol: DUB
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: dubstep
+tools:
+  explorer: []
+mineable: false

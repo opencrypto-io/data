@@ -1,0 +1,14 @@
+name: GoldBlocks
+symbol: GB
+type: coin
+web:
+  - 'http://goldblocks.eu/'
+resources:
+  message-board: []
+webids:
+  github: goldblockscoin
+  coinmarketcap: goldblocks
+tools:
+  explorer:
+    - 'https://cryptogods.net/explorer/goldblocks/'
+mineable: true

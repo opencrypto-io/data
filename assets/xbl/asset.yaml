@@ -1,0 +1,15 @@
+name: Billionaire Token
+symbol: XBL
+type: token
+web:
+  - 'https://billionairetoken.com/'
+resources:
+  message-board: []
+webids:
+  github: BillionaireToken
+  coinmarketcap: billionaire-token
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x49aec0752e68d0282db544c677f6ba407ba17ed7'
+    - 'https://ethplorer.io/address/0x49aec0752e68d0282db544c677f6ba407ba17ed7'
+mineable: false

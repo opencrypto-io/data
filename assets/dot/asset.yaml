@@ -1,0 +1,12 @@
+name: Dotcoin
+symbol: DOT
+type: token
+web:
+  - 'https://www.cryptopia.co.nz/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dot/'
+mineable: false

@@ -1,0 +1,16 @@
+name: Vertcoin
+symbol: VTC
+type: coin
+web:
+  - 'http://vertcoin.org/'
+resources:
+  message-board: []
+webids:
+  github: vertcoin
+  coinmarketcap: vertcoin
+tools:
+  explorer:
+    - 'https://bitinfocharts.com/vertcoin/'
+    - 'https://bchain.info/vtc/'
+    - 'https://www.coinexplorer.net/VTC'
+mineable: true

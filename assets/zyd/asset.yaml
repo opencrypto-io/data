@@ -1,0 +1,14 @@
+name: Zayedcoin
+symbol: ZYD
+type: coin
+web:
+  - 'http://www.zayedcoin.net/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: zayedcoin
+  github: ZayedCoin
+tools:
+  explorer:
+    - 'http://explorer.zayedcoin.net/'
+mineable: true

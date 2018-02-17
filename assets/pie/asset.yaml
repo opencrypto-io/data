@@ -1,0 +1,14 @@
+name: PIECoin
+symbol: PIE
+type: coin
+web:
+  - 'http://www.piecoin.info/'
+  - 'http://piecoin.tech/'
+resources:
+  message-board:
+    - 'http://www.piecoin.net/'
+webids: {}
+tools:
+  explorer:
+    - 'http://piecoin.thecryptochat.net/'
+mineable: false

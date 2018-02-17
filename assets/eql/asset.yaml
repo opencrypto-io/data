@@ -1,0 +1,17 @@
+name: Equal
+symbol: EQL
+type: token
+web:
+  - 'http://www.equaltoken.io'
+resources:
+  message-board:
+    - 'https://medium.com/@EqualToken'
+  source: []
+webids:
+  coinmarketcap: equal
+  telegram: 'https://t.me/joinchat/GtLjl1JMYiTHzhaQA5CGPw'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x47dd62d4d075dead71d0e00299fc56a2d747bebb'
+    - 'https://ethplorer.io/address/0x47dd62d4d075dead71d0e00299fc56a2d747bebb'
+mineable: false

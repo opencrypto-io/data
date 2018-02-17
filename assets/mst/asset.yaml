@@ -1,0 +1,15 @@
+name: MustangCoin
+symbol: MST
+type: coin
+web:
+  - 'http://mustangcoin.xyz/'
+resources:
+  message-board: []
+webids:
+  github: mustangcoin
+  coinmarketcap: mustangcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/mst/'
+    - 'https://www.blockexperts.com/mst'
+mineable: true

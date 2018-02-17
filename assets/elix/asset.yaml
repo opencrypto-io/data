@@ -1,0 +1,14 @@
+name: Elixir
+symbol: ELIX
+type: token
+web:
+  - 'http://elixirtoken.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/ElixirToken'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8'
+    - 'https://ethplorer.io/address/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8'
+mineable: false

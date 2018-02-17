@@ -1,0 +1,11 @@
+name: EGO
+symbol: EGO
+type: coin
+web: []
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.ego.gleeze.com/'
+mineable: false

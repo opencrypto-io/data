@@ -1,0 +1,13 @@
+name: OAX
+symbol: OAX
+type: token
+web:
+  - 'https://oax.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/openanxteam'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d'
+mineable: false

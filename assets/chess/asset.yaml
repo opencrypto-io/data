@@ -1,0 +1,14 @@
+name: ChessCoin
+symbol: CHESS
+type: coin
+web:
+  - 'https://chesscoincommunity.com/'
+resources:
+  message-board: []
+webids:
+  github: coinforchess
+  coinmarketcap: chesscoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/chess'
+mineable: false

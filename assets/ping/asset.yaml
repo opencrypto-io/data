@@ -1,0 +1,13 @@
+name: CryptoPing
+symbol: PING
+type: token
+web:
+  - 'https://cryptoping.tech/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - >-
+      http://www.wavesgo.com/assets.html?Bi4w2UuGRt2jAJFfRb8b3SwDUV5x8krCzX2zZHcRfPNc
+mineable: false

@@ -1,0 +1,15 @@
+name: Fazzcoin
+symbol: FAZZ
+type: coin
+web:
+  - 'http://fazzcoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: fazzcoin
+  github: fazzcoin
+tools:
+  explorer:
+    - 'http://fazzcoin.org:4444/'
+mineable: false

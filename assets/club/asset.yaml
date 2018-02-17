@@ -1,0 +1,15 @@
+name: ClubCoin
+symbol: CLUB
+type: coin
+web:
+  - 'http://clubcoin.co/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: clubcoin
+  github: BitClubDev
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/club/'
+mineable: false

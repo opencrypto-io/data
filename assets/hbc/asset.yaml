@@ -1,0 +1,13 @@
+name: HomeBlockCoin
+symbol: HBC
+type: coin
+web:
+  - 'https://www.homeblockcoin.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/HomeBlockCoin'
+tools:
+  explorer:
+    - 'http://homeblock.thecryptochat.net'
+mineable: true

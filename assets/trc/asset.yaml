@@ -1,0 +1,16 @@
+name: Terracoin
+symbol: TRC
+type: coin
+web:
+  - 'http://www.terracoin.info/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/terracoin'
+  github: terracoin
+  coinmarketcap: terracoin
+tools:
+  explorer:
+    - 'http://zpool.ca/explorer/TRC'
+    - 'https://bchain.info/TRC/'
+mineable: true

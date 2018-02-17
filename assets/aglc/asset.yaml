@@ -1,0 +1,14 @@
+name: AgrolifeCoin
+symbol: AGLC
+type: coin
+web:
+  - 'https://www.agrolifecoin.org/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: agrolifecoin
+  github: traiborg
+tools:
+  explorer:
+    - 'http://pool.agrolifecoin.org:3001/'
+mineable: false

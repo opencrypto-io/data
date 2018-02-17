@@ -1,0 +1,16 @@
+name: Request Network
+symbol: REQ
+type: token
+web:
+  - 'https://request.network/'
+resources:
+  message-board:
+    - 'https://blog.request.network/'
+webids:
+  github: RequestNetwork
+  coinmarketcap: request-network
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a'
+    - 'https://ethplorer.io/address/0x8f8221afbb33998d8584a2b05749ba73c37a938a'
+mineable: false

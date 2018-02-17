@@ -1,0 +1,14 @@
+name: ICOS
+symbol: ICOS
+type: token
+web:
+  - 'https://icos.icobox.io/'
+  - 'https://t.me/icobox_en'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x014b50466590340d41307cc54dcee990c8d58aa8'
+    - 'https://ethplorer.io/address/0x014b50466590340d41307cc54dcee990c8d58aa8'
+mineable: false

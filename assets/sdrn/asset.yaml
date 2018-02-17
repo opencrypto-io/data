@@ -1,0 +1,13 @@
+name: Senderon
+symbol: SDRN
+type: token
+web:
+  - 'https://www.senderon.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7'
+    - 'https://ethplorer.io/address/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7'
+mineable: false

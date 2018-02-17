@@ -1,0 +1,12 @@
+name: TagCoin
+symbol: TAG
+type: coin
+web:
+  - 'http://tagcoin.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://tagcoin.org/tagexplorer/www/'
+mineable: true

@@ -1,0 +1,14 @@
+name: BenjiRolls
+symbol: BENJI
+type: coin
+web:
+  - 'http://benjirolls.cf/'
+resources:
+  message-board: []
+webids:
+  github: BelligerentFool
+  coinmarketcap: benjirolls
+tools:
+  explorer:
+    - 'http://benjiexp.cryptooz.com/'
+mineable: true

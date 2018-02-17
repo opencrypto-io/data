@@ -1,0 +1,14 @@
+name: Bitradio
+symbol: BRO
+type: coin
+web:
+  - 'http://www.bitrad.io/'
+resources:
+  message-board: []
+webids:
+  github: thebitradio
+  coinmarketcap: bitradio
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bro/'
+mineable: false

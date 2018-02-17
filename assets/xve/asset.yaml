@@ -1,0 +1,13 @@
+name: The Vegan Initiative
+symbol: XVE
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: the-vegan-initiative
+  github: theveganinitiative
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,15 @@
+name: Astro
+symbol: ASTRO
+type: token
+web:
+  - 'https://astronaut.capital/'
+resources:
+  message-board:
+    - 'https://medium.com/astronaut-capital'
+webids:
+  telegram: 'https://t.me/astroico'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88'
+    - 'https://ethplorer.io/address/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88'
+mineable: false

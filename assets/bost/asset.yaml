@@ -1,0 +1,14 @@
+name: BoostCoin
+symbol: BOST
+type: coin
+web:
+  - 'https://bitcointalk.org/index.php?topic=601965.0'
+resources:
+  message-board: []
+webids:
+  github: mammix2
+  coinmarketcap: boostcoin
+tools:
+  explorer:
+    - 'http://explorer.bost.link/'
+mineable: true

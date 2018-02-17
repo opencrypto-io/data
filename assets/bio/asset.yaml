@@ -1,0 +1,16 @@
+name: BioCoin
+symbol: BIO
+type: coin
+web:
+  - 'https://biocoin.bio/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: biocoin
+  telegram: 'https://t.me/biocoinchat_ru'
+  github: Blackithart
+tools:
+  explorer:
+    - 'http://block-explorer.biocoin.bio/'
+mineable: false

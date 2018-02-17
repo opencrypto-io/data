@@ -1,0 +1,15 @@
+name: Regacoin
+symbol: REGA
+type: coin
+web:
+  - 'https://regaco.in/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: regacoin
+  github: REGAcoin
+tools:
+  explorer:
+    - 'http://84.200.32.210:9001/'
+mineable: true

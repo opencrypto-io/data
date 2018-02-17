@@ -1,0 +1,14 @@
+name: SwapToken
+symbol: TOKEN
+type: coin
+web:
+  - 'https://swap-token.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: swaptoken
+tools:
+  explorer:
+    - 'http://fickschnitzel.pw:5001/'
+mineable: false

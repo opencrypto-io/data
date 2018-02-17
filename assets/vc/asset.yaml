@@ -1,0 +1,13 @@
+name: VirtualCoin
+symbol: VC
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: vcoin-z
+  coinmarketcap: virtualcoin
+tools:
+  explorer:
+    - 'http://blockexplorer.virtualcoin.ca/'
+mineable: true

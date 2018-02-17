@@ -1,0 +1,13 @@
+name: PosEx
+symbol: PEX
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  github: PosEx
+  coinmarketcap: posex
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/pex/'
+mineable: true

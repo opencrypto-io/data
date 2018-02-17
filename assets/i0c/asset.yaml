@@ -1,0 +1,14 @@
+name: I0Coin
+symbol: I0C
+type: coin
+web:
+  - 'http://izerocoin.org'
+resources:
+  message-board: []
+webids:
+  github: domob1812
+  coinmarketcap: i0coin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/i0c/'
+mineable: true

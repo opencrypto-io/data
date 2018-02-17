@@ -1,0 +1,12 @@
+name: Artex Coin
+symbol: ATX
+type: coin
+web:
+  - 'http://www.atxcoin.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://162.243.99.178:3001/'
+mineable: true

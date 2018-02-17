@@ -1,0 +1,15 @@
+name: Link Platform
+symbol: LNK
+type: token
+web:
+  - 'https://ethereum.link/'
+resources:
+  message-board: []
+webids:
+  github: ethlink
+  coinmarketcap: link-platform
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xe2e6d4be086c6938b53b22144855eef674281639'
+    - 'https://ethplorer.io/address/0xe2e6d4be086c6938b53b22144855eef674281639'
+mineable: false

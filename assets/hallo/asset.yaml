@@ -1,0 +1,14 @@
+name: Halloween Coin
+symbol: HALLO
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: halloween-coin
+  github: hesdeadjim
+tools:
+  explorer:
+    - 'http://halloweencoin.thecryptochat.net/'
+mineable: true

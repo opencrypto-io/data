@@ -1,0 +1,12 @@
+name: Shorty
+symbol: SHORTY
+type: coin
+web:
+  - 'http://shortycool.site/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://shortyexplorer.sytes.net/'
+mineable: false

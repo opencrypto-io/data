@@ -1,0 +1,16 @@
+name: ELTCOIN
+symbol: ELTCOIN
+type: token
+web:
+  - 'https://www.eltcoin.tech/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/ELTCOIN'
+  github: ELTCOIN
+  coinmarketcap: eltcoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x44197a4c44d6a059297caf6be4f7e172bd56caaf'
+    - 'https://ethplorer.io/address/0x44197a4c44d6a059297caf6be4f7e172bd56caaf'
+mineable: false

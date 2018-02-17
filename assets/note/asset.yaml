@@ -1,0 +1,14 @@
+name: DNotes
+symbol: NOTE
+type: coin
+web:
+  - 'http://dnotescoin.com/'
+resources:
+  message-board: []
+webids:
+  github: DNotesCoin
+  coinmarketcap: dnotes
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/note/'
+mineable: true

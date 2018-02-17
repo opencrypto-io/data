@@ -1,0 +1,15 @@
+name: Dashcoin
+symbol: DSH
+type: coin
+web:
+  - 'http://dashcoin.info/'
+resources:
+  message-board: []
+webids:
+  github: papaLazzarou
+  coinmarketcap: dashcoin
+tools:
+  explorer:
+    - 'http://chainradar.com/dsh/blocks'
+    - 'http://democats.org/pool/?name=dashcoin'
+mineable: true

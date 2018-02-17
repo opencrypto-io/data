@@ -1,0 +1,14 @@
+name: Pascal Lite
+symbol: PASL
+type: coin
+web:
+  - 'https://pascallite.com/'
+resources:
+  message-board: []
+webids:
+  github: PascalLite
+  coinmarketcap: pascal-lite
+tools:
+  explorer:
+    - 'http://explorer.pascallite.com/'
+mineable: true

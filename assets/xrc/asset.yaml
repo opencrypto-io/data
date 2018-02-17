@@ -1,0 +1,15 @@
+name: Rawcoin
+symbol: XRC
+type: coin
+web:
+  - 'http://rawcoin.co/'
+resources:
+  message-board:
+    - 'http://forum.rawcoin.co/'
+webids:
+  coinmarketcap: rawcoin2
+  github: rawcoin-project
+tools:
+  explorer:
+    - 'http://www.rawcoin.co/explorer/'
+mineable: true

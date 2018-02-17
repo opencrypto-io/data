@@ -1,0 +1,15 @@
+name: Dash
+symbol: DASH
+type: coin
+web:
+  - 'https://www.dash.org/'
+resources:
+  message-board:
+    - 'https://www.dash.org/forum/'
+webids:
+  github: dashpay
+  coinmarketcap: dash
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dash/'
+mineable: true

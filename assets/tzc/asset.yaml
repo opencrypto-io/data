@@ -1,0 +1,14 @@
+name: TrezarCoin
+symbol: TZC
+type: coin
+web:
+  - 'http://trezarcoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://explorer.trezarcoin.com/'
+    - 'https://trezarcoin.network/'
+    - 'http://tzc.explorerz.top:3004/'
+mineable: true

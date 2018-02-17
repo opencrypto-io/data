@@ -1,0 +1,14 @@
+name: UltraCoin
+symbol: UTC
+type: coin
+web:
+  - 'http://ultracoin.io/'
+resources:
+  message-board: []
+webids:
+  github: presstab
+  coinmarketcap: ultracoin
+tools:
+  explorer:
+    - 'http://utc.presstab.pw/'
+mineable: true

@@ -1,0 +1,11 @@
+name: PetroDollar
+symbol: XPD
+type: coin
+web:
+  - 'http://petrodollar.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer: []
+mineable: true

@@ -1,0 +1,15 @@
+name: LBRY Credits
+symbol: LBC
+type: coin
+web:
+  - 'https://lbry.io/'
+  - 'https://lbry.community/'
+resources:
+  message-board: []
+webids:
+  github: lbryio
+  coinmarketcap: library-credit
+tools:
+  explorer:
+    - 'https://explorer.lbry.io/'
+mineable: true

@@ -1,0 +1,16 @@
+name: Waves
+symbol: WAVES
+type: coin
+web:
+  - 'https://wavesplatform.com/'
+resources:
+  message-board:
+    - 'https://wavestalk.org/'
+webids:
+  github: wavesplatform
+  coinmarketcap: waves
+tools:
+  explorer:
+    - 'http://wavesgo.com/'
+    - 'http://wavesexplorer.com/'
+mineable: false

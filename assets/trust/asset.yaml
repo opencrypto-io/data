@@ -1,0 +1,14 @@
+name: TrustPlus
+symbol: TRUST
+type: coin
+web:
+  - 'http://trustplus.co'
+resources:
+  message-board: []
+webids:
+  github: TrustPlus
+  coinmarketcap: trustplus
+tools:
+  explorer:
+    - 'http://trust.blockexplorer.cc/chain/TrustPlus'
+mineable: false

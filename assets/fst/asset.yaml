@@ -1,0 +1,15 @@
+name: Fastcoin
+symbol: FST
+type: coin
+web:
+  - 'http://www.fastcoin.ca/'
+resources:
+  message-board:
+    - 'http://www.fastcointalk.org/'
+webids:
+  github: fastcoinproject
+  coinmarketcap: fastcoin
+tools:
+  explorer:
+    - 'http://explorer.fastcoinfoundation.org/'
+mineable: true

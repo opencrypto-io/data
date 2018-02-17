@@ -1,0 +1,14 @@
+name: BioBar
+symbol: BIOB
+type: coin
+web:
+  - 'http://biobar-crypto.ml/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: biobar
+  github: sassafrasstubby
+tools:
+  explorer:
+    - 'http://blockexp.com:8888/'
+mineable: false

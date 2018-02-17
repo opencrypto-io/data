@@ -1,0 +1,13 @@
+name: E-Dinar Coin
+symbol: EDR
+type: coin
+web:
+  - 'https://edinarcoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://blockchain.mn/'
+    - 'https://wallet.e-dinarcoin.com/#/explorer/blocks'
+mineable: true

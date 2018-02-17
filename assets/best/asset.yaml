@@ -1,0 +1,14 @@
+name: BestChain
+symbol: BEST
+type: coin
+web:
+  - 'http://bestchain.hol.es/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: bestchain
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/best'
+mineable: true

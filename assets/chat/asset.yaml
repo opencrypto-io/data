@@ -1,0 +1,12 @@
+name: ChatCoin
+symbol: CHAT
+type: coin
+web:
+  - 'http://www.openchat.co/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: chatcoin
+tools:
+  explorer: []
+mineable: false

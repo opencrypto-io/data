@@ -1,0 +1,12 @@
+name: Opal
+symbol: OPAL
+type: coin
+web:
+  - 'http://www.opal-coin.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/opal/'
+mineable: false

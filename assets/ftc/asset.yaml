@@ -1,0 +1,16 @@
+name: Feathercoin
+symbol: FTC
+type: coin
+web:
+  - 'http://feathercoin.com'
+resources:
+  message-board:
+    - 'https://forum.feathercoin.com'
+webids:
+  github: FeatherCoin
+  coinmarketcap: feathercoin
+tools:
+  explorer:
+    - 'http://explorer.feathercoin.com/'
+    - 'https://fsight.chain.tips/'
+mineable: true

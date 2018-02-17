@@ -1,0 +1,14 @@
+name: Dutch Coin
+symbol: DUTCH
+type: coin
+web:
+  - 'https://www.dutchcoin.net/'
+resources:
+  message-board:
+    - 'https://bitcoingarden.org/forum/index.php?topic=18157.0'
+  source: []
+webids:
+  coinmarketcap: dutch-coin
+tools:
+  explorer: []
+mineable: true

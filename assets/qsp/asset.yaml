@@ -1,0 +1,15 @@
+name: Quantstamp
+symbol: QSP
+type: token
+web:
+  - 'https://quantstamp.com/'
+resources:
+  message-board: []
+webids:
+  github: quantstamp
+  coinmarketcap: quantstamp
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d'
+    - 'https://ethplorer.io/address/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d'
+mineable: false

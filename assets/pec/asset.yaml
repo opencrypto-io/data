@@ -1,0 +1,13 @@
+name: Peacecoin
+symbol: PEC
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: peacecoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/pec'
+mineable: false

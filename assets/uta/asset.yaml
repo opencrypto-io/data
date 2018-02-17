@@ -1,0 +1,14 @@
+name: UtaCoin
+symbol: UTA
+type: coin
+web:
+  - 'http://www.goodtime.life/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: utacoin
+tools:
+  explorer:
+    - 'https://www.blocktube.net/utablockchain'
+mineable: false

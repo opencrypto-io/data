@@ -1,0 +1,14 @@
+name: Internxt
+symbol: INXT
+type: token
+web:
+  - 'https://internxt.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/internxt_io'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82'
+    - 'https://ethplorer.io/address/0xa8006c4ca56f24d6836727d106349320db7fef82'
+mineable: false

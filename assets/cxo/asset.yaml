@@ -1,0 +1,15 @@
+name: CargoX
+symbol: CXO
+type: token
+web:
+  - 'https://cargox.io/'
+resources:
+  message-board:
+    - 'https://medium.com/cargoxio'
+webids:
+  telegram: 'https://t.me/joinchat/GAKhBQ48675fRRMEd-kLcw'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143'
+    - 'https://ethplorer.io/address/0xb6ee9668771a79be7967ee29a63d4184f8097143'
+mineable: false

@@ -1,0 +1,12 @@
+name: Civic
+symbol: CVC
+type: token
+web:
+  - 'https://www.civic.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/civic'
+mineable: false

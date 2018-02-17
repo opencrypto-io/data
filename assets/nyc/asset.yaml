@@ -1,0 +1,15 @@
+name: NewYorkCoin
+symbol: NYC
+type: coin
+web:
+  - 'http://newyorkcoin.net/'
+resources:
+  message-board: []
+webids:
+  github: orgs
+  coinmarketcap: newyorkcoin
+tools:
+  explorer:
+    - 'http://nyc-block.mypool.club/'
+    - 'https://altminer.net/explorer/NYC'
+mineable: true

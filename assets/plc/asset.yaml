@@ -1,0 +1,17 @@
+name: PlusCoin
+symbol: PLC
+type: token
+web:
+  - 'https://pluscoin.io/'
+resources:
+  message-board:
+    - 'https://medium.com/@DSPlus.io'
+webids:
+  telegram: 'https://t.me/PlusCoinENG'
+  github: dsplus
+  coinmarketcap: pluscoin
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x0835ecd15ddf08d4786304d71b4672dc5c40f011'
+    - 'https://ethplorer.io/address/0x0835ecd15ddf08d4786304d71b4672dc5c40f011'
+mineable: false

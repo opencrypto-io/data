@@ -1,0 +1,15 @@
+name: Omicron
+symbol: OMC
+type: coin
+web:
+  - 'http://delta.investments/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: omicron
+  github: Gladimor
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/omc/'
+mineable: false

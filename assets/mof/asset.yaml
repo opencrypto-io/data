@@ -1,0 +1,16 @@
+name: Molecular Future
+symbol: MOF
+type: coin
+web:
+  - 'http://www.molecular.cc/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: molecular-future
+  telegram: 'https://t.me/joinchat/Hix2Ow7xE6jnK4WTpOie-w'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x653430560be843c4a3d143d0110e896c2ab8ac0d'
+    - 'https://ethplorer.io/address/0x653430560be843c4a3d143d0110e896c2ab8ac0d'
+mineable: false

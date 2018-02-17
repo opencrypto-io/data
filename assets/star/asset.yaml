@@ -1,0 +1,16 @@
+name: Starbase
+symbol: STAR
+type: token
+web:
+  - 'https://starbase.co/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/starbase'
+  github: starbaseco
+  coinmarketcap: starbase
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc'
+    - 'https://ethplorer.io/address/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc'
+mineable: false

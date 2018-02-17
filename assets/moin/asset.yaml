@@ -1,0 +1,12 @@
+name: Moin
+symbol: MOIN
+type: coin
+web:
+  - 'https://discovermoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.discovermoin.com/'
+mineable: false

@@ -1,0 +1,15 @@
+name: Ignition
+symbol: IC
+type: coin
+web:
+  - 'https://www.ignitioncoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: ignition
+  github: ignitioncoin
+tools:
+  explorer:
+    - 'http://explorer.ignitioncoin.org/'
+mineable: true

@@ -1,0 +1,12 @@
+name: Tokes
+symbol: TKS
+type: token
+web:
+  - 'https://tokesplatform.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://wavesexplorer.com/tx/BDMRyZsmDZpgKhdM7fUTknKcUbVVkDpMcqEj31PUzjMy'
+mineable: false

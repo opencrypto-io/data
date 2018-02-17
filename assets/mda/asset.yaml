@@ -1,0 +1,16 @@
+name: Moeda Loyalty Points
+symbol: MDA
+type: token
+web:
+  - 'https://moeda.in/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/moedaproject'
+  github: moedabank
+  coinmarketcap: moeda-loyalty-points
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd'
+    - 'https://ethplorer.io/address/0x51db5ad35c671a87207d88fc11d593ac0c8415bd'
+mineable: false

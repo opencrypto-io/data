@@ -1,0 +1,14 @@
+name: DarkLisk
+symbol: DISK
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: darklisk
+  github: diskdev
+tools:
+  explorer:
+    - 'http://rainz.xyz:3006/'
+mineable: true

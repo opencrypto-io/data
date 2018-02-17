@@ -1,0 +1,12 @@
+name: Elcoin
+symbol: EL
+type: coin
+web:
+  - 'https://elcoin.space/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.elcoin.space/'
+mineable: false

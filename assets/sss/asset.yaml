@@ -1,0 +1,13 @@
+name: Sharechain
+symbol: SSS
+type: token
+web:
+  - 'http://www.sharechain.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x7d3e7d41da367b4fdce7cbe06502b13294deb758'
+    - 'https://ethplorer.io/address/0x7d3e7d41da367b4fdce7cbe06502b13294deb758'
+mineable: false

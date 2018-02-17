@@ -1,0 +1,14 @@
+name: Dynamic
+symbol: DYN
+type: coin
+web:
+  - 'https://duality.solutions/'
+resources:
+  message-board: []
+webids:
+  github: duality-solutions
+  coinmarketcap: dynamic
+tools:
+  explorer:
+    - 'http://dyn.blocksandchain.com/'
+mineable: false

@@ -1,0 +1,14 @@
+name: Gapcoin
+symbol: GAP
+type: coin
+web:
+  - 'http://gapcoin.org'
+resources:
+  message-board: []
+webids:
+  github: gapcoin
+  coinmarketcap: gapcoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/gap/'
+mineable: true

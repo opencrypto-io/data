@@ -1,0 +1,15 @@
+name: Halcyon
+symbol: HAL
+type: coin
+web:
+  - 'http://halcyon.top/'
+resources:
+  message-board: []
+webids:
+  github: ghostlander
+  coinmarketcap: halcyon
+tools:
+  explorer:
+    - 'http://atlas.phoenixcoin.org:2080/chain/Halcyon'
+    - 'http://explorer.halcyon.top:2080/chain/Halcyon'
+mineable: true

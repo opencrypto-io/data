@@ -1,0 +1,16 @@
+name: SpankChain
+symbol: SPANK
+type: token
+web:
+  - 'https://spankchain.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@spankchain'
+webids:
+  github: spankchain
+  coinmarketcap: spankchain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18'
+    - 'https://ethplorer.io/address/0x42d6622dece394b54999fbd73d108123806f6a18'
+mineable: false

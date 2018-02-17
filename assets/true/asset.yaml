@@ -1,0 +1,13 @@
+name: True Chain
+symbol: 'TRUE'
+type: coin
+web:
+  - 'http://www.truechain.pro'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: true-chain
+tools:
+  explorer: []
+mineable: false

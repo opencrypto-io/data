@@ -1,0 +1,12 @@
+name: Bitcrystals
+symbol: BCY
+type: token
+web:
+  - 'http://bitcrystals.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://xchain.io/asset/BITCRYSTALS'
+mineable: false

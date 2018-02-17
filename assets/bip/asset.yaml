@@ -1,0 +1,12 @@
+name: BipCoin
+symbol: BIP
+type: coin
+web:
+  - 'https://bipcoin.org/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://bip.cryptonotepool.com/#blockchain_blocks'
+mineable: true

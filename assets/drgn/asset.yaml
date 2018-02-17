@@ -1,0 +1,15 @@
+name: Dragonchain
+symbol: DRGN
+type: token
+web:
+  - 'https://dragonchain.com/'
+resources:
+  message-board: []
+webids:
+  github: dragonchain
+  coinmarketcap: dragonchain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e'
+    - 'https://ethplorer.io/address/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e'
+mineable: false

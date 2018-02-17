@@ -1,0 +1,12 @@
+name: Monoeci
+symbol: XMCC
+type: coin
+web:
+  - 'http://www.monacocoin.net/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://block.monacocoin.net:8080/'
+mineable: true

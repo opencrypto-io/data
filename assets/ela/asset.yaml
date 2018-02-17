@@ -1,0 +1,14 @@
+name: Elastos
+symbol: ELA
+type: coin
+web:
+  - 'https://www.elastos.org/'
+resources:
+  message-board: []
+webids:
+  coinmarketcap: elastos
+  telegram: 'https://t.me/elastosgroup'
+  github: elastos
+tools:
+  explorer: []
+mineable: true

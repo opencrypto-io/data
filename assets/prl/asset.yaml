@@ -1,0 +1,16 @@
+name: Oyster
+symbol: PRL
+type: token
+web:
+  - 'https://oysterprotocol.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/oysterprotocol'
+  github: oysterprotocol
+  coinmarketcap: oyster
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x1844b21593262668b7248d0f57a220caaba46ab9'
+    - 'https://ethplorer.io/address/0x1844b21593262668b7248d0f57a220caaba46ab9'
+mineable: false

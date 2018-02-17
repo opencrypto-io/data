@@ -1,0 +1,14 @@
+name: ReeCoin
+symbol: REE
+type: coin
+web:
+  - 'http://reecoin.com/'
+resources:
+  message-board: []
+webids:
+  github: Reecoin
+  coinmarketcap: reecoin
+tools:
+  explorer:
+    - 'http://reecoinexplorer.com/'
+mineable: true

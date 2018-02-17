@@ -1,0 +1,13 @@
+name: NodeCoin
+symbol: NODC
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  coinmarketcap: nodecoin
+  github: nodecoins
+tools:
+  explorer:
+    - 'http://cryptoguru.tk/CurrencyInfo/index.php?Currency=NODC'
+mineable: true

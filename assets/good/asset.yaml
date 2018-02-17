@@ -1,0 +1,13 @@
+name: Goodomy
+symbol: GOOD
+type: token
+web:
+  - 'http://goodomy.com/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/Goodomy_community'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79'
+mineable: false

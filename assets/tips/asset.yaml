@@ -1,0 +1,15 @@
+name: FedoraCoin
+symbol: TIPS
+type: coin
+web:
+  - 'http://www.fedoracoin.top/'
+resources:
+  message-board: []
+webids:
+  github: fedoracoin-dev
+  coinmarketcap: fedoracoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/tips/'
+    - 'https://tipsbe.netcraft.ch/'
+mineable: true

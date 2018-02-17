@@ -1,0 +1,12 @@
+name: FirstCoin
+symbol: FRST
+type: coin
+web:
+  - 'http://firstcoinproject.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.firstcoinproject.com/'
+mineable: true

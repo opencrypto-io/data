@@ -1,0 +1,15 @@
+name: Read
+symbol: READ
+type: token
+web:
+  - 'https://read.lianzai.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: read
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x13d0bf45e5f319fa0b58900807049f23cae7c40d'
+    - 'https://ethplorer.io/address/0x13d0bf45e5f319fa0b58900807049f23cae7c40d'
+mineable: false

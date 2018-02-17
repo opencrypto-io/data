@@ -1,0 +1,14 @@
+name: Innova
+symbol: INN
+type: coin
+web:
+  - 'http://innovacoin.info/'
+resources:
+  message-board: []
+webids:
+  github: innovacoin
+  coinmarketcap: innova
+tools:
+  explorer:
+    - 'http://explorer.innovacoin.info'
+mineable: true

@@ -1,0 +1,16 @@
+name: Vcash
+symbol: XVC
+type: coin
+web:
+  - 'http://vcash.info/'
+resources:
+  message-board:
+    - 'https://forum.vcash.info/'
+webids:
+  github: openvcash
+  coinmarketcap: vcash
+tools:
+  explorer:
+    - 'https://explorer.vcash.info/'
+    - 'http://explorer.vcashproject.org/'
+mineable: true

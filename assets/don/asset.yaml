@@ -1,0 +1,14 @@
+name: Donationcoin
+symbol: DON
+type: coin
+web:
+  - 'http://donationcoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: donationcoin
+  github: donationcoin-project
+tools:
+  explorer: []
+mineable: true

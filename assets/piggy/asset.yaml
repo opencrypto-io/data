@@ -1,0 +1,14 @@
+name: Piggycoin
+symbol: PIGGY
+type: coin
+web:
+  - 'http://piggy-coin.com/'
+resources:
+  message-board: []
+webids:
+  github: piggycoin
+  coinmarketcap: piggycoin
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/piggy/'
+mineable: true

@@ -1,0 +1,14 @@
+name: ToaCoin
+symbol: TOA
+type: coin
+web:
+  - 'http://www.toacoin.com/'
+resources:
+  message-board: []
+webids:
+  github: toacoin
+  coinmarketcap: toacoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/toa'
+mineable: true

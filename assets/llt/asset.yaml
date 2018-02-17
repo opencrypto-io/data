@@ -1,0 +1,15 @@
+name: LLToken
+symbol: LLT
+type: token
+web:
+  - 'https://www.lltoken.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: lltoken
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2'
+    - 'https://ethplorer.io/address/0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2'
+mineable: false

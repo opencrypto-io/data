@@ -1,0 +1,12 @@
+name: Titcoin
+symbol: TIT
+type: coin
+web:
+  - 'http://www.joy-toilet.com/titcoin/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://blockexperts.com/tit'
+mineable: true

@@ -1,0 +1,14 @@
+name: Quantum
+symbol: QAU
+type: token
+web:
+  - 'http://www.quantumproject.org/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/QuantumProject'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x671abbe5ce652491985342e85428eb1b07bc6c64'
+    - 'https://ethplorer.io/address/0x671abbe5ce652491985342e85428eb1b07bc6c64'
+mineable: false

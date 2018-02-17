@@ -1,0 +1,14 @@
+name: Speed Mining Service
+symbol: SMS
+type: token
+web:
+  - 'https://smscoin.jp/en'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: speed-mining-service
+  github: Speed-Mining
+tools:
+  explorer: []
+mineable: false

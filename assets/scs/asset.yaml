@@ -1,0 +1,14 @@
+name: Speedcash
+symbol: SCS
+type: coin
+web:
+  - 'http://www.scash.ml/'
+resources:
+  message-board: []
+webids:
+  github: scashml
+  coinmarketcap: speedcash
+tools:
+  explorer:
+    - 'http://explorer.scash.ml/'
+mineable: true

@@ -1,0 +1,16 @@
+name: RabbitCoin
+symbol: RBBT
+type: coin
+web:
+  - 'http://rabbitcoin.co/'
+resources:
+  message-board: []
+  source:
+    - 'https://bitbucket.org/rabbitcoin/rabbitcoin'
+webids:
+  coinmarketcap: rabbitcoin
+  telegram: 'https://t.me/rabbitcoinco'
+tools:
+  explorer:
+    - 'http://blockchain.rabbitcoin.co:8080'
+mineable: true

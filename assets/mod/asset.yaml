@@ -1,0 +1,14 @@
+name: Modum
+symbol: MOD
+type: token
+web:
+  - 'https://modum.io/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/GOpSHU5-4UZ_jmgQegnP6w'
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e'
+    - 'https://ethplorer.io/address/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e'
+mineable: false

@@ -1,0 +1,13 @@
+name: BitcoinDark
+symbol: BTCD
+type: coin
+web:
+  - 'http://bitcoindark.com/'
+resources:
+  message-board: []
+webids:
+  github: jl777
+  coinmarketcap: bitcoindark
+tools:
+  explorer: []
+mineable: true

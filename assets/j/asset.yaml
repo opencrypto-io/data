@@ -1,0 +1,15 @@
+name: Joincoin
+symbol: J
+type: coin
+web:
+  - 'https://bitcointalk.org/index.php?topic=737405.0'
+resources:
+  message-board: []
+webids:
+  github: joincoin
+  coinmarketcap: joincoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/j/'
+    - 'http://cryptoguru.tk/CurrencyInfo/index.php?Currency=J'
+mineable: true

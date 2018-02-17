@@ -1,0 +1,13 @@
+name: The ChampCoin
+symbol: TCC
+type: coin
+web:
+  - 'http://thechampcoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - >-
+      http://liverate.tccexchange.org/marketapi/coinapi.aspx?method=blockexplorer
+mineable: false

@@ -1,0 +1,15 @@
+name: MonaCoin
+symbol: MONA
+type: coin
+web:
+  - 'http://monacoin.org'
+resources:
+  message-board: []
+webids:
+  github: monacoinproject
+  coinmarketcap: monacoin
+tools:
+  explorer:
+    - 'https://mona.chainsight.info/'
+    - 'https://mona.chainseeker.info/'
+mineable: true

@@ -1,0 +1,14 @@
+name: BigUp
+symbol: BIGUP
+type: coin
+web:
+  - 'http://bigup.club/'
+resources:
+  message-board: []
+webids:
+  github: BigUps
+  coinmarketcap: bigup
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/bigup/'
+mineable: true

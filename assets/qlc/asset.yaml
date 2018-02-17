@@ -1,0 +1,16 @@
+name: QLINK
+symbol: QLC
+type: token
+web:
+  - 'http://qlink.mobi/'
+resources:
+  message-board:
+    - 'http://medium.com/@Qlink'
+webids:
+  telegram: 'https://t.me/joinchat/F2sRmw4x_mzgSHKhyH5AFQ'
+  github: qlinkdev
+  coinmarketcap: qlink
+tools:
+  explorer:
+    - 'https://neotracker.io/asset/0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5'
+mineable: false

@@ -1,0 +1,15 @@
+name: Kyber Network
+symbol: KNC
+type: token
+web:
+  - 'https://kyber.network/'
+resources:
+  message-board: []
+webids:
+  github: kybernetwork
+  coinmarketcap: kyber-network
+tools:
+  explorer:
+    - 'https://etherscan.io/token/KyberNetwork'
+    - 'https://ethplorer.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200'
+mineable: false

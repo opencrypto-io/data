@@ -1,0 +1,12 @@
+name: AmberCoin
+symbol: AMBER
+type: coin
+web:
+  - 'http://ambercoin.info'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://altcoinguys.blockexperts.com/amber'
+mineable: true

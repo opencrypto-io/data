@@ -1,0 +1,13 @@
+name: BowsCoin
+symbol: BSC
+type: coin
+web: []
+resources:
+  message-board: []
+webids:
+  coinmarketcap: bowscoin
+  github: bowscoin
+tools:
+  explorer:
+    - 'http://cryptobe.com/chain/BowsCoin'
+mineable: true

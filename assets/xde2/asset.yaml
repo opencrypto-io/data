@@ -1,0 +1,14 @@
+name: XDE II
+symbol: XDE2
+type: coin
+web: []
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: xde-ii
+  github: Vegas-Guy
+tools:
+  explorer:
+    - 'http://www.presstab.pw/phpexplorer/XDE2/'
+mineable: false

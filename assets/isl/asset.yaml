@@ -1,0 +1,14 @@
+name: IslaCoin
+symbol: ISL
+type: coin
+web:
+  - 'http://www.islacoin.net/'
+resources:
+  message-board: []
+webids:
+  github: islacoin
+  coinmarketcap: islacoin
+tools:
+  explorer:
+    - 'http://isl.explorer.ssdpool.com:9156/'
+mineable: false

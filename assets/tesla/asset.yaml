@@ -1,0 +1,14 @@
+name: TeslaCoilCoin
+symbol: TESLA
+type: token
+web:
+  - 'http://teslacoilcoin.org/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: teslacoilcoin
+tools:
+  explorer:
+    - 'http://omnichest.info/lookupsp.aspx?sp=50'
+mineable: false

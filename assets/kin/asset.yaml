@@ -1,0 +1,15 @@
+name: Kin
+symbol: KIN
+type: token
+web:
+  - 'http://kinecosystem.org/'
+  - 'https://kin.kik.com'
+resources:
+  message-board:
+    - 'https://medium.com/kinfoundation'
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5'
+    - 'https://ethplorer.io/address/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5'
+mineable: false

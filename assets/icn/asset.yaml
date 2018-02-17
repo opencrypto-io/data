@@ -1,0 +1,13 @@
+name: Iconomi
+symbol: ICN
+type: token
+web:
+  - 'https://www.iconomi.net/'
+resources:
+  message-board:
+    - 'https://medium.com/iconominet'
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/ICONOMI'
+mineable: false

@@ -1,0 +1,14 @@
+name: LandCoin
+symbol: LDCN
+type: coin
+web:
+  - 'http://landcoin.co/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: landcoin
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/ldc'
+mineable: false

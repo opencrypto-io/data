@@ -1,0 +1,15 @@
+name: Maverick Chain
+symbol: MVC
+type: token
+web:
+  - 'http://www.mvchain.net/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: maverick-chain
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3'
+    - 'https://ethplorer.io/address/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3'
+mineable: false

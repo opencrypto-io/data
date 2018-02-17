@@ -1,0 +1,12 @@
+name: ICO OpenLedger
+symbol: ICOO
+type: token
+web:
+  - 'https://icoo.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://cryptofresh.com/a/ICOO'
+mineable: false

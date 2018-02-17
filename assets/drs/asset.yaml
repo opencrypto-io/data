@@ -1,0 +1,13 @@
+name: Digital Rupees
+symbol: DRS
+type: coin
+web:
+  - 'https://www.digitalrs.me/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://203.128.6.219:3001/'
+    - 'http://www.presstab.pw/phpexplorer/DRS/index.php'
+mineable: false

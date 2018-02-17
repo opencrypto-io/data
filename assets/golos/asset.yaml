@@ -1,0 +1,16 @@
+name: Golos
+symbol: GOLOS
+type: coin
+web:
+  - 'https://golos.io/'
+resources:
+  message-board:
+    - 'https://vk.com/goloschain'
+webids:
+  github: GolosChain
+  coinmarketcap: golos
+tools:
+  explorer:
+    - 'http://golosd.com/'
+    - 'https://golosdb.com/'
+mineable: true

@@ -1,0 +1,17 @@
+name: Olympus Labs
+symbol: MOT
+type: token
+web:
+  - 'https://olympuslabs.io/'
+resources:
+  message-board:
+    - 'https://medium.com/olympuslabsbc'
+webids:
+  telegram: 'http://t.me/olympuslabs'
+  github: Olympus-Labs
+  coinmarketcap: olympus-labs
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x263c618480dbe35c300d8d5ecda19bbb986acaed'
+    - 'https://ethplorer.io/address/0x263c618480dbe35c300d8d5ecda19bbb986acaed'
+mineable: false

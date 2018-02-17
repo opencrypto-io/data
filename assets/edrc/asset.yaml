@@ -1,0 +1,16 @@
+name: EDRCoin
+symbol: EDRC
+type: coin
+web:
+  - 'https://edrcoin.com/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: edrcoin
+  github: EDRCoin
+tools:
+  explorer:
+    - 'http://api.blockchain.mn:3001/'
+    - 'https://cryptogods.net/explorer/edrcoin/'
+mineable: false

@@ -1,0 +1,12 @@
+name: KiloCoin
+symbol: KLC
+type: coin
+web:
+  - 'http://kilocoin.com/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://www.blockexperts.com/klc'
+mineable: true

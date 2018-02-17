@@ -1,0 +1,14 @@
+name: ZoZoCoin
+symbol: ZZC
+type: coin
+web:
+  - 'https://www.zozocoins.com/'
+resources:
+  message-board: []
+webids:
+  github: ZoZoCoin
+  coinmarketcap: zozocoin
+tools:
+  explorer:
+    - 'http://www.zzcexplorer.com/'
+mineable: true

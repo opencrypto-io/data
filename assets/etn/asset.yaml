@@ -1,0 +1,14 @@
+name: Electroneum
+symbol: ETN
+type: coin
+web:
+  - 'http://electroneum.com/'
+resources:
+  message-board: []
+webids:
+  github: electroneum
+  coinmarketcap: electroneum
+tools:
+  explorer:
+    - 'https://blockexplorer.electroneum.com/'
+mineable: true

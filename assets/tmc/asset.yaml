@@ -1,0 +1,13 @@
+name: TimesCoin
+symbol: TMC
+type: coin
+web:
+  - 'http://www.btc38.com/altcoin/tmc/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: timescoin
+tools:
+  explorer: []
+mineable: false

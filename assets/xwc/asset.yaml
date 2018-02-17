@@ -1,0 +1,12 @@
+name: WhiteCoin
+symbol: XWC
+type: coin
+web:
+  - 'http://whitecoin.info/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'http://explorer.whitecoin.info/chain/Whitecoin'
+mineable: false

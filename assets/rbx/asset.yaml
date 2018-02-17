@@ -1,0 +1,14 @@
+name: Ripto Bux
+symbol: RBX
+type: token
+web:
+  - 'http://riptobux.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@riptobux'
+webids: {}
+tools:
+  explorer:
+    - >-
+      http://www.wavesgo.com/assets.html?AnERqFRffNVrCbviXbDEdzrU6ipXCP5Y1PKpFdRnyQAy
+mineable: false

@@ -1,0 +1,14 @@
+name: Skycoin
+symbol: SKY
+type: coin
+web:
+  - 'http://skycoin.net/'
+resources:
+  message-board: []
+webids:
+  github: skycoin
+  coinmarketcap: skycoin
+tools:
+  explorer:
+    - 'http://explorer.skycoin.net/'
+mineable: false

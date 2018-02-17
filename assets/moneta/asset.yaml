@@ -1,0 +1,15 @@
+name: Moneta
+symbol: MONETA
+type: coin
+web:
+  - 'http://moneta.io/'
+resources:
+  message-board: []
+  source: []
+webids:
+  coinmarketcap: moneta2
+  github: moneta-project
+tools:
+  explorer:
+    - 'http://explorer.moneta.io/'
+mineable: true

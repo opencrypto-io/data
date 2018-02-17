@@ -1,0 +1,13 @@
+name: ATMChain
+symbol: ATM
+type: token
+web:
+  - 'https://www.atmchain.io/'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139'
+    - 'https://ethplorer.io/address/0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139'
+mineable: false

@@ -1,0 +1,17 @@
+name: Cobinhood
+symbol: COB
+type: token
+web:
+  - 'https://www.cobinhood.com/'
+resources:
+  message-board:
+    - 'https://medium.com/@Cobinhood/'
+webids:
+  telegram: 'https://t.me/cobinhood'
+  github: cobinhood
+  coinmarketcap: cobinhood
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0xb2f7eb1f2c37645be61d73953035360e768d81e6'
+    - 'https://ethplorer.io/address/0xb2f7eb1f2c37645be61d73953035360e768d81e6'
+mineable: false

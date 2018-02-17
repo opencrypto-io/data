@@ -1,0 +1,14 @@
+name: MonetaryUnit
+symbol: MUE
+type: coin
+web:
+  - 'http://www.monetaryunit.org'
+resources:
+  message-board: []
+webids:
+  github: MUEcoin
+  coinmarketcap: monetaryunit
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/mue/'
+mineable: true

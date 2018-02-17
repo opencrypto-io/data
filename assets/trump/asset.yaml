@@ -1,0 +1,12 @@
+name: TrumpCoin
+symbol: TRUMP
+type: coin
+web:
+  - 'http://www.trumpcoin.com'
+resources:
+  message-board: []
+webids: {}
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/trump/'
+mineable: true

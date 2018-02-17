@@ -1,0 +1,16 @@
+name: IOTA
+symbol: MIOTA
+type: coin
+web:
+  - 'https://iota.org/'
+resources:
+  message-board:
+    - 'https://forum.iota.org'
+webids:
+  github: iotaledger
+  coinmarketcap: iota
+tools:
+  explorer:
+    - 'https://iotasear.ch/'
+    - 'https://thetangle.org/'
+mineable: false

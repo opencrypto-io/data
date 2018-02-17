@@ -1,0 +1,16 @@
+name: Spectre.ai Utility Token
+symbol: SXUT
+type: token
+web:
+  - 'http://www.spectre.ai/'
+resources:
+  message-board: []
+webids:
+  telegram: 'https://t.me/joinchat/FlBl_UORqQZo-FbiPkHikA'
+  github: spectre-ai
+  coinmarketcap: spectre-utility
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x2c82c73d5b34aa015989462b2948cd616a37641f'
+    - 'https://ethplorer.io/address/0x2c82c73d5b34aa015989462b2948cd616a37641f'
+mineable: false
