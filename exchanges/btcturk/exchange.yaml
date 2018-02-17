@@ -1,4 +1,5 @@
 name: BTCTurk
+countries: TR
 web: 'https://www.btcturk.com'
 markets:
   - BTC/TRY

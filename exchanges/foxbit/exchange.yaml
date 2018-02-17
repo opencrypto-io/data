@@ -1,4 +1,5 @@
 name: FoxBit
+countries: BR
 web: 'https://foxbit.exchange'
 markets:
   - BTC/BRL

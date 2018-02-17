@@ -1,4 +1,9 @@
 name: CEX.IO
+countries:
+  - GB
+  - EU
+  - CY
+  - RU
 web: 'https://cex.io'
 markets:
   - BCH/BTC

@@ -1,4 +1,7 @@
 name: Independent Reserve
+countries:
+  - AU
+  - NZ
 web: 'https://www.independentreserve.com'
 markets:
   - BCH/AUD

@@ -1,4 +1,5 @@
 name: BX.in.th
+countries: TH
 web: 'https://bx.in.th'
 markets:
   - BCH/THB

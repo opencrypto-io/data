@@ -1,4 +1,5 @@
 name: BTCExchange
+countries: PH
 web: 'https://www.btcexchange.ph'
 markets:
   - BTC/PHP

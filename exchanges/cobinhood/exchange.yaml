@@ -1,4 +1,5 @@
 name: COBINHOOD
+countries: TW
 web: 'https://cobinhood.com'
 markets:
   - BAR/BTC

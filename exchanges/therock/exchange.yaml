@@ -1,4 +1,5 @@
 name: TheRockTrading
+countries: MT
 web: 'https://therocktrading.com'
 markets:
   - BCH/BTC

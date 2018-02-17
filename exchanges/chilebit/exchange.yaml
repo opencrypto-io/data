@@ -1,4 +1,5 @@
 name: ChileBit
+countries: CL
 web: 'https://chilebit.net'
 markets:
   - BTC/BRL

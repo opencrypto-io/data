@@ -1,7 +1,9 @@
 name: Litecoin
 start_date: '2011-10-13'
 proof_type: PoW 
-web: https://litecoin.org/
+web:
+  - https://litecoin.org
+  - https://litecoin.com
 denominations:
   plural: Litecoin
   symbol: Ł

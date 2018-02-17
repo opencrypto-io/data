@@ -1,4 +1,5 @@
 name: Braziliex
+countries: BR
 web: 'https://braziliex.com/'
 markets:
   - BCH/BRL

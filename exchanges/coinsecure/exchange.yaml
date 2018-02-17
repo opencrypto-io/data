@@ -1,4 +1,5 @@
 name: Coinsecure
+countries: IN
 web: 'https://coinsecure.in'
 markets:
   - BTC/INR

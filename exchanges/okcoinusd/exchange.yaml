@@ -1,4 +1,7 @@
 name: OKCoin USD
+countries:
+  - CN
+  - US
 web: 'https://www.okcoin.com'
 markets:
   - BCH/USD

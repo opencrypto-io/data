@@ -1,4 +1,7 @@
 name: BitMarket
+countries:
+  - PL
+  - EU
 web:
   - 'https://www.bitmarket.pl'
   - 'https://www.bitmarket.net'

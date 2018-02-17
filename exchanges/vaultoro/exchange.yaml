@@ -1,4 +1,5 @@
 name: Vaultoro
+countries: CH
 web: 'https://www.vaultoro.com'
 markets:
   - BTC/GLD

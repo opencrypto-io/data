@@ -1,4 +1,5 @@
 name: SouthXchange
+countries: AR
 web: 'https://www.southxchange.com'
 markets:
   - AC3/BTC

@@ -1,4 +1,7 @@
 name: OKEX
+countries:
+  - CN
+  - US
 web: 'https://www.okex.com'
 markets:
   - 1ST/BTC

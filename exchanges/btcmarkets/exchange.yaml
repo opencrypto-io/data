@@ -1,4 +1,5 @@
 name: BTC Markets
+countries: AU
 web: 'https://btcmarkets.net/'
 markets:
   - BCH/AUD

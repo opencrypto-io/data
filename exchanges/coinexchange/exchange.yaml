@@ -1,4 +1,10 @@
 name: CoinExchange
+countries:
+  - IN
+  - JP
+  - KR
+  - VN
+  - US
 web: 'https://www.coinexchange.io'
 markets:
   - 1337/BTC

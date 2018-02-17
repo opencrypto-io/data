@@ -1,4 +1,5 @@
 name: Bleutrade
+countries: BR
 web: 'https://bleutrade.com'
 markets:
   - ADC/BTC

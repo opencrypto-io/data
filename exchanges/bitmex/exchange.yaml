@@ -1,4 +1,5 @@
 name: BitMEX
+countries: SC
 web: 'https://www.bitmex.com'
 markets:
   - .ADAXBT

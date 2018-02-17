@@ -1,4 +1,5 @@
 name: ACX
+countries: AU
 web: 'https://acx.io'
 markets:
   - BCH/AUD

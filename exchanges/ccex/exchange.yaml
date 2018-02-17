@@ -1,4 +1,7 @@
 name: C-CEX
+countries:
+  - DE
+  - EU
 web: 'https://c-cex.com'
 markets:
   - 611/BTC

@@ -1,4 +1,5 @@
 name: Kucoin
+countries: HK
 web: 'https://kucoin.com'
 markets:
   - ACAT/BTC
@@ -9,7 +10,6 @@ markets:
   - ACT/ETH
   - ADB/BTC
   - ADB/ETH
-  - AGI/BTC
   - AGI/ETH
   - AION/BTC
   - AION/ETH

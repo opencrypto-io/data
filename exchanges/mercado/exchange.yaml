@@ -1,4 +1,5 @@
 name: Mercado Bitcoin
+countries: BR
 web: 'https://www.mercadobitcoin.com.br'
 markets:
   - BCH/BRL

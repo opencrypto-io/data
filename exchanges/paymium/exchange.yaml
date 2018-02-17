@@ -1,4 +1,7 @@
 name: Paymium
+countries:
+  - FR
+  - EU
 web: 'https://www.paymium.com'
 markets:
   - BTC/EUR

@@ -1,4 +1,5 @@
 name: ZB
+countries: CN
 web: 'https://trade.zb.com/api'
 markets:
   - 1ST/BTC

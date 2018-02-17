@@ -1,4 +1,5 @@
 name: Bittrex
+countries: US
 web: 'https://bittrex.com'
 markets:
   - 1ST/BTC

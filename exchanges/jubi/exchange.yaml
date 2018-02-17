@@ -1,4 +1,5 @@
 name: jubi.com
+countries: CN
 web: 'https://www.jubi.com'
 markets:
   - BTC/JPY

@@ -1,4 +1,5 @@
 name: CoinMarketCap
+countries: US
 web: 'https://coinmarketcap.com'
 markets:
   - $$$/AUD

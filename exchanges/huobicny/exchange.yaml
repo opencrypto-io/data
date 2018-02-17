@@ -1,4 +1,5 @@
 name: Huobi CNY
+countries: CN
 web: 'https://www.huobi.com'
 markets:
   - BCH/CNY

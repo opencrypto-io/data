@@ -1,4 +1,5 @@
 name: Gemini
+countries: US
 web: 'https://gemini.com'
 markets:
   - BTC/USD

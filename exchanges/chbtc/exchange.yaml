@@ -1,4 +1,5 @@
 name: CHBTC
+countries: CN
 web: 'https://trade.chbtc.com/api'
 markets:
   - BCH/CNY

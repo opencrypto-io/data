@@ -1,4 +1,5 @@
 name: Gatecoin
+countries: HK
 web: 'https://gatecoin.com'
 markets:
   - 1ST/BTC

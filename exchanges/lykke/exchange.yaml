@@ -1,4 +1,5 @@
 name: Lykke
+countries: CH
 web: 'https://www.lykke.com'
 markets:
   - AE/BTC

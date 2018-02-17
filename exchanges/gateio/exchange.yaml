@@ -1,4 +1,5 @@
 name: Gate.io
+countries: CN
 web: 'https://gate.io/'
 markets:
   - ADA/BTC

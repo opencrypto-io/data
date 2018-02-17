@@ -1,4 +1,5 @@
 name: Liqui
+countries: UA
 web: 'https://liqui.io'
 markets:
   - 1ST/BTC

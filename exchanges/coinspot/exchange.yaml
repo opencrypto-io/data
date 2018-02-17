@@ -1,4 +1,5 @@
 name: CoinSpot
+countries: AU
 web: 'https://www.coinspot.com.au'
 markets:
   - BTC/AUD

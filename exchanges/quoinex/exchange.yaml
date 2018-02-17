@@ -1,4 +1,8 @@
 name: QUOINEX
+countries:
+  - JP
+  - SG
+  - VN
 web: 'https://quoinex.com/'
 markets:
   - BCH/JPY

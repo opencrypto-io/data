@@ -1,4 +1,7 @@
 name: BitBay
+countries:
+  - PL
+  - EU
 web: 'https://bitbay.net'
 markets:
   - BCH/BTC

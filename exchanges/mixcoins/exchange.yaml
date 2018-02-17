@@ -1,4 +1,7 @@
 name: MixCoins
+countries:
+  - GB
+  - HK
 web: 'https://mixcoins.com'
 markets:
   - BCH/BTC

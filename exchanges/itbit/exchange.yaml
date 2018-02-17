@@ -1,4 +1,5 @@
 name: itBit
+countries: US
 web: 'https://www.itbit.com'
 markets:
   - BTC/EUR

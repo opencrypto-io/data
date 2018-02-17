@@ -1,4 +1,5 @@
 name: DSX
+countries: UK
 web: 'https://dsx.uk'
 markets:
   - BCH/BTC

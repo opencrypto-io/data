@@ -1,4 +1,9 @@
 name: ANXPro
+countries:
+  - JP
+  - SG
+  - HK
+  - NZ
 web: 'https://anxpro.com'
 markets:
   - BTC/AUD

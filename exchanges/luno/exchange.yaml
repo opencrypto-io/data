@@ -1,4 +1,8 @@
 name: luno
+countries:
+  - GB
+  - SG
+  - ZA
 web: 'https://www.luno.com'
 markets:
   - BTC/IDR

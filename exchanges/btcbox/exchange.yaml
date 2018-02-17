@@ -1,4 +1,5 @@
 name: BtcBox
+countries: JP
 web: 'https://www.btcbox.co.jp/'
 markets:
   - BTC/JPY

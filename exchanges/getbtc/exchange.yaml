@@ -1,4 +1,7 @@
 name: GetBTC
+countries:
+  - VC
+  - RU
 web: 'https://getbtc.org'
 markets:
   - BTC/EUR

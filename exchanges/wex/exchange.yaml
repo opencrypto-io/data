@@ -1,4 +1,5 @@
 name: WEX
+countries: NZ
 web: 'https://wex.nz'
 markets:
   - BCH/BTC

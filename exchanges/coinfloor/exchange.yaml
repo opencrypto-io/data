@@ -1,4 +1,5 @@
 name: coinfloor
+countries: UK
 web: 'https://www.coinfloor.co.uk'
 markets:
   - BCH/GBP

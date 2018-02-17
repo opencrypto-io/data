@@ -1,4 +1,5 @@
 name: LakeBTC
+countries: US
 web: 'https://www.lakebtc.com'
 markets:
   - AUD/USD
@@ -8,7 +9,6 @@ markets:
   - BTC/CHF
   - BTC/EUR
   - BTC/GBP
-  - BTC/HKD
   - BTC/JPY
   - BTC/NGN
   - BTC/NZD

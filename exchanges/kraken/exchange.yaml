@@ -1,4 +1,5 @@
 name: Kraken
+countries: US
 web: 'https://www.kraken.com'
 markets:
   - BCH/BTC

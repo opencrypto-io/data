@@ -1,4 +1,5 @@
 name: UrduBit
+countries: PK
 web: 'https://urdubit.com'
 markets:
   - BTC/BRL

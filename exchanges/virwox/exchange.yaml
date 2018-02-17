@@ -1,4 +1,7 @@
 name: VirWoX
+countries:
+  - AT
+  - EU
 web: 'https://www.virwox.com'
 markets:
   - BTC/SLL

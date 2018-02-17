@@ -1,4 +1,5 @@
 name: Poloniex
+countries: US
 web: 'https://poloniex.com'
 markets:
   - AMP/BTC

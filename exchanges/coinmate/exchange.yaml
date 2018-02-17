@@ -1,4 +1,8 @@
 name: CoinMate
+countries:
+  - GB
+  - CZ
+  - EU
 web: 'https://coinmate.io'
 markets:
   - BTC/CZK

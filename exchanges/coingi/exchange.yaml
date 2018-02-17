@@ -1,4 +1,9 @@
 name: Coingi
+countries:
+  - PA
+  - BG
+  - CN
+  - US
 web: 'https://coingi.com'
 markets:
   - BTC/EUR

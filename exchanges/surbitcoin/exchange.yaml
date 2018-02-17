@@ -1,4 +1,5 @@
 name: SurBitcoin
+countries: VE
 web: 'https://surbitcoin.com'
 markets:
   - BTC/BRL

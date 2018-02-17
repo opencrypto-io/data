@@ -1,4 +1,7 @@
 name: coincheck
+countries:
+  - JP
+  - ID
 web: 'https://coincheck.com'
 markets:
   - BTC/JPY

@@ -1,4 +1,5 @@
 name: YoBit
+countries: RU
 web: 'https://www.yobit.net'
 markets:
   - 007/BTC

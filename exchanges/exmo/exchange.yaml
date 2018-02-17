@@ -1,4 +1,7 @@
 name: EXMO
+countries:
+  - ES
+  - RU
 web: 'https://exmo.me'
 markets:
   - BCH/BTC

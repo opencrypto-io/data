@@ -1,4 +1,5 @@
 name: Kuna
+countries: UA
 web: 'https://kuna.io'
 markets:
   - ARN/BTC

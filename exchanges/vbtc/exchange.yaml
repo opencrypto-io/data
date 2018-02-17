@@ -1,4 +1,5 @@
 name: VBTC
+countries: VN
 web: 'https://vbtc.exchange'
 markets:
   - BTC/BRL

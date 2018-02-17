@@ -1,4 +1,5 @@
 name: Tidex
+countries: UK
 web: 'https://tidex.com'
 markets:
   - AE/BTC

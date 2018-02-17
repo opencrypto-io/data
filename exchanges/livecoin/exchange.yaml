@@ -1,4 +1,8 @@
 name: LiveCoin
+countries:
+  - US
+  - UK
+  - RU
 web: 'https://www.livecoin.net'
 markets:
   - ABN/BTC

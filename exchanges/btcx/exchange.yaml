@@ -1,4 +1,8 @@
 name: BTCX
+countries:
+  - IS
+  - US
+  - EU
 web: 'https://btc-x.is'
 markets:
   - BTC/EUR

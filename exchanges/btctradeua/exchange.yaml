@@ -1,4 +1,5 @@
 name: BTC Trade UA
+countries: UA
 web: 'https://btc-trade.com.ua'
 markets:
   - BCH/UAH

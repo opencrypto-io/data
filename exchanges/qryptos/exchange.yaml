@@ -1,4 +1,7 @@
 name: QRYPTOS
+countries:
+  - CN
+  - TW
 web: 'https://www.qryptos.com'
 markets:
   - BCH/BTC

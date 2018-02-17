@@ -1,4 +1,8 @@
 name: Bitlish
+countries:
+  - GB
+  - EU
+  - RU
 web: 'https://bitlish.com'
 markets:
   - BCH/BTC

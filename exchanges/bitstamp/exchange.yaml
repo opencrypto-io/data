@@ -1,4 +1,5 @@
 name: Bitstamp
+countries: GB
 web: 'https://www.bitstamp.net'
 markets:
   - BCH/BTC

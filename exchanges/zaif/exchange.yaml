@@ -1,4 +1,5 @@
 name: Zaif
+countries: JP
 web: 'https://zaif.jp'
 markets:
   - BCH/BTC

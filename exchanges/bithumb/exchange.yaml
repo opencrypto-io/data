@@ -1,4 +1,5 @@
 name: Bithumb
+countries: KR
 web: 'https://www.bithumb.com'
 markets:
   - BCH/KRW

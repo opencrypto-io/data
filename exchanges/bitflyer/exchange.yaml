@@ -1,4 +1,5 @@
 name: bitFlyer
+countries: JP
 web: 'https://bitflyer.jp'
 markets:
   - BCH/BTC
