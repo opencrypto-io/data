@@ -4,6 +4,8 @@ countries:
   - SG
   - VN
 web: 'https://quoinex.com/'
+api:
+  url: 'https://api.quoine.com'
 markets:
   - BCH/JPY
   - BCH/SGD

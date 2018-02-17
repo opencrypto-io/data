@@ -1,6 +1,8 @@
 name: coinfloor
 countries: UK
 web: 'https://www.coinfloor.co.uk'
+api:
+  url: 'https://webapi.coinfloor.co.uk:8090/bist'
 markets:
   - BCH/GBP
   - BTC/EUR

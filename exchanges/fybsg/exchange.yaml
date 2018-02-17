@@ -1,6 +1,8 @@
 name: FYB-SG
 countries: SG
 web: 'https://www.fybsg.com'
+api:
+  url: 'https://www.fybsg.com/api/SGD'
 markets:
   - BTC/SEK
   - BTC/SGD

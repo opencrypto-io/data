@@ -1,6 +1,10 @@
 name: Liqui
 countries: UA
 web: 'https://liqui.io'
+api:
+  url:
+    public: 'https://api.liqui.io/api'
+    private: 'https://api.liqui.io/tapi'
 markets:
   - 1ST/BTC
   - 1ST/ETH

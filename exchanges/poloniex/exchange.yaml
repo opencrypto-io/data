@@ -1,6 +1,10 @@
 name: Poloniex
 countries: US
 web: 'https://poloniex.com'
+api:
+  url:
+    public: 'https://poloniex.com/public'
+    private: 'https://poloniex.com/tradingApi'
 markets:
   - AMP/BTC
   - ARDR/BTC

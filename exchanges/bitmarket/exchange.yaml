@@ -5,6 +5,10 @@ countries:
 web:
   - 'https://www.bitmarket.pl'
   - 'https://www.bitmarket.net'
+api:
+  url:
+    public: 'https://www.bitmarket.net'
+    private: 'https://www.bitmarket.pl/api2/'
 markets:
   - BCH/PLN
   - BTC/EUR

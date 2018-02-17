@@ -1,6 +1,8 @@
 name: Braziliex
 countries: BR
 web: 'https://braziliex.com/'
+api:
+  url: 'https://braziliex.com/api/v1'
 markets:
   - BCH/BRL
   - BCH/BTC

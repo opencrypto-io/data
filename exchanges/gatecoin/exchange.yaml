@@ -1,6 +1,8 @@
 name: Gatecoin
 countries: HK
 web: 'https://gatecoin.com'
+api:
+  url: 'https://api.gatecoin.com'
 markets:
   - 1ST/BTC
   - ADX/BTC

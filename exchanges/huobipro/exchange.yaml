@@ -1,6 +1,8 @@
 name: Huobi Pro
 countries: CN
 web: 'https://www.huobi.pro'
+api:
+  url: 'https://api.huobi.pro'
 markets:
   - ACT/BTC
   - ACT/ETH

@@ -1,6 +1,8 @@
 name: 1BTCXE
 countries: PA
 web: 'https://1btcxe.com'
+api:
+  url: 'https://1btcxe.com/api'
 markets:
   - BTC/AED
   - BTC/AUD

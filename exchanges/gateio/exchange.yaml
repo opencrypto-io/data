@@ -1,6 +1,10 @@
 name: Gate.io
 countries: CN
 web: 'https://gate.io/'
+api:
+  url:
+    public: 'https://data.gate.io/api'
+    private: 'https://data.gate.io/api'
 markets:
   - ADA/BTC
   - ADA/USDT

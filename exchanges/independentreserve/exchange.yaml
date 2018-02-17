@@ -3,6 +3,10 @@ countries:
   - AU
   - NZ
 web: 'https://www.independentreserve.com'
+api:
+  url:
+    public: 'https://api.independentreserve.com/Public'
+    private: 'https://api.independentreserve.com/Private'
 markets:
   - BCH/AUD
   - BCH/NZD

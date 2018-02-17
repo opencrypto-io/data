@@ -1,6 +1,8 @@
 name: Bitfinex
 countries: VG
 web: 'https://www.bitfinex.com'
+api:
+  url: 'https://api.bitfinex.com'
 markets:
   - AID/BTC
   - AID/ETH

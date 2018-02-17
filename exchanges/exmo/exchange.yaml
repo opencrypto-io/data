@@ -3,6 +3,8 @@ countries:
   - ES
   - RU
 web: 'https://exmo.me'
+api:
+  url: 'https://api.exmo.com'
 markets:
   - BCH/BTC
   - BCH/ETH

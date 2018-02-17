@@ -1,6 +1,12 @@
 name: Bittrex
 countries: US
 web: 'https://bittrex.com'
+api:
+  url:
+    public: 'https://bittrex.com/api'
+    account: 'https://bittrex.com/api'
+    market: 'https://bittrex.com/api'
+    v2: 'https://bittrex.com/api/v2.0/pub'
 markets:
   - 1ST/BTC
   - 1ST/ETH

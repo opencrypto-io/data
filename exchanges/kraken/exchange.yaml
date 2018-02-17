@@ -1,6 +1,11 @@
 name: Kraken
 countries: US
 web: 'https://www.kraken.com'
+api:
+  url:
+    public: 'https://api.kraken.com'
+    private: 'https://api.kraken.com'
+    zendesk: 'https://kraken.zendesk.com/hc/en-us/articles'
 markets:
   - BCH/BTC
   - BCH/EUR

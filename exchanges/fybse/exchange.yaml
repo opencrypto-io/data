@@ -1,5 +1,7 @@
 name: FYB-SE
 countries: SE
 web: 'https://www.fybse.se'
+api:
+  url: 'https://www.fybse.se/api/SEK'
 markets:
   - BTC/SEK

@@ -1,6 +1,10 @@
 name: COBINHOOD
 countries: TW
 web: 'https://cobinhood.com'
+api:
+  url:
+    web: 'https://api.cobinhood.com/v1'
+    ws: 'wss://feed.cobinhood.com'
 markets:
   - BAR/BTC
   - BAR/ETH

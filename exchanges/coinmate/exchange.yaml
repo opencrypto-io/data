@@ -4,6 +4,8 @@ countries:
   - CZ
   - EU
 web: 'https://coinmate.io'
+api:
+  url: 'https://coinmate.io/api'
 markets:
   - BTC/CZK
   - BTC/EUR

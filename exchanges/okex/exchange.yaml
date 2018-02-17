@@ -3,6 +3,11 @@ countries:
   - CN
   - US
 web: 'https://www.okex.com'
+api:
+  url:
+    web: 'https://www.okex.com/v2'
+    public: 'https://www.okex.com/api'
+    private: 'https://www.okex.com/api'
 markets:
   - 1ST/BTC
   - 1ST/ETH

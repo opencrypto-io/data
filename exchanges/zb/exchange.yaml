@@ -1,6 +1,10 @@
 name: ZB
 countries: CN
 web: 'https://trade.zb.com/api'
+api:
+  url:
+    public: 'http://api.zb.com/data'
+    private: 'https://trade.zb.com/api'
 markets:
   - 1ST/BTC
   - 1ST/QC

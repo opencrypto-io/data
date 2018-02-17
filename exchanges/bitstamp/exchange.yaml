@@ -1,6 +1,8 @@
 name: Bitstamp
 countries: GB
 web: 'https://www.bitstamp.net'
+api:
+  url: 'https://www.bitstamp.net/api'
 markets:
   - BCH/BTC
   - BCH/EUR

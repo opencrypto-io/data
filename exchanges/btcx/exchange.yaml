@@ -4,6 +4,8 @@ countries:
   - US
   - EU
 web: 'https://btc-x.is'
+api:
+  url: 'https://btc-x.is/api'
 markets:
   - BTC/EUR
   - BTC/USD

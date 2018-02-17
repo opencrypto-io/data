@@ -1,6 +1,11 @@
 name: DSX
 countries: UK
 web: 'https://dsx.uk'
+api:
+  url:
+    public: 'https://dsx.uk/mapi'
+    private: 'https://dsx.uk/tapi'
+    dwapi: 'https://dsx.uk/dwapi'
 markets:
   - BCH/BTC
   - BCH/EUR

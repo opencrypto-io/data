@@ -4,6 +4,8 @@ countries:
   - SG
   - ZA
 web: 'https://www.luno.com'
+api:
+  url: 'https://api.mybitx.com/api'
 markets:
   - BTC/IDR
   - BTC/MYR

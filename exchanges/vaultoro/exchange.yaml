@@ -1,5 +1,7 @@
 name: Vaultoro
 countries: CH
 web: 'https://www.vaultoro.com'
+api:
+  url: 'https://api.vaultoro.com'
 markets:
   - BTC/GLD

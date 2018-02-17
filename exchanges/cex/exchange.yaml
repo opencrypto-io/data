@@ -5,6 +5,8 @@ countries:
   - CY
   - RU
 web: 'https://cex.io'
+api:
+  url: 'https://cex.io/api'
 markets:
   - BCH/BTC
   - BCH/EUR

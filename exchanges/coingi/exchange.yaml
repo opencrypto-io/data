@@ -5,6 +5,11 @@ countries:
   - CN
   - US
 web: 'https://coingi.com'
+api:
+  url:
+    www: 'https://coingi.com'
+    current: 'https://api.coingi.com'
+    user: 'https://api.coingi.com'
 markets:
   - BTC/EUR
   - BTC/USD

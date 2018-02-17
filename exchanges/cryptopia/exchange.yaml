@@ -1,6 +1,8 @@
 name: Cryptopia
 countries: NZ
 web: 'https://www.cryptopia.co.nz'
+api:
+  url: 'https://www.cryptopia.co.nz/api'
 markets:
   - $$$/BTC
   - $$$/DOGE

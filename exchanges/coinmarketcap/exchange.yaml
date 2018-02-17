@@ -1,6 +1,11 @@
 name: CoinMarketCap
 countries: US
 web: 'https://coinmarketcap.com'
+api:
+  url:
+    public: 'https://api.coinmarketcap.com'
+    files: 'https://files.coinmarketcap.com'
+    charts: 'https://graph.coinmarketcap.com'
 markets:
   - $$$/AUD
   - $$$/BRL

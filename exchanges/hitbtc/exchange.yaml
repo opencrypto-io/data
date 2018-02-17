@@ -1,6 +1,8 @@
 name: HitBTC
 countries: UK
 web: 'https://hitbtc.com'
+api:
+  url: 'http://api.hitbtc.com'
 markets:
   - 1ST/BTC
   - 1ST/ETH

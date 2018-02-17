@@ -1,6 +1,11 @@
 name: Allcoin
 countries: CA
 web: 'https://www.allcoin.com'
+api:
+  url:
+    web: 'https://www.allcoin.com'
+    public: 'https://api.allcoin.com/api'
+    private: 'https://api.allcoin.com/api'
 markets:
   - A0101/CNET
   - ACC/BTC

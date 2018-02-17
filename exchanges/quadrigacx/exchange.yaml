@@ -1,6 +1,8 @@
 name: QuadrigaCX
 countries: CA
 web: 'https://www.quadrigacx.com'
+api:
+  url: 'https://api.quadrigacx.com'
 markets:
   - BCH/BTC
   - BCH/CAD

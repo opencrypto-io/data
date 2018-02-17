@@ -1,6 +1,12 @@
 name: Kucoin
 countries: HK
 web: 'https://kucoin.com'
+api:
+  url:
+    public: 'https://api.kucoin.com'
+    private: 'https://api.kucoin.com'
+    kitchen: 'https://kitchen.kucoin.com'
+    kitchen-2: 'https://kitchen-2.kucoin.com'
 markets:
   - ACAT/BTC
   - ACAT/ETH
@@ -10,6 +16,7 @@ markets:
   - ACT/ETH
   - ADB/BTC
   - ADB/ETH
+  - AGI/BTC
   - AGI/ETH
   - AION/BTC
   - AION/ETH

@@ -1,6 +1,8 @@
 name: SouthXchange
 countries: AR
 web: 'https://www.southxchange.com'
+api:
+  url: 'https://www.southxchange.com/api'
 markets:
   - AC3/BTC
   - ACH/BTC

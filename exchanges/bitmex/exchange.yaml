@@ -1,6 +1,8 @@
 name: BitMEX
 countries: SC
 web: 'https://www.bitmex.com'
+api:
+  url: 'https://www.bitmex.com'
 markets:
   - .ADAXBT
   - .ADAXBT30M

@@ -1,6 +1,8 @@
 name: Zaif
 countries: JP
 web: 'https://zaif.jp'
+api:
+  url: 'https://api.zaif.jp'
 markets:
   - BCH/BTC
   - BCH/JPY

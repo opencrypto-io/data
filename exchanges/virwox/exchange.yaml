@@ -3,6 +3,10 @@ countries:
   - AT
   - EU
 web: 'https://www.virwox.com'
+api:
+  url:
+    public: 'http://api.virwox.com/api/json.php'
+    private: 'https://www.virwox.com/api/trading.php'
 markets:
   - BTC/SLL
   - CHF/SLL

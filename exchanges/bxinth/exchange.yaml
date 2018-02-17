@@ -1,6 +1,8 @@
 name: BX.in.th
 countries: TH
 web: 'https://bx.in.th'
+api:
+  url: 'https://bx.in.th/api'
 markets:
   - BCH/THB
   - BTC/THB

@@ -1,6 +1,10 @@
 name: YoBit
 countries: RU
 web: 'https://www.yobit.net'
+api:
+  url:
+    public: 'https://yobit.net/api'
+    private: 'https://yobit.net/tapi'
 markets:
   - 007/BTC
   - 007/DOGE

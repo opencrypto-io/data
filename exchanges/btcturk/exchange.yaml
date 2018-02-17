@@ -1,6 +1,8 @@
 name: BTCTurk
 countries: TR
 web: 'https://www.btcturk.com'
+api:
+  url: 'https://www.btcturk.com/api'
 markets:
   - BTC/TRY
   - ETH/BTC

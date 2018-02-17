@@ -3,6 +3,10 @@ countries:
   - PL
   - EU
 web: 'https://bitbay.net'
+api:
+  url:
+    public: 'https://bitbay.net/API/Public'
+    private: 'https://bitbay.net/API/Trading/tradingApi.php'
 markets:
   - BCH/BTC
   - BCH/EUR

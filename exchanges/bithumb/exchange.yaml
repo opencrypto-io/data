@@ -1,6 +1,10 @@
 name: Bithumb
 countries: KR
 web: 'https://www.bithumb.com'
+api:
+  url:
+    public: 'https://api.bithumb.com/public'
+    private: 'https://api.bithumb.com'
 markets:
   - BCH/KRW
   - BTC/KRW

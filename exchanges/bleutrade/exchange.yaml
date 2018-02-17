@@ -1,6 +1,12 @@
 name: Bleutrade
 countries: BR
 web: 'https://bleutrade.com'
+api:
+  url:
+    public: 'https://bleutrade.com/api'
+    account: 'https://bleutrade.com/api'
+    market: 'https://bleutrade.com/api'
+    v2: 'https://bittrex.com/api/v2.0/pub'
 markets:
   - ADC/BTC
   - ADC/DOGE

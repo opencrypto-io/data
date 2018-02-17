@@ -4,6 +4,8 @@ countries:
   - EU
   - RU
 web: 'https://bitlish.com'
+api:
+  url: 'https://bitlish.com/api'
 markets:
   - BCH/BTC
   - BCH/EUR

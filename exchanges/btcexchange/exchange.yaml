@@ -1,6 +1,8 @@
 name: BTCExchange
 countries: PH
 web: 'https://www.btcexchange.ph'
+api:
+  url: 'https://www.btcexchange.ph/api'
 markets:
   - BTC/PHP
   - BTC/TRY

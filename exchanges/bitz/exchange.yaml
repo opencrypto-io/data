@@ -1,6 +1,8 @@
 name: Bit-Z
 countries: HK
 web: 'https://www.bit-z.com/'
+api:
+  url: 'https://www.bit-z.com/api_v1'
 markets:
   - AIDOC/BTC
   - AIDOC/ETH

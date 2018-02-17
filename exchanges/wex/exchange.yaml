@@ -1,6 +1,10 @@
 name: WEX
 countries: NZ
 web: 'https://wex.nz'
+api:
+  url:
+    public: 'https://wex.nz/api'
+    private: 'https://wex.nz/tapi'
 markets:
   - BCH/BTC
   - BCH/DASH

@@ -1,5 +1,7 @@
 name: jubi.com
 countries: CN
 web: 'https://www.jubi.com'
+api:
+  url: 'https://www.jubi.com/api'
 markets:
   - BTC/JPY

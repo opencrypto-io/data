@@ -1,6 +1,10 @@
 name: VBTC
 countries: VN
 web: 'https://vbtc.exchange'
+api:
+  url:
+    public: 'https://api.blinktrade.com/api'
+    private: 'https://api.blinktrade.com/tapi'
 markets:
   - BTC/BRL
   - BTC/CLP

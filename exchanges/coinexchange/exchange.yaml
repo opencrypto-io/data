@@ -6,6 +6,8 @@ countries:
   - VN
   - US
 web: 'https://www.coinexchange.io'
+api:
+  url: 'https://www.coinexchange.io/api/v1'
 markets:
   - 1337/BTC
   - 1337/DOGE

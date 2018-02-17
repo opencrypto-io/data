@@ -3,6 +3,8 @@ countries:
   - VC
   - RU
 web: 'https://getbtc.org'
+api:
+  url: 'https://getbtc.org/api'
 markets:
   - BTC/EUR
   - BTC/RUB

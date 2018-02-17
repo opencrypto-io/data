@@ -1,6 +1,11 @@
 name: Tidex
 countries: UK
 web: 'https://tidex.com'
+api:
+  url:
+    public: 'https://api.tidex.com/api/3'
+    private: 'https://api.tidex.com/tapi'
+    web: 'https://web.tidex.com/api'
 markets:
   - AE/BTC
   - AE/ETH

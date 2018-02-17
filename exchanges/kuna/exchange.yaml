@@ -1,6 +1,8 @@
 name: Kuna
 countries: UA
 web: 'https://kuna.io'
+api:
+  url: 'https://kuna.io'
 markets:
   - ARN/BTC
   - B2B/BTC

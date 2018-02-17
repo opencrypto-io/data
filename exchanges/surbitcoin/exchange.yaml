@@ -1,6 +1,10 @@
 name: SurBitcoin
 countries: VE
 web: 'https://surbitcoin.com'
+api:
+  url:
+    public: 'https://api.blinktrade.com/api'
+    private: 'https://api.blinktrade.com/tapi'
 markets:
   - BTC/BRL
   - BTC/CLP

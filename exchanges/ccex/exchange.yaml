@@ -3,6 +3,11 @@ countries:
   - DE
   - EU
 web: 'https://c-cex.com'
+api:
+  url:
+    tickers: 'https://c-cex.com/t'
+    public: 'https://c-cex.com/t/api_pub.html'
+    private: 'https://c-cex.com/t/api.html'
 markets:
   - 611/BTC
   - 611/DOGE

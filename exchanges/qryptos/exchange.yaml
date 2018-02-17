@@ -3,6 +3,8 @@ countries:
   - CN
   - TW
 web: 'https://www.qryptos.com'
+api:
+  url: 'https://api.qryptos.com'
 markets:
   - BCH/BTC
   - BMC/BTC

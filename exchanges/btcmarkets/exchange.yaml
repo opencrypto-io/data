@@ -1,6 +1,8 @@
 name: BTC Markets
 countries: AU
 web: 'https://btcmarkets.net/'
+api:
+  url: 'https://api.btcmarkets.net'
 markets:
   - BCH/AUD
   - BCH/BTC

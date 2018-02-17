@@ -3,6 +3,8 @@ countries:
   - GB
   - HK
 web: 'https://mixcoins.com'
+api:
+  url: 'https://mixcoins.com/api'
 markets:
   - BCH/BTC
   - BCH/USD

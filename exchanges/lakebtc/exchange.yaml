@@ -1,6 +1,8 @@
 name: LakeBTC
 countries: US
 web: 'https://www.lakebtc.com'
+api:
+  url: 'https://api.lakebtc.com'
 markets:
   - AUD/USD
   - BAC/ETH

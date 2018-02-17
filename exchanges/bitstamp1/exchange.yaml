@@ -1,6 +1,8 @@
 name: Bitstamp v1
 countries: GB
 web: 'https://www.bitstamp.net'
+api:
+  url: 'https://www.bitstamp.net/api'
 markets:
   - BTC/EUR
   - BTC/USD

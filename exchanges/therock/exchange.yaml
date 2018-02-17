@@ -1,6 +1,8 @@
 name: TheRockTrading
 countries: MT
 web: 'https://therocktrading.com'
+api:
+  url: 'https://api.therocktrading.com'
 markets:
   - BCH/BTC
   - BTC/EUR

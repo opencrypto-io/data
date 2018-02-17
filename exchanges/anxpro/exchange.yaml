@@ -5,6 +5,8 @@ countries:
   - HK
   - NZ
 web: 'https://anxpro.com'
+api:
+  url: 'https://anxpro.com/api'
 markets:
   - BTC/AUD
   - BTC/CAD

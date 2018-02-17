@@ -1,5 +1,7 @@
 name: Coinsecure
 countries: IN
 web: 'https://coinsecure.in'
+api:
+  url: 'https://api.coinsecure.in'
 markets:
   - BTC/INR

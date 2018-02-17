@@ -1,6 +1,10 @@
 name: CHBTC
 countries: CN
 web: 'https://trade.chbtc.com/api'
+api:
+  url:
+    public: 'http://api.chbtc.com/data'
+    private: 'https://trade.chbtc.com/api'
 markets:
   - BCH/CNY
   - BTC/CNY

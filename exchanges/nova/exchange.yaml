@@ -1,6 +1,8 @@
 name: Novaexchange
 countries: TZ
 web: 'https://novaexchange.com'
+api:
+  url: 'https://novaexchange.com/remote'
 markets:
   - B3/BTC
   - B3/DOGE

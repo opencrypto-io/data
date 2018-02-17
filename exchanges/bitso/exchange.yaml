@@ -1,6 +1,8 @@
 name: Bitso
 countries: MX
 web: 'https://bitso.com'
+api:
+  url: 'https://api.bitso.com'
 markets:
   - BCH/BTC
   - BTC/MXN

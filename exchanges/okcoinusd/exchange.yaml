@@ -3,6 +3,11 @@ countries:
   - CN
   - US
 web: 'https://www.okcoin.com'
+api:
+  url:
+    web: 'https://www.okcoin.com/v2'
+    public: 'https://www.okcoin.com/api'
+    private: 'https://www.okcoin.com/api'
 markets:
   - BCH/USD
   - BTC/USD

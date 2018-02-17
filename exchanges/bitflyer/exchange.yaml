@@ -1,6 +1,8 @@
 name: bitFlyer
 countries: JP
 web: 'https://bitflyer.jp'
+api:
+  url: 'https://api.bitflyer.jp'
 markets:
   - BCH/BTC
   - BTC/EUR

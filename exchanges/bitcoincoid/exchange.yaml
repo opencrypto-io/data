@@ -1,6 +1,10 @@
 name: Bitcoin.co.id
 countries: ID
 web: 'https://www.bitcoin.co.id'
+api:
+  url:
+    public: 'https://vip.bitcoin.co.id/api'
+    private: 'https://vip.bitcoin.co.id/tapi'
 markets:
   - BCH/IDR
   - BTC/IDR
