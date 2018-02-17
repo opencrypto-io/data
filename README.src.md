@@ -4,7 +4,7 @@ Community driven dataset about cryptocurrencies.
 
 | Count | Collection | Description | |
 | ---: | --- |  --- | --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
-| <%= col.count | 0 %> | [<%= col.name %>](/<%= colId %>) | <%= col.desc %> | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/<%= colId %>.yaml) |<% } %>
+| <%= col.count | 0 %> | [<%= col.name %>](/<%= colId %>) | <%= col.desc %> | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/<%= col.schema %>.yaml) |<% } %>
 
 ## How to build & test
 
