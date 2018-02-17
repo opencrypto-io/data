@@ -14,6 +14,8 @@ markets:
   - DASH/USD
   - EOS/BTC
   - EOS/ETH
+  - EOS/EUR
+  - EOS/USD
   - ETC/BTC
   - ETC/ETH
   - ETC/EUR
@@ -32,6 +34,8 @@ markets:
   - ETHXBT.d
   - GNO/BTC
   - GNO/ETH
+  - GNO/EUR
+  - GNO/USD
   - ICN/BTC
   - ICN/ETH
   - LTC/BTC
@@ -42,6 +46,7 @@ markets:
   - REP/BTC
   - REP/ETH
   - REP/EUR
+  - REP/USD
   - USDT/USD
   - XBTCAD.d
   - XBTEUR.d
@@ -51,12 +56,16 @@ markets:
   - XDG/BTC
   - XLM/BTC
   - XLM/EUR
+  - XLM/USD
   - XMR/BTC
   - XMR/EUR
   - XMR/USD
   - XRP/BTC
+  - XRP/CAD
   - XRP/EUR
+  - XRP/JPY
   - XRP/USD
   - ZEC/BTC
   - ZEC/EUR
+  - ZEC/JPY
   - ZEC/USD

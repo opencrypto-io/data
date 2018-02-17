@@ -193,6 +193,8 @@ markets:
   - QRL/WUSD
   - RBX/BTC
   - RBX/WAVES
+  - REN/BTC
+  - REN/ETH
   - RIDDLE/BTC
   - RIDDLE/WAVES
   - RIDDLE/WEUR

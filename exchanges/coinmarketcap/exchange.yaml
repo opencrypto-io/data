@@ -3556,6 +3556,21 @@ markets:
   - BYC/MXN
   - BYC/RUB
   - BYC/USD
+  - BatCoin/AUD
+  - BatCoin/BRL
+  - BatCoin/CAD
+  - BatCoin/CHF
+  - BatCoin/CNY
+  - BatCoin/EUR
+  - BatCoin/GBP
+  - BatCoin/HKD
+  - BatCoin/IDR
+  - BatCoin/INR
+  - BatCoin/JPY
+  - BatCoin/KRW
+  - BatCoin/MXN
+  - BatCoin/RUB
+  - BatCoin/USD
   - Bitgem/AUD
   - Bitgem/BRL
   - Bitgem/CAD
@@ -10711,21 +10726,6 @@ markets:
   - JIYO/MXN
   - JIYO/RUB
   - JIYO/USD
-  - JNS/AUD
-  - JNS/BRL
-  - JNS/CAD
-  - JNS/CHF
-  - JNS/CNY
-  - JNS/EUR
-  - JNS/GBP
-  - JNS/HKD
-  - JNS/IDR
-  - JNS/INR
-  - JNS/JPY
-  - JNS/KRW
-  - JNS/MXN
-  - JNS/RUB
-  - JNS/USD
   - JNT/AUD
   - JNT/BRL
   - JNT/CAD

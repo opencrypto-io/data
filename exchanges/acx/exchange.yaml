@@ -3,6 +3,7 @@ web: 'https://acx.io'
 markets:
   - BCH/AUD
   - BTC/AUD
+  - DASH/BTC
   - EET/AUD
   - ETH/AUD
   - FUEL/BTC

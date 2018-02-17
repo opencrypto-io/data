@@ -68,6 +68,9 @@ markets:
   - SER/BTC
   - SER/ETH
   - SER/QASH
+  - SNIP/BTC
+  - SNIP/ETH
+  - SNIP/QASH
   - SPHTX/BTC
   - SPHTX/ETH
   - SPHTX/QASH
