@@ -1,10 +1,10 @@
 # CoinSpec Data
 
-Community driven dataset about cryptocurrencies.
+Community driven dataset about cryptocurrencies ecosystem.
 
 | Count | Collection | Description | |
 | ---: | --- |  --- | --- |
-| 1505 | [Assets](/assets) | eq. Coins or Tokens | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/asset.yaml) |
+| 1542 | [Assets](/assets) | eq. Coins or Tokens | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/asset.yaml) |
 | 94 | [Exchanges](/exchanges) |  | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/exchange.yaml) |
 | 2 | [Wallets](/wallets) |  | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/wallet.yaml) |
 
