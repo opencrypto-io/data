@@ -4,6 +4,8 @@ countries:
   - UK
   - RU
 web: 'https://www.livecoin.net'
+api:
+  url: 'https://api.livecoin.net'
 markets:
   - ABN/BTC
   - ACN/BTC
