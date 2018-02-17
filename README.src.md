@@ -1,6 +1,6 @@
 # CoinSpec Data
 
-Community driven dataset about cryptocurrencies.
+Community driven dataset about cryptocurrencies ecosystem.
 
 | Count | Collection | Description | |
 | ---: | --- |  --- | --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
