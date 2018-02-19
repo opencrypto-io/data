@@ -1,0 +1,11 @@
+name: Etherecash
+symbol: ECH
+type: token
+web:
+  - 'http://etherecash.io/'
+webids:
+  coinmarketcap: etherecash
+  telegram: etherecashech
+tools:
+  explorer: []
+mineable: false

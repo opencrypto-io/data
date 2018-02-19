@@ -1,0 +1,11 @@
+name: Manna
+symbol: MANNA
+type: coin
+web:
+  - 'https://www.mannabase.com/'
+webids:
+  coinmarketcap: manna
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/manna/'
+mineable: false

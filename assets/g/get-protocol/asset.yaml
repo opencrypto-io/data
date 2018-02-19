@@ -1,0 +1,17 @@
+name: GET Protocol
+symbol: GET
+type: token
+web:
+  - 'https://guts.tickets/'
+resources:
+  message-board:
+    - 'https://blog.guts.tickets/'
+webids:
+  coinmarketcap: get-protocol
+  telegram: getprotocol
+  github: GUTSTickets/
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x8a854288a5976036a725879164ca3e91d30c6a1b'
+    - 'https://ethplorer.io/address/0x8a854288a5976036a725879164ca3e91d30c6a1b'
+mineable: false

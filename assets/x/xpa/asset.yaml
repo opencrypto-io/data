@@ -1,0 +1,13 @@
+name: XPA
+symbol: XPA
+type: token
+web:
+  - 'https://xpa.io/'
+webids:
+  coinmarketcap: xpa
+  telegram: joinchat/CvaXNg4T_y13oqxdix9y9w
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170'
+    - 'https://ethplorer.io/address/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170'
+mineable: false

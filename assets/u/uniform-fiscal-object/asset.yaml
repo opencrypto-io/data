@@ -1,0 +1,13 @@
+name: Uniform Fiscal Object
+symbol: UFO
+type: coin
+web:
+  - 'https://ufocoin.net/'
+webids:
+  coinmarketcap: uniform-fiscal-object
+  telegram: UFOCoin
+  github: UFOCoins/ufo
+tools:
+  explorer:
+    - 'http://chainz.cryptoid.info/ufo/'
+mineable: true

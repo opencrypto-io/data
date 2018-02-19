@@ -1,0 +1,10 @@
+name: W3Coin
+symbol: W3C
+type: coin
+web:
+  - 'https://w3coin.net/'
+webids:
+  coinmarketcap: w3coin
+tools:
+  explorer: []
+mineable: false

@@ -1,0 +1,13 @@
+name: Gladius Token
+symbol: GLA
+type: token
+web:
+  - 'https://gladius.io/'
+webids:
+  coinmarketcap: gladius-token
+  github: gladiusio
+tools:
+  explorer:
+    - 'https://etherscan.io/token/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C'
+    - 'https://ethplorer.io/address/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C'
+mineable: false
