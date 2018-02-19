@@ -52,6 +52,8 @@ markets:
   - CTR/USDT
   - CVC/ETH
   - CVC/USDT
+  - DADI/ETH
+  - DADI/USDT
   - DAI/USDT
   - DASH/BTC
   - DASH/USDT
@@ -89,6 +91,8 @@ markets:
   - FUN/USDT
   - GAS/BTC
   - GAS/USDT
+  - GEM/ETH
+  - GEM/USDT
   - GNT/ETH
   - GNT/USDT
   - GNX/ETH

@@ -54,6 +54,8 @@ markets:
   - CAG/KCS
   - CAN/BTC
   - CAN/ETH
+  - CAPP/BTC
+  - CAPP/ETH
   - CAT/BTC
   - CAT/ETH
   - CFD/ETH
@@ -91,6 +93,8 @@ markets:
   - DRGN/ETH
   - DRGN/NEO
   - DRGN/USDT
+  - DTA/BTC
+  - DTA/ETH
   - EBTC/BTC
   - EBTC/ETH
   - ELIX/BTC
@@ -221,6 +225,8 @@ markets:
   - RPX/ETH
   - RPX/KCS
   - RPX/NEO
+  - SNC/BTC
+  - SNC/ETH
   - SNM/BTC
   - SNM/ETH
   - SNOV/BTC

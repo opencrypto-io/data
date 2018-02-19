@@ -14,6 +14,13 @@ markets:
   - BCH/BTC
   - BCH/ETH
   - BCH/LTC
+  - BCO/BTC
+  - BCO/DOGE
+  - BCO/ESP2
+  - BCO/ETH
+  - BCO/KIC
+  - BCO/LTC
+  - BCO/MOON
   - BTX/BTC
   - BTX/DOGE
   - BTX/ESP2
@@ -46,6 +53,12 @@ markets:
   - FJC/ESP2
   - FJC/ETH
   - FJC/LTC
+  - FLT/BTC
+  - FLT/DOGE
+  - FLT/ESP2
+  - FLT/ETH
+  - FLT/KIC
+  - FLT/LTC
   - HIRO/BTC
   - HIRO/ESP2
   - HIRO/ETH

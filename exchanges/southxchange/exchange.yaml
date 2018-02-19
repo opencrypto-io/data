@@ -129,6 +129,8 @@ markets:
   - PTC/BTC
   - QBIC/BTC
   - RAP/BTC
+  - RC/BTC
+  - RC/USD
   - RESTORE/BTC
   - RESTORE/LTC
   - RESTORE/USD

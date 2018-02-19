@@ -52,6 +52,8 @@ markets:
   - BCN/BTC
   - BCN/ETH
   - BCN/USDT
+  - BCPT/ETH
+  - BCPT/USDT
   - BET/ETH
   - BKB/BTC
   - BMC/BTC
@@ -321,6 +323,8 @@ markets:
   - OTX/BTC
   - PAY/BTC
   - PAY/ETH
+  - PCL/BTC
+  - PCL/ETH
   - PING/BTC
   - PIX/BTC
   - PIX/ETH

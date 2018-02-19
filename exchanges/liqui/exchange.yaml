@@ -148,6 +148,9 @@ markets:
   - QTUM/BTC
   - QTUM/ETH
   - QTUM/USDT
+  - REN/BTC
+  - REN/ETH
+  - REN/USDT
   - REP/BTC
   - REP/ETH
   - REP/USDT

@@ -3284,6 +3284,12 @@ markets:
   - LC/RUR
   - LC/USD
   - LC/WAVES
+  - LCC/BTC
+  - LCC/DOGE
+  - LCC/ETH
+  - LCC/RUR
+  - LCC/USD
+  - LCC/WAVES
   - LDM/BTC
   - LDM/DOGE
   - LDM/ETH

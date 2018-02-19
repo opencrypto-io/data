@@ -39,6 +39,7 @@ markets:
   - ANTX/BTC
   - ANY/BTC
   - ARG/BTC
+  - ARGO/BTC
   - ARGUS/BTC
   - ARGUSOLD/BTC
   - ASN/BTC
@@ -103,6 +104,7 @@ markets:
   - CACH/BTC
   - CALC/BTC
   - CANN/BTC
+  - CAT/BTC
   - CBANK/BTC
   - CBANK/ETH
   - CC/BTC
@@ -251,6 +253,7 @@ markets:
   - FLASH/BTC
   - FLIK/BTC
   - FLIK/ETH
+  - FOOD/BTC
   - FOOT/BTC
   - FRT/BTC
   - FSX/BTC
@@ -499,6 +502,8 @@ markets:
   - QTUM/BTC
   - QTUM/ETH
   - QUANT/BTC
+  - QURO/BTC
+  - QURO/ETH
   - RAIN/BTC
   - RBL/BTC
   - RDC/BTC
@@ -632,6 +637,7 @@ markets:
   - WORM/BTC
   - WOW/BTC
   - WOW/DOGE
+  - WRC/BTC
   - WRP/BTC
   - WYV/BTC
   - XBC/BTC

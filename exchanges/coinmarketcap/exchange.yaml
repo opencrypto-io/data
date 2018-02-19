@@ -457,21 +457,6 @@ markets:
   - ADK/MXN
   - ADK/RUB
   - ADK/USD
-  - ADL/AUD
-  - ADL/BRL
-  - ADL/CAD
-  - ADL/CHF
-  - ADL/CNY
-  - ADL/EUR
-  - ADL/GBP
-  - ADL/HKD
-  - ADL/IDR
-  - ADL/INR
-  - ADL/JPY
-  - ADL/KRW
-  - ADL/MXN
-  - ADL/RUB
-  - ADL/USD
   - ADST/AUD
   - ADST/BRL
   - ADST/CAD
@@ -2392,21 +2377,6 @@ markets:
   - BKX/MXN
   - BKX/RUB
   - BKX/USD
-  - BLAS/AUD
-  - BLAS/BRL
-  - BLAS/CAD
-  - BLAS/CHF
-  - BLAS/CNY
-  - BLAS/EUR
-  - BLAS/GBP
-  - BLAS/HKD
-  - BLAS/IDR
-  - BLAS/INR
-  - BLAS/JPY
-  - BLAS/KRW
-  - BLAS/MXN
-  - BLAS/RUB
-  - BLAS/USD
   - BLAZR/AUD
   - BLAZR/BRL
   - BLAZR/CAD
@@ -6517,6 +6487,21 @@ markets:
   - ECC/MXN
   - ECC/RUB
   - ECC/USD
+  - ECH/AUD
+  - ECH/BRL
+  - ECH/CAD
+  - ECH/CHF
+  - ECH/CNY
+  - ECH/EUR
+  - ECH/GBP
+  - ECH/HKD
+  - ECH/IDR
+  - ECH/INR
+  - ECH/JPY
+  - ECH/KRW
+  - ECH/MXN
+  - ECH/RUB
+  - ECH/USD
   - ECN/AUD
   - ECN/BRL
   - ECN/CAD
@@ -7147,6 +7132,21 @@ markets:
   - EQT/MXN
   - EQT/RUB
   - EQT/USD
+  - ERA/AUD
+  - ERA/BRL
+  - ERA/CAD
+  - ERA/CHF
+  - ERA/CNY
+  - ERA/EUR
+  - ERA/GBP
+  - ERA/HKD
+  - ERA/IDR
+  - ERA/INR
+  - ERA/JPY
+  - ERA/KRW
+  - ERA/MXN
+  - ERA/RUB
+  - ERA/USD
   - ERC/AUD
   - ERC/BRL
   - ERC/CAD
@@ -8677,6 +8677,21 @@ markets:
   - GJC/MXN
   - GJC/RUB
   - GJC/USD
+  - GLA/AUD
+  - GLA/BRL
+  - GLA/CAD
+  - GLA/CHF
+  - GLA/CNY
+  - GLA/EUR
+  - GLA/GBP
+  - GLA/HKD
+  - GLA/IDR
+  - GLA/INR
+  - GLA/JPY
+  - GLA/KRW
+  - GLA/MXN
+  - GLA/RUB
+  - GLA/USD
   - GLC/AUD
   - GLC/BRL
   - GLC/CAD
@@ -13012,6 +13027,21 @@ markets:
   - MVC/MXN
   - MVC/RUB
   - MVC/USD
+  - MWAT/AUD
+  - MWAT/BRL
+  - MWAT/CAD
+  - MWAT/CHF
+  - MWAT/CNY
+  - MWAT/EUR
+  - MWAT/GBP
+  - MWAT/HKD
+  - MWAT/IDR
+  - MWAT/INR
+  - MWAT/JPY
+  - MWAT/KRW
+  - MWAT/MXN
+  - MWAT/RUB
+  - MWAT/USD
   - MXT/AUD
   - MXT/BRL
   - MXT/CAD
@@ -13087,6 +13117,21 @@ markets:
   - NAMO/MXN
   - NAMO/RUB
   - NAMO/USD
+  - NANO/AUD
+  - NANO/BRL
+  - NANO/CAD
+  - NANO/CHF
+  - NANO/CNY
+  - NANO/EUR
+  - NANO/GBP
+  - NANO/HKD
+  - NANO/IDR
+  - NANO/INR
+  - NANO/JPY
+  - NANO/KRW
+  - NANO/MXN
+  - NANO/RUB
+  - NANO/USD
   - NANOX/AUD
   - NANOX/BRL
   - NANOX/CAD
@@ -20707,6 +20752,21 @@ markets:
   - VZT/MXN
   - VZT/RUB
   - VZT/USD
+  - W3C/AUD
+  - W3C/BRL
+  - W3C/CAD
+  - W3C/CHF
+  - W3C/CNY
+  - W3C/EUR
+  - W3C/GBP
+  - W3C/HKD
+  - W3C/IDR
+  - W3C/INR
+  - W3C/JPY
+  - W3C/KRW
+  - W3C/MXN
+  - W3C/RUB
+  - W3C/USD
   - WA/AUD
   - WA/BRL
   - WA/CAD
@@ -21862,21 +21922,6 @@ markets:
   - XRA/MXN
   - XRA/RUB
   - XRA/USD
-  - XRB/AUD
-  - XRB/BRL
-  - XRB/CAD
-  - XRB/CHF
-  - XRB/CNY
-  - XRB/EUR
-  - XRB/GBP
-  - XRB/HKD
-  - XRB/IDR
-  - XRB/INR
-  - XRB/JPY
-  - XRB/KRW
-  - XRB/MXN
-  - XRB/RUB
-  - XRB/USD
   - XRC/AUD
   - XRC/BRL
   - XRC/CAD

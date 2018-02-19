@@ -95,6 +95,10 @@ markets:
   - REP/ETH
   - REQ/BTC
   - REQ/ETH
+  - RRB/CHF
+  - RRB/EUR
+  - RRB/GBP
+  - RRB/USD
   - SHEELA/EUR
   - SLR/BTC
   - SLR/CHF
@@ -131,6 +135,8 @@ markets:
   - VAA017427/USD
   - VAA022325/USD
   - VAA025876/USD
+  - WAX/BTC
+  - WAX/ETH
   - XAG/USD
   - XAU/USD
   - XPD/USD

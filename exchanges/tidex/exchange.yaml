@@ -59,6 +59,8 @@ markets:
   - CPC/ETH
   - CREDO/BTC
   - CREDO/WAVES
+  - CS/BTC
+  - CS/ETH
   - DASH/BTC
   - DASH/ETH
   - DASH/USDT
