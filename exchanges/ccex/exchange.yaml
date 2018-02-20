@@ -607,6 +607,10 @@ markets:
   - XTP/DOGE
   - XTP/LTC
   - XTP/USD
+  - XVGCT/BTC
+  - XVGCT/DOGE
+  - XVGCT/LTC
+  - XVGCT/USD
   - XZA/BTC
   - XZA/DOGE
   - XZA/LTC

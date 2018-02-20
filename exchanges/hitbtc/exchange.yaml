@@ -22,6 +22,8 @@ markets:
   - AMM/USDT
   - AMP/BTC
   - ANT/BTC
+  - ARCT/BTC
+  - ARCT/USDT
   - ARDR/BTC
   - ARN/BTC
   - ARN/ETH
@@ -55,6 +57,8 @@ markets:
   - BCPT/ETH
   - BCPT/USDT
   - BET/ETH
+  - BETR/BTC
+  - BETR/ETH
   - BKB/BTC
   - BMC/BTC
   - BMC/ETH
@@ -65,6 +69,9 @@ markets:
   - BNT/ETH
   - BNT/USDT
   - BOS/BTC
+  - BPTN/BTC
+  - BPTN/ETH
+  - BPTN/USDT
   - BQX/BTC
   - BQX/ETH
   - BQX/USDT
@@ -134,6 +141,9 @@ markets:
   - DATA/BTC
   - DATA/ETH
   - DATA/USDT
+  - DBET/BTC
+  - DBET/ETH
+  - DBET/USDT
   - DBIX/BTC
   - DCN/ETH
   - DCN/USDT
@@ -260,7 +270,6 @@ markets:
   - LAT/BTC
   - LEND/BTC
   - LEND/ETH
-  - LIFE/BTC
   - LOC/BTC
   - LOC/ETH
   - LOC/USDT
@@ -364,6 +373,7 @@ markets:
   - REP/USDT
   - RKC/ETH
   - RLC/BTC
+  - RNTB/ETH
   - RVT/BTC
   - SAN/ETH
   - SBD/BTC

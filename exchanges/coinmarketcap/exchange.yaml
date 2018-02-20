@@ -8647,6 +8647,21 @@ markets:
   - GEERT/MXN
   - GEERT/RUB
   - GEERT/USD
+  - GEO/AUD
+  - GEO/BRL
+  - GEO/CAD
+  - GEO/CHF
+  - GEO/CNY
+  - GEO/EUR
+  - GEO/GBP
+  - GEO/HKD
+  - GEO/IDR
+  - GEO/INR
+  - GEO/JPY
+  - GEO/KRW
+  - GEO/MXN
+  - GEO/RUB
+  - GEO/USD
   - GET/AUD
   - GET/BRL
   - GET/CAD
@@ -9142,6 +9157,21 @@ markets:
   - GTO/MXN
   - GTO/RUB
   - GTO/USD
+  - GUESS/AUD
+  - GUESS/BRL
+  - GUESS/CAD
+  - GUESS/CHF
+  - GUESS/CNY
+  - GUESS/EUR
+  - GUESS/GBP
+  - GUESS/HKD
+  - GUESS/IDR
+  - GUESS/INR
+  - GUESS/JPY
+  - GUESS/KRW
+  - GUESS/MXN
+  - GUESS/RUB
+  - GUESS/USD
   - GUN/AUD
   - GUN/BRL
   - GUN/CAD

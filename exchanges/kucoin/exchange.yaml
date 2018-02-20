@@ -140,6 +140,8 @@ markets:
   - INS/ETH
   - IOST/BTC
   - IOST/ETH
+  - ITC/BTC
+  - ITC/ETH
   - KCS/BCH
   - KCS/BTC
   - KCS/ETH
