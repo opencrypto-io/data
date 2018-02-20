@@ -46,10 +46,11 @@ markets:
   - EVX/ETH
   - GAT/BTC
   - GAT/ETH
-  - GB032548
   - GBP/CHF
   - GBP/JPY
   - GBP/USD
+  - GNO/BTC
+  - GNO/ETH
   - GNT/BTC
   - GNT/ETH
   - HCP/BTC
@@ -132,9 +133,6 @@ markets:
   - USD/SGD
   - USD/TRY
   - USD/ZAR
-  - VAA017427/USD
-  - VAA022325/USD
-  - VAA025876/USD
   - WAX/BTC
   - WAX/ETH
   - XAG/USD

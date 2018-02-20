@@ -5137,6 +5137,21 @@ markets:
   - Catcoin/MXN
   - Catcoin/RUB
   - Catcoin/USD
+  - DADI/AUD
+  - DADI/BRL
+  - DADI/CAD
+  - DADI/CHF
+  - DADI/CNY
+  - DADI/EUR
+  - DADI/GBP
+  - DADI/HKD
+  - DADI/IDR
+  - DADI/INR
+  - DADI/JPY
+  - DADI/KRW
+  - DADI/MXN
+  - DADI/RUB
+  - DADI/USD
   - DAI/AUD
   - DAI/BRL
   - DAI/CAD
@@ -13597,6 +13612,21 @@ markets:
   - NTC/MXN
   - NTC/RUB
   - NTC/USD
+  - NTK/AUD
+  - NTK/BRL
+  - NTK/CAD
+  - NTK/CHF
+  - NTK/CNY
+  - NTK/EUR
+  - NTK/GBP
+  - NTK/HKD
+  - NTK/IDR
+  - NTK/INR
+  - NTK/JPY
+  - NTK/KRW
+  - NTK/MXN
+  - NTK/RUB
+  - NTK/USD
   - NTO/AUD
   - NTO/BRL
   - NTO/CAD

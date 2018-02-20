@@ -639,6 +639,9 @@ markets:
   - FUNK/BTC
   - FUNK/DOGE
   - FUNK/LTC
+  - FUTX/BTC
+  - FUTX/DOGE
+  - FUTX/LTC
   - FUZZ/BTC
   - FUZZ/DOGE
   - FUZZ/LTC
