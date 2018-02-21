@@ -1,0 +1,11 @@
+name: Datacoin
+symbol: DTC
+type: coin
+web:
+  - 'http://datacoin.info/'
+webids:
+  coinmarketcap: datacoin
+tools:
+  explorer:
+    - 'https://chainz.cryptoid.info/dtc/'
+mineable: true

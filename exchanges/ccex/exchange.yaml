@@ -25,6 +25,10 @@ markets:
   - ADCN/DOGE
   - ADCN/LTC
   - ADCN/USD
+  - ADL/BTC
+  - ADL/DOGE
+  - ADL/LTC
+  - ADL/USD
   - AIB/BTC
   - AIB/DOGE
   - AIB/LTC
@@ -276,6 +280,10 @@ markets:
   - GRC/DOGE
   - GRC/LTC
   - GRC/USD
+  - GRWI/BTC
+  - GRWI/DOGE
+  - GRWI/LTC
+  - GRWI/USD
   - GUC/BTC
   - GUC/DOGE
   - GUC/LTC
@@ -490,6 +498,10 @@ markets:
   - SBC/DOGE
   - SBC/LTC
   - SBC/USD
+  - SFI/BTC
+  - SFI/DOGE
+  - SFI/LTC
+  - SFI/USD
   - SGC/BTC
   - SGC/DOGE
   - SGC/LTC
@@ -551,6 +563,10 @@ markets:
   - WA/DOGE
   - WA/LTC
   - WA/USD
+  - WC/BTC
+  - WC/DOGE
+  - WC/LTC
+  - WC/USD
   - WOP/BTC
   - WOP/DOGE
   - WOP/LTC

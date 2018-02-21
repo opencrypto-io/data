@@ -1,0 +1,14 @@
+name: MUSE
+symbol: MUSE
+type: coin
+web:
+  - 'http://peertracks.com/'
+resources:
+  message-board:
+    - 'https://bitsharestalk.org/index.php/board,54.0.html'
+webids:
+  coinmarketcap: bitshares-music
+tools:
+  explorer:
+    - 'http://muse.cryptofresh.com/a/MUSE'
+mineable: false

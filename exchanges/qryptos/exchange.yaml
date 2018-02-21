@@ -81,6 +81,9 @@ markets:
   - SPHTX/QASH
   - STORJ/BTC
   - STORJ/ETH
+  - STU/BTC
+  - STU/ETH
+  - STU/QASH
   - STX/BTC
   - STX/ETH
   - TPT/BTC

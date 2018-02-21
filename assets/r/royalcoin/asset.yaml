@@ -1,0 +1,10 @@
+name: RoyalCoin
+symbol: ROYAL
+type: coin
+web: []
+webids:
+  coinmarketcap: royalcoin
+tools:
+  explorer:
+    - 'http://royalcoin-explorer.ml/'
+mineable: true

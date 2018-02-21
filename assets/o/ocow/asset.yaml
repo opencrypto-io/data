@@ -1,0 +1,11 @@
+name: OCOW
+symbol: OCOW
+type: coin
+web:
+  - 'https://ocow.info/'
+webids:
+  coinmarketcap: ocow
+  github: onecoinoneworld/Ocow/tree/source
+tools:
+  explorer: []
+mineable: true

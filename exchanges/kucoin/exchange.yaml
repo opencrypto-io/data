@@ -8,25 +8,20 @@ api:
     kitchen: 'https://kitchen.kucoin.com'
     kitchen-2: 'https://kitchen-2.kucoin.com'
 markets:
-  - ACAT/BTC
   - ACAT/ETH
   - ACAT/NEO
   - ACT/BCH
   - ACT/BTC
   - ACT/ETH
-  - ADB/BTC
   - ADB/ETH
   - AGI/BTC
   - AGI/ETH
   - AION/BTC
   - AION/ETH
-  - AIX/BTC
   - AIX/ETH
   - AMB/BTC
   - AMB/ETH
-  - ARY/BTC
   - ARY/ETH
-  - AXP/BTC
   - AXP/ETH
   - BCD/BTC
   - BCD/ETH
@@ -40,9 +35,7 @@ markets:
   - BHC/BTC
   - BNTY/BTC
   - BNTY/ETH
-  - BOS/BTC
   - BOS/ETH
-  - BPT/BTC
   - BPT/ETH
   - BTC/USDT
   - BTG/BTC
@@ -54,22 +47,17 @@ markets:
   - CAG/KCS
   - CAN/BTC
   - CAN/ETH
-  - CAPP/BTC
   - CAPP/ETH
   - CAT/BTC
   - CAT/ETH
   - CFD/ETH
-  - COFI/BTC
   - COFI/ETH
-  - COV/BTC
   - COV/ETH
-  - CTR/BTC
   - CTR/ETH
   - CV/BTC
   - CV/ETH
   - CVC/BTC
   - CVC/ETH
-  - CXO/BTC
   - CXO/ETH
   - DASH/BTC
   - DASH/ETH
@@ -87,15 +75,12 @@ markets:
   - DENT/NEO
   - DGB/BTC
   - DGB/ETH
-  - DNA/BTC
   - DNA/ETH
   - DRGN/BTC
   - DRGN/ETH
   - DRGN/NEO
   - DRGN/USDT
-  - DTA/BTC
   - DTA/ETH
-  - EBTC/BTC
   - EBTC/ETH
   - ELIX/BTC
   - ELIX/ETH
@@ -108,7 +93,6 @@ markets:
   - ETC/ETH
   - ETC/KCS
   - ETC/USDT
-  - ETH/BTC
   - ETH/USDT
   - EVX/BTC
   - EVX/ETH
@@ -124,24 +108,19 @@ markets:
   - GAS/NEO
   - GVT/BTC
   - GVT/ETH
-  - HAT/BTC
   - HAT/ETH
-  - HKN/BTC
   - HKN/ETH
-  - HPB/BTC
   - HPB/ETH
-  - HSR/BTC
   - HSR/ETH
   - HST/BTC
   - HST/ETH
-  - ING/BTC
   - ING/ETH
   - INS/BTC
   - INS/ETH
-  - IOST/BTC
   - IOST/ETH
-  - ITC/BTC
   - ITC/ETH
+  - JNT/BTC
+  - JNT/ETH
   - KCS/BCH
   - KCS/BTC
   - KCS/ETH
@@ -154,13 +133,11 @@ markets:
   - LA/ETH
   - LEND/BTC
   - LEND/ETH
-  - LOCI/BTC
   - LOCI/ETH
   - LTC/BTC
   - LTC/ETH
   - LTC/NEO
   - LTC/USDT
-  - MEE/BTC
   - MEE/ETH
   - MOD/BTC
   - MOD/ETH
@@ -168,9 +145,7 @@ markets:
   - MOD/NEO
   - MTH/BTC
   - MTH/ETH
-  - MTN/BTC
   - MTN/ETH
-  - MWAT/BTC
   - MWAT/ETH
   - NEBL/BTC
   - NEBL/ETH
@@ -187,7 +162,6 @@ markets:
   - OMG/ETH
   - ONION/BTC
   - ONION/ETH
-  - PARETO/BTC
   - PARETO/ETH
   - PAY/BTC
   - PAY/ETH
@@ -197,7 +171,6 @@ markets:
   - POE/ETH
   - POLL/BTC
   - POLL/ETH
-  - POLY/BTC
   - POLY/ETH
   - POWR/BTC
   - POWR/ETH
@@ -227,7 +200,6 @@ markets:
   - RPX/ETH
   - RPX/KCS
   - RPX/NEO
-  - SNC/BTC
   - SNC/ETH
   - SNM/BTC
   - SNM/ETH
@@ -235,7 +207,6 @@ markets:
   - SNOV/ETH
   - SNT/BTC
   - SNT/ETH
-  - SPF/BTC
   - SPF/ETH
   - STX/BTC
   - STX/ETH
@@ -248,7 +219,6 @@ markets:
   - TFL/ETH
   - TIO/BTC
   - TIO/ETH
-  - TKY/BTC
   - TKY/ETH
   - TKY/NEO
   - TNC/BTC
@@ -271,6 +241,5 @@ markets:
   - XRB/BTC
   - XRB/ETH
   - XRB/USDT
-  - ZPT/BTC
   - ZPT/ETH
   - ZPT/NEO

@@ -22,21 +22,6 @@ markets:
   - $$$/MXN
   - $$$/RUB
   - $$$/USD
-  - 10MT/AUD
-  - 10MT/BRL
-  - 10MT/CAD
-  - 10MT/CHF
-  - 10MT/CNY
-  - 10MT/EUR
-  - 10MT/GBP
-  - 10MT/HKD
-  - 10MT/IDR
-  - 10MT/INR
-  - 10MT/JPY
-  - 10MT/KRW
-  - 10MT/MXN
-  - 10MT/RUB
-  - 10MT/USD
   - 1337/AUD
   - 1337/BRL
   - 1337/CAD
@@ -1042,21 +1027,6 @@ markets:
   - APPC/MXN
   - APPC/RUB
   - APPC/USD
-  - APW/AUD
-  - APW/BRL
-  - APW/CAD
-  - APW/CHF
-  - APW/CNY
-  - APW/EUR
-  - APW/GBP
-  - APW/HKD
-  - APW/IDR
-  - APW/INR
-  - APW/JPY
-  - APW/KRW
-  - APW/MXN
-  - APW/RUB
-  - APW/USD
   - APX/AUD
   - APX/BRL
   - APX/CAD
@@ -1297,21 +1267,6 @@ markets:
   - AST/MXN
   - AST/RUB
   - AST/USD
-  - ASTRO/AUD
-  - ASTRO/BRL
-  - ASTRO/CAD
-  - ASTRO/CHF
-  - ASTRO/CNY
-  - ASTRO/EUR
-  - ASTRO/GBP
-  - ASTRO/HKD
-  - ASTRO/IDR
-  - ASTRO/INR
-  - ASTRO/JPY
-  - ASTRO/KRW
-  - ASTRO/MXN
-  - ASTRO/RUB
-  - ASTRO/USD
   - ATB/AUD
   - ATB/BRL
   - ATB/CAD
@@ -1777,21 +1732,6 @@ markets:
   - BCA/MXN
   - BCA/RUB
   - BCA/USD
-  - BCAP/AUD
-  - BCAP/BRL
-  - BCAP/CAD
-  - BCAP/CHF
-  - BCAP/CNY
-  - BCAP/EUR
-  - BCAP/GBP
-  - BCAP/HKD
-  - BCAP/IDR
-  - BCAP/INR
-  - BCAP/JPY
-  - BCAP/KRW
-  - BCAP/MXN
-  - BCAP/RUB
-  - BCAP/USD
   - BCC/AUD
   - BCC/BRL
   - BCC/CAD
@@ -2542,21 +2482,6 @@ markets:
   - BLUE/MXN
   - BLUE/RUB
   - BLUE/USD
-  - BLX/AUD
-  - BLX/BRL
-  - BLX/CAD
-  - BLX/CHF
-  - BLX/CNY
-  - BLX/EUR
-  - BLX/GBP
-  - BLX/HKD
-  - BLX/IDR
-  - BLX/INR
-  - BLX/JPY
-  - BLX/KRW
-  - BLX/MXN
-  - BLX/RUB
-  - BLX/USD
   - BLZ/AUD
   - BLZ/BRL
   - BLZ/CAD
@@ -3082,21 +3007,6 @@ markets:
   - BTC/MXN
   - BTC/RUB
   - BTC/USD
-  - BTC2X/AUD
-  - BTC2X/BRL
-  - BTC2X/CAD
-  - BTC2X/CHF
-  - BTC2X/CNY
-  - BTC2X/EUR
-  - BTC2X/GBP
-  - BTC2X/HKD
-  - BTC2X/IDR
-  - BTC2X/INR
-  - BTC2X/JPY
-  - BTC2X/KRW
-  - BTC2X/MXN
-  - BTC2X/RUB
-  - BTC2X/USD
   - BTCA/AUD
   - BTCA/BRL
   - BTCA/CAD
@@ -3322,21 +3232,6 @@ markets:
   - BTS/MXN
   - BTS/RUB
   - BTS/USD
-  - BTSR/AUD
-  - BTSR/BRL
-  - BTSR/CAD
-  - BTSR/CHF
-  - BTSR/CNY
-  - BTSR/EUR
-  - BTSR/GBP
-  - BTSR/HKD
-  - BTSR/IDR
-  - BTSR/INR
-  - BTSR/JPY
-  - BTSR/KRW
-  - BTSR/MXN
-  - BTSR/RUB
-  - BTSR/USD
   - BTW/AUD
   - BTW/BRL
   - BTW/CAD
@@ -4792,21 +4687,6 @@ markets:
   - CRT/MXN
   - CRT/RUB
   - CRT/USD
-  - CRTM/AUD
-  - CRTM/BRL
-  - CRTM/CAD
-  - CRTM/CHF
-  - CRTM/CNY
-  - CRTM/EUR
-  - CRTM/GBP
-  - CRTM/HKD
-  - CRTM/IDR
-  - CRTM/INR
-  - CRTM/JPY
-  - CRTM/KRW
-  - CRTM/MXN
-  - CRTM/RUB
-  - CRTM/USD
   - CRW/AUD
   - CRW/BRL
   - CRW/CAD
@@ -6202,6 +6082,21 @@ markets:
   - DTB/MXN
   - DTB/RUB
   - DTB/USD
+  - DTC/AUD
+  - DTC/BRL
+  - DTC/CAD
+  - DTC/CHF
+  - DTC/CNY
+  - DTC/EUR
+  - DTC/GBP
+  - DTC/HKD
+  - DTC/IDR
+  - DTC/INR
+  - DTC/JPY
+  - DTC/KRW
+  - DTC/MXN
+  - DTC/RUB
+  - DTC/USD
   - DTH/AUD
   - DTH/BRL
   - DTH/CAD
@@ -6247,21 +6142,6 @@ markets:
   - DUB/MXN
   - DUB/RUB
   - DUB/USD
-  - DUBI/AUD
-  - DUBI/BRL
-  - DUBI/CAD
-  - DUBI/CHF
-  - DUBI/CNY
-  - DUBI/EUR
-  - DUBI/GBP
-  - DUBI/HKD
-  - DUBI/IDR
-  - DUBI/INR
-  - DUBI/JPY
-  - DUBI/KRW
-  - DUBI/MXN
-  - DUBI/RUB
-  - DUBI/USD
   - DUO/AUD
   - DUO/BRL
   - DUO/CAD
@@ -6397,21 +6277,6 @@ markets:
   - EBET/MXN
   - EBET/RUB
   - EBET/USD
-  - EBIT/AUD
-  - EBIT/BRL
-  - EBIT/CAD
-  - EBIT/CHF
-  - EBIT/CNY
-  - EBIT/EUR
-  - EBIT/GBP
-  - EBIT/HKD
-  - EBIT/IDR
-  - EBIT/INR
-  - EBIT/JPY
-  - EBIT/KRW
-  - EBIT/MXN
-  - EBIT/RUB
-  - EBIT/USD
   - EBST/AUD
   - EBST/BRL
   - EBST/CAD
@@ -6622,21 +6487,6 @@ markets:
   - EDRC/MXN
   - EDRC/RUB
   - EDRC/USD
-  - EDT/AUD
-  - EDT/BRL
-  - EDT/CAD
-  - EDT/CHF
-  - EDT/CNY
-  - EDT/EUR
-  - EDT/GBP
-  - EDT/HKD
-  - EDT/IDR
-  - EDT/INR
-  - EDT/JPY
-  - EDT/KRW
-  - EDT/MXN
-  - EDT/RUB
-  - EDT/USD
   - EFL/AUD
   - EFL/BRL
   - EFL/CAD
@@ -6667,21 +6517,6 @@ markets:
   - EFYT/MXN
   - EFYT/RUB
   - EFYT/USD
-  - EGAS/AUD
-  - EGAS/BRL
-  - EGAS/CAD
-  - EGAS/CHF
-  - EGAS/CNY
-  - EGAS/EUR
-  - EGAS/GBP
-  - EGAS/HKD
-  - EGAS/IDR
-  - EGAS/INR
-  - EGAS/JPY
-  - EGAS/KRW
-  - EGAS/MXN
-  - EGAS/RUB
-  - EGAS/USD
   - EGC/AUD
   - EGC/BRL
   - EGC/CAD
@@ -6907,21 +6742,6 @@ markets:
   - ELS/MXN
   - ELS/RUB
   - ELS/USD
-  - ELTC2/AUD
-  - ELTC2/BRL
-  - ELTC2/CAD
-  - ELTC2/CHF
-  - ELTC2/CNY
-  - ELTC2/EUR
-  - ELTC2/GBP
-  - ELTC2/HKD
-  - ELTC2/IDR
-  - ELTC2/INR
-  - ELTC2/JPY
-  - ELTC2/KRW
-  - ELTC2/MXN
-  - ELTC2/RUB
-  - ELTC2/USD
   - ELTCOIN/AUD
   - ELTCOIN/BRL
   - ELTCOIN/CAD
@@ -7192,21 +7012,6 @@ markets:
   - ERC20/MXN
   - ERC20/RUB
   - ERC20/USD
-  - EREAL/AUD
-  - EREAL/BRL
-  - EREAL/CAD
-  - EREAL/CHF
-  - EREAL/CNY
-  - EREAL/EUR
-  - EREAL/GBP
-  - EREAL/HKD
-  - EREAL/IDR
-  - EREAL/INR
-  - EREAL/JPY
-  - EREAL/KRW
-  - EREAL/MXN
-  - EREAL/RUB
-  - EREAL/USD
   - ERO/AUD
   - ERO/BRL
   - ERO/CAD
@@ -7432,21 +7237,6 @@ markets:
   - EUC/MXN
   - EUC/RUB
   - EUC/USD
-  - EUSD/AUD
-  - EUSD/BRL
-  - EUSD/CAD
-  - EUSD/CHF
-  - EUSD/CNY
-  - EUSD/EUR
-  - EUSD/GBP
-  - EUSD/HKD
-  - EUSD/IDR
-  - EUSD/INR
-  - EUSD/JPY
-  - EUSD/KRW
-  - EUSD/MXN
-  - EUSD/RUB
-  - EUSD/USD
   - EVC/AUD
   - EVC/BRL
   - EVC/CAD
@@ -7657,36 +7447,6 @@ markets:
   - FAZZ/MXN
   - FAZZ/RUB
   - FAZZ/USD
-  - FBL/AUD
-  - FBL/BRL
-  - FBL/CAD
-  - FBL/CHF
-  - FBL/CNY
-  - FBL/EUR
-  - FBL/GBP
-  - FBL/HKD
-  - FBL/IDR
-  - FBL/INR
-  - FBL/JPY
-  - FBL/KRW
-  - FBL/MXN
-  - FBL/RUB
-  - FBL/USD
-  - FC/AUD
-  - FC/BRL
-  - FC/CAD
-  - FC/CHF
-  - FC/CNY
-  - FC/EUR
-  - FC/GBP
-  - FC/HKD
-  - FC/IDR
-  - FC/INR
-  - FC/JPY
-  - FC/KRW
-  - FC/MXN
-  - FC/RUB
-  - FC/USD
   - FC2/AUD
   - FC2/BRL
   - FC2/CAD
@@ -8647,6 +8407,21 @@ markets:
   - GEERT/MXN
   - GEERT/RUB
   - GEERT/USD
+  - GEM/AUD
+  - GEM/BRL
+  - GEM/CAD
+  - GEM/CHF
+  - GEM/CNY
+  - GEM/EUR
+  - GEM/GBP
+  - GEM/HKD
+  - GEM/IDR
+  - GEM/INR
+  - GEM/JPY
+  - GEM/KRW
+  - GEM/MXN
+  - GEM/RUB
+  - GEM/USD
   - GEO/AUD
   - GEO/BRL
   - GEO/CAD
@@ -8677,21 +8452,6 @@ markets:
   - GET/MXN
   - GET/RUB
   - GET/USD
-  - GIM/AUD
-  - GIM/BRL
-  - GIM/CAD
-  - GIM/CHF
-  - GIM/CNY
-  - GIM/EUR
-  - GIM/GBP
-  - GIM/HKD
-  - GIM/IDR
-  - GIM/INR
-  - GIM/JPY
-  - GIM/KRW
-  - GIM/MXN
-  - GIM/RUB
-  - GIM/USD
   - GJC/AUD
   - GJC/BRL
   - GJC/CAD
@@ -8797,21 +8557,6 @@ markets:
   - GML/MXN
   - GML/RUB
   - GML/USD
-  - GMT/AUD
-  - GMT/BRL
-  - GMT/CAD
-  - GMT/CHF
-  - GMT/CNY
-  - GMT/EUR
-  - GMT/GBP
-  - GMT/HKD
-  - GMT/IDR
-  - GMT/INR
-  - GMT/JPY
-  - GMT/KRW
-  - GMT/MXN
-  - GMT/RUB
-  - GMT/USD
   - GMX/AUD
   - GMX/BRL
   - GMX/CAD
@@ -9877,21 +9622,6 @@ markets:
   - HYPER/MXN
   - HYPER/RUB
   - HYPER/USD
-  - HYTV/AUD
-  - HYTV/BRL
-  - HYTV/CAD
-  - HYTV/CHF
-  - HYTV/CNY
-  - HYTV/EUR
-  - HYTV/GBP
-  - HYTV/HKD
-  - HYTV/IDR
-  - HYTV/INR
-  - HYTV/JPY
-  - HYTV/KRW
-  - HYTV/MXN
-  - HYTV/RUB
-  - HYTV/USD
   - I0C/AUD
   - I0C/BRL
   - I0C/CAD
@@ -9922,21 +9652,6 @@ markets:
   - IBANK/MXN
   - IBANK/RUB
   - IBANK/USD
-  - IBTC/AUD
-  - IBTC/BRL
-  - IBTC/CAD
-  - IBTC/CHF
-  - IBTC/CNY
-  - IBTC/EUR
-  - IBTC/GBP
-  - IBTC/HKD
-  - IBTC/IDR
-  - IBTC/INR
-  - IBTC/JPY
-  - IBTC/KRW
-  - IBTC/MXN
-  - IBTC/RUB
-  - IBTC/USD
   - IC/AUD
   - IC/BRL
   - IC/CAD
@@ -10522,21 +10237,6 @@ markets:
   - IPL/MXN
   - IPL/RUB
   - IPL/USD
-  - IPY/AUD
-  - IPY/BRL
-  - IPY/CAD
-  - IPY/CHF
-  - IPY/CNY
-  - IPY/EUR
-  - IPY/GBP
-  - IPY/HKD
-  - IPY/IDR
-  - IPY/INR
-  - IPY/JPY
-  - IPY/KRW
-  - IPY/MXN
-  - IPY/RUB
-  - IPY/USD
   - IQT/AUD
   - IQT/BRL
   - IQT/CAD
@@ -10762,21 +10462,6 @@ markets:
   - JIN/MXN
   - JIN/RUB
   - JIN/USD
-  - JINN/AUD
-  - JINN/BRL
-  - JINN/CAD
-  - JINN/CHF
-  - JINN/CNY
-  - JINN/EUR
-  - JINN/GBP
-  - JINN/HKD
-  - JINN/IDR
-  - JINN/INR
-  - JINN/JPY
-  - JINN/KRW
-  - JINN/MXN
-  - JINN/RUB
-  - JINN/USD
   - JIYO/AUD
   - JIYO/BRL
   - JIYO/CAD
@@ -11797,21 +11482,6 @@ markets:
   - LTCU/MXN
   - LTCU/RUB
   - LTCU/USD
-  - LTG/AUD
-  - LTG/BRL
-  - LTG/CAD
-  - LTG/CHF
-  - LTG/CNY
-  - LTG/EUR
-  - LTG/GBP
-  - LTG/HKD
-  - LTG/IDR
-  - LTG/INR
-  - LTG/JPY
-  - LTG/KRW
-  - LTG/MXN
-  - LTG/RUB
-  - LTG/USD
   - LTH/AUD
   - LTH/BRL
   - LTH/CAD
@@ -12352,21 +12022,6 @@ markets:
   - MEME/MXN
   - MEME/RUB
   - MEME/USD
-  - MEN/AUD
-  - MEN/BRL
-  - MEN/CAD
-  - MEN/CHF
-  - MEN/CNY
-  - MEN/EUR
-  - MEN/GBP
-  - MEN/HKD
-  - MEN/IDR
-  - MEN/INR
-  - MEN/JPY
-  - MEN/KRW
-  - MEN/MXN
-  - MEN/RUB
-  - MEN/USD
   - MER/AUD
   - MER/BRL
   - MER/CAD
@@ -13042,6 +12697,21 @@ markets:
   - MUE/MXN
   - MUE/RUB
   - MUE/USD
+  - MUSE/AUD
+  - MUSE/BRL
+  - MUSE/CAD
+  - MUSE/CHF
+  - MUSE/CNY
+  - MUSE/EUR
+  - MUSE/GBP
+  - MUSE/HKD
+  - MUSE/IDR
+  - MUSE/INR
+  - MUSE/JPY
+  - MUSE/KRW
+  - MUSE/MXN
+  - MUSE/RUB
+  - MUSE/USD
   - MUSIC/AUD
   - MUSIC/BRL
   - MUSIC/CAD
@@ -13402,21 +13072,6 @@ markets:
   - NGC/MXN
   - NGC/RUB
   - NGC/USD
-  - NIMFA/AUD
-  - NIMFA/BRL
-  - NIMFA/CAD
-  - NIMFA/CHF
-  - NIMFA/CNY
-  - NIMFA/EUR
-  - NIMFA/GBP
-  - NIMFA/HKD
-  - NIMFA/IDR
-  - NIMFA/INR
-  - NIMFA/JPY
-  - NIMFA/KRW
-  - NIMFA/MXN
-  - NIMFA/RUB
-  - NIMFA/USD
   - NIO/AUD
   - NIO/BRL
   - NIO/CAD
@@ -13687,21 +13342,6 @@ markets:
   - NTRN/MXN
   - NTRN/RUB
   - NTRN/USD
-  - NTWK/AUD
-  - NTWK/BRL
-  - NTWK/CAD
-  - NTWK/CHF
-  - NTWK/CNY
-  - NTWK/EUR
-  - NTWK/GBP
-  - NTWK/HKD
-  - NTWK/IDR
-  - NTWK/INR
-  - NTWK/JPY
-  - NTWK/KRW
-  - NTWK/MXN
-  - NTWK/RUB
-  - NTWK/USD
   - NUKO/AUD
   - NUKO/BRL
   - NUKO/CAD
@@ -13942,6 +13582,21 @@ markets:
   - OCN/MXN
   - OCN/RUB
   - OCN/USD
+  - OCOW/AUD
+  - OCOW/BRL
+  - OCOW/CAD
+  - OCOW/CHF
+  - OCOW/CNY
+  - OCOW/EUR
+  - OCOW/GBP
+  - OCOW/HKD
+  - OCOW/IDR
+  - OCOW/INR
+  - OCOW/JPY
+  - OCOW/KRW
+  - OCOW/MXN
+  - OCOW/RUB
+  - OCOW/USD
   - OCT/AUD
   - OCT/BRL
   - OCT/CAD
@@ -14467,21 +14122,6 @@ markets:
   - PAYP/MXN
   - PAYP/RUB
   - PAYP/USD
-  - PAYX/AUD
-  - PAYX/BRL
-  - PAYX/CAD
-  - PAYX/CHF
-  - PAYX/CNY
-  - PAYX/EUR
-  - PAYX/GBP
-  - PAYX/HKD
-  - PAYX/IDR
-  - PAYX/INR
-  - PAYX/JPY
-  - PAYX/KRW
-  - PAYX/MXN
-  - PAYX/RUB
-  - PAYX/USD
   - PBL/AUD
   - PBL/BRL
   - PBL/CAD
@@ -14587,21 +14227,6 @@ markets:
   - PDG/MXN
   - PDG/RUB
   - PDG/USD
-  - PEC/AUD
-  - PEC/BRL
-  - PEC/CAD
-  - PEC/CHF
-  - PEC/CNY
-  - PEC/EUR
-  - PEC/GBP
-  - PEC/HKD
-  - PEC/IDR
-  - PEC/INR
-  - PEC/JPY
-  - PEC/KRW
-  - PEC/MXN
-  - PEC/RUB
-  - PEC/USD
   - PEPECASH/AUD
   - PEPECASH/BRL
   - PEPECASH/CAD
@@ -16537,21 +16162,6 @@ markets:
   - RNT/MXN
   - RNT/RUB
   - RNT/USD
-  - ROC/AUD
-  - ROC/BRL
-  - ROC/CAD
-  - ROC/CHF
-  - ROC/CNY
-  - ROC/EUR
-  - ROC/GBP
-  - ROC/HKD
-  - ROC/IDR
-  - ROC/INR
-  - ROC/JPY
-  - ROC/KRW
-  - ROC/MXN
-  - ROC/RUB
-  - ROC/USD
   - ROOFS/AUD
   - ROOFS/BRL
   - ROOFS/CAD
@@ -16567,6 +16177,21 @@ markets:
   - ROOFS/MXN
   - ROOFS/RUB
   - ROOFS/USD
+  - ROYAL/AUD
+  - ROYAL/BRL
+  - ROYAL/CAD
+  - ROYAL/CHF
+  - ROYAL/CNY
+  - ROYAL/EUR
+  - ROYAL/GBP
+  - ROYAL/HKD
+  - ROYAL/IDR
+  - ROYAL/INR
+  - ROYAL/JPY
+  - ROYAL/KRW
+  - ROYAL/MXN
+  - ROYAL/RUB
+  - ROYAL/USD
   - RPC/AUD
   - RPC/BRL
   - RPC/CAD
@@ -17272,21 +16897,6 @@ markets:
   - SIC/MXN
   - SIC/RUB
   - SIC/USD
-  - SIFT/AUD
-  - SIFT/BRL
-  - SIFT/CAD
-  - SIFT/CHF
-  - SIFT/CNY
-  - SIFT/EUR
-  - SIFT/GBP
-  - SIFT/HKD
-  - SIFT/IDR
-  - SIFT/INR
-  - SIFT/JPY
-  - SIFT/KRW
-  - SIFT/MXN
-  - SIFT/RUB
-  - SIFT/USD
   - SIGMA/AUD
   - SIGMA/BRL
   - SIGMA/CAD
@@ -18502,21 +18112,6 @@ markets:
   - SWM/MXN
   - SWM/RUB
   - SWM/USD
-  - SWP/AUD
-  - SWP/BRL
-  - SWP/CAD
-  - SWP/CHF
-  - SWP/CNY
-  - SWP/EUR
-  - SWP/GBP
-  - SWP/HKD
-  - SWP/IDR
-  - SWP/INR
-  - SWP/JPY
-  - SWP/KRW
-  - SWP/MXN
-  - SWP/RUB
-  - SWP/USD
   - SWT/AUD
   - SWT/BRL
   - SWT/CAD
@@ -18862,21 +18457,6 @@ markets:
   - TER/MXN
   - TER/RUB
   - TER/USD
-  - TERA/AUD
-  - TERA/BRL
-  - TERA/CAD
-  - TERA/CHF
-  - TERA/CNY
-  - TERA/EUR
-  - TERA/GBP
-  - TERA/HKD
-  - TERA/IDR
-  - TERA/INR
-  - TERA/JPY
-  - TERA/KRW
-  - TERA/MXN
-  - TERA/RUB
-  - TERA/USD
   - TES/AUD
   - TES/BRL
   - TES/CAD
@@ -19732,21 +19312,6 @@ markets:
   - TZC/MXN
   - TZC/RUB
   - TZC/USD
-  - UAHPAY/AUD
-  - UAHPAY/BRL
-  - UAHPAY/CAD
-  - UAHPAY/CHF
-  - UAHPAY/CNY
-  - UAHPAY/EUR
-  - UAHPAY/GBP
-  - UAHPAY/HKD
-  - UAHPAY/IDR
-  - UAHPAY/INR
-  - UAHPAY/JPY
-  - UAHPAY/KRW
-  - UAHPAY/MXN
-  - UAHPAY/RUB
-  - UAHPAY/USD
   - UBQ/AUD
   - UBQ/BRL
   - UBQ/CAD
@@ -20197,21 +19762,6 @@ markets:
   - USNBT/MXN
   - USNBT/RUB
   - USNBT/USD
-  - UTA/AUD
-  - UTA/BRL
-  - UTA/CAD
-  - UTA/CHF
-  - UTA/CNY
-  - UTA/EUR
-  - UTA/GBP
-  - UTA/HKD
-  - UTA/IDR
-  - UTA/INR
-  - UTA/JPY
-  - UTA/KRW
-  - UTA/MXN
-  - UTA/RUB
-  - UTA/USD
   - UTC/AUD
   - UTC/BRL
   - UTC/CAD
@@ -21457,21 +21007,6 @@ markets:
   - XCRE/MXN
   - XCRE/RUB
   - XCRE/USD
-  - XCS/AUD
-  - XCS/BRL
-  - XCS/CAD
-  - XCS/CHF
-  - XCS/CNY
-  - XCS/EUR
-  - XCS/GBP
-  - XCS/HKD
-  - XCS/IDR
-  - XCS/INR
-  - XCS/JPY
-  - XCS/KRW
-  - XCS/MXN
-  - XCS/RUB
-  - XCS/USD
   - XCT/AUD
   - XCT/BRL
   - XCT/CAD
@@ -22282,6 +21817,21 @@ markets:
   - YAC/MXN
   - YAC/RUB
   - YAC/USD
+  - YASH/AUD
+  - YASH/BRL
+  - YASH/CAD
+  - YASH/CHF
+  - YASH/CNY
+  - YASH/EUR
+  - YASH/GBP
+  - YASH/HKD
+  - YASH/IDR
+  - YASH/INR
+  - YASH/JPY
+  - YASH/KRW
+  - YASH/MXN
+  - YASH/RUB
+  - YASH/USD
   - YEE/AUD
   - YEE/BRL
   - YEE/CAD
@@ -22297,21 +21847,6 @@ markets:
   - YEE/MXN
   - YEE/RUB
   - YEE/USD
-  - YEL/AUD
-  - YEL/BRL
-  - YEL/CAD
-  - YEL/CHF
-  - YEL/CNY
-  - YEL/EUR
-  - YEL/GBP
-  - YEL/HKD
-  - YEL/IDR
-  - YEL/INR
-  - YEL/JPY
-  - YEL/KRW
-  - YEL/MXN
-  - YEL/RUB
-  - YEL/USD
   - YES/AUD
   - YES/BRL
   - YES/CAD

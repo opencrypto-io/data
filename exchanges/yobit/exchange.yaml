@@ -5480,6 +5480,12 @@ markets:
   - TAP/RUR
   - TAP/USD
   - TAP/WAVES
+  - TAXI/BTC
+  - TAXI/DOGE
+  - TAXI/ETH
+  - TAXI/RUR
+  - TAXI/USD
+  - TAXI/WAVES
   - TB/BTC
   - TB/DOGE
   - TB/ETH

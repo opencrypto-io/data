@@ -61,6 +61,8 @@ markets:
   - HGT/BTC
   - HGT/ETH
   - HMQ/BTC
+  - IOST/BTC
+  - IOST/ETH
   - KEY/BTC
   - KEY/ETH
   - LC/BTC

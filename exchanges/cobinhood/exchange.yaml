@@ -22,6 +22,8 @@ markets:
   - COB/USD
   - CVC/BTC
   - CVC/ETH
+  - DADI/BTC
+  - DADI/ETH
   - DGD/BTC
   - DGD/ETH
   - DRGN/BTC
@@ -34,6 +36,8 @@ markets:
   - ETH/USD
   - ETHOS/BTC
   - ETHOS/ETH
+  - FSN/BTC
+  - FSN/ETH
   - FUN/BTC
   - FUN/ETH
   - GNO/BTC
@@ -52,6 +56,8 @@ markets:
   - MANA/ETH
   - NGC/BTC
   - NGC/ETH
+  - NTK/BTC
+  - NTK/ETH
   - OCN/BTC
   - OCN/ETH
   - OMG/BTC
@@ -68,6 +74,8 @@ markets:
   - SPHTX/ETH
   - STK/BTC
   - STK/ETH
+  - SUB/BTC
+  - SUB/ETH
   - TRX/BTC
   - TRX/ETH
   - UTNP/BTC
