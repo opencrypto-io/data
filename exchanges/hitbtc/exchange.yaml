@@ -6,6 +6,7 @@ api:
 markets:
   - 1ST/BTC
   - 1ST/ETH
+  - ACO/ETH
   - ADX/BTC
   - ADX/ETH
   - ADX/USDT
@@ -59,6 +60,9 @@ markets:
   - BET/ETH
   - BETR/BTC
   - BETR/ETH
+  - BEZ/BTC
+  - BEZ/ETH
+  - BEZ/USDT
   - BKB/BTC
   - BMC/BTC
   - BMC/ETH
@@ -460,6 +464,9 @@ markets:
   - UTK/BTC
   - UTK/ETH
   - UTK/USDT
+  - UTNP/BTC
+  - UTNP/ETH
+  - UTNP/USDT
   - UTT/BTC
   - UTT/ETH
   - UTT/USDT

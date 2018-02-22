@@ -49,6 +49,10 @@ markets:
   - ARC/DOGE
   - ARC/LTC
   - ARC/USD
+  - AURS/BTC
+  - AURS/DOGE
+  - AURS/LTC
+  - AURS/USD
   - BASH/BTC
   - BASH/DOGE
   - BASH/LTC
@@ -129,6 +133,10 @@ markets:
   - CJ/DOGE
   - CJ/LTC
   - CJ/USD
+  - CRAVE/BTC
+  - CRAVE/DOGE
+  - CRAVE/LTC
+  - CRAVE/USD
   - CRC/BTC
   - CRC/DOGE
   - CRC/LTC

@@ -30,6 +30,8 @@ markets:
   - LTC/USD
   - XMR/BTC
   - XMR/EUR
+  - XRP/BTC
+  - XRP/EUR
   - ZEC/BTC
   - ZEC/EUR
   - ZEC/RUB

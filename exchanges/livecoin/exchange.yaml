@@ -411,6 +411,8 @@ markets:
   - SNT/USD
   - SOAR/BTC
   - SOAR/ETH
+  - SPA/BTC
+  - SPA/ETH
   - SPF/BTC
   - SPF/ETH
   - STORJ/BTC
@@ -454,10 +456,6 @@ markets:
   - UNC/BTC
   - UNRC/BTC
   - UNRC/USD
-  - UNY/BTC
-  - UNY/ETH
-  - UNY/LTC
-  - UNY/USD
   - UQC/BCC
   - UQC/BTC
   - UQC/ETH
