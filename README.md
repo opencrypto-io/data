@@ -1,4 +1,4 @@
-# CoinSpec Data
+# Opencrypto data
 
 Community driven dataset about cryptocurrencies ecosystem.
 
