@@ -4,14 +4,14 @@ Community driven dataset about cryptocurrencies ecosystem.
 
 | Count | Collection | Description | |
 | ---: | --- |  --- | --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
-| <%= col.count | 0 %> | [<%= col.name %>](/<%= colId %>) | <%= col.desc %> | [JSON Schema](https://github.com/coinspec/schema/blob/master/src/<%= col.schema %>.yaml) |<% } %>
+| <%= col.count | 0 %> | [<%= col.name %>](/<%= colId %>) | <%= col.desc %> | [JSON Schema](https://github.com/opencrypto-io/schema/blob/master/src/<%= col.schema %>.yaml) |<% } %>
 
 ## How to build & test
 
 First, you need clone this repository locally:
 ```bash
-git clone git@github.com:coinspec/data.git coinspec-data
-cd coinspec-data
+git clone git@github.com:opencrypto-io/data.git opencrypto-data
+cd opencrypto-data
 npm install
 ```
 

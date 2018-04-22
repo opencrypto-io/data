@@ -3023,7 +3023,7 @@
           "data": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNjQiIHdpZHRoPSI2NCI+PHBhdGggZmlsbD0iI2Y3OTMxYSIgZD0iTTYzLjA0IDM5Ljc0MWMtNC4yNzUgMTcuMTQzLTIxLjYzOCAyNy41NzYtMzguNzgzIDIzLjMwMUM3LjEyIDU4Ljc2OC0zLjMxMyA0MS40MDQuOTYyIDI0LjI2MiA1LjIzNCA3LjExNyAyMi41OTctMy4zMTcgMzkuNzM3Ljk1N2MxNy4xNDQgNC4yNzQgMjcuNTc2IDIxLjY0IDIzLjMwMiAzOC43ODR6Ii8+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTQ2LjExIDI3LjQ0MWMuNjM2LTQuMjU4LTIuNjA2LTYuNTQ3LTcuMDM5LTguMDc0bDEuNDM4LTUuNzY4LTMuNTEtLjg3NS0xLjQgNS42MTZjLS45MjQtLjIzLTEuODcyLS40NDctMi44MTQtLjY2MmwxLjQxLTUuNjUzLTMuNTA5LS44NzUtMS40MzkgNS43NjZjLS43NjQtLjE3NC0xLjUxNC0uMzQ2LTIuMjQyLS41MjdsLjAwNC0uMDE4LTQuODQyLTEuMjA5LS45MzQgMy43NXMyLjYwNS41OTcgMi41NS42MzRjMS40MjIuMzU1IDEuNjggMS4yOTYgMS42MzYgMi4wNDJsLTEuNjM4IDYuNTcxYy4wOTguMDI1LjIyNS4wNjEuMzY1LjExN2wtLjM3LS4wOTItMi4yOTcgOS4yMDVjLS4xNzQuNDMyLS42MTUgMS4wOC0xLjYwOS44MzQuMDM1LjA1MS0yLjU1Mi0uNjM3LTIuNTUyLS42MzdsLTEuNzQzIDQuMDE5IDQuNTcgMS4xMzljLjg1LjIxMyAxLjY4Mi40MzYgMi41MDIuNjQ2bC0xLjQ1MyA1LjgzNCAzLjUwNy44NzUgMS40NC01Ljc3MmMuOTU3LjI2IDEuODg3LjUgMi43OTcuNzI2bC0xLjQzNCA1Ljc0NSAzLjUxMS44NzUgMS40NTMtNS44MjNjNS45ODcgMS4xMzMgMTAuNDkuNjc2IDEyLjM4NC00LjczOSAxLjUyNy00LjM2LS4wNzYtNi44NzUtMy4yMjYtOC41MTUgMi4yOTQtLjUyOSA0LjAyMi0yLjAzOCA0LjQ4My01LjE1NXpNMzguMDg2IDM4LjY5Yy0xLjA4NSA0LjM2LTguNDI2IDIuMDAzLTEwLjgwNiAxLjQxMmwxLjkyOC03LjcyOWMyLjM4LjU5NCAxMC4wMTIgMS43NyA4Ljg3OCA2LjMxN3ptMS4wODYtMTEuMzEyYy0uOTkgMy45NjYtNy4xIDEuOTUxLTkuMDgyIDEuNDU3bDEuNzQ4LTcuMDFjMS45ODIuNDk0IDguMzY1IDEuNDE2IDcuMzM0IDUuNTUzeiIvPjwvc3ZnPg=="
         }
       },
-      "whitepaper": "https://github.com/coinspec/data/blob/master/assets/bitcoin/whitepaper.pdf"
+      "whitepaper": "https://github.com/opencrypto-io/data/blob/master/assets/bitcoin/whitepaper.pdf"
     },
     {
       "name": "Bitcoin 21",
@@ -7565,7 +7565,7 @@
       "name": "Dai",
       "web": "https://makerdao.com/",
       "id": "dai",
-      "whitepaper": "https://github.com/coinspec/data/blob/master/assets/dai/whitepaper.pdf"
+      "whitepaper": "https://github.com/opencrypto-io/data/blob/master/assets/dai/whitepaper.pdf"
     },
     {
       "name": "Dalecoin",
