@@ -1,25 +1,25 @@
 {
-  "name": "coinspec-data",
+  "name": "opencrypto-data",
   "version": "0.0.1",
-  "description": "",
+  "description": "Open dataset about cryptocurrencies & ecosystem",
   "main": "index.js",
   "scripts": {
-    "test": "mocha node_modules/coinspec-data-tools/test.js",
-    "build": "node_modules/coinspec-data-tools/test.js build",
-    "print": "node_modules/coinspec-data-tools/test.js print",
-    "readme-gen": "node node_modules/coinspec-data-tools/readme-gen.js"
+    "test": "mocha node_modules/opencrypto-data-tools/test.js",
+    "build": "node_modules/opencrypto-data-tools/test.js build",
+    "print": "node_modules/opencrypto-data-tools/test.js print",
+    "readme-gen": "node node_modules/opencrypto-data-tools/readme-gen.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coinspec/data.git"
+    "url": "git+https://github.com/opencrypto/data.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ODbL",
   "bugs": {
-    "url": "https://github.com/coinspec/data/issues"
+    "url": "https://github.com/opencrypto-io/data/issues"
   },
-  "homepage": "https://github.com/coinspec/data#readme",
+  "homepage": "https://github.com/opencrypto-io/data#readme",
   "dependencies": {
-    "coinspec-data-tools": "git+https://github.com/coinspec/data-tools.git"
+    "opencrypto-data-tools": "git+https://github.com/opencrypto-io/data-tools.git"
   }
 }
