@@ -19,3 +19,7 @@ npm run-script build
 # to run tests
 npm test
 ```
+
+## License
+
+ODC Open Database License (ODbL)
