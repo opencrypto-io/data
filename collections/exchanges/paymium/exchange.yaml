@@ -1,9 +1,0 @@
-name: Paymium
-countries:
-  - FR
-  - EU
-web: 'https://www.paymium.com'
-api:
-  url: 'https://paymium.com/api'
-markets:
-  - BTC/EUR

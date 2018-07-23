@@ -1,9 +1,0 @@
-name: coincheck
-countries:
-  - JP
-  - ID
-web: 'https://coincheck.com'
-api:
-  url: 'https://coincheck.com/api'
-markets:
-  - BTC/JPY

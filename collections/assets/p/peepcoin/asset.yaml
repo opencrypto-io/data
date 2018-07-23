@@ -1,9 +1,0 @@
-name: PeepCoin
-symbol: PCN
-type: coin
-web: []
-webids:
-  coinmarketcap: peepcoin
-tools:
-  explorer: []
-mineable: false

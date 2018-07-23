@@ -1,7 +1,0 @@
-name: BtcBox
-countries: JP
-web: 'https://www.btcbox.co.jp/'
-api:
-  url: 'https://www.btcbox.co.jp/api'
-markets:
-  - BTC/JPY

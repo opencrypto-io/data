@@ -1,9 +1,0 @@
-name: Gemini
-countries: US
-web: 'https://gemini.com'
-api:
-  url: 'https://api.gemini.com'
-markets:
-  - BTC/USD
-  - ETH/BTC
-  - ETH/USD

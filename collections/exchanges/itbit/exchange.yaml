@@ -1,9 +1,0 @@
-name: itBit
-countries: US
-web: 'https://www.itbit.com'
-api:
-  url: 'https://api.itbit.com'
-markets:
-  - BTC/EUR
-  - BTC/SGD
-  - BTC/USD

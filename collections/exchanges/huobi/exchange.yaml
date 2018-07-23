@@ -1,8 +1,0 @@
-name: Huobi
-countries: CN
-web: 'https://www.huobi.com'
-api:
-  url: 'http://api.huobi.com'
-markets:
-  - BTC/CNY
-  - LTC/CNY

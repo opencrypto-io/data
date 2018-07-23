@@ -1,9 +1,0 @@
-name: SJWCoin
-symbol: SJW
-type: coin
-web: []
-webids:
-  coinmarketcap: sjwcoin
-tools:
-  explorer: []
-mineable: true

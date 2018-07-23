@@ -1,9 +1,0 @@
-name: BatCoin
-symbol: BAT
-type: coin
-web: []
-webids:
-  coinmarketcap: batcoin
-tools:
-  explorer: []
-mineable: true
