@@ -1,2 +1,12 @@
 id: bitcoin
 name: bitcoin
+assets:
+- id: btc
+  name: Bitcoin
+  symbol: BTC
+  networks:
+    main:
+      type: main
+      name: mainnet
+      proof_type: PoW
+      mineable: true
