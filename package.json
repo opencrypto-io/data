@@ -1,6 +1,6 @@
 {
   "name": "opencrypto-data",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Open dataset about cryptocurrencies & ecosystem",
   "main": "index.js",
   "scripts": {
