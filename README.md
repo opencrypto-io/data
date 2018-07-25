@@ -2,6 +2,8 @@
 
 Community driven dataset about cryptocurrencies ecosystem.
 
+Schema: [Opencrypto Schema v0.9](https://schema.opencrypto.io/)
+
 ## How to build & test
 
 First, you need clone this repository locally:
