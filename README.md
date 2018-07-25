@@ -1,6 +1,14 @@
-# Opencrypto data
+# Opencrypto Data
 
 Community driven dataset about cryptocurrencies ecosystem.
+
+We collecting informations about:
+* Projects
+  * Assets
+    * Networks
+  * Clients
+  * Exchanges
+    * Markets
 
 Schema: [Opencrypto Schema v0.9](https://schema.opencrypto.io/)
 
