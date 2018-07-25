@@ -5,7 +5,7 @@ assets:
   name: Bitcoin
   symbol: BTC
   networks:
-  - id:: main
+  - id: main
     type: main
     name: mainnet
     proof_type: PoW

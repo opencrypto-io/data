@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/opencrypto/data.git"
   },
-  "author": "",
+  "author": "Opencrypto.io <contact@opencrypto.io>",
   "license": "ODbL",
   "bugs": {
     "url": "https://github.com/opencrypto-io/data/issues"

@@ -10,7 +10,7 @@
           "symbol": "BTC",
           "networks": [
             {
-              "id:": "main",
+              "id": "main",
               "type": "main",
               "name": "mainnet",
               "proof_type": "PoW",
@@ -22,6 +22,6 @@
     }
   ],
   "metadata": {
-    "time": "2018-07-25T15:12:29.457Z"
+    "time": "2018-07-25T15:22:12.819Z"
   }
 }
