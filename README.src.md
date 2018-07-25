@@ -24,4 +24,4 @@ npm test
 
 ## License
 
-ODC Open Database License (ODbL)
+[ODC Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/summary/)
