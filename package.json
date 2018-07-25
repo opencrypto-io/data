@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha node_modules/opencrypto-data-tools/test.js",
     "build": "node_modules/opencrypto-data-tools/test.js build",
-    "commit-build": "git add dist",
+    "commit-build": "git add dist README.md",
     "print": "node_modules/opencrypto-data-tools/test.js print",
     "readme-gen": "node node_modules/opencrypto-data-tools/readme-gen.js"
   },
@@ -27,7 +27,7 @@
   "pre-commit": [
     "test",
     "build",
-    "commit-build",
-    "readme-gen"
+    "readme-gen",
+    "commit-build"
   ]
 }
