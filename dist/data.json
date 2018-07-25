@@ -2,15 +2,26 @@
   "projects": [
     {
       "id": "bitcoin",
-      "name": "bitcoin"
+      "name": "bitcoin",
+      "assets": [
+        {
+          "id": "btc",
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "networks": [
+            {
+              "id:": "main",
+              "type": "main",
+              "name": "mainnet",
+              "proof_type": "PoW",
+              "mineable": true
+            }
+          ]
+        }
+      ]
     }
   ],
-  "assets": [],
-  "clients": [],
-  "networks": [],
-  "blocks": [],
-  "transactions": [],
-  "exchanges": [],
-  "markets": [],
-  "core": []
+  "metadata": {
+    "time": "2018-07-25T14:54:52.710Z"
+  }
 }
