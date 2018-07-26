@@ -10,3 +10,6 @@ assets:
         name: mainnet
         proof_type: PoW
         mineable: true
+    webids:
+      coinmarketcap: bitcoin
+      cryptocompare: btc

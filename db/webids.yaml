@@ -25,3 +25,9 @@ meetup:
 wikipedia/en:
   title: Wikipedia EN
   url: https://wikipedia.org/@id
+coinmarketcap:
+  title: CoinMarketCap
+  url: https://coinmarketcap.com/currencies/@/
+cryptocompare:
+  title: CryptoCompare
+  url: https://www.cryptocompare.com/coins/@id

@@ -9,6 +9,9 @@ assets:
       platform: ethereum
       contract_address: "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
       decimals: 18
+    webids:
+      coinmarketcap: dai
+      cryptocompare: dai
   - id: mkr
     type: token
     name: Maker
@@ -18,6 +21,9 @@ assets:
       contract_address: "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
       decimals: 18
     max_supply: 10e5
+    webids:
+      coinmarketcap: maker
+      cryptocompare: mkr
 exchanges:
   - id: oasis
     name: Oasis

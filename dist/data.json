@@ -18,6 +18,10 @@
               "mineable": true
             }
           ],
+          "webids": {
+            "coinmarketcap": "bitcoin",
+            "cryptocompare": "btc"
+          },
           "images": {
             "logo_full": {
               "type": "svg",
@@ -114,6 +118,10 @@
               }
             ]
           },
+          "webids": {
+            "coinmarketcap": "ethereum",
+            "cryptocompare": "eth"
+          },
           "images": {
             "logo_square": {
               "type": "svg",
@@ -159,6 +167,10 @@
             "platform": "ethereum",
             "contract_address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
             "decimals": 18
+          },
+          "webids": {
+            "coinmarketcap": "dai",
+            "cryptocompare": "dai"
           }
         },
         {
@@ -172,6 +184,10 @@
             "decimals": 18
           },
           "max_supply": 1000000,
+          "webids": {
+            "coinmarketcap": "maker",
+            "cryptocompare": "mkr"
+          },
           "images": {
             "logo_full": {
               "type": "svg",
@@ -250,6 +266,6 @@
     }
   ],
   "metadata": {
-    "time": "2018-07-26T05:38:54.197Z"
+    "time": "2018-07-26T05:51:46.105Z"
   }
 }

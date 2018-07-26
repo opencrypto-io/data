@@ -45,6 +45,9 @@ assets:
           name: gwei
         - unit: 1e-18
           name: wei
+    webids:
+      coinmarketcap: ethereum
+      cryptocompare: eth
 team:
   - name: Vitalik Buterin
     role: Founder
