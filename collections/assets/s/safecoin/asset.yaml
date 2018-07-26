@@ -1,9 +1,0 @@
-name: SafeCoin
-symbol: SFE
-type: coin
-web: []
-webids:
-  coinmarketcap: safecoin
-tools:
-  explorer: []
-mineable: true

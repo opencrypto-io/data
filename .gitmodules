@@ -1,3 +1,6 @@
 [submodule "schema"]
 	path = schema
 	url = https://github.com/opencrypto-io/schema
+[submodule "tools"]
+	path = tools
+	url = git@github.com:opencrypto-io/data-tools.git

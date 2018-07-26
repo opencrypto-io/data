@@ -1,0 +1,63 @@
+name: MakerDAO
+web: https://makerdao.com/
+assets:
+  - id: dai
+    type: token
+    name: Dai
+    symbol: DAI
+    token_properties:
+      platform: ethereum
+      contract_address: "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+      decimals: 18
+    webids:
+      coinmarketcap: dai
+      cryptocompare: dai
+  - id: mkr
+    type: token
+    name: Maker
+    symbol: MKR
+    token_properties:
+      platform: ethereum
+      contract_address: "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+      decimals: 18
+    max_supply: 10e5
+    webids:
+      coinmarketcap: maker
+      cryptocompare: mkr
+exchanges:
+  - id: oasis
+    name: Oasis
+    web: https://oasisdex.com/
+  - id : oasisdirect
+    name: Oasis.direct
+    web: https://oasis.direct/
+whitepapers:
+  - title: The Dai Stablecoin System
+    url: https://makerdao.com/whitepaper/DaiDec17WP.pdf
+  - title: Reference implementation (Purple Paper)
+    url: https://makerdao.com/purple/
+webids:
+  reddit: MakerDAO
+  twitter: MakerDAO
+  github: makerdao
+  custom/chat: https://chat.makerdao.com/
+tools:
+  - title: Dai Dashboard
+    url: https://dai.makerdao.com/
+  - title: Platform Data
+    url: https://mkr.tools/
+team:
+  - name: Rune Christensen
+    role: CEO
+    photo: https://makerdao.com/assets/img/team/Rune-Christensen.png
+  - name: Andy Milenius
+    role: CTO
+    photo: https://makerdao.com/assets/img/team/Andy-Milenius.jpg
+  - name: Matt Richards
+    role: President, COO
+    photo: https://makerdao.com/assets/img/team/Matt-Richards.png
+team_url: https://makerdao.com/team/
+history:
+  - date: "2017-12-18"
+    title: Dai started on Ethereum main network
+    url: https://medium.com/makerdao/dai-is-now-live-ad87e34fc826

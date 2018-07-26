@@ -1,0 +1,15 @@
+name: bitcoin
+assets:
+  - id: btc
+    type: blockchain
+    name: Bitcoin
+    symbol: BTC
+    networks:
+      - id: main
+        type: main
+        name: mainnet
+        proof_type: PoW
+        mineable: true
+    webids:
+      coinmarketcap: bitcoin
+      cryptocompare: btc

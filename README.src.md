@@ -1,10 +1,16 @@
-# Opencrypto data
+# Opencrypto Data
 
 Community driven dataset about cryptocurrencies ecosystem.
 
-| Count | Collection | Description | |
-| ---: | --- |  --- | --- |<% for (let colId in collections) { %><% let col = collections[colId] %>
-| <%= col.count | 0 %> | [<%= col.name %>](/<%= colId %>) | <%= col.desc %> | [JSON Schema](https://github.com/opencrypto-io/schema/blob/master/src/<%= col.schema %>.yaml) |<% } %>
+We collecting informations about:
+* Projects
+  * Assets
+    * Networks
+  * Clients
+  * Exchanges
+    * Markets
+
+Schema: [Opencrypto Schema v0.9](https://schema.opencrypto.io/)
 
 ## How to build & test
 
@@ -21,5 +27,9 @@ then you can use these commands:
 npm run-script build
 
 # to run tests
-npm test 
+npm test
 ```
+
+## License
+
+[ODC Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/summary/)

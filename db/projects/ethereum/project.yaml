@@ -1,0 +1,67 @@
+name: Ethereum
+web: https://www.ethereum.org/
+assets:
+  - id: eth
+    type: blockchain
+    name: Ether
+    symbol: ETH
+    networks:
+      - id: main
+        type: main
+        name: Main Ethereum Network
+        mineable: true
+        tools:
+          - type: explorer
+            url: https://etherscan.io/
+          - type: explorer
+            url: https://www.etherchain.org/
+          - type: explorer
+            url: https://ethplorer.io/
+      - id: ropsten
+        type: test
+        name: Ropsten Test Network
+        tools:
+          - type: explorer
+            id: https://ropsten.etherscan.io/
+      - id: kovan
+        type: test
+        name: Kovan Test Network
+        tools:
+          - type: explorer
+            id: https://kovan.etherscan.io/
+      - id: rinkeby
+        type: test
+        name: Rinkeby Test Network
+        tools:
+          - type: explorer
+            url: https://rinkeby.etherscan.io/
+          - type: explorer
+            url: https://faucet.rinkeby.io/
+    denominations:
+      plural: ethers
+      symbol: Ξ
+      subunits:
+        - unit: 1e-9
+          name: gwei
+        - unit: 1e-18
+          name: wei
+    webids:
+      coinmarketcap: ethereum
+      cryptocompare: eth
+team:
+  - name: Vitalik Buterin
+    role: Founder
+    photo: https://upload.wikimedia.org/wikipedia/commons/a/af/VitalikButerinProfile.jpg
+    webids:
+      wikipedia/en: Vitalik_Buterin
+webids:
+  twitter: ethereum
+  github: ethereum
+  reddit: ethereum
+  facebook: ethereumproject
+  meetup: ethereum
+  youtube: ethereumproject
+  stackexchange: ethereum
+  gitter: ethereum
+  wikipedia/en: Ethereum
+  custom/blog: https://blog.ethereum.org/

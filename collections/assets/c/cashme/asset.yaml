@@ -1,9 +1,0 @@
-name: Cashme
-symbol: CME
-type: coin
-web: []
-webids:
-  coinmarketcap: cashme
-tools:
-  explorer: []
-mineable: true

@@ -1,9 +1,0 @@
-name: Huobi CNY
-countries: CN
-web: 'https://www.huobi.com'
-api:
-  url: 'https://be.huobi.com'
-markets:
-  - BCH/CNY
-  - ETC/CNY
-  - ETH/CNY

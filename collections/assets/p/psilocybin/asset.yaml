@@ -1,9 +1,0 @@
-name: Psilocybin
-symbol: PSY
-type: coin
-web: []
-webids:
-  coinmarketcap: psilocybin
-tools:
-  explorer: []
-mineable: true
