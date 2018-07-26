@@ -1,6 +1,7 @@
 name: bitcoin
 assets:
   - id: btc
+    type: blockchain
     name: Bitcoin
     symbol: BTC
     networks:

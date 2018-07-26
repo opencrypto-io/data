@@ -1,0 +1,27 @@
+facebook:
+  title: Facebook
+  url: https://www.facebook.com/@id
+twitter:
+  title: Twitter
+  url: https://twitter.com/@id
+github:
+  title: GitHub
+  url: https://github.com/@id
+reddit:
+  title: Reddit
+  url: https://www.reddit.com/r/@id
+gitter:
+  title: Gitter
+  url: https://gitter.im/orgs/@id/rooms
+youtube:
+  title: YouTube
+  url: https://www.youtube.com/user/@id
+stackexchange:
+  title: Stack Exchange
+  url: https://@id.stackexchange.com/
+meetup:
+  title: Meetup
+  url: https://@id.meetup.com/
+wikipedia/en:
+  title: Wikipedia EN
+  url: https://wikipedia.org/@id

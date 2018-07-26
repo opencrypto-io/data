@@ -34,7 +34,7 @@ webids:
   reddit: MakerDAO
   twitter: MakerDAO
   github: makerdao
-  chat: https://chat.makerdao.com/
+  custom/chat: https://chat.makerdao.com/
 tools:
   - title: Dai Dashboard
     url: https://dai.makerdao.com/

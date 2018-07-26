@@ -6,6 +6,7 @@
       "assets": [
         {
           "id": "btc",
+          "type": "blockchain",
           "name": "Bitcoin",
           "symbol": "BTC",
           "networks": [
@@ -29,6 +30,120 @@
           }
         }
       ]
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "web": "https://www.ethereum.org/",
+      "assets": [
+        {
+          "id": "eth",
+          "type": "blockchain",
+          "name": "Ether",
+          "symbol": "ETH",
+          "networks": [
+            {
+              "id": "main",
+              "type": "main",
+              "name": "Main Ethereum Network",
+              "mineable": true,
+              "tools": [
+                {
+                  "type": "explorer",
+                  "url": "https://etherscan.io/"
+                },
+                {
+                  "type": "explorer",
+                  "url": "https://www.etherchain.org/"
+                },
+                {
+                  "type": "explorer",
+                  "url": "https://ethplorer.io/"
+                }
+              ]
+            },
+            {
+              "id": "ropsten",
+              "type": "test",
+              "name": "Ropsten Test Network",
+              "tools": [
+                {
+                  "type": "explorer",
+                  "id": "https://ropsten.etherscan.io/"
+                }
+              ]
+            },
+            {
+              "id": "kovan",
+              "type": "test",
+              "name": "Kovan Test Network",
+              "tools": [
+                {
+                  "type": "explorer",
+                  "id": "https://kovan.etherscan.io/"
+                }
+              ]
+            },
+            {
+              "id": "rinkeby",
+              "type": "test",
+              "name": "Rinkeby Test Network",
+              "tools": [
+                {
+                  "type": "explorer",
+                  "url": "https://rinkeby.etherscan.io/"
+                },
+                {
+                  "type": "explorer",
+                  "url": "https://faucet.rinkeby.io/"
+                }
+              ]
+            }
+          ],
+          "denominations": {
+            "plural": "ethers",
+            "symbol": "Ξ",
+            "subunits": [
+              {
+                "unit": 1e-9,
+                "name": "gwei"
+              },
+              {
+                "unit": 1e-18,
+                "name": "wei"
+              }
+            ]
+          },
+          "images": {
+            "logo_square": {
+              "type": "svg",
+              "data": "PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjQxNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZmlsbD0iIzM0MzQzNCIgZD0iTTEyNy45NjEgMGwtMi43OTUgOS41djI3NS42NjhsMi43OTUgMi43OSAxMjcuOTYyLTc1LjYzOHoiLz48cGF0aCBmaWxsPSIjOEM4QzhDIiBkPSJNMTI3Ljk2MiAwTDAgMjEyLjMybDEyNy45NjIgNzUuNjM5VjE1NC4xNTh6Ii8+PHBhdGggZmlsbD0iIzNDM0MzQiIgZD0iTTEyNy45NjEgMzEyLjE4N2wtMS41NzUgMS45MnY5OC4xOTlsMS41NzUgNC42TDI1NiAyMzYuNTg3eiIvPjxwYXRoIGZpbGw9IiM4QzhDOEMiIGQ9Ik0xMjcuOTYyIDQxNi45MDV2LTEwNC43MkwwIDIzNi41ODV6Ii8+PHBhdGggZmlsbD0iIzE0MTQxNCIgZD0iTTEyNy45NjEgMjg3Ljk1OGwxMjcuOTYtNzUuNjM3LTEyNy45Ni01OC4xNjJ6Ii8+PHBhdGggZmlsbD0iIzM5MzkzOSIgZD0iTTAgMjEyLjMybDEyNy45NiA3NS42Mzh2LTEzMy44eiIvPjwvc3ZnPg=="
+            }
+          }
+        }
+      ],
+      "team": [
+        {
+          "name": "Vitalik Buterin",
+          "role": "Founder",
+          "photo": "https://upload.wikimedia.org/wikipedia/commons/a/af/VitalikButerinProfile.jpg",
+          "webids": {
+            "wikipedia/en": "Vitalik_Buterin"
+          }
+        }
+      ],
+      "webids": {
+        "twitter": "ethereum",
+        "github": "ethereum",
+        "reddit": "ethereum",
+        "facebook": "ethereumproject",
+        "meetup": "ethereum",
+        "youtube": "ethereumproject",
+        "stackexchange": "ethereum",
+        "gitter": "ethereum",
+        "wikipedia/en": "Ethereum",
+        "custom/blog": "https://blog.ethereum.org/"
+      }
     },
     {
       "id": "makerdao",
@@ -95,7 +210,7 @@
         "reddit": "MakerDAO",
         "twitter": "MakerDAO",
         "github": "makerdao",
-        "chat": "https://chat.makerdao.com/"
+        "custom/chat": "https://chat.makerdao.com/"
       },
       "tools": [
         {
@@ -135,6 +250,6 @@
     }
   ],
   "metadata": {
-    "time": "2018-07-26T03:47:39.636Z"
+    "time": "2018-07-26T05:38:54.197Z"
   }
 }
