@@ -40,6 +40,7 @@ webids:
   reddit: MakerDAO
   twitter: MakerDAO
   github: makerdao
+  medium: makerdao
   custom/chat: https://chat.makerdao.com/
 tools:
   - title: Dai Dashboard
