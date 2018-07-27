@@ -33,3 +33,15 @@ team:
       twitter: w_n1c01a5
       linkedid: nicolas-wagner-ab59249a
 team_url: https://kleros.io/#team
+whitepapers:
+  - title: Kleros
+    url: https://kleros.io/assets/whitepaper.pdf
+webids:
+  github: kleros
+  twitter: kleros_io
+  facebook: kleros.io
+  linkedin/company: kleros
+  medium: kleros
+  telegram: kleros
+  reddit: Kleros
+  custom/forum: https://forum.kleros.io/
