@@ -41,6 +41,7 @@ webids:
   twitter: MakerDAO
   github: makerdao
   medium: makerdao
+  linkedin/company: makerdao
   custom/chat: https://chat.makerdao.com/
 tools:
   - title: Dai Dashboard
@@ -51,12 +52,28 @@ team:
   - name: Rune Christensen
     role: CEO
     photo: https://makerdao.com/assets/img/team/Rune-Christensen.png
+    webids:
+      linkedin: rune-christensen-5b5220ab
+      twitter: runekek
   - name: Andy Milenius
     role: CTO
     photo: https://makerdao.com/assets/img/team/Andy-Milenius.jpg
+    webids:
+      linkedin: andy-milenius-919922123
+      twitter: RealZandy
+      reddit/user: anodigitalog
+      instagram: realzandy
+      github: apmilen
+      keybase: apm
+      crunchbase/person: andy-milenius
+      email: andy@mileni.us
+      custom/web: http://mileni.us/
   - name: Matt Richards
     role: President, COO
     photo: https://makerdao.com/assets/img/team/Matt-Richards.png
+    webids:
+      linkedin: imattrichards
+      twitter: matttrichards
 team_url: https://makerdao.com/team/
 history:
   - date: "2017-12-18"
