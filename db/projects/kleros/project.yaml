@@ -17,21 +17,24 @@ assets:
 team:
   - name: Federico Ast
     role: Co-founder, CEO
+    photo: https://kleros.io/2565e44c42491720181359ce9f9a62fb.png
     webids:
-      linkedid: federicoast
+      linkedin: federicoast
       twitter: federicoast
   - name: Clément Lesaege
     role: Co-founder, CTO
+    photo: https://kleros.io/ff99c3ba4e2b56bae6d44b184a9b20b5.png
     webids:
       github: clesaege
-      linkedid: clément-lesaege-a326b9ab
+      linkedin: clément-lesaege-a326b9ab
       twitter: clesaege
   - name: Nicolas Wagner
     role: Co-founder, web3 developer
+    photo: https://kleros.io/d68d6c59553efeee05b9d3555c8d3dbf.png
     webids:
       github: n1c01a5
       twitter: w_n1c01a5
-      linkedid: nicolas-wagner-ab59249a
+      linkedin: nicolas-wagner-ab59249a
 team_url: https://kleros.io/#team
 whitepapers:
   - title: Kleros
