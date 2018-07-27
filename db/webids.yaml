@@ -1,8 +1,11 @@
-linkedid:
+email:
+  title: Email
+  url: mailto:@id
+linkedin:
   title: LinkedIn
   url: https://www.linkedin.com/in/@id
 linkedin/company:
-  title: LinkedIn
+  title: LinkedIn Company
   url: https://www.linkedin.com/company/@id
 facebook:
   title: Facebook
@@ -15,7 +18,10 @@ github:
   url: https://github.com/@id
 reddit:
   title: Reddit
-  url: https://www.reddit.com/r/@id
+  url: https://reddit.com/r/@id
+reddit/user:
+  title: Reddit User
+  url: https://reddit.com/u/@id
 gitter:
   title: Gitter
   url: https://gitter.im/orgs/@id/rooms
@@ -34,6 +40,15 @@ telegram:
 meetup:
   title: Meetup
   url: https://@id.meetup.com/
+instagram:
+  title: Instagram
+  url: https://instagram.com/@id
+keybase:
+  title: Keybase
+  url: https://keybase.io/@id
+crunchbase/person:
+  title: Crunchbase Person
+  url: https://www.crunchbase.com/person/@id
 wikipedia/en:
   title: Wikipedia EN
   url: https://wikipedia.org/@id
