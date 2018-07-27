@@ -204,7 +204,23 @@
           }
         }
       ],
-      "team_url": "https://kleros.io/#team"
+      "team_url": "https://kleros.io/#team",
+      "whitepapers": [
+        {
+          "title": "Kleros",
+          "url": "https://kleros.io/assets/whitepaper.pdf"
+        }
+      ],
+      "webids": {
+        "github": "kleros",
+        "twitter": "kleros_io",
+        "facebook": "kleros.io",
+        "linkedin/company": "kleros",
+        "medium": "kleros",
+        "telegram": "kleros",
+        "reddit": "Kleros",
+        "custom/forum": "https://forum.kleros.io/"
+      }
     },
     {
       "id": "makerdao",
@@ -279,6 +295,7 @@
         "reddit": "MakerDAO",
         "twitter": "MakerDAO",
         "github": "makerdao",
+        "medium": "makerdao",
         "custom/chat": "https://chat.makerdao.com/"
       },
       "tools": [
@@ -319,6 +336,6 @@
     }
   ],
   "metadata": {
-    "time": "2018-07-27T10:25:49.716Z"
+    "time": "2018-07-27T10:35:24.477Z"
   }
 }

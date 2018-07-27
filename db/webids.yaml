@@ -1,6 +1,9 @@
 linkedid:
   title: LinkedIn
   url: https://www.linkedin.com/in/@id
+linkedin/company:
+  title: LinkedIn
+  url: https://www.linkedin.com/company/@id
 facebook:
   title: Facebook
   url: https://www.facebook.com/@id
@@ -22,6 +25,12 @@ youtube:
 stackexchange:
   title: Stack Exchange
   url: https://@id.stackexchange.com/
+medium:
+  title: Medium
+  url: https://medium.com/@id
+telegram:
+  title: Telegram
+  url: https://t.me/@id
 meetup:
   title: Meetup
   url: https://@id.meetup.com/
