@@ -28,14 +28,16 @@ assets:
         name: Kovan Test Network
         tools:
           - type: explorer
-            id: https://kovan.etherscan.io/
+            url: https://kovan.etherscan.io/
+          - type: faucet
+            url: https://gitter.im/kovan-testnet/faucet
       - id: rinkeby
         type: test
         name: Rinkeby Test Network
         tools:
           - type: explorer
             url: https://rinkeby.etherscan.io/
-          - type: explorer
+          - type: faucet
             url: https://faucet.rinkeby.io/
     denominations:
       plural: ethers
