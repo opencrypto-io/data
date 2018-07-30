@@ -36,36 +36,43 @@ assets:
 team_url: https://getmonero.org/community/team/
 team:
   - name: Riccardo Spagni
+    role: Core Team
     webids:
       email: ric@getmonero.org
       github: fluffypony
       twitter: fluffypony
       reddit/user: fluffyponyza
   - name: Francisco Cabañas
+    role: Core Team
     webids:
       email: articmine@getmonero.org
       github: ArticMine
       reddit/user: ArticMine
   - name: othe
+    role: Core Team
     webids:
       email: othe@getmonero.org
       reddit/user: othexmr
   - name: smooth
+    role: Core Team
     webids:
       email: smooth@getmonero.org
       github: iamsmooth
       reddit/user: smooth_xmr
   - name: binaryFate
+    role: Core Team
     webids:
       email: binaryfate@getmonero.org
       github: binaryfate
       reddit/user: binaryFate
   - name: luigi1111
+    role: Core Team
     webids:
       email: luigi1111@getmonero.org
       github: luigi1111
       reddit/user: cloud10again
   - name: NoodleDoodle
+    role: Core Team
     webids:
       email: noodledoodle@getmonero.org
       github: NoodleDoodleNoodleDoodleNoodleDoodleNoo
