@@ -1,15 +1,45 @@
-name: litecoin
+name: Litecoin
+web: https://www.litecoin.org/
 assets:
-  - id: ltc
-    type: blockchain
-    name: Litecoin
-    symbol: LTC
-    networks:
-      - id: main
-        type: main
-        name: mainnet
-        proof_type: PoW
-        mineable: true
-    webids:
-      coinmarketcap: litecoin
-      cryptocompare: ltc
+- id: ltc
+  symbol: LTC
+  name: Litecoin
+  type: blockchain
+  networks:
+  - id: main
+    type: main
+    name: mainnet
+    proof_type: PoW
+    algorithm: Scrypt
+    mineable: true
+    target_block_time: 150
+    tools:
+    - type: explorer
+      url: http://explorer.litecoin.net/chain/Litecoin
+    - type: explorer
+      url: https://chainz.cryptoid.info/ltc/
+  max_supply: 84000000
+  first_distribution:
+  - title: Premined
+    amount: 150
+  denominations:
+    plural: litecoins
+    symbol: "Ł"
+    subunits:
+    - unit: 0.001
+      name: lites
+    - unit: 1.0e-6
+      name: photons
+    - unit: 1.0e-8
+      name: litoshis
+team:
+- name: Charlie Lee
+  role: founder
+contacts:
+  email: contact@litecoin.org
+tags:
+- "technology:segwit"
+webids:
+  facebook: LitecoinCommunity
+  telegram: litecoin
+  bitcointalk: "47417.0"
