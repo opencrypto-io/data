@@ -1,4 +1,3 @@
-id: litecoin
 name: Litecoin
 start_date: '2011–10-07’
 web: https://www.litecoin.org/
@@ -30,9 +29,9 @@ assets:
     subunits:
     - unit: 0.001
       name: lites
-	 - unit: 1.0e-06
+    - unit: 1.0e-6
       name: photons
-    - unit: 1.0e-08
+    - unit: 1.0e-8
       name: litoshis
 team:
 - name: Charlie Lee
@@ -40,8 +39,8 @@ team:
 contacts:
   email: contact@litecoin.org
 tags:
-- SegWit
+- technology: segwit
 webids:
   facebook: LitecoinCommunity
   telegram: litecoin
-  bitcointalk: „47417.0“
+  bitcointalk: "47417.0"
