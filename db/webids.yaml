@@ -58,3 +58,6 @@ coinmarketcap:
 cryptocompare:
   title: CryptoCompare
   url: https://www.cryptocompare.com/coins/@id
+bitcointalk:
+  title: BitcoinTalk Thread
+  url: https://bitcointalk.org/index.php?topic=@id

@@ -1,0 +1,87 @@
+name: Monero
+web: https://getmonero.org/
+assets:
+  - id: xmr
+    name: Monero
+    type: blockchain
+    symbol: XMR
+    networks:
+      - id: main
+        type: main
+        mineable: true
+        proof_type: PoW
+        algorithm: CryptoNight
+
+        tools:
+          - type: explorer
+            url: https://moneroexplorer.com/
+          - type: explorer
+            url: https://moneroblocks.info/
+          - type: explorer
+            url: https://monerohash.com/explorer/
+          - type: explorer
+            url: https://chainradar.com/xmr/blocks
+      - id: test
+        type: test
+        name: testnet
+        tools:
+          - type: explorer
+            url: https://testnet.xmrchain.com/
+    denominations:
+      plural: moneros
+      symbol: ɱ
+      subunits:
+        - unit: 1e-12
+          name: piconero
+team_url: https://getmonero.org/community/team/
+team:
+  - name: Riccardo Spagni
+    role: Core Team
+    webids:
+      email: ric@getmonero.org
+      github: fluffypony
+      twitter: fluffypony
+      reddit/user: fluffyponyza
+  - name: Francisco Cabañas
+    role: Core Team
+    webids:
+      email: articmine@getmonero.org
+      github: ArticMine
+      reddit/user: ArticMine
+  - name: othe
+    role: Core Team
+    webids:
+      email: othe@getmonero.org
+      reddit/user: othexmr
+  - name: smooth
+    role: Core Team
+    webids:
+      email: smooth@getmonero.org
+      github: iamsmooth
+      reddit/user: smooth_xmr
+  - name: binaryFate
+    role: Core Team
+    webids:
+      email: binaryfate@getmonero.org
+      github: binaryfate
+      reddit/user: binaryFate
+  - name: luigi1111
+    role: Core Team
+    webids:
+      email: luigi1111@getmonero.org
+      github: luigi1111
+      reddit/user: cloud10again
+  - name: NoodleDoodle
+    role: Core Team
+    webids:
+      email: noodledoodle@getmonero.org
+      github: NoodleDoodleNoodleDoodleNoodleDoodleNoo
+      reddit/user: NoodleDoodle_xmr
+tags:
+  - technology:private
+webids:
+  reddit: monero
+  stackexchange: reddit
+  bitcointalk: "583449.0"
+  telegram: bitmonero
+  github: monero-project
