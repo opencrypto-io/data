@@ -5,7 +5,7 @@ assets:
     type: blockchain
     name: Ark
     symbol: ARK
-    networks::
+    networks:
       - id: main
         type: main
         name: mainnet
