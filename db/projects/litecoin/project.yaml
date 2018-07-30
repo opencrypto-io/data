@@ -1,0 +1,15 @@
+name: litecoin
+assets:
+  - id: ltc
+    type: blockchain
+    name: Litecoin
+    symbol: LTC
+    networks:
+      - id: main
+        type: main
+        name: mainnet
+        proof_type: PoW
+        mineable: true
+    webids:
+      coinmarketcap: litecoin
+      cryptocompare: ltc
