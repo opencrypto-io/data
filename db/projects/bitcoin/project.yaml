@@ -1,15 +1,80 @@
 name: bitcoin
+web: https://bitcoin.org
+start_date: "2008-08-18"
 assets:
   - id: btc
     type: blockchain
     name: Bitcoin
     symbol: BTC
+    start_date: "2009-01-03"
     networks:
       - id: main
         type: main
         name: mainnet
         proof_type: PoW
         mineable: true
+        algorithm: SHA-256
+        target_block_time: 600
+        maximum_block_size: 1000000
+        tools:
+          - type: explorer
+            url: https://www.blockchain.com/explorer
+          - type: explorer
+            url: https://btc.com/
+          - type: explorer
+            url: https://www.blocktrail.com/BTC
+      - id: testnet3
+        type: test
+        name: Testnet3
+        tools:
+          - type: explorer
+            url: http://testnet.blockchain.info/
+          - type: explorer
+            url: https://www.blocktrail.com/tBTC
+          - type: explorer
+            url: https://live.blockcypher.com/btc-testnet/
+          - type: explorer
+            url: https://test-insight.bitpay.com/
+          - type: faucet
+            url: https://testnet.manu.backend.hamburg/faucet
+          - type: faucet
+            url: https://testnet.coinfaucet.eu/en/
+          - type: faucet
+            url: http://bitcoinfaucet.uo1.net/
+          - type: faucet
+            url: http://tpfaucet.appspot.com/
+          - type: faucet
+            url: https://kuttler.eu/en/bitcoin/btc/faucet/
+    denominations:
+      plural: bitcoins
+      symbol: ₿
+      subunits:
+        - unit: 1e-3
+          name: millibitcoin
+        - unit: 1e-8
+          name: satoshi
     webids:
       coinmarketcap: bitcoin
       cryptocompare: btc
+clients:
+  - id: bitcoin-core
+    name: Bitcoin Core
+whitepapers:
+  - title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+    url: https://bitcoin.org/bitcoin.pdf
+team:
+  - name: Satoshi Nakamoto
+    role: Author
+history:
+  - date: "2008-08-18"
+    title: Domain 'Bitcoin.org' registered
+  - date: "2008-10-31"
+    title: Satoshi Nakamoto published Bitcoin whitepaper
+    description: "A link to a paper authored by Satoshi Nakamoto titled 'Bitcoin: A Peer-to-Peer Electronic Cash System' was posted to a cryptography mailing list."
+  - date: "2009-01-03"
+    title: Ledger start
+  - date: "2009-01-09"
+    title: Initial release of first Bitcoin implementation (0.1.0)
+webids:
+  wikipedia/en: Bitcoin
+  github: bitcoin
