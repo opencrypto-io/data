@@ -1,5 +1,6 @@
 name: Kleros
-web: http://kleros.io/
+web: 
+  - http://kleros.io/
 assets:
   - id: pnk
     type: token
