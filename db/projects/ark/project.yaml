@@ -1,5 +1,6 @@
 name: Ark
-web: http://ark.io/
+web: 
+  - http://ark.io/
 assets:
   - id: Ark
     type: blockchain

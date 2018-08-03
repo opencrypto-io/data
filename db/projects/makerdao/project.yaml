@@ -1,5 +1,6 @@
 name: MakerDAO
-web: https://makerdao.com/
+web: 
+  - https://makerdao.com/
 assets:
   - id: dai
     type: token
@@ -27,10 +28,12 @@ assets:
 exchanges:
   - id: oasis
     name: Oasis
-    web: https://oasisdex.com/
+    web: 
+      - https://oasisdex.com/
   - id : oasisdirect
     name: Oasis.direct
-    web: https://oasis.direct/
+    web: 
+      - https://oasis.direct/
 whitepapers:
   - title: The Dai Stablecoin System
     url: https://makerdao.com/whitepaper/DaiDec17WP.pdf

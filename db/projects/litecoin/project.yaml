@@ -1,5 +1,6 @@
 name: Litecoin
-web: https://www.litecoin.org/
+web: 
+- https://www.litecoin.org/
 assets:
 - id: ltc
   symbol: LTC
