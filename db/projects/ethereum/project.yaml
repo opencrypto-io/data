@@ -1,6 +1,6 @@
 name: Ethereum
-web: 
-  - https://www.ethereum.org/
+web:
+  - 'https://www.ethereum.org/'
 assets:
   - id: eth
     type: blockchain
@@ -13,40 +13,40 @@ assets:
         mineable: true
         tools:
           - type: explorer
-            url: https://etherscan.io/
+            url: 'https://etherscan.io/'
           - type: explorer
-            url: https://www.etherchain.org/
+            url: 'https://www.etherchain.org/'
           - type: explorer
-            url: https://ethplorer.io/
+            url: 'https://ethplorer.io/'
       - id: ropsten
         type: test
         name: Ropsten Test Network
         tools:
           - type: explorer
-            id: https://ropsten.etherscan.io/
+            id: 'https://ropsten.etherscan.io/'
       - id: kovan
         type: test
         name: Kovan Test Network
         tools:
           - type: explorer
-            url: https://kovan.etherscan.io/
+            url: 'https://kovan.etherscan.io/'
           - type: faucet
-            url: https://gitter.im/kovan-testnet/faucet
+            url: 'https://gitter.im/kovan-testnet/faucet'
       - id: rinkeby
         type: test
         name: Rinkeby Test Network
         tools:
           - type: explorer
-            url: https://rinkeby.etherscan.io/
+            url: 'https://rinkeby.etherscan.io/'
           - type: faucet
-            url: https://faucet.rinkeby.io/
+            url: 'https://faucet.rinkeby.io/'
     denominations:
       plural: ethers
       symbol: Ξ
       subunits:
-        - unit: 1e-9
+        - unit: 1.e-9
           name: gwei
-        - unit: 1e-18
+        - unit: 1.e-18
           name: wei
     webids:
       coinmarketcap: ethereum
@@ -54,7 +54,8 @@ assets:
 team:
   - name: Vitalik Buterin
     role: Founder
-    photo: https://upload.wikimedia.org/wikipedia/commons/a/af/VitalikButerinProfile.jpg
+    photo: >-
+      https://upload.wikimedia.org/wikipedia/commons/a/af/VitalikButerinProfile.jpg
     webids:
       wikipedia/en: Vitalik_Buterin
 webids:
@@ -67,4 +68,6 @@ webids:
   stackexchange: ethereum
   gitter: ethereum
   wikipedia/en: Ethereum
-  custom/blog: https://blog.ethereum.org/
+  custom/blog: 'https://blog.ethereum.org/'
+tags:
+  - Dapps
