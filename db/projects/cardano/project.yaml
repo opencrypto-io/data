@@ -1,0 +1,58 @@
+id: cardano
+name: Cardano
+start_date: '2018-09-01'
+web: https://www.cardano.org/
+assets:
+- id: ada
+  symbol: ADA
+  name: Cardano
+  type: blockchain
+  networks:
+  - id: main
+    type: main
+    name: mainnet
+    proof_type: PoS
+    algorithm: Orobouros
+    mineable: false
+    tools:
+    - type: explorer
+      url: https://cardanoexplorer.com/
+  max_supply: 45000000000
+  first_distribution:
+  - title: premined
+    amount: 31112484646
+  ico_properties:
+    start_date: '2015-01-09'
+    end_date: '2017-01-01'
+    total_cap: 26000000000
+    ico_price: 0.02 USD
+    raised: 63000000 USD
+    country: Switzerland
+team:
+- name: Charles Hoskinson
+  role: founder
+contacts:
+  email: info@cardanohub.com
+  location:hq: Zug, Switzerland
+whitepapers:
+- title: 'Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol'
+  url: https://whycardano.com/assets/WhyCardanoEN.pdf
+tags:
+- academic
+webids:
+  facebook/group: CardanoCommunity
+  github: input-output-hk/cardano-sl/
+  forum:bitcointalk: '2223705.0'
+  custom:forum: https://forum.cardano.org/
+partners:
+- name: Cardano Foundation
+  url: https://cardanofoundation.org/
+- name: Metaps plus
+  url: http://www.metapsplus.com/
+history:
+- date: '2008-10-31'
+  title: Cardano (ADA) Partners with Major South Korean Payment Platform, Metaps Plus
+  description: 'partnership with South Korean paymant platfrom Metaps'
+resources:
+- title: Cardano Review
+  url: https://btcmanager.com/cardano-review/
