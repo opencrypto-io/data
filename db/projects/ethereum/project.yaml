@@ -1,6 +1,6 @@
 name: Ethereum
 web: 
-  - https://www.ethereum.org/
+  - 'https://www.ethereum.org/'
 assets:
   - id: eth
     type: blockchain
