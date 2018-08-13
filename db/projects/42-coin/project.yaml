@@ -1,5 +1,6 @@
 name: 42-coin
-web: http://42-coin.org/
+web:
+  - 'http://42-coin.org/'
 start_date: "2014-01-04"
 assets:
   - id: 42
