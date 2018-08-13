@@ -1,5 +1,6 @@
 name: EOS
-web: https://eos.io/
+web:
+  - 'https://eos.io/'
 start_date: "2017-06-26"
 assets:
   - id: eos
