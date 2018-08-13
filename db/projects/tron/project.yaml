@@ -35,14 +35,15 @@ assets:
     token_properties:
       platform: Ethereum
       contract_address: "0xf230b790e05390fc8295f4d3f60332c93bed42e2"
-    max_supply: 6
+      decimals: 6
     webids:
       coinmarketcap: TRON
       cryptocompare: trx
+    denominations:
       subunits:
         - unit: 0,000001
           name: sun
-  max_supply: 100000000000
+    max_supply: 100000000000
 clients:
   - id: tronscan
     name: Tronscan
