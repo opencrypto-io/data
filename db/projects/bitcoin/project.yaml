@@ -1,6 +1,6 @@
 name: Bitcoin
 web: 
-  - https://bitcoin.org
+  - 'https://bitcoin.org'
 start_date: "2008-08-18"
 assets:
   - id: btc
