@@ -36,7 +36,7 @@ assets:
     webids:
       coinmarketcap: EOS
       cryptocompare: eos
-  max_supply: 1000000000
+    max_supply: 1000000000
 whitepapers:
   - title: EOS.IO Technical White Paper v2
 team:
@@ -48,6 +48,7 @@ team:
       wikipedia/en: Brendan_Blumer
   - name:
     role: CTO
+    webids:
       linkedin: daniel-larimer-0a367089
       twitter: bytemaster7
   - name: Ian Grigg
