@@ -1,6 +1,6 @@
 name: MakerDAO
 web: 
-  - https://makerdao.com/
+  - 'https://makerdao.com/'
 assets:
   - id: dai
     type: token
