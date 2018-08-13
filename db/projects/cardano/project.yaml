@@ -1,7 +1,8 @@
 id: cardano
 name: Cardano
 start_date: '2018-09-01'
-web: https://www.cardano.org/
+web:
+  - 'https://www.cardano.org/'
 assets:
 - id: ada
   symbol: ADA
