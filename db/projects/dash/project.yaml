@@ -29,11 +29,11 @@ assets:
         type: test
         name: Testnet
         tools:
-          - type explorer
+          - type: explorer
             url: https://test.explorer.dashninja.pl/chain/Dash
           - type: explorer
             url: https://test.insight.dash.siampm.com/
-          - type faucet
+          - type: faucet
             url: https://test.faucet.dashninja.pl/
           - type: faucet
             url: http://test.faucet.masternode.io/
@@ -41,9 +41,8 @@ assets:
     webids:
       coinmarketcap: Dash
       cryptocompare: dash
-  max_supply: 18900000
 whitepapers:
-  - title: Dash: A Privacy-Centric Crypto-Currency
+  - title: 'Dash: A Privacy-Centric Crypto-Currency'
 team_url: https://www.dash.org/team/
 team:
   - name: Ryan Taylor
