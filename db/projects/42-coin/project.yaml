@@ -8,6 +8,7 @@ assets:
     symbol: 42
     start_date: "2016-11-12"
     networks:
+      - id: main
         type: main
         name: 4242
         proof_type: PoW+PoS
@@ -19,11 +20,12 @@ assets:
             url: https://chainz.cryptoid.info/42/
           - type: explorer
             url: https://prohashing.com/explorer/42/
+      - id: test
         type: test
         name: 42420
     webids:
       coinmarketcap: 42-coin
-  max_supply: 42
+    max_supply: 42
 whitepapers:
   - title: Whitepaper
     url: https://github.com/42-coin/42/releases/download/v0.0.8/whitepaper.pdf
