@@ -1,6 +1,6 @@
 name: Monero
 web: 
-  - https://getmonero.org/
+  - 'https://getmonero.org/'
 assets:
   - id: xmr
     name: Monero
