@@ -1,5 +1,6 @@
 name: TRON
-web: https://tronlab.com/
+web:
+  - 'https://tronlab.com/'
 start_date: "2017-09-28"
 assets:
   - id: trx
