@@ -39,7 +39,7 @@ team:
 contacts:
   email: contact@litecoin.org
 tags:
-- technology: segwit
+- technology:segwit
 webids:
   facebook: LitecoinCommunity
   telegram: litecoin

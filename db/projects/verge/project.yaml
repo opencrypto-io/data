@@ -4,7 +4,7 @@ web:
 start_date: '2014-10-09'
 assets:
   - id: xvg
-    type: Blockchain
+    type: blockchain
     name: Verge
     symbol: XVG
     start_date: '2016-02-15'
@@ -77,4 +77,4 @@ webids:
   telegram: kleros VERGExvg
   custom/chat: https://discordapp.com/invite/vergecurrency
 tags:
- - general: anonymity
+ - general:anonymity
