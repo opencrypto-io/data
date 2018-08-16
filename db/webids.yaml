@@ -10,6 +10,9 @@ linkedin/company:
 facebook:
   title: Facebook
   url: https://www.facebook.com/@id
+facebook/groups:
+  title: Facebook Groups
+  url: https://www.facebook.com/groups/@id
 twitter:
   title: Twitter
   url: https://twitter.com/@id
@@ -25,9 +28,12 @@ reddit/user:
 gitter:
   title: Gitter
   url: https://gitter.im/orgs/@id/rooms
-youtube:
-  title: YouTube
+youtube/user:
+  title: YouTube User
   url: https://www.youtube.com/user/@id
+youtube/channel:
+  title: YouTube Channel
+  url: https://www.youtube.com/channel/@id
 stackexchange:
   title: Stack Exchange
   url: https://@id.stackexchange.com/
@@ -61,3 +67,6 @@ cryptocompare:
 bitcointalk:
   title: BitcoinTalk Thread
   url: https://bitcointalk.org/index.php?topic=@id
+bitcoinwiki:
+  title: Bitcoin Wiki
+  url: https://en.bitcoinwiki.org/wiki/@id

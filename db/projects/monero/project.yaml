@@ -1,6 +1,6 @@
 name: Monero
-web: 
-  - https://getmonero.org/
+web:
+  - 'https://getmonero.org/'
 assets:
   - id: xmr
     name: Monero
@@ -12,7 +12,6 @@ assets:
         mineable: true
         proof_type: PoW
         algorithm: CryptoNight
-
         tools:
           - type: explorer
             url: https://moneroexplorer.com/

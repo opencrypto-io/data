@@ -1,6 +1,6 @@
 name: Ethereum
-web: 
-  - https://www.ethereum.org/
+web:
+  - 'https://www.ethereum.org/'
 assets:
   - id: eth
     type: blockchain
@@ -63,7 +63,7 @@ webids:
   reddit: ethereum
   facebook: ethereumproject
   meetup: ethereum
-  youtube: ethereumproject
+  youtube/user: ethereumproject
   stackexchange: ethereum
   gitter: ethereum
   wikipedia/en: Ethereum

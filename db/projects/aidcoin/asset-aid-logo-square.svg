@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Oval_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<title>coin-9</title>
+<desc>Created with Sketch.</desc>
+<g id="AidCoin-2" transform="translate(-640.000000, -1817.000000)">
+	<g id="coins" transform="translate(420.000000, 1697.000000)">
+		<g id="coin-9" transform="translate(220.000000, 120.000000)">
+			
+				<linearGradient id="Oval_1_" gradientUnits="userSpaceOnUse" x1="-842.4866" y1="994.1912" x2="-843.1911" y2="993.4911" gradientTransform="matrix(150 0 0 -150 126501 149151)">
+				<stop  offset="0" style="stop-color:#1ABC9C"/>
+				<stop  offset="1" style="stop-color:#2C3E50"/>
+			</linearGradient>
+			<circle id="Oval" class="st0" cx="75" cy="75" r="75"/>
+			<polygon id="Λ" class="st1" points="119,122 78.2,29 71.9,29 31,122 51.1,122 75.1,66.5 98.9,122 			"/>
+		</g>
+	</g>
+</g>
+</svg>

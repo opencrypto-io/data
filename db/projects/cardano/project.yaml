@@ -1,0 +1,77 @@
+name: Cardano
+start_date: '2018-09-01'
+web:
+  - 'https://www.cardano.org/'
+assets:
+- id: ada
+  symbol: ADA
+  name: Cardano
+  type: blockchain
+  networks:
+  - id: main
+    type: main
+    name: mainnet
+    proof_type: PoS
+    algorithm: Ouroboros
+    mineable: false
+    tools:
+    - type: explorer
+      url: https://cardanoexplorer.com/
+  - id: kevm
+    type: test
+    name: KEVM testnet
+    tools:
+    - type: explorer
+      url: https://testnet.iohkdev.io/goguen/kevm/explorer/
+    - type: faucet
+      url: https://testnet.iohkdev.io/goguen/kevm/faucet/
+  - id: iele
+    type: test
+    name: IELE
+    tools:
+      - type: faucet
+        url: https://testnet.iohkdev.io/goguen/iele/faucet/
+      - type: other
+        url: https://testnet.iohkdev.io/goguen/iele/compiler/
+      - type: explorer
+        url: https://testnet.iohkdev.io/goguen/iele/explorer/
+  max_supply: 45000000000
+  first_distribution:
+  - title: premined
+    amount: 31112484646
+  ico_properties:
+    start_date: '2015-01-09'
+    end_date: '2017-01-01'
+    total_cap: 26000000000
+    ico_price: 0.02 USD
+    raised: 63000000 USD
+    country: Switzerland
+team:
+- name: Charles Hoskinson
+  role: founder
+contacts:
+  email: info@cardanohub.com
+  location:hq: Zug, Switzerland
+whitepapers:
+- title: 'Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol'
+  url: https://whycardano.com/assets/WhyCardanoEN.pdf
+tags:
+- academic
+webids:
+  facebook/groups: CardanoCommunity
+  github: input-output-hk/cardano-sl/
+  bitcointalk: '2223705.0'
+  custom/forum: https://forum.cardano.org/
+partners:
+- title: Cardano Foundation
+  url: https://cardanofoundation.org/
+- title: Metaps plus
+  url: http://www.metapsplus.com/
+history:
+- date: '2017-10-02'
+  title: IOHK Launches Cardano Blockchain; Ada Now Trading on Bittrex
+  description: 'IOHK started its own blockchain with smart contracts'
+  url: https://bitcoinmagazine.com/articles/iohk-launches-cardano-blockchain-ada-now-trading-bittrex/
+resources:
+- title: Cardano Review
+  url: https://btcmanager.com/cardano-review/
