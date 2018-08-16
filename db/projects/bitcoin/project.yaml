@@ -1,13 +1,13 @@
 name: Bitcoin
-web: 
+web:
   - 'https://bitcoin.org'
-start_date: "2008-08-18"
+start_date: '2008-08-18'
 assets:
   - id: btc
     type: blockchain
     name: Bitcoin
     symbol: BTC
-    start_date: "2009-01-03"
+    start_date: '2009-01-03'
     networks:
       - id: main
         type: main
@@ -61,20 +61,20 @@ clients:
   - id: bitcoin-core
     name: Bitcoin Core
 whitepapers:
-  - title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+  - title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
     url: https://bitcoin.org/bitcoin.pdf
 team:
   - name: Satoshi Nakamoto
     role: Author
 history:
-  - date: "2008-08-18"
+  - date: '2008-08-18'
     title: Domain 'Bitcoin.org' registered
-  - date: "2008-10-31"
+  - date: '2008-10-31'
     title: Satoshi Nakamoto published Bitcoin whitepaper
-    description: "A link to a paper authored by Satoshi Nakamoto titled 'Bitcoin: A Peer-to-Peer Electronic Cash System' was posted to a cryptography mailing list."
-  - date: "2009-01-03"
+    description: 'A link to a paper authored by Satoshi Nakamoto titled "Bitcoin: A Peer-to-Peer Electronic Cash System" was posted to a cryptography mailing list.'
+  - date: '2009-01-03'
     title: Ledger start
-  - date: "2009-01-09"
+  - date: '2009-01-09'
     title: Initial release of first Bitcoin implementation (0.1.0)
 webids:
   wikipedia/en: Bitcoin

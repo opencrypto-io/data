@@ -13,11 +13,29 @@ assets:
     type: main
     name: mainnet
     proof_type: PoS
-    algorithm: Orobouros
+    algorithm: Ouroboros
     mineable: false
     tools:
     - type: explorer
       url: https://cardanoexplorer.com/
+  - id: kevm
+    type: test
+    name: KEVM testnet
+    tools:
+    - type: explorer
+      url: https://testnet.iohkdev.io/goguen/kevm/explorer/
+    - type: faucet
+      url: https://testnet.iohkdev.io/goguen/kevm/faucet/
+  - id: iele
+    type: test
+    name: IELE
+    tools:
+      - type: faucet
+        url: https://testnet.iohkdev.io/goguen/iele/faucet/
+      - type: compiler
+        url: https://testnet.iohkdev.io/goguen/iele/compiler/
+      - type: explorer
+        url: https://testnet.iohkdev.io/goguen/iele/explorer/
   max_supply: 45000000000
   first_distribution:
   - title: premined
@@ -41,19 +59,20 @@ whitepapers:
 tags:
 - academic
 webids:
-  facebook/group: CardanoCommunity
+  facebook/groups: CardanoCommunity
   github: input-output-hk/cardano-sl/
-  forum:bitcointalk: '2223705.0'
-  custom:forum: https://forum.cardano.org/
+  bitcointalk: '2223705.0'
+  custom/forum: https://forum.cardano.org/
 partners:
-- name: Cardano Foundation
+- title: Cardano Foundation
   url: https://cardanofoundation.org/
-- name: Metaps plus
+- title: Metaps plus
   url: http://www.metapsplus.com/
 history:
-- date: '2008-10-31'
-  title: Cardano (ADA) Partners with Major South Korean Payment Platform, Metaps Plus
-  description: 'partnership with South Korean paymant platfrom Metaps'
+- date: '2017-10-02'
+  title: IOHK Launches Cardano Blockchain; Ada Now Trading on Bittrex
+  description: 'IOHK started its own blockchain with smart contracts'
+  url: https://bitcoinmagazine.com/articles/iohk-launches-cardano-blockchain-ada-now-trading-bittrex/
 resources:
 - title: Cardano Review
   url: https://btcmanager.com/cardano-review/

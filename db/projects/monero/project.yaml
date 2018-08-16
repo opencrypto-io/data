@@ -1,5 +1,5 @@
 name: Monero
-web: 
+web:
   - 'https://getmonero.org/'
 assets:
   - id: xmr
@@ -12,7 +12,6 @@ assets:
         mineable: true
         proof_type: PoW
         algorithm: CryptoNight
-
         tools:
           - type: explorer
             url: https://moneroexplorer.com/
@@ -79,7 +78,7 @@ team:
       github: NoodleDoodleNoodleDoodleNoodleDoodleNoo
       reddit/user: NoodleDoodle_xmr
 tags:
-  - technology:private
+  - technology: private
 webids:
   reddit: monero
   stackexchange: monero

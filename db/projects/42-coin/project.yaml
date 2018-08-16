@@ -1,17 +1,17 @@
 name: 42-coin
 web:
   - 'http://42-coin.org/'
-start_date: "2014-01-04"
+start_date: '2014-01-04'
 assets:
-  - id: 42
+  - id: '42'
     type: blockchain
     name: 42-coin
-    symbol: 42
-    start_date: "2016-11-12"
+    symbol: '42'
+    start_date: '2016-11-12'
     networks:
       - id: main
         type: main
-        name: 4242
+        name: mainnet
         proof_type: PoW+PoS
         mineable: true
         algorithm: Scrypt
@@ -21,19 +21,16 @@ assets:
             url: https://chainz.cryptoid.info/42/
           - type: explorer
             url: https://prohashing.com/explorer/42/
-      - id: test
-        type: test
-        name: 42420
     webids:
       coinmarketcap: 42-coin
     max_supply: 42
 whitepapers:
-  - title: Whitepaper
+  - title: 'Whitepaper'
     url: https://github.com/42-coin/42/releases/download/v0.0.8/whitepaper.pdf
 team:
   - name: aelpop
     role: Graphic designer
-  - name:
+  - name: farl4web
     role: Online marketing
     webids:
       twitter: farl
@@ -44,20 +41,12 @@ team:
   - name: IMZ
     role: Community manager
   - name: Lasergun
-    webids:
-      email: Lead developer
+    role: Lead developer
   - name: sirslayer
     role: Mining specialist
 webids:
   github: 42-coin
-  bitcointalk: "1502028"
+  bitcointalk: '1502028'
   bitcoinwiki: 42-coin
   twitter: 42newchain
-  telegram: kleros newchain42
-exchanges:
-  - id: livecoin
-    name: Livecoin
-    web: https://www.livecoin.net/
-  - id: cryptopia
-    name: Cryptopia
-    web: https://www.cryptopia.co.nz/
+  telegram: newchain42

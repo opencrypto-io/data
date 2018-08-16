@@ -1,16 +1,16 @@
 name: TRON
 web:
-  - 'https://tronlab.com/'
-start_date: "2017-09-28"
+  - 'https://tron.network/'
+start_date: '2017-09-28'
 assets:
   - id: trx
     type: blockchain
     name: Tronix
     symbol: TRX
-    start_date: "2018-04-16"
+    start_date: '2018-04-16'
     ico_properties:
-      start_date: "2017-08-31"
-      end_date: "2017-09-02"
+      start_date: '2017-08-31'
+      end_date: '2017-09-02'
       raised: 70000000 USD
     networks:
       - id: main
@@ -35,14 +35,14 @@ assets:
     symbol: TRX
     token_properties:
       platform: Ethereum
-      contract_address: "0xf230b790e05390fc8295f4d3f60332c93bed42e2"
+      contract_address: '0xf230b790e05390fc8295f4d3f60332c93bed42e2'
       decimals: 6
     webids:
       coinmarketcap: TRON
       cryptocompare: trx
     denominations:
       subunits:
-        - unit: 0,000001
+        - unit: 0.000001
           name: sun
     max_supply: 100000000000
 clients:
@@ -57,12 +57,12 @@ team:
     webids:
       linkedin: sunyuchen
       twitter: justinsuntron
-  - name:
+  - name: Taihao Fu
     role: Software engineer
     webids:
       linkedin: taihao-fu-b6919459
 history:
-  - date: "2018-05-31"
+  - date: '2018-05-31'
     title: Tron begins transition to its own blockchain
     url: https://www.ccn.com/tron-begins-transition-to-its-own-blockchain/
 webids:
@@ -71,15 +71,8 @@ webids:
   reddit: Tronix
   twitter: Tronfoundation
   facebook: TronFoundation-144555002795817
-  youtube: channel/UC5OPOGRq02iK-0T9sKse_kA?view_as=subscriber
+  youtube/channel: UC5OPOGRq02iK-0T9sKse_kA?view_as=subscriber
   linkedin/company: tronfoundation
   telegram: kleros tronnetworkEN03
   medium: kleros Tronfoundation
   custom/chat: https://tronfoundation.slack.com/
-exchanges:
-  - id: okex
-    name: OKEx
-    web: https://www.okex.com/
-  - id: binance
-    name: Binance
-    web: https://www.binance.com/

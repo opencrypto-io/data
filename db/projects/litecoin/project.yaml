@@ -1,5 +1,5 @@
 name: Litecoin
-web: 
+web:
 - 'https://www.litecoin.org/'
 assets:
 - id: ltc
@@ -39,8 +39,8 @@ team:
 contacts:
   email: contact@litecoin.org
 tags:
-- "technology:segwit"
+- technology: segwit
 webids:
   facebook: LitecoinCommunity
   telegram: litecoin
-  bitcointalk: "47417.0"
+  bitcointalk: '47417.0'

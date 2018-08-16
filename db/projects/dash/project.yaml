@@ -1,13 +1,13 @@
 name: Dash
 web:
   - 'https://www.dash.org/'
-start_date: "2014-01-18"
+start_date: '2014-01-18'
 assets:
   - id: dash
-    type: Blockchain
+    type: blockchain
     name: Dash
     symbol: DASH
-    start_date: "2014-01-19"
+    start_date: '2014-01-19'
     networks:
       - id: main
         type: main
@@ -44,11 +44,12 @@ assets:
       cryptocompare: dash
 whitepapers:
   - title: 'Dash: A Privacy-Centric Crypto-Currency'
+    url: https://github.com/dashpay/dash/wiki/Whitepaper
 team_url: https://www.dash.org/team/
 team:
   - name: Ryan Taylor
     role: CEO
-  - name:
+  - name: Holger Schnizel
     role: Quality Assurance, Automaton, Testing
     webids:
       email: holger@dash.org
@@ -77,31 +78,24 @@ team:
     webids:
       email: bob@dash.org
 history:
-  - date: "2014-01-18"
+  - date: '2014-01-18'
     title: Fork from Litecoin tree 0.8
     url: https://github.com/dashpay/dash/blob/master/doc/release-notes.md#older-releases
-  - date: "2014-03-13"
+  - date: '2014-03-13'
     title: Masternode implementation
     description: "DASH as a first cryptocurrency project to utilize masternodes."
-  - date: "2014-09-25"
+  - date: '2014-09-25'
     title: PrivateSend implementation
-  - date: "2015-01-15"
+  - date: '2015-01-15'
     title: Rebase on Bitcoin
 webids:
   github: dashpay
-  bitcointalk: "421615.0"
+  bitcointalk: '421615.0'
   wikipedia/en: Dash_(cryptocurrency)
   bitcoinwiki: Dash
   reddit: dashpay
   twitter: dashpay
   facebook: dashpay
   meetup: dashpc
-  youtube: CAzD2v9Yx4a4iS2_-unODkA
+  youtube/channel: UCAzD2v9Yx4a4iS2_-unODkA
   custom/forum: https://www.dash.org/forum/
-exchanges:
-  - id: 3xbit
-    name: 3XBit
-    web: https://3xbit.com.br/
-  - id: alfacashier
-    name: Alfacashier
-    web: https://www.alfacashier.com/

@@ -1,20 +1,20 @@
 name: EOS
 web:
   - 'https://eos.io/'
-start_date: "2017-06-26"
+start_date: '2017-06-26'
 assets:
   - id: eos
-    type: Token
+    type: token
     name: EOS
     symbol: EOS
-    start_date: "2017-07-01"
+    start_date: '2017-07-01'
     token_properties:
-      platform: Ethereum
-      contract_address: "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
+      platform: ethereum
+      contract_address: '0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0'
       decimals: 18
     ico_properties:
-      start_date: "2017-06-26"
-      end_date: "2018-06-01"
+      start_date: '2017-06-26'
+      end_date: '2018-06-01'
       total_cap: 900000000
       raised: 185000000 USD
     networks:
@@ -23,31 +23,38 @@ assets:
         name: EOS Network
         proof_type: DPoS
         mineable: false
-        algorithm: DPoS
         target_block_time: 120
         maximum_block_size: 1000000
         tools:
           - type: explorer
-            url: https://etherscan.io/token/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0
-      - id: test
+            url: https://eostracker.io/
+          - type: explorer
+            url: https://eosmonitor.io/
+          - type: explorer
+            url: http://www.eos.host/
+      - id: jungle
         type: test
+        name: EOS Jungle Testnet
         tools:
           - type: explorer
-            url: http://www.eos.host/,
+            url: http://dev.cryptolions.io/
+          - type: faucet
+            url: http://dev.cryptolions.io/#faucet
     webids:
       coinmarketcap: EOS
       cryptocompare: eos
     max_supply: 1000000000
 whitepapers:
-  - title: EOS.IO Technical White Paper v2
+  - title: 'EOS.IO Technical White Paper v2'
+    url: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
 team:
   - name: Brendan Blumer
     role: CEO
     webids:
-      linkedin: https://www.linkedin.com/in/brendanblumer/
+      linkedin: brendanblumer
       twitter: brendanblumer
       wikipedia/en: Brendan_Blumer
-  - name:
+  - name: Daniel Larimer
     role: CTO
     webids:
       linkedin: daniel-larimer-0a367089
@@ -64,5 +71,4 @@ webids:
   bitcoinwiki: EOS
   twitter: eos_io
   facebook: eosblockchain
-  telegram: kleros joinchat/AAAAAEQbOeucnaMWN0A9dQ
-  custom/chat: https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ
+  telegram: AAAAAEQbOeucnaMWN0A9dQ
