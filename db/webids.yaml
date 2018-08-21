@@ -57,7 +57,7 @@ crunchbase/person:
   url: https://www.crunchbase.com/person/@id
 wikipedia/en:
   title: Wikipedia EN
-  url: https://wikipedia.org/@id
+  url: https://wikipedia.org/wiki/@id
 coinmarketcap:
   title: CoinMarketCap
   url: https://coinmarketcap.com/currencies/@/
