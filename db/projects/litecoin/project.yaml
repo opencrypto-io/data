@@ -6,6 +6,8 @@ assets:
   symbol: LTC
   name: Litecoin
   type: blockchain
+  forked_from:
+    platform: bitcoin
   networks:
   - id: main
     type: main
@@ -41,6 +43,7 @@ contacts:
 tags:
 - technology:segwit
 webids:
+  github: litecoin-project/litecoin
   facebook: LitecoinCommunity
   telegram: litecoin
   bitcointalk: '47417.0'
