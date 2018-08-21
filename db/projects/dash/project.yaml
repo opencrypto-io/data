@@ -8,8 +8,6 @@ assets:
     name: Dash
     symbol: DASH
     start_date: '2014-01-19'
-    forked_from:
-      platfom: bitcoin
     networks:
       - id: main
         type: main

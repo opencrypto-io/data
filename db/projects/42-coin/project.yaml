@@ -8,8 +8,6 @@ assets:
     name: 42-coin
     symbol: '42'
     start_date: '2016-11-12'
-    forked_from:
-      platform: bitcoin
     networks:
       - id: main
         type: main

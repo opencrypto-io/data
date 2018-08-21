@@ -6,8 +6,6 @@ assets:
   symbol: LTC
   name: Litecoin
   type: blockchain
-  forked_from:
-    platform: bitcoin
   networks:
   - id: main
     type: main
