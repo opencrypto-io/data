@@ -46,185 +46,184 @@ npm test
  [Coinpaprika] (https://coinpaprika.com/)
  [CryptoCompare.com] (https://www.cryptocompare.com/)
  [Forks] (https://forks.net/list)
-*Web*
-     - 'https://www.coinmarketcap.com/'
-     - 'https://coin.fyi/'
+ *Web*
+ [CoinCheckup] (https://coincheckup.com/)
+ [CoinMarketCap] (https://www.coinmarketcap.com/)
  [Coinpaprika] (https://coinpaprika.com/)
+ [Cointabb] (https://cointabb.com/)
+ [coin.fyi] (https://coin.fyi/)
  [CryptoCompare.com] (https://www.cryptocompare.com/)
-     - 'https://www.livecoinwatch.com/'
-     - 'https://cointabb.com/'
-     - 'https://stakingrewards.com/'
-     - 'https://www.datnoid.com/'
-     - 'https://coincheckup.com/'
+ [Datnoid] (https://www.datnoid.com/)
  [Forks] (https://forks.net/list)
+ [Live Coin Watch] (https://www.livecoinwatch.com/)
+ [stakingrewards.com] (https://stakingrewards.com/)
  **Assets**
   *Symbol*
-       - 'https://www.coinmarketcap.com/'
-       - 'https://coin.fyi/'
+  [CoinCheckup] (https://coincheckup.com/)
+  [CoinMarketCap] (https://www.coinmarketcap.com/)
   [Coinpaprika] (https://coinpaprika.com/)
-       - 'https://messari.io/'
+  [Cointabb] (https://cointabb.com/)
+  [coin.fyi] (https://coin.fyi/)
   [CryptoCompare.com] (https://www.cryptocompare.com/)
-       - 'https://www.livecoinwatch.com/'
-       - 'https://cointabb.com/'
-       - 'https://stakingrewards.com/'
-       - 'https://www.datnoid.com/'
-       - 'https://coincheckup.com/'
+  [Datnoid] (https://www.datnoid.com/)
+  [Live Coin Watch] (https://www.livecoinwatch.com/)
+  [Messari] (https://messari.io/)
+  [stakingrewards.com] (https://stakingrewards.com/)
   *Name*
-       - 'https://www.coinmarketcap.com/'
-       - 'https://athcoinindex.com/'
-       - 'https://coin.fyi/'
+  [ATHCoinIndex] (https://athcoinindex.com/)
+  [CoinMarketCap] (https://www.coinmarketcap.com/)
   [Coinpaprika] (https://coinpaprika.com/)
-       - 'https://messari.io/'
+  [Cointabb] (https://cointabb.com/)
+  [coin.fyi] (https://coin.fyi/)
   [CryptoCompare.com] (https://www.cryptocompare.com/)
-       - 'https://www.livecoinwatch.com/'
-       - 'https://cointabb.com/'
-       - 'https://stakingrewards.com/'
-       - 'https://www.datnoid.com/'
+  [Datnoid] (https://www.datnoid.com/)
+  [Live Coin Watch] (https://www.livecoinwatch.com/)
+  [Messari] (https://messari.io/)
+  [stakingrewards.com] (https://stakingrewards.com/)
   *Type*
-       - 'https://en.bitcoinwiki.org/wiki/Cryptocurrency_list'
-       - 'https://coinmarketcap.com/'
-       - 'https://messari.io/'
+  [bitcoin wiki] (https://en.bitcoinwiki.org/)
+  [CoinMarketCap] (https://www.coinmarketcap.com/)
+  [Messari] (https://messari.io/)
   *Token properties*
-       - 'https://en.bitcoinwiki.org/wiki/Cryptocurrency_list'
-       - 'https://etherscan.io/'
-       - 'https://www.trackico.io/'
+  [bitcoin wiki] (https://en.bitcoinwiki.org/)
+  [Etherscan] (https://etherscan.io/)
+  [TrackICO] (https://www.trackico.io/)
   *Forked from*
-       - 'https://forks.net/list'
-       - 'http://mapofcoins.com/'      
+  [Forks] (https://forks.net/list)
+  [Map of coins] (http://mapofcoins.com/)      
   **Networks**
    *Proof Type*
    [Coin of View] (http://coinofview.com/)
    [Coinpaprika] (https://coinpaprika.com/)
-         - 'https://stakingrewards.com/'
-         - 'https://www.datnoid.com/'
+   [Datnoid] (https://www.datnoid.com/)
+   [stakingrewards.com] (https://stakingrewards.com/)
    *Algorithm*
    [Coin of View] (http://coinofview.com/)
    [Coinpaprika] (https://coinpaprika.com/)
    [CryptoCompare.com] (https://www.cryptocompare.com/)
-         - 'https://www.datnoid.com/'
-         - 'https://forks.net/list'
-         - 'http://mapofcoins.com/'
+   [Datnoid] (https://www.datnoid.com/)
+   [Forks] (https://forks.net/list)
+   [Map of coins] (http://mapofcoins.com/)  
   *Mineable*
   [Coin of View] (http://coinofview.com/)
-         - 'https://coinmarketcap.com/'
-         - 'https://www.livecoinwatch.com/'
+  [CoinMarketCap] (https://www.coinmarketcap.com/)
+  [Live Coin Watch] (https://www.livecoinwatch.com/)
   *Target block size*
-         - 'http://mapofcoins.com/'
+  [Map of coins] (http://mapofcoins.com/)  
   *Tools*
-         - 'https://www.datnoid.com/'
-         - 'https://coincheckup.com/'
-         - 'https://coin.fyi/'
-         - 'https://coinmarketcap.com/'
+  [CoinCheckup] (https://coincheckup.com/)
+  [CoinMarketCap] (https://www.coinmarketcap.com/)
   [Coinpaprika] (https://coinpaprika.com/)
-         - 'https://cointabb.com/'
-         - 'https://stakingrewards.com/'
+  [Cointabb] (https://cointabb.com/)
+  [coin.fyi] (https://coin.fyi/)
+  [Datnoid] (https://www.datnoid.com/)
   [Forks] (https://forks.net/list)
+  [stakingrewards.com] (https://stakingrewards.com/)
   *Max supply*
-        - 'https://coin.fyi/'
+  [CoinCheckup] (https://coincheckup.com/)
   [Coinpaprika] (https://coinpaprika.com/)
+  [Cointabb] (https://cointabb.com/)
+  [coin.fyi] (https://coin.fyi/)
   [CryptoCompare.com] (https://www.cryptocompare.com/)
-        - 'https://www.livecoinwatch.com/'
-        - 'https://cointabb.com/'
-        - 'https://www.datnoid.com/'
-        - 'https://coincheckup.com/'
+  [Datnoid] (https://www.datnoid.com/)
   [Forks] (https://forks.net/list)
-        - 'http://mapofcoins.com/'
-        - 'https://www.trackico.io/'
+  [Live Coin Watch] (https://www.livecoinwatch.com/)
+  [Map of coins] (http://mapofcoins.com/)
+  [TrackICO] (https://www.trackico.io/)
   *First distribution*
-        - 'https://www.datnoid.com/'
+  [Datnoid] (https://www.datnoid.com/)
   [Forks] (https://forks.net/list)
-        - 'https://www.trackico.io/'
+  [TrackICO] (https://www.trackico.io/)
   *ICO properties*
   [CryptoCompare.com] (https://www.cryptocompare.com/)
-        - 'https://www.trackico.io/'   
+  [TrackICO] (https://www.trackico.io/)
 **Team**
 [Coinpaprika] (https://coinpaprika.com/)
-      - 'https://www.trackico.io/'
+[TrackICO] (https://www.trackico.io/)
 **Whitepapers**
-      - 'https://coin.fyi/'
-      - 'https://www.livecoinwatch.com/'
-      - 'https://www.datnoid.com/'
+[coin.fyi] (https://coin.fyi/)
+[Datnoid] (https://www.datnoid.com/)
 [Forks] (https://forks.net/list)
-      - 'https://www.trackico.io/'
+[Live Coin Watch] (https://www.livecoinwatch.com/)
+[TrackICO] (https://www.trackico.io/)
 **Tags**
 [Coinpaprika] (https://coinpaprika.com/)
-      - 'https://www.datnoid.com/'
+[Datnoid] (https://www.datnoid.com/)
 **WebIDs**
- *LinkedIN*
-       - 'https://www.linkedin.com/in/'
- *LinkedIN/company*
-       - 'https://www.linkedin.com/company'
-       - 'https://www.trackico.io/'
+ *LinkedIn*
+ [LinedIn] (https://www.linkedin.com/)
+ [TrackICO] (https://www.trackico.io/)
  *Facebook*
-       - 'https://www.facebook.com/'
+ [CoinCheckup] (https://coincheckup.com/)
  [Coinpaprika] (https://coinpaprika.com/)
  [CryptoCompare.com] (https://www.cryptocompare.com/)
-       - 'https://stakingrewards.com/'
-       - 'https://coincheckup.com/'
-       - 'https://www.trackico.io/'
+ [Facebook] (https://www.facebook.com/)
+ [stakingrewards.com] (https://stakingrewards.com/)
+ [TrackICO] (https://www.trackico.io/)
  *Twitter*
-       - 'https://twitter.com/'
-       - 'https://coin.fyi/'
+ [CoinCheckup] (https://coincheckup.com/)
  [Coinpaprika] (https://coinpaprika.com/)
+ [coin.fyi] (https://coin.fyi/)
  [CryptoCompare.com] (https://www.cryptocompare.com/)
-       - 'https://stakingrewards.com/'
-       - 'https://www.datnoid.com/'
-       - 'https://coincheckup.com/'
+ [Datnoid] (https://www.datnoid.com/)
+ [stakingrewards.com] (https://stakingrewards.com/)
+ [Twitter] (https://twitter.com/)
  *Github*
-       - 'https://github.com/'
-       - 'https://coinmarketcap.com/'
+ [CoinCheckup] (https://coincheckup.com/)
+ [CoinMarketCap] (https://www.coinmarketcap.com/)
  [Coinpaprika] (https://coinpaprika.com/)
-       - 'https://cointabb.com/'
-       - 'https://www.datnoid.com/'
-       - 'https://coincheckup.com/'
-       - 'http://mapofcoins.com/'
-       - 'https://www.trackico.io/'
+ [Cointabb] (https://cointabb.com/)
+ [Datnoid] (https://www.datnoid.com/)
+ [GitHub] (https://github.com/)
+ [Map of coins] (http://mapofcoins.com/)
+ [TrackICO] (https://www.trackico.io/)
  *Reddit*
-       - 'https://reddit.com/r/'
-       - 'https://coin.fyi/'
+ [CoinCheckup] (https://coincheckup.com/)
  [Coinpaprika] (https://coinpaprika.com/)
-       - 'https://www.cryptocompare.com/'
-       - 'https://www.livecoinwatch.com/'
-       - 'https://cointabb.com/'
-       - 'https://stakingrewards.com/'
-       - 'https://www.datnoid.com/'
-       - 'https://coincheckup.com/'
-       - 'https://www.trackico.io/'
+ [Cointabb] (https://cointabb.com/)
+ [coin.fyi] (https://coin.fyi/)
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
+ [Datnoid] (https://www.datnoid.com/)
+ [Live Coin Watch] (https://www.livecoinwatch.com/)
+ [reddit] (https://reddit.com/)
+ [stakingrewards.com] (https://stakingrewards.com/)
+ [TrackICO] (https://www.trackico.io/)
  *Gitter*
-       - 'https://gitter.im/orgs/'
- *Youtube*
-       - 'https://www.youtube.com/user/'
-       - 'https://coincheckup.com/'
+ [Gitter] (https://gitter.im/)
+ *YouTube*
+ [CoinCheckup] (https://coincheckup.com/)
+ [YouTube] (https://www.youtube.com/user/)
  *Medium*
-       - 'https://medium.com/'
+ [Medium] (https://medium.com/)
  *Telegram*
-       - 'https://t.me/'
-       - 'https://stakingrewards.com/'
-       - 'https://coincheckup.com/'
-       - 'https://www.trackico.io/'
+ [CoinCheckup] (https://coincheckup.com/)
+ [stakingrewards.com] (https://stakingrewards.com/)
+ [Telegram] (https://t.me/)
+ [TrackICO] (https://www.trackico.io/)
  *Instagram*
-       - 'https://instagram.com/'
-       - 'https://www.trackico.io/'
+ [Instagram] (https://instagram.com/)
+ [TrackICO] (https://www.trackico.io/)
  *Keybase*
-       - 'https://keybase.io/'
+ [Keybase] (https://keybase.io/)
  *Crunchbase/person*
-       - 'https://www.crunchbase.com/person/'    
+ [crunbache] (https://www.crunchbase.com/)
  *Wikipedia/en*
-       - 'https://wikipedia.org/'
-       - 'https://stakingrewards.com/'
+ [stakingrewards.com] (https://stakingrewards.com/)
+ [Wikipedia] (https://wikipedia.org/)
  *Coinmarketcap*
-       - 'https://coinmarketcap.com/currencies/'
-       - 'https://cointabb.com/'
-       - 'https://stakingrewards.com/'
+ [CoinMarketCap] (https://www.coinmarketcap.com/)
+ [Cointabb] (https://cointabb.com/)
+ [stakingrewards.com] (https://stakingrewards.com/)
  *Cryptocompare*
  [CryptoCompare.com] (https://www.cryptocompare.com/)
  *Bitcointalk*
-       - 'https://bitcointalk.org/'
-       - 'https://www.trackico.io/'
-       - 'https://www.trackico.io/'
- *History*
-     - 'https://www.datnoid.com/'
-     - 'https://coin.fyi/'
+ [Bitcoin Forum] (https://bitcointalk.org/)
+ [TrackICO] (https://www.trackico.io/)
+**History**
  [Coinpaprika] (https://coinpaprika.com/)
-     - 'https://messari.io/'
+ [coin.fyi] (https://coin.fyi/)
  [CryptoCompare.com] (https://www.cryptocompare.com/)
+ [Datnoid] (https://www.datnoid.com/)
+ [Messari] (https://messari.io/)
+**Images**
+ [Worldvectorlogo] (https://worldvectorlogo.com/)
