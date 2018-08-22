@@ -37,152 +37,152 @@ npm test
 
 ## Sources
 
-* Projects
-   Name
-     - 'http://coinofview.com/all-coins.html'
-     - 'https://forks.net/list'
-   Start date
-     - 'http://coinofview.com/all-coins.html'
-     - 'https://coinpaprika.com/'
-     - 'https://www.cryptocompare.com/'
-     - 'https://forks.net/list'
-   Web
+**Projects**
+ *Name*
+ [Coin of View] (http://coinofview.com/)
+ [Forks] (https://forks.net/list)
+ *Start date*
+ [Coin of View] (http://coinofview.com/)
+ [Coinpaprika] (https://coinpaprika.com/)
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
+ [Forks] (https://forks.net/list)
+*Web*
      - 'https://www.coinmarketcap.com/'
      - 'https://coin.fyi/'
-     - 'https://coinpaprika.com/'
-     - 'https://www.cryptocompare.com/'
+ [Coinpaprika] (https://coinpaprika.com/)
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
      - 'https://www.livecoinwatch.com/'
      - 'https://cointabb.com/'
      - 'https://stakingrewards.com/'
      - 'https://www.datnoid.com/'
      - 'https://coincheckup.com/'
-     - 'https://forks.net/list'
-  * Assets
-     Symbol
+ [Forks] (https://forks.net/list)
+ **Assets**
+  *Symbol*
        - 'https://www.coinmarketcap.com/'
        - 'https://coin.fyi/'
-       - 'https://coinpaprika.com/'
+  [Coinpaprika] (https://coinpaprika.com/)
        - 'https://messari.io/'
-       - 'https://www.cryptocompare.com/'
+  [CryptoCompare.com] (https://www.cryptocompare.com/)
        - 'https://www.livecoinwatch.com/'
        - 'https://cointabb.com/'
        - 'https://stakingrewards.com/'
        - 'https://www.datnoid.com/'
        - 'https://coincheckup.com/'
-     Name
+  *Name*
        - 'https://www.coinmarketcap.com/'
        - 'https://athcoinindex.com/'
        - 'https://coin.fyi/'
-       - 'https://coinpaprika.com/'
+  [Coinpaprika] (https://coinpaprika.com/)
        - 'https://messari.io/'
-       - 'https://www.cryptocompare.com/'
+  [CryptoCompare.com] (https://www.cryptocompare.com/)
        - 'https://www.livecoinwatch.com/'
        - 'https://cointabb.com/'
        - 'https://stakingrewards.com/'
        - 'https://www.datnoid.com/'
-     Type
+  *Type*
        - 'https://en.bitcoinwiki.org/wiki/Cryptocurrency_list'
        - 'https://coinmarketcap.com/'
        - 'https://messari.io/'
-     Token properties
+  *Token properties*
        - 'https://en.bitcoinwiki.org/wiki/Cryptocurrency_list'
        - 'https://etherscan.io/'
        - 'https://www.trackico.io/'
-     Forked from
+  *Forked from*
        - 'https://forks.net/list'
        - 'http://mapofcoins.com/'      
-    * Networks
-       Proof Type
-         - 'http://coinofview.com/all-coins.html'
-         - 'https://coinpaprika.com/'
+  **Networks**
+   *Proof Type*
+   [Coin of View] (http://coinofview.com/)
+   [Coinpaprika] (https://coinpaprika.com/)
          - 'https://stakingrewards.com/'
          - 'https://www.datnoid.com/'
-       Algorithm
-         - 'http://coinofview.com/all-coins.html'
-         - 'https://coinpaprika.com/'
-         - 'https://www.cryptocompare.com/'
+   *Algorithm*
+   [Coin of View] (http://coinofview.com/)
+   [Coinpaprika] (https://coinpaprika.com/)
+   [CryptoCompare.com] (https://www.cryptocompare.com/)
          - 'https://www.datnoid.com/'
          - 'https://forks.net/list'
          - 'http://mapofcoins.com/'
-       Mineable
-         - 'http://coinofview.com/all-coins.html'
+  *Mineable*
+  [Coin of View] (http://coinofview.com/)
          - 'https://coinmarketcap.com/'
          - 'https://www.livecoinwatch.com/'
-       Target block size
+  *Target block size*
          - 'http://mapofcoins.com/'
-       Tools
+  *Tools*
          - 'https://www.datnoid.com/'
          - 'https://coincheckup.com/'
          - 'https://coin.fyi/'
          - 'https://coinmarketcap.com/'
-         - 'https://coinpaprika.com/'
+  [Coinpaprika] (https://coinpaprika.com/)
          - 'https://cointabb.com/'
          - 'https://stakingrewards.com/'
-         - 'https://forks.net/list'
-      Max supply
+  [Forks] (https://forks.net/list)
+  *Max supply*
         - 'https://coin.fyi/'
-        - 'https://coinpaprika.com/'
-        - 'https://www.cryptocompare.com/'
+  [Coinpaprika] (https://coinpaprika.com/)
+  [CryptoCompare.com] (https://www.cryptocompare.com/)
         - 'https://www.livecoinwatch.com/'
         - 'https://cointabb.com/'
         - 'https://www.datnoid.com/'
         - 'https://coincheckup.com/'
-        - 'https://forks.net/list'
+  [Forks] (https://forks.net/list)
         - 'http://mapofcoins.com/'
         - 'https://www.trackico.io/'
-      First distribution
+  *First distribution*
         - 'https://www.datnoid.com/'
-        - 'https://forks.net/list'
+  [Forks] (https://forks.net/list)
         - 'https://www.trackico.io/'
-      ICO properties
-        - 'https://www.cryptocompare.com/'
+  *ICO properties*
+  [CryptoCompare.com] (https://www.cryptocompare.com/)
         - 'https://www.trackico.io/'   
-    Team
-      - 'https://coinpaprika.com/'
+**Team**
+[Coinpaprika] (https://coinpaprika.com/)
       - 'https://www.trackico.io/'
-    Whitepapers
+**Whitepapers**
       - 'https://coin.fyi/'
       - 'https://www.livecoinwatch.com/'
       - 'https://www.datnoid.com/'
-      - 'https://forks.net/list'
+[Forks] (https://forks.net/list)
       - 'https://www.trackico.io/'
-    Tags
-      - 'https://coinpaprika.com/'
+**Tags**
+[Coinpaprika] (https://coinpaprika.com/)
       - 'https://www.datnoid.com/'
-  * WebIDs
-     LinkedIN
+**WebIDs**
+ *LinkedIN*
        - 'https://www.linkedin.com/in/'
-     LinkedIN/company
+ *LinkedIN/company*
        - 'https://www.linkedin.com/company'
        - 'https://www.trackico.io/'
-     Facebook
+ *Facebook*
        - 'https://www.facebook.com/'
-       - 'https://coinpaprika.com/'
-       - 'https://www.cryptocompare.com/'
+ [Coinpaprika] (https://coinpaprika.com/)
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
        - 'https://stakingrewards.com/'
        - 'https://coincheckup.com/'
        - 'https://www.trackico.io/'
-     Twitter
+ *Twitter*
        - 'https://twitter.com/'
        - 'https://coin.fyi/'
-       - 'https://coinpaprika.com/'
-       - 'https://www.cryptocompare.com/'
+ [Coinpaprika] (https://coinpaprika.com/)
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
        - 'https://stakingrewards.com/'
        - 'https://www.datnoid.com/'
        - 'https://coincheckup.com/'
-     Github
+ *Github*
        - 'https://github.com/'
        - 'https://coinmarketcap.com/'
-       - 'https://coinpaprika.com/'
+ [Coinpaprika] (https://coinpaprika.com/)
        - 'https://cointabb.com/'
        - 'https://www.datnoid.com/'
        - 'https://coincheckup.com/'
        - 'http://mapofcoins.com/'
        - 'https://www.trackico.io/'
-     Reddit
+ *Reddit*
        - 'https://reddit.com/r/'
        - 'https://coin.fyi/'
-       - 'https://coinpaprika.com/'
+ [Coinpaprika] (https://coinpaprika.com/)
        - 'https://www.cryptocompare.com/'
        - 'https://www.livecoinwatch.com/'
        - 'https://cointabb.com/'
@@ -190,41 +190,41 @@ npm test
        - 'https://www.datnoid.com/'
        - 'https://coincheckup.com/'
        - 'https://www.trackico.io/'
-     Gitter
+ *Gitter*
        - 'https://gitter.im/orgs/'
-     Youtube
+ *Youtube*
        - 'https://www.youtube.com/user/'
        - 'https://coincheckup.com/'
-     Medium
+ *Medium*
        - 'https://medium.com/'
-     Telegram
+ *Telegram*
        - 'https://t.me/'
        - 'https://stakingrewards.com/'
        - 'https://coincheckup.com/'
        - 'https://www.trackico.io/'
-     Instagram
+ *Instagram*
        - 'https://instagram.com/'
        - 'https://www.trackico.io/'
-     Keybase
+ *Keybase*
        - 'https://keybase.io/'
-     Crunchbase/person
+ *Crunchbase/person*
        - 'https://www.crunchbase.com/person/'    
-     Wikipedia/en
+ *Wikipedia/en*
        - 'https://wikipedia.org/'
        - 'https://stakingrewards.com/'
-     Coinmarketcap
+ *Coinmarketcap*
        - 'https://coinmarketcap.com/currencies/'
        - 'https://cointabb.com/'
        - 'https://stakingrewards.com/'
-     Cryptocompare
-       - 'https://www.cryptocompare.com/coins/'
-     Bitcointalk
+ *Cryptocompare*
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
+ *Bitcointalk*
        - 'https://bitcointalk.org/'
        - 'https://www.trackico.io/'
        - 'https://www.trackico.io/'
-   History
+ *History*
      - 'https://www.datnoid.com/'
      - 'https://coin.fyi/'
-     - 'https://coinpaprika.com/'
+ [Coinpaprika] (https://coinpaprika.com/)
      - 'https://messari.io/'
-     - 'https://www.cryptocompare.com/'
+ [CryptoCompare.com] (https://www.cryptocompare.com/)
