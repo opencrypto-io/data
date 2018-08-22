@@ -1,24 +1,8 @@
-name: EOSIO
+name: EOS
 web:
   - 'https://eos.io/'
 start_date: '2017-06-26'
 assets:
-  - id: eosio
-    type: blockchain
-    name: EOS.IO
-    symbol: EOS
-    start_date: '2018-01-31'
-    networks:
-      - id: main
-        type: main
-        name: EOSIO
-        proof_type: DPoS
-        mineable: false
-        target_block_time: 0.5
-        maximum_block_size: 1024000
-        tools:
-          - type: explorer
-            url: https://bloks.io/
   - id: eos
     type: token
     name: EOS
@@ -37,6 +21,10 @@ assets:
       - id: main
         type: main
         name: EOS Network
+        proof_type: DPoS
+        mineable: false
+        target_block_time: 120
+        maximum_block_size: 1000000
         tools:
           - type: explorer
             url: https://eostracker.io/
