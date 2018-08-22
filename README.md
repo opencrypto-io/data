@@ -226,4 +226,6 @@ npm test
  [Datnoid] (https://www.datnoid.com/)
  [Messari] (https://messari.io/)
 **Images**
+ [seeklogo] (https://seeklogo.com/)
+ [Wikimedia Commons] (https://commons.wikimedia.org/)
  [Worldvectorlogo] (https://worldvectorlogo.com/)
