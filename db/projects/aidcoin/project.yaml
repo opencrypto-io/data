@@ -7,27 +7,15 @@ assets:
     type: token
     name: AidCoin
     symbol: AID
+    ledger: ethereum
     start_date: '2018-01-24'
-    token_properties:
-      platform: ethereum
-      contract_address: '0x37e8789bb9996cac9156cd5f5fd32599e6b91289'
-      decimals: 18
+    contract_address: '0x37e8789bb9996cac9156cd5f5fd32599e6b91289'
+    decimals: 18
     ico_properties:
       start_date: '2018-01-16'
       end_date: '2018-02-01'
       total_cap: 41700000
       raised: 8333.333 ETH
-    networks:
-      - id: main
-        type: main
-        name: main
-        mineable: false
-        target_block_time: 60
-        tools:
-          - type: explorer
-            url: https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289
-          - type: explorer
-            url: https://ethplorer.io/address/0x37e8789bb9996cac9156cd5f5fd32599e6b91289
     webids:
       coinmarketcap: aidcoin
       cryptocompare: aid

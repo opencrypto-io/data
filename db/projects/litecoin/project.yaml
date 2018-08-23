@@ -1,9 +1,8 @@
 name: Litecoin
 web:
 - 'https://www.litecoin.org/'
-assets:
-- id: ltc
-  symbol: LTC
+ledgers:
+- id: litecoin
   name: Litecoin
   type: blockchain
   networks:
@@ -19,6 +18,12 @@ assets:
       url: http://explorer.litecoin.net/chain/Litecoin
     - type: explorer
       url: https://chainz.cryptoid.info/ltc/
+assets:
+- id: ltc
+  symbol: LTC
+  name: Litecoin
+  type: native
+  ledger: litecoin
   max_supply: 84000000
   first_distribution:
   - title: Premined

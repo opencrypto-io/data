@@ -2,11 +2,10 @@ name: Verge
 web:
   - 'http://vergecurrency.com/'
 start_date: '2014-10-09'
-assets:
-  - id: xvg
-    type: blockchain
+ledgers:
+  - id: verge
     name: Verge
-    symbol: XVG
+    type: blockchain
     start_date: '2016-02-15'
     networks:
       - id: main
@@ -22,6 +21,12 @@ assets:
             url: https://prohashing.com/explorer/Verge/
           - type: explorer
             url: https://verge-blockchain.info/
+assets:
+  - id: xvg
+    type: native
+    name: Verge
+    symbol: XVG
+    ledger: verge
     max_supply: 16555000000
     webids:
       coinmarketcap: Verge

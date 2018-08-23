@@ -1,11 +1,10 @@
 name: Ethereum
 web:
   - 'https://www.ethereum.org/'
-assets:
-  - id: eth
+ledgers:
+  - id: ethereum
+    name: Ethereum
     type: blockchain
-    name: Ether
-    symbol: ETH
     networks:
       - id: main
         type: main
@@ -23,7 +22,7 @@ assets:
         name: Ropsten Test Network
         tools:
           - type: explorer
-            id: https://ropsten.etherscan.io/
+            url: https://ropsten.etherscan.io/
       - id: kovan
         type: test
         name: Kovan Test Network
@@ -40,6 +39,12 @@ assets:
             url: https://rinkeby.etherscan.io/
           - type: faucet
             url: https://faucet.rinkeby.io/
+assets:
+  - id: eth
+    type: native
+    ledger: ethereum
+    name: Ether
+    symbol: ETH
     denominations:
       plural: ethers
       symbol: Ξ

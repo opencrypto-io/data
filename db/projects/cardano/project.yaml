@@ -2,9 +2,8 @@ name: Cardano
 start_date: '2018-09-01'
 web:
   - 'https://www.cardano.org/'
-assets:
-- id: ada
-  symbol: ADA
+ledgers:
+- id: cardano
   name: Cardano
   type: blockchain
   networks:
@@ -35,6 +34,12 @@ assets:
         url: https://testnet.iohkdev.io/goguen/iele/compiler/
       - type: explorer
         url: https://testnet.iohkdev.io/goguen/iele/explorer/
+assets:
+- id: ada
+  symbol: ADA
+  name: Cardano
+  type: native
+  ledger: cardano
   max_supply: 45000000000
   first_distribution:
   - title: premined

@@ -2,11 +2,10 @@ name: Bitcoin
 web:
   - 'https://bitcoin.org'
 start_date: '2008-08-18'
-assets:
-  - id: btc
-    type: blockchain
+ledgers:
+  - id: bitcoin
     name: Bitcoin
-    symbol: BTC
+    type: blockchain
     start_date: '2009-01-03'
     networks:
       - id: main
@@ -46,6 +45,12 @@ assets:
             url: http://tpfaucet.appspot.com/
           - type: faucet
             url: https://kuttler.eu/en/bitcoin/btc/faucet/
+assets:
+  - id: btc
+    type: native
+    ledger: bitcoin
+    name: Bitcoin
+    symbol: BTC
     denominations:
       plural: bitcoins
       symbol: ₿

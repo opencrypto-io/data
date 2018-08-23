@@ -2,12 +2,10 @@ name: Dash
 web:
   - 'https://www.dash.org/'
 start_date: '2014-01-18'
-assets:
+ledgers:
   - id: dash
-    type: blockchain
     name: Dash
-    symbol: DASH
-    start_date: '2014-01-19'
+    type: blockchain
     networks:
       - id: main
         type: main
@@ -38,6 +36,13 @@ assets:
             url: https://test.faucet.dashninja.pl/
           - type: faucet
             url: http://test.faucet.masternode.io/
+assets:
+  - id: dash
+    type: native
+    ledger: dash
+    name: Dash
+    symbol: DASH
+    start_date: '2014-01-19'
     max_supply: 18900000
     webids:
       coinmarketcap: Dash

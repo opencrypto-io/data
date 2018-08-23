@@ -2,16 +2,10 @@ name: TRON
 web:
   - 'https://tron.network/'
 start_date: '2017-09-28'
-assets:
-  - id: trx
+ledgers:
+  - id: tron
+    name: Tron
     type: blockchain
-    name: Tronix
-    symbol: TRX
-    start_date: '2018-04-16'
-    ico_properties:
-      start_date: '2017-08-31'
-      end_date: '2017-09-02'
-      raised: 70000000 USD
     networks:
       - id: main
         type: main
@@ -29,14 +23,24 @@ assets:
         tools:
           - type: explorer
             url: https://test.TRONscan.org
+assets:
+  - id: trx
+    type: native
+    name: Tronix
+    symbol: TRX
+    ledger: tron
+    start_date: '2018-04-16'
+    ico_properties:
+      start_date: '2017-08-31'
+      end_date: '2017-09-02'
+      raised: 70000000 USD
   - id: trx
     type: token
     name: Tronix
     symbol: TRX
-    token_properties:
-      platform: Ethereum
-      contract_address: '0xf230b790e05390fc8295f4d3f60332c93bed42e2'
-      decimals: 6
+    ledger: ethereum
+    contract_address: '0xf230b790e05390fc8295f4d3f60332c93bed42e2'
+    decimals: 6
     webids:
       coinmarketcap: TRON
       cryptocompare: trx
