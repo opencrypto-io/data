@@ -1,0 +1,53 @@
+name: Binance
+web:
+  - 'https://www.binance.com/'
+assets:
+  - id: bnb
+    type: token
+    ledger: ethereum
+    name: Binance Coin
+    symbol: BNB
+    contract_address: '0xB8c77482e45F1F44dE1745F52C74426C631bDD52'
+    decimals: 18
+    webids:
+      coinmarketcap: binance-coin
+      cryptocompare: bnb
+exchanges:
+  - id: binance
+    name: Binance
+    web:
+      - 'https://www.binance.com/'
+    fees:
+      trading:
+        tier_based: false
+        percentage: true
+        taker: 0.001
+        maker: 0.001
+      funding:
+        percentage: false
+        tier_based: false
+        withdraw:
+          BTC: 0.0005
+          LTC: 0.001
+        withdraw_minimum:
+          BTC: 0.002
+          LTC: 0.002
+    webids:
+      coinmarketcap/exchange: binance
+team:
+  - name: Changpeng Zhao
+    role: CEO
+    photo: https://techcrunch.com/wp-content/uploads/2018/05/cz.jpg
+    webids:
+      linkedin: cpzhao
+      twitter: cz_binance
+      wikipedia/en: Changpeng_Zhao
+whitepapers:
+  - title: Binance Exchange Whitepaper
+    url: https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
+webids:
+  telegram: binance_announcements
+  facebook: binanceexchange
+  reddit: binanceexchange
+  medium: binanceexchange
+  instagram: binanceexchange

@@ -1,0 +1,68 @@
+name: Bitfinex
+web:
+  - 'https://www.bitfinex.com'
+exchanges:
+  - id: bitfinex
+    name: Bitfinex
+    web:
+      - 'https://www.bitfinex.com'
+    user_security:
+      two_factor: true
+      email_confirmation: true
+    decentralized: false
+    apps:
+      - name: Bitfinex iOS app
+        platform: ios
+        web: https://www.bitfinex.com/app
+        market_id: id1079033582
+      - name: Bitfinex Android app
+        platform: android
+        web: https://www.bitfinex.com/app
+        market_id: com.bitfinex.bfxapp
+    webids:
+      coinmarketcap/exchange: bitfinex
+  - id: ethfinex
+    name: Ethfinex
+    web:
+      - 'https://www.ethfinex.com/'
+    decentralized: true
+    webids:
+      coinmarketcap/exchange: ethfinex
+team:
+  - name: JL van der Velde
+    role: CEO
+    photo: https://www.bitfinex.com/assets/bitfinex-jl-van-der-velde-ae6d0d6b46a2c0fedf659efb8af14fe3ec42ab7bd2d80d587f759db7045eca59.jpg
+    webids:
+      linkedin: jlvdv
+  - name: Giancarlo Devasini
+    role: CFO
+    photo: https://www.bitfinex.com/assets/bitfinex-giancarlo-devasini-53c3ca17661dedddb26a10603a5f18f5923ca984a61d0c5ede63dcd4e88f980f.jpg
+    webids:
+      linkedin: giancarlo-devasini
+  - name: Stuart Hoegner
+    role: General Counsel
+    photo: https://www.bitfinex.com/assets/bitfinex-stuart-hoegner-402bafe55ae41ff961c9ea86f7145b77081a38184ae6fe89ed0675c8e8d99b5a.jpg
+    webids:
+      linkedin: stuart-hoegner
+  - name: Peter Warrack
+    role: Chief Compliance Officer
+    photo: https://www.bitfinex.com/assets/bitfinex-peter-warrack-19353386d0e08f8b72dad328a5422f8052b0d05339792a554a8c8022c0ae0071.jpg
+    webids:
+      linkedin: peter-warrack-bb30851
+  - name: Paolo Ardoino
+    role: CTO
+    photo: https://www.bitfinex.com/assets/bitfinex-paolo-ardoino-df168f9cda095dc403018ea1e1d07f00d45ec1a2addce7db28c0a8cfd2d44f69.jpg
+    webids:
+      linkedin: paoloardoino
+  - name: Kasper Rasmussen
+    role: Head Of Marketing
+    photo: https://www.bitfinex.com/assets/bitfinex-kasper-rasmussen-bb043fe3530469a8ece343f14d9a544ea864d797b5baf32747d1865f826dd275.jpg
+    webids:
+      linkedin: kasperrasmussen-
+webids:
+  twitter: bitfinex
+  facebook: bitfinex
+  linkedin/company: bitfinex-limited
+  telegram: bfxtelegram
+  statuspageio: bitfinex
+  custom/blog: 'http://blog.bitfinex.com/'

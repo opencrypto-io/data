@@ -1,0 +1,28 @@
+name: Coinbase
+web:
+  - 'https://www.coinbase.com/'
+exchanges:
+  - id: coinbase
+    name: Coinbase
+    web:
+      - 'https://www.coinbase.com/'
+  - id: coinbase-pro
+    name: Coinbase Pro
+    web:
+      - 'https://pro.coinbase.com/'
+    webids:
+      twitter: CoinbasePro
+      coinmarketcap/exchange: coinbase-pro
+team:
+  - name: Brian Armstrong
+    role: CEO
+    photo: https://www.worldcryptoindex.com/wp-content/uploads/2018/02/brian-armstrong-bio.jpg
+    webids:
+      linkedin: barmstrong
+contacts:
+  phone: '+18889087930'
+webids:
+  twitter: coinbase
+  facebook: coinbase
+  custom/blog: https://blog.coinbase.com/ 
+  wikipedia/en: Coinbase
