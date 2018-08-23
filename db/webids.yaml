@@ -60,7 +60,10 @@ wikipedia/en:
   url: https://wikipedia.org/wiki/@id
 coinmarketcap:
   title: CoinMarketCap
-  url: https://coinmarketcap.com/currencies/@/
+  url: https://coinmarketcap.com/currencies/@id/
+coinmarketcap/exchange:
+  title: CoinMarketCap Exchange
+  url: https://coinmarketcap.com/exchanges/@id/
 cryptocompare:
   title: CryptoCompare
   url: https://www.cryptocompare.com/coins/@id
@@ -70,3 +73,6 @@ bitcointalk:
 bitcoinwiki:
   title: Bitcoin Wiki
   url: https://en.bitcoinwiki.org/wiki/@id
+statuspageio:
+  title: Statuspage.io
+  url: https://@id.statuspage.io/
