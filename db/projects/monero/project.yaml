@@ -1,11 +1,10 @@
 name: Monero
 web:
   - 'https://getmonero.org/'
-assets:
-  - id: xmr
+ledgers:
+  - id: monero
     name: Monero
     type: blockchain
-    symbol: XMR
     networks:
       - id: main
         type: main
@@ -27,6 +26,12 @@ assets:
         tools:
           - type: explorer
             url: https://testnet.xmrchain.com/
+assets:
+  - id: xmr
+    name: Monero
+    type: native
+    ledger: monero
+    symbol: XMR
     denominations:
       plural: moneros
       symbol: ɱ

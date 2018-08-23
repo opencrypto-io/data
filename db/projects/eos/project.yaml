@@ -2,21 +2,10 @@ name: EOS
 web:
   - 'https://eos.io/'
 start_date: '2017-06-26'
-assets:
+ledgers:
   - id: eos
-    type: token
-    name: EOS
-    symbol: EOS
-    start_date: '2017-07-01'
-    token_properties:
-      platform: ethereum
-      contract_address: '0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0'
-      decimals: 18
-    ico_properties:
-      start_date: '2017-06-26'
-      end_date: '2018-06-01'
-      total_cap: 900000000
-      raised: 185000000 USD
+    name: EOSIO
+    type: blockchain
     networks:
       - id: main
         type: main
@@ -40,6 +29,20 @@ assets:
             url: http://dev.cryptolions.io/
           - type: faucet
             url: http://dev.cryptolions.io/#faucet
+assets:
+  - id: eos
+    type: token
+    name: EOS
+    symbol: EOS
+    ledger: ethereum
+    contract_address: '0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0'
+    decimals: 18
+    start_date: '2017-07-01'
+    ico_properties:
+      start_date: '2017-06-26'
+      end_date: '2018-06-01'
+      total_cap: 900000000
+      raised: 185000000 USD
     webids:
       coinmarketcap: EOS
       cryptocompare: eos

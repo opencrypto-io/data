@@ -4,12 +4,11 @@ web:
 assets:
   - id: pnk
     type: token
+    ledger: ethereum
     name: Pinakion
     symbol: PNK
-    token_properties:
-      platform: ethereum
-      contract_address: '0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d'
-      decimals: 18
+    contract_address: '0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d'
+    decimals: 18
     ico_properties:
       start_date: '2018-05-15'
       end_date: '2018-07-15'

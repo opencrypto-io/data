@@ -1,11 +1,10 @@
 name: Ark
 web: 
   - 'http://ark.io/'
-assets:
-  - id: Ark
-    type: blockchain
+ledgers:
+  - id: ark
     name: Ark
-    symbol: ARK
+    type: blockchain
     networks:
       - id: main
         type: main
@@ -15,6 +14,12 @@ assets:
         tools:
           - type: explorer
             url: https://explorer.ark.io/
+assets:
+  - id: ark
+    type: native
+    name: Ark
+    ledger: ark
+    symbol: ARK
     webids:
       coinmarketcap: ark
       cryptocompare: ark

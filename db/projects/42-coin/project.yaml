@@ -2,12 +2,10 @@ name: 42-coin
 web:
   - 'http://42-coin.org/'
 start_date: '2014-01-04'
-assets:
+ledgers:
   - id: '42'
+    name: '42'
     type: blockchain
-    name: 42-coin
-    symbol: '42'
-    start_date: '2016-11-12'
     networks:
       - id: main
         type: main
@@ -21,6 +19,13 @@ assets:
             url: https://chainz.cryptoid.info/42/
           - type: explorer
             url: https://prohashing.com/explorer/42/
+assets:
+  - id: '42'
+    type: native
+    ledger: '42'
+    name: 42-coin
+    symbol: '42'
+    start_date: '2016-11-12'
     webids:
       coinmarketcap: 42-coin
     max_supply: 42
