@@ -2,10 +2,9 @@
 
 Community-driven cryptoassets reference dataset.
 
-[Data Explorer](http://explorer.opencrypto.io/) | [Schema](https://schema.opencrypto.io/)
+[Homepage](https://data.opencrypto.io) | [Data Explorer](http://explorer.opencrypto.io) | [Schema](https://schema.opencrypto.io)
 
 We collecting informations about:
-```
 * Projects
   * Ledgers
     * Networks
@@ -13,7 +12,6 @@ We collecting informations about:
   * Clients
   * Exchanges
     * Markets
-```
 
 ## Documentation
 * [How to build & test](/BUILDING.md)
