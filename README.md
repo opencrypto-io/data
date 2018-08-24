@@ -1,34 +1,23 @@
-# Opencrypto Data
+# OpenCrypto Data
 
-Community driven dataset about cryptocurrencies ecosystem.
+Community-driven cryptoassets reference dataset.
+
+[Data Explorer](http://explorer.opencrypto.io/) | [Schema](https://schema.opencrypto.io/)
 
 We collecting informations about:
+```
 * Projects
-  * Assets
+  * Ledgers
     * Networks
+  * Assets
   * Clients
   * Exchanges
     * Markets
-
-Schema: [Opencrypto Schema v0.9](https://schema.opencrypto.io/)
-
-## How to build & test
-
-First, you need clone this repository locally:
-```bash
-git clone git@github.com:opencrypto-io/data.git opencrypto-data
-cd opencrypto-data
-npm install
 ```
 
-then you can use these commands:
-```bash
-# to generate bundle
-npm run-script build
-
-# to run tests
-npm test
-```
+## Documentation
+* [How to build & test](/BUILDING.md)
+* [Sources](https://github.com/opencrypto-io/data/wiki/Sources) (wiki)
 
 ## License
 
