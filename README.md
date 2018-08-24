@@ -1,6 +1,6 @@
 # OpenCrypto Data
 
-Community-driven cryptoassets reference dataset.
+Community-driven cryptoassets reference dataset. Our goal is to create trustable, transparent, consistent and up-to-date source of basic reference informations about blockchains (ledger), crypto-assets (asset), networks, exchanges and dApps.
 
 [Homepage](https://data.opencrypto.io) | [Data Explorer](http://explorer.opencrypto.io) | [Schema](https://schema.opencrypto.io)
 
