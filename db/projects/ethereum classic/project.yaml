@@ -7,11 +7,6 @@ ledgers:
     name: Ethereum Classic
     type: blockchain
     star_date: '2018-05-29'
-    forked: true
-    fork_properties:
-      parent: ethereum
-      block: 5900000
-      time: 2018-05-29T18:20:21Z
     networks:
       - id: main
         type: main
