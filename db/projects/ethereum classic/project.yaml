@@ -55,6 +55,7 @@ team:
       custom/web: http://igorartamonov.com/
   - name: Constantine Kryvomaz
     role: Go Developer
+    photo: https://etcsummit.com/wp-content/uploads/2017/10/Constantine-Kryvomaz-BW-500x500.png
     webids:
       linkedin: constantine-kryvomaz-b8a60361
       github: r8d8
