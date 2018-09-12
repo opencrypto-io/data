@@ -1,7 +1,7 @@
 name: Ethereum Classic
 web:
   - 'https://ethereumclassic.org/'
-star_date: '2016-07-23'
+start_date: '2016-07-23'
 ledgers:
   - id: ethereum classic
     name: Ethereum Classic
