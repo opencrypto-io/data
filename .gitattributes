@@ -1,1 +1,2 @@
 README.md -diff
+db/**/*.yaml -diff linguist-detectable=true
