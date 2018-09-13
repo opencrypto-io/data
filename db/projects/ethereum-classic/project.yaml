@@ -1,17 +1,17 @@
 name: Ethereum Classic
 web:
   - 'https://ethereumclassic.org/'
-start_date: '2016-07-23'
+start_date: '2015-07-30'
 ledgers:
-  - id: ethereum classic
+  - id: ethereum-classic
     name: Ethereum Classic
     type: blockchain
     forked: true
     fork_properties:
       parent: ethereum
-      block: 5900000
-      time: '2018-05-29T18:20:21Z'
-    start_date: '2018-05-29'
+      block: 1920000
+      time: '2016-07-20T13:20:40Z'
+    start_date: '2016-07-20'
     networks:
       - id: main
         type: main
@@ -28,7 +28,7 @@ ledgers:
             url: https://etcplanet.org/
       - id: morden
         type: test
-        name: Ethereum Classic testnet
+        name: Morden Test Network
         tools:
           - type: explorer
             url: http://mordenexplorer.ethernode.io/home
@@ -37,8 +37,8 @@ ledgers:
 assets:
   - id: etc
     type: native
-    ledger: ethereum classic
-    name: Ether
+    ledger: ethereum-classic
+    name: Classic Ether
     symbol: ETC
     webids:
       coinmarketcap: ethereum-classic
