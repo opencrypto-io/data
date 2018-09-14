@@ -1,0 +1,55 @@
+name: Holo
+web:
+  - 'https://holochain.org/'
+start_date: '2018-01-09'
+ledgers:
+  - id: hot
+    name: HoloToken
+    type: token
+    ledger: ethereum
+    symbol: HOT
+    contract_address: '0x6c6ee5e31d828de241282b9606c8e98ea48526e2'
+    max_supply: 177619433541.14133
+    decimals: 18
+    ico_properties:
+      start_date: '2018-03-29'
+      end_date: '2018-04-28'
+      total_cap: 25000000 EUR
+      raised: 20388500 USD
+    webids:
+      coinmarketcap: holo
+      cryptocompare: hotstar
+      cryptocompare/id: '868276'
+whitepapers:
+  - title: 'Holochain scalable agent-centric distributed computing'
+    url: https://github.com/holochain/holochain-proto/blob/whitepaper/holochain.pdf
+team_url: https://holo.host/team/
+team:
+  - name: Arthur Brock
+    role: Co-Founder
+    webids:
+      linkedin: artbrock
+      twitter: artbrock
+      medium: '@artbrock'
+  - name: Eric Harris-Braum
+    role: Co-founder
+    webids:
+      linkedin: zippy
+      twitter: zippy314
+      github: zippy
+      email: eric@harris-braun.com
+      web: http://eric.harris-braun.com
+contacts:
+  email: help@holo.host
+tags:
+  - browser
+webids:
+  bitcointalk: '2963267.0'
+  medium: h-o-l-o
+  telegram: channelHolo
+  github: holochain
+  twitter: H_O_L_O_
+  reddit: holochain
+  facebook: holohost
+  instagram: holo.host
+  youtube/channel: 'UCSRJRJvkZHk3f1PemqT-R0g'
