@@ -1,7 +1,7 @@
 name: Ethereum Classic
 web:
   - 'https://ethereumclassic.org/'
-start_date: '2015-07-30'
+start_date: '2016-07-20'
 ledgers:
   - id: ethereum-classic
     name: Ethereum Classic
@@ -11,7 +11,7 @@ ledgers:
       parent: ethereum
       block: 1920000
       time: '2016-07-20T13:20:40Z'
-    start_date: '2016-07-20'
+    start_date: '2015-07-30'
     networks:
       - id: main
         type: main
