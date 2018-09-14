@@ -19,7 +19,6 @@ assets:
     webids:
       coinmarketcap: holo
       cryptocompare: hotstar
-      cryptocompare/id: '868276'
 whitepapers:
   - title: 'Holochain scalable agent-centric distributed computing'
     url: https://github.com/holochain/holochain-proto/blob/whitepaper/holochain.pdf
