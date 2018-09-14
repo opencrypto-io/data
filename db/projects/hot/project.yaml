@@ -37,7 +37,7 @@ team:
       twitter: zippy314
       github: zippy
       email: eric@harris-braun.com
-      web: http://eric.harris-braun.com
+      custom/web: http://eric.harris-braun.com
 contacts:
   email: help@holo.host
 tags:
