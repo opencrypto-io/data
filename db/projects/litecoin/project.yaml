@@ -1,51 +1,52 @@
 name: Litecoin
 web:
-- 'https://www.litecoin.org/'
+  - 'https://www.litecoin.org/'
 ledgers:
-- id: litecoin
-  name: Litecoin
-  type: blockchain
-  networks:
-  - id: main
-    type: main
-    name: mainnet
-    proof_type: PoW
-    algorithm: Scrypt
-    mineable: true
-    target_block_time: 150
-    tools:
-    - type: explorer
-      url: http://explorer.litecoin.net/chain/Litecoin
-    - type: explorer
-      url: https://chainz.cryptoid.info/ltc/
+  - id: litecoin
+    name: Litecoin
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: mainnet
+        proof_type: PoW
+        algorithm: Scrypt
+        mineable: true
+        target_block_time: 150
+        tools:
+          - type: explorer
+            url: 'http://explorer.litecoin.net/chain/Litecoin'
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/ltc/'
 assets:
-- id: ltc
-  symbol: LTC
-  name: Litecoin
-  type: native
-  ledger: litecoin
-  max_supply: 84000000
-  first_distribution:
-  - title: Premined
-    amount: 150
-  denominations:
-    plural: litecoins
-    symbol: "Ł"
-    subunits:
-    - unit: 0.001
-      name: lites
-    - unit: 1.0e-6
-      name: photons
-    - unit: 1.0e-8
-      name: litoshis
+  - id: ltc
+    symbol: LTC
+    name: Litecoin
+    type: native
+    ledger: litecoin
+    max_supply: 84000000
+    first_distribution:
+      - title: Premined
+        amount: 150
+    denominations:
+      plural: litecoins
+      symbol: Ł
+      subunits:
+        - unit: 0.001
+          name: lites
+        - unit: 0.000001
+          name: photons
+        - unit: 1.e-8
+          name: litoshis
 team:
-- name: Charlie Lee
-  role: founder
+  - name: Charlie Lee
+    role: founder
 contacts:
   email: contact@litecoin.org
 tags:
-- technology:segwit
+  - 'technology:segwit'
 webids:
   facebook: LitecoinCommunity
   telegram: litecoin
   bitcointalk: '47417.0'
+start_date: '"2011-10-07"'
