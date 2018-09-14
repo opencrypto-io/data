@@ -15,6 +15,6 @@ deploy:
   github_token: $GITHUB_TOKEN
   on:
     branch: master
-  repo: opencrypto-io/data
+  repo: opencrypto-io/data-web
   target_branch: gh-pages
   fqdn: data.opencrypto.io
