@@ -1,0 +1,56 @@
+name: NEM
+web:
+  - 'http://nem.io'
+started_date: '2014-01-19'
+ledgers:
+  - id: nem
+    name: NEM
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: PoI
+        target_block_time: 60
+        tools:
+          - type: explorer
+            url: 'http://nembex.nem.ninja/'
+          - type: explorer
+            url: 'http://explorer.nemchina.com/'
+          - type: explorer
+            url: 'http://chain.nem.ninja'
+      - id: test
+        type: test
+        name: NEM Testnet
+        tools:
+          - type: explorer
+          - url: 'http://bob.nem.ninja:8765/#/blocks/0'
+          - type: faucet
+          - url: 'https://xarleecm.com/en/nemfaucet'
+assets:
+  - id: xem
+    name: NEM
+    type: native
+    ledger: nem
+    symbol: XEM
+    max_supply: 8999999999
+    start_date: '2015-03-31'
+    webids:
+      coinmarketcap: nem
+      cryptocompare: xem
+      cryptocompare/id: '5285'
+history:
+  - date: '2014-01-19'
+    description: 'User called UtopianFuture on BitcoiTalk started open call for participation on community-oriented cryptocurrency'
+    url: 'https://en.wikipedia.org/wiki/NEM_(cryptocurrency)'
+webids:
+  bitcointalk: '654845.0'
+  custom/forum: 'https://forum.nem.io/'
+  telegram: nemred
+  github: NemProject
+  twitter: NEMofficial
+  reddit: nem
+  wikipedia/en: 'NEM_(cryptocurrency)'
+  facebook: ourNEM
+  linkedin/company: nem-io-foundation
+Contacts:
+  email: info@nem.foundation
