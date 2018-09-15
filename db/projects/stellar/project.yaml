@@ -30,8 +30,8 @@ ledgers:
             url: https://testnet.steexp.com/
           - type: explorer
             url: https://stellar.expert/explorer/testnet/
-         - type: explorer
-           url: http://testnet.stellarchain.io/
+          - type: explorer
+            url: http://testnet.stellarchain.io/
 assets:
   - id: xlm
     name: Stellar
