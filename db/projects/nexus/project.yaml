@@ -1,0 +1,55 @@
+name: Nexus
+start_date: '2017-07-04'
+web:
+  - 'http://www.nexusearth.com/'
+ledgers:
+  - id: nexus
+    name: Nexus
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        algorithm: SHA3
+        proof_type: PoW/nPoS
+        tools:
+          - type: explorer
+            url: 'http://nexusoft.io/platform/Explorer'
+          - type: explorer
+            url: 'http://nxsorbitalscan.com/'
+          - type: explorer
+            url: 'https://nexplorer.io/'
+assets:
+  - id: nxs
+    name: Nexus
+    type: native
+    ledger: nexus
+    symbol: NXS
+    max_supply: 78000000
+    start_date: '2014-06-19'
+    webids:
+      coinmarketcap: nexus
+      cryptocompare: nxs
+      cryptocompare/id: '6103'
+team_url: https://nexusearth.com/nexus-earth-team/
+team:
+  - name: Colin Cantrell
+    role: software architect
+  - name: Kierre Reeg
+    role: economist
+  - name: Jacynda Smith
+    role: embassy board
+whitepapers:
+  - title: 'Nexus: A Peer-to-Peer Network'
+    url: https://www.nexusearth.com/wp-content/uploads/2018/05/Nexus-White-Paper-2018-05-11.pdf
+webids:
+  bitcointalk: '657601.0'
+  github: Nexusoft
+  twitter: NxsEarth
+  reddit: nexusearth
+  facebook: nxsearth
+  instagram: nexusearth
+  youtube/chanel: UCDi2stU5yj71_iPgxMZF79w
+  telegram: NexusEarth
+  discord: wAg3YkJ
+Contacts:
+  email: thenexusembassy@nexus.io
