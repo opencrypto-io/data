@@ -1,0 +1,48 @@
+name: Bitcoin Cash
+web:
+  - 'https://www.bitcoincash.org/'
+ledgers:
+  - id: bitcoin-cash
+    name: Bitcoin Cash
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+      block: 478559
+      time: '2017-08-01T13:23:00Z'
+    start_date: "2009-01-03"
+    networks:
+      - id: main
+        type: main
+        name: Bitcoin Cash Mainnet
+        algorithm: SHA256
+        proof_type: PoW
+        mineable: true
+        tools:
+          - type: explorer
+            url: 'https://blockchair.com/bitcoin-cash/blocks'
+          - type: explorer
+            url: 'http://blockdozer.com/insight/'
+          - type: explorer
+            url: 'https://www.blocktrail.com/BCC'
+      - id: test
+        type: test
+        name: Bitcoin Cash Testnet
+assets:
+  - id: bch
+    name: Bitcoin Cash
+    type: native
+    ledger: bitcoin-cash
+    symbol: BCH
+    alt_symbols:
+      - BCC
+    max_supply: 21000000
+    start_date: '2017-08-01'
+    webids:
+      coinmarketcap: bitcoin-cash
+      cryptocompare: bch
+      cryptocompare/id: '202330'
+webids:
+  bitcointalk: '2040221.0'
+  github: bitcoincashorg
+  reddit: Bitcoincash
