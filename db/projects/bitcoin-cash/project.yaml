@@ -62,9 +62,6 @@ webids:
 tags:
   - alternative
   - payment
-partners:
-  - title: "Simplex"
-    url: https://www.simplex.com/
 history:
   - date: "2017-08-01"
     title: "Hard fork from BTC"
