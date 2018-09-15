@@ -15,6 +15,7 @@ ledgers:
       - id: main
         type: main
         name: Bitcoin Cash Mainnet
+        maximum_block_size: 33554432
         algorithm: SHA256
         proof_type: PoW
         mineable: true
@@ -42,7 +43,25 @@ assets:
       coinmarketcap: bitcoin-cash
       cryptocompare: bch
       cryptocompare/id: '202330'
+team:
+  - name: Roger Ver
+    role: BTH Evangelist
+    photo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Roger_Ver.jpg/440px-Roger_Ver.jpg
+    webids:
+      linkedin: rogerver
+      twitter: rogerkver
+      wikipedia/en: Roger_Ver
+      custom/web: https://rogerver.com/
 webids:
   bitcointalk: '2040221.0'
   github: bitcoincashorg
   reddit: Bitcoincash
+  facebook: bitcoincashorg
+  linkedin/company: bitcoincash
+  bitcoinwiki: Bitcoin_Cash
+tags:
+  - alternative
+  - payment
+history:
+  - date: "2017-08-01"
+    title: "Hard fork from BTC"
