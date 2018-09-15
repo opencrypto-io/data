@@ -44,7 +44,6 @@ assets:
       coinmarketcap: stellar
       cryptocompare: xlm
       cryptocompare/id: '4614'
-    max_supply: 100804167793
 exchanges:
   - id: stellarterm
     name: stellarterm
