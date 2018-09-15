@@ -1,0 +1,34 @@
+name: VeChain
+alt_names:
+  - Vechain
+web:
+  - 'https://www.vechain.com/'
+ledgers:
+  - id: vechain
+    name: VeChain
+    type: blockchain
+    networks:
+      - id: main
+        tools:
+          - type: explorer
+            url: 'https://explore.veforge.com/'
+          - type: explorer
+            url: 'https://www.vescan.io/'
+          - type: explorer
+            url: 'https://explorer.vtho.net/'
+assets:
+  - id: vet
+    name: VeChain
+    type: native
+    ledger: vechain
+    symbol: VET
+    max_supply: 1000000000
+    start_date: '2017-07-19'
+    webids:
+      coinmarketcap: vechain
+      cryptocompare: vet
+      cryptocompare/id: '236131'
+webids:
+  telegram: joinchat/GG4BlQwm19czcBGOewv40Q
+  twitter: vechainofficial
+  reddit: vechain
