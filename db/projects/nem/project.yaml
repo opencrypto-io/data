@@ -1,7 +1,7 @@
 name: NEM
 web:
   - 'http://nem.io'
-started_date: '2014-01-19'
+start_date: '2014-01-19'
 ledgers:
   - id: nem
     name: NEM
