@@ -1,0 +1,68 @@
+name: Syscoin
+alt_names:
+  - SysCoin
+web:
+  - 'http://syscoin.org'
+ledgers:
+  - id: syscoin
+    name: Syscoin
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: SHA256
+        proof_type: PoW
+        mineable: true
+        target_block_time: 60
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/sys/'
+assets:
+  - id: sys
+    name: Syscoin
+    alt_name: SysCoin 3
+    type: native
+    ledger: syscoin
+    symbol: SYS
+    max_supply: 888000000
+    start_date: '2014-04-27'
+    webids:
+      coinmarketcap: syscoin
+      cryptocompare: sys
+      cryptocompare/id: '4618'
+whitepapers:
+  - title: 'Syscoin 3.0 Whitepaper Summary'
+    url: https://www.syscoin.org/wp-content/uploads/2018/06/Syscoin-3-WhitePaper-Summary.pdf
+  - title: 'Syscoin 3.0 Whitepaper'
+    url: https://syscoin.org/Syscoin_3.0_Whitepaper__Condensed.pdf
+  - title: 'Syscoin 2.0 Whitepaper'
+    url: https://syscoin.org/Syscoin_2.0_Whitepaper_Full.pdf
+team_url: https://www.syscoin.org/team/
+team:
+  - name: Sebastian Schepis
+    role: Core Developer
+  - name: Quang Nguyen
+    role: Product Lead
+  - name: Dan Wasyluk
+    role: Team Manager
+  - name: Andres Cortes
+    role: Full Stack Web Developer
+  - name: Jagdeep Sidhu
+    role: Core Developer
+  - name: Brad Hammerstron
+    role: Marketing
+  - name: Chris Marsh
+    role: Business Development Manager
+  - name: Sebastien Dimichele
+    role: Director of Public Relations
+  - name: Willy Ko
+    role: Chinese Community Manager
+  - name: Janette Baker
+    role: Marketing
+webids:
+  bitcointalk: '1466445.0'
+  telegram: joinchat/AAAAAEHzByog3h1qutnjhQ
+  github: syscoin
+  twitter: syscoin
+  reddit: SysCoin
+  facebook: Syscoin
+  linkedin/company: syscoin
