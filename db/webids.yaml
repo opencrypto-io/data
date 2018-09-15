@@ -19,6 +19,15 @@ twitter:
 github:
   title: GitHub
   url: https://github.com/@id
+gist:
+  title: Gist
+  url: https://gist.github.com/@id
+gitlab:
+  title: GitLab
+  url: https://gitlab.com/@id
+bitbucket:
+  title: BitBucket
+  url: https://bitbucket.org/@id
 reddit:
   title: Reddit
   url: https://reddit.com/r/@id
@@ -27,7 +36,7 @@ reddit/user:
   url: https://reddit.com/u/@id
 gitter:
   title: Gitter
-  url: https://gitter.im/orgs/@id/rooms
+  url: https://gitter.im/@id
 youtube/user:
   title: YouTube User
   url: https://www.youtube.com/user/@id
@@ -67,6 +76,9 @@ coinmarketcap/exchange:
 cryptocompare:
   title: CryptoCompare
   url: https://www.cryptocompare.com/coins/@id
+cryptocompare/id:
+  title: CryptoCompare API ID
+  url: https://www.cryptocompare.com/api/data/coinsnapshotfullbyid/?id=@id
 bitcointalk:
   title: BitcoinTalk Thread
   url: https://bitcointalk.org/index.php?topic=@id
@@ -76,3 +88,18 @@ bitcoinwiki:
 statuspageio:
   title: Statuspage.io
   url: https://@id.statuspage.io/
+etherscan/token:
+  title: EtherScan Token
+  url: https://etherscan.io/token/@id
+discord:
+  title: Discord
+  url: https://discord.gg/@id
+riot:
+  title: Riot
+  url: https://riot.im/app/#/room/%23@id
+slack:
+  title: Slack
+  url: https://@id.slack.com
+kakao:
+  title: Kakao Talk
+  url: https://open.kakao.com/o/@id
