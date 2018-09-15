@@ -5,6 +5,7 @@ assets:
   - id: bat
     name: Basic Attention Token
     type: token
+    token_standard: ERC-20
     ledger: ethereum
     symbol: BAT
     contract_address: '0x0d8775f648430679a709e98d2b0cb6250d2887ef'
@@ -20,7 +21,7 @@ webids:
   twitter: BAT_Community
   reddit: BATProject
   telegram: batproject
-  medium: @attentiontoken
+  medium: '@attentiontoken'
 team:
   - name: Brendan Eich
     role: founder
