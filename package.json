@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/opencrypto-io/data#readme",
   "devDependencies": {
-    "opencrypto-data-build-tools": "git+https://github.com/opencrypto-io/data-build-tools.git#38429449179e17161ea1fcc5f54a988824270bdb",
+    "opencrypto-data-build-tools": "git+https://github.com/opencrypto-io/data-build-tools.git#ada66ce71c6bcb4d37986f42f2c42e028dac00df",
     "pre-commit": "^1.2.2"
   },
   "pre-commit": [
