@@ -19,7 +19,6 @@ ledgers:
 assets:
   - id: sys
     name: Syscoin
-    alt_name: SysCoin 3
     type: native
     ledger: syscoin
     symbol: SYS
