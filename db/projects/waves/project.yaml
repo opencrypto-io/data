@@ -1,5 +1,6 @@
 name: Waves
-alt_names: Waves Platform
+alt_names:
+  - Waves Platform
 web:
   - 'https://wavesplatform.com/'
 ledgers:

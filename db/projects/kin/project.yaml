@@ -1,0 +1,53 @@
+name: Kin
+start_date: '2017-05-25'
+web:
+  - 'https://kin.kik.com'
+  - 'https://kinecosystem.org/'
+assets:
+  - id: kin
+    name: Kin
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: KIN
+    contract_address: '0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5'
+    decimals: 18
+    max_supply: 10000000000000
+    ico_properties:
+      start_date: '2017-09-12'
+      end_date: '2017-09-26'
+      total_cap: 1000000000000
+      raised: 168732 ETH
+    webids:
+      coinmarketcap: kin
+      cryptocompare: kin
+      cryptocompare/id: '177918'
+team:
+  - name: Ted Livingstone
+    role: founder
+  - name: Peter Heinke
+    role: CFO
+  - name: Eran Ben-Ari
+    role: CPO
+  - name: Dany Fishel
+    role: president
+  - name: Alim Dhanji
+    role: people officer
+  - name: Erin Clift
+    role: CMO
+  - name: Dave Simons
+    role: SVP Engineering
+whitepapers:
+  - title: 'Kin: a decentralized ecosystem of digital services for daily life'
+    url: https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
+webids:
+  github: kinecosystem
+  medium: kinfoundation
+  telegram: kincurrency
+  twitter: kin_foundation
+  reddit: KinFoundation
+  slack: kinfoundation
+contacts:
+  email: partnerships@kinecosystem.org
+tags:
+  - message
