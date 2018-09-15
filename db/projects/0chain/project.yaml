@@ -1,0 +1,65 @@
+name: 0chain
+web:
+  - 'https://0chain.net/'
+description: "zero-cost superfast, decentralized cloud for your off-chain {smart contract, data} for IoT, Web, and Enterprise apps."
+assets:
+  - id: zcn
+    name: 0chain
+    type: token
+    ledger: ethereum
+    token_standard: ERC-20
+    symbol: ZCN
+    contract_address: '0xb9ef770b6a5e12e45983c5d80545258aa38f3b78'
+    decimals: 10
+    max_supply: 400000000
+    start_date: '2018-05-31'
+    ico_properties:
+      start_date: '2018-02-07'
+      end_date: '2018-02-17'
+      raised: 39000000 USD
+    webids:
+      coinmarketcap: 0chain
+      cryptocompare: zcn
+      cryptocompare/id: '917256'
+      custom/web: http://explorer.testnet-0chain.net/
+team:
+  - name: Saswata Basu
+    role: Founder, CEO
+    webids:
+      linkedin: saswatabasu
+      twitter: saswata_0chain
+      github: guruhubb
+      medium: saswata_basu
+  - name: Thomas Austin
+    role: Co-founder, Security
+    webids:
+      linkedin: tom-austin-49195b
+      custom/web: http://www.sjsu.edu/people/thomas.austin/publications/
+  - name: Siva Dirisala
+    role: CTO
+    webids:
+      linkedin: sivadirisala
+  - name: Phil Castillo
+    role: Chief Revenue Officer
+    webids:
+      linkedin: phcastillo
+webids:
+  bitcointalk: '2670071.0'
+  medium: 0chain
+  telegram: Ochain
+  twitter: 0costcloud
+  reddit: 0chain
+  youtube/channel: UCuRk0tjbTmc5GEYaFEISnAw
+whitepapers:
+  - title: "0chain storage protocol"
+    url: https://drive.google.com/file/d/1MLRVfwcRkJKlUIybkD3MDz9v-h2Ihm4_
+  - title: "0chain economic model"
+    url: https://drive.google.com/file/d/16C4dJCuo9DZofaiCOvmVCypIB1HD22_N
+  - title: "0chain Enterprise whitepaper"
+    url: https://drive.google.com/file/d/1vOQVipCM7jJ1LUfTwX3u01taB6CdVf16
+tags:
+  - storage
+  - cloud
+  - enterprise
+contacts:
+  email: zero@0chain.net
