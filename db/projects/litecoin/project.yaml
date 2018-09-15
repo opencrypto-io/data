@@ -1,6 +1,7 @@
 name: Litecoin
 web:
 - 'https://www.litecoin.org/'
+start_date: '2011-10-07'
 ledgers:
 - id: litecoin
   name: Litecoin
