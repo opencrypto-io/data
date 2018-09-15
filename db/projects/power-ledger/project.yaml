@@ -16,7 +16,7 @@ assets:
       cryptocompare: powr
       cryptocompare/id: '339617'
 whitepapers:
-  - name: 'Power Ledger Whitepaper'
+  - title: 'Power Ledger Whitepaper'
     url: https://cdn2.hubspot.net/hubfs/4519667/Documents%20/Power%20Ledger%20Whitepaper.pdf
 webids:
   bitcointalk: '2003922.0'
