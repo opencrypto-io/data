@@ -103,3 +103,6 @@ slack:
 kakao:
   title: Kakao Talk
   url: https://open.kakao.com/o/@id
+vk:
+  title: VK
+  urls: https://vk.com/@id

@@ -1,0 +1,63 @@
+name: Waves
+alt_names: Waves Platform
+web:
+  - 'https://wavesplatform.com/'
+ledgers:
+  - id: waves
+    name: Waves
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        algorithm: Leased POS
+        proof_type: LPoS
+        tools:
+          - type: explorer
+            url: 'http://wavesexplorer.com/'
+          - type: explorer
+            url: 'http://wavesgo.com/'
+      - id: test
+        type: test
+        tools:
+          - type: explorer
+            url: 'https://testnet.wavesexplorer.com/'
+          - type: faucet
+            url: 'https://testnet.wavesexplorer.com/faucet'
+assets:
+  - id: waves
+    name: Waves
+    type: native
+    ledger: waves
+    symbol: WAVES
+    max_supply: 100000000
+    start_date: '2016-06-12'
+    webids:
+      coinmarketcap: waves
+      cryptocompare: waves
+      cryptocompare/id: '20131'
+team:
+  - name: Alexander Ivanov
+    role: founder
+    photo: https://en.bitcoinwiki.org/wiki/File:Sacha-waves.jpg
+    webids:
+      twitter: sasha35625
+      linkedin: sasha35625
+whitepapers:
+  - title: Whitepaper
+    url: https://wavesplatform.com/files/images/whitepaper_v0.pdf
+webids:
+  bitcointalk: '3223136.0'
+  custom/forum: 'https://wavestalk.org/'
+  telegram: wavesnews
+  discord: cnFmDyA
+  github: wavesplatform
+  twitter: wavesplatform
+  reddit: Wavesplatform
+  facebook: wavesplatform
+  vk: wavesplatform
+  custome/blog: 'https://blog.wavesplatform.com/'
+  youtube/chanel: UCYDQN4Fo4rGnOZ22L5plNIw
+  discord: cnFmDyA
+  linkedin/company: waves-platform
+tags:
+  - Russia
