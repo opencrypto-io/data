@@ -1,0 +1,25 @@
+name: OmiseGO
+alt_names:
+  - OmiseGo
+web:
+  - 'https://omg.omise.co/'
+assets:
+  - id: omg
+    name: OmiseGO
+    type: token
+    ledger: ethereum
+    symbol: OMG
+    contract_address: '0xd26114cd6ee289accf82350c8d8487fedb8a0c07'
+    max_supply: 140245398
+    start_date: '2017-06-23'
+    webids:
+      coinmarketcap: omisego
+      etherscan/token: OmiseGo
+      cryptocompare: omg
+      cryptocompare/id: '187440'
+webids:
+  telegram: omisego
+  custom/chat: 'https://omg.omise.co/slack'
+  github: omise/omise-go
+  twitter: omise_go
+  reddit: omise_go

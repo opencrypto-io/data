@@ -1,0 +1,29 @@
+name: Kyber Network
+web:
+  - 'https://kyber.network/'
+assets:
+  - id: knc
+    name: Kyber Network
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: KNC
+    contract_address: '0xdd974d5c2e2928dea5f71b9825b8b646686bd200'
+    decimals: 18
+    max_supply: 226000000
+    webids:
+      coinmarketcap: kyber-network
+      etherscan/token: KyberNetwork
+      cryptocompare: knc
+      cryptocompare/id: '310497'
+webids:
+  telegram: kybernetwork
+  github: kybernetwork
+  twitter: kybernetwork
+  reddit: kybernetwork
+  facebook: kybernetwork
+  youtube/channel: UCQ-8mEqsKM3x9dTT6rrqgJw
+  custom/blog: 'https://blog.kyber.network/'
+  slack: kybernetwork
+contacts:
+  email: hello@kyber.network
