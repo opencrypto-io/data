@@ -5,7 +5,7 @@ assets:
   - id: drgn
     name: Dragonchain
     alt_names:
-      - Dragon
+      - 'Dragon'
     type: token
     token_standard: ERC-20
     ledger: ethereum
