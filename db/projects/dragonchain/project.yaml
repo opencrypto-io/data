@@ -4,7 +4,7 @@ web:
 assets:
   - id: drgn
     name: Dragonchain
-    alt_name:
+    alt_names:
       - Dragon
     type: token
     token_standard: ERC-20
