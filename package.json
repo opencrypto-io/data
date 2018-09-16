@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha node_modules/opencrypto-data-build-tools/index.js",
     "build": "node node_modules/opencrypto-data-build-tools/index.js build",
+    "build-full": "node node_modules/opencrypto-data-build-tools/index.js build full",
     "print": "node node_modules/opencrypto-data-build-tools/index.js print"
   },
   "repository": {
@@ -19,7 +20,7 @@
   },
   "homepage": "https://github.com/opencrypto-io/data#readme",
   "devDependencies": {
-    "opencrypto-data-build-tools": "git+https://github.com/opencrypto-io/data-build-tools.git#38429449179e17161ea1fcc5f54a988824270bdb",
+    "opencrypto-data-build-tools": "git+https://github.com/opencrypto-io/data-build-tools.git#0d44ec7f4984bcc49da3517958265a5bb036160d",
     "pre-commit": "^1.2.2"
   },
   "pre-commit": [
