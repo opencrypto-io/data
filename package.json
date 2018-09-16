@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha node_modules/opencrypto-data-build-tools/index.js",
     "build": "node node_modules/opencrypto-data-build-tools/index.js build",
+    "build-full": "node node_modules/opencrypto-data-build-tools/index.js build full",
     "print": "node node_modules/opencrypto-data-build-tools/index.js print"
   },
   "repository": {
