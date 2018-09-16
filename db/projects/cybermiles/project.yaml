@@ -1,0 +1,84 @@
+name: CyberMiles
+web:
+  - 'https://www.cybermiles.io/'
+assets:
+  - id: cmt
+    name: CyberMiles
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: CMT
+    contract_address: '0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f'
+    decimals: 18
+    max_supply: 1000000000
+    start_date: '2017-11-01'
+    webids:
+      coinmarketcap: cybermiles
+      cryptocompare: cmtstar
+      cryptocompare/id: '439963'
+team:
+  - name: Lucas Lu
+    role: CEO
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/05/lucas-1.png
+    webids:
+      linkedin: sixwings
+  - name: Michael Yuan
+    role: chief scientist
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/03/michael_yuan.png
+    webids:
+      linkedin: myuan
+  - name: Timothy McCallum
+    role: core developer
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/05/timothy.png
+    webids:
+      linkedin: tim-mccallum-2226413a
+  - name: Alex Lau
+    role: core developer
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/03/alex_lau.png
+    webids:
+      linkedin: avengermojo
+  - name: Robert Li
+    role: CTO
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/05/lixin.png
+    webids:
+      linkedin: xinli
+  - name: George Chen
+    role: CMO
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/03/george_chen.png
+    webids:
+      linkedin: george-chen-ab9106
+  - name: Garwin Chan
+    role: CFO
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/05/garwin-chan.png
+    webids:
+      linkedin: garwin-chan-b8378a1
+  - name: Mark Brinkerhoff
+    role: VP of Communication
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/03/mark_brinkerhoff.png
+    webids:
+      linkedin: thinkbrink
+  - name: Maggie Guan
+    role: General Counsel
+    photo: https://www.cybermiles.io/wp-content/uploads/2018/06/WechatIMG585.jpg
+    webids:
+      linkedin: maggie-guan-8a16838
+whitepapers:
+  - title: 'CyberMiles: Empowering the Decentralization of Online Marketplaces'
+    url: https://www.cybermiles.io/wp-content/uploads/2018/03/Project-white-paper_en-US.pdf
+  - title: 'CyberMiles: A Next Generation Blockchain Protocol for Business Transactions'
+    url: https://www.cybermiles.io/wp-content/uploads/2018/03/Technical-Whitepaper_en-US.pdf
+webids:
+  medium: cybermiles
+  telegram: cybermilestoken
+  github: cybermiles
+  twitter: cybermiles
+  reddit: CyberMiles
+  slack: cybermiles-dev
+  facebook: cybermiles
+  coingecko: cybermiles
+  youtube/channel: UCgok7sGPWbxKAkz2ts9etNg
+  linkedin/company: cybermiles
+  medium: cybermiles
+  custom/blog: https://www.cybermiles.io/blog/
+contacts:
+  email: contact@cybermiles.io
