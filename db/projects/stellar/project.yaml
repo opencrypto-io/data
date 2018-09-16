@@ -1,0 +1,91 @@
+name: Stellar
+web:
+  - 'https://www.stellar.org'
+start_date: '2013-07-19'
+ledgers:
+  - id: stellar
+    name: Stellar
+    type: blockchain
+    start_date: '2014-07-31'
+    networks:
+      - id: main
+        type: main
+        name: Main Network
+        proof_type: PoS
+        target_block_time: 5
+        tools:
+          - type: explorer
+            url: 'https://dashboard.stellar.org/'
+          - type: explorer
+            url: 'https://stellar.expert/explorer/public/'
+          - type: explorer
+            url: 'https://steexp.com/'
+          - type: explorer
+            url: https://stellarchain.io/
+      - id: test
+        type: test
+        name: Testnet
+        tools:
+          - type: explorer
+            url: https://testnet.steexp.com/
+          - type: explorer
+            url: https://stellar.expert/explorer/testnet/
+          - type: explorer
+            url: http://testnet.stellarchain.io/
+assets:
+  - id: xlm
+    name: Stellar
+    type: native
+    ledger: stellar
+    symbol: XLM
+    max_supply: 100804167793
+    start_date: '2013-07-19'
+    webids:
+      coinmarketcap: stellar
+      cryptocompare: xlm
+      cryptocompare/id: '4614'
+exchanges:
+  - id: stellarterm
+    name: stellarterm
+    web:
+      - https://stellarterm.com/
+  - id: stellarport
+    name: Stellarport
+    web:
+      - https://stellarport.io/home
+  - id: interstellar
+    name: Interstellar
+    web:
+      - https://interstellar.exchange/
+team_url: https://www.stellar.org/about/
+team:
+  - name: Bartek Nowotarski
+    role: developer
+  - name: Boris Reznikov
+    role: Partnerships
+  - name: David Mazieres
+    role: Chief Scientist
+  - name: Jed McCaleb
+    role: developer
+    webids:
+      linkedin: 'jed-mccaleb-4052a4'
+      github: jedmccaleb
+      twitter: edmccaleb
+history:
+  - date: '2016-07-27'
+    description: Stellar STR switching its currency to Stellar xlm
+    url: https://www.mystellar.org/thread-86.html
+tags:
+  - exchange
+webids:
+  bitcointalk: '1428573.0'
+  custom/forum: 'https://galactictalk.org/'
+  custom/chat: 'http://slack.stellar.org/'
+  github: stellar
+  twitter: StellarOrg
+  reddit: stellar
+  facebook: stellarfoundation
+  linkedin/company: stellar-development-foundation
+  keybase: team/stellar.public
+  wikipedia/en: Stellar_(payment_network)
+  bitcoinwiki: Stellar
