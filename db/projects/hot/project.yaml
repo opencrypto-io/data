@@ -6,6 +6,7 @@ assets:
   - id: hot
     name: HoloToken
     type: token
+    token_standard: ERC-20
     ledger: ethereum
     symbol: HOT
     contract_address: '0x6c6ee5e31d828de241282b9606c8e98ea48526e2'

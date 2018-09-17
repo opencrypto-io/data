@@ -1,0 +1,32 @@
+name: Power Ledger
+web:
+  - 'https://powerledger.io/'
+assets:
+  - id: powr
+    name: Power Ledger
+    type: token
+    ledger: ethereum
+    symbol: POWR
+    contract_address: '0x595832f8fc6bf59c85c527fec3740a1b7a361269'
+    decimals: 6
+    max_supply: 1000000000
+    start_date: '2017-07-05'
+    webids:
+      coinmarketcap: power-ledger
+      cryptocompare: powr
+      cryptocompare/id: '339617'
+whitepapers:
+  - title: 'Power Ledger Whitepaper'
+    url: https://cdn2.hubspot.net/hubfs/4519667/Documents%20/Power%20Ledger%20Whitepaper.pdf
+webids:
+  bitcointalk: '2003922.0'
+  medium: power-ledger
+  telegram: joinchat/Gop-90DIMiPF7N_EtvFzjA
+  twitter: powerledger_io
+  reddit: powerledger
+  facebook: powerledger
+  instagram: powerledger_io
+  youtube/channel: UCB_IQppQmk08jWhVEBx0_jw
+contacts:
+  email: support@powerledger.io
+  phone: '+61893226659'

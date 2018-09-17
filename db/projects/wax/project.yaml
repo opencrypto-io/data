@@ -1,0 +1,32 @@
+name: WAX
+alt_names:
+  - Worldwide Asset eXchange
+web:
+  - 'https://wax.io/'
+assets:
+  - id: wax
+    name: WAX
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: WAX
+    contract_address: '0x39bb259f66e1c59d5abef88375979b4d20d98022'
+    decimals: 8
+    max_supply: 1850000000
+    start_date: '2017-10-05'
+    webids:
+      coinmarketcap: wax
+      cryptocompare: wax
+      cryptocompare/id: '338541'
+whitepapers:
+  - title: 'Worldwide Asset eXchange (WAX)'
+    url: 'https://wax.io/documents/WAX_White_Paper.pdf?1514330404'
+webids:
+  medium: wax-io
+  telegram: waxtokenannoucements
+  github: waxio
+  twitter: WAX_io
+  reddit: WAX_io
+  facebook: WAX.io.Community
+contacts:
+  email: support@wax.io
