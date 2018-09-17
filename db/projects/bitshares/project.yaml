@@ -1,0 +1,50 @@
+name: BitShares
+alt_names:
+  - Bitshares
+web:
+  - 'https://bitshares.org'
+ledgers:
+  - id: bitshares
+    name: BitShares
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: SHA-512
+        proof_type: PoS
+        tools:
+          - type: explorer
+            url: 'http://cryptofresh.com/'
+          - type: explorer
+            url: 'http://open-explorer.io/'
+          - type: explorer
+            url: 'http://bts.ai/'
+assets:
+  - id: bts
+    name: BitShares
+    type: native
+    ledger: bitshares
+    symbol: BTS
+    max_supply: 2511953117
+    start_date: '2014-11-05'
+    webids:
+      coinmarketcap: bitshares
+      cryptocompare: bts
+      cryptocompare/id: '5039'
+clients:
+  - id: bitshares-core
+    name: BitShares Core
+team:
+  - name: Daniel Larimer
+    role: Founder
+    webids:
+      wikipedia/en: Daniel_Larimer
+      medium: '@bytemaster'
+      github: bytemaster
+webids:
+  bitcointalk: '1949828'
+  custom/forum: 'https://bitsharestalk.org/'
+  telegram: BitSharesDEX
+  github: bitshares
+  twitter: BitShares
+  reddit: bitshares
+  email: 'contactbitshares@bitshares.org'
