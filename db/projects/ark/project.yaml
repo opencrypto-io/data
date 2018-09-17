@@ -1,9 +1,11 @@
-name: Ark
+name: ARK
+alt_names:
+  - Ark
 web: 
   - 'http://ark.io/'
 ledgers:
   - id: ark
-    name: Ark
+    name: ARK
     type: blockchain
     networks:
       - id: main
