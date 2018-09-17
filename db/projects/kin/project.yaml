@@ -1,8 +1,8 @@
 name: Kin
 start_date: '2017-05-25'
 web:
+  - 'https://kinecosystem.org'  
   - 'https://kin.kik.com'
-  - 'https://kinecosystem.org/'
 assets:
   - id: kin
     name: Kin

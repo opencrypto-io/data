@@ -4,6 +4,8 @@ web:
 assets:
   - id: knc
     name: Kyber Network
+    alt_names:
+      - KyberNetwork
     type: token
     token_standard: ERC-20
     ledger: ethereum
