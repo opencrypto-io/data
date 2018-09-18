@@ -34,6 +34,13 @@ assets:
     symbol: XEM
     max_supply: 8999999999
     start_date: '2015-03-31'
+    denominations:
+      plural: XEM
+      subunits:
+        - unit: 0.001
+          name: microXEM
+        - unit: 0.000001
+          name: milliXEM
     webids:
       coinmarketcap: nem
       cryptocompare: xem

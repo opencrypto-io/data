@@ -103,3 +103,9 @@ slack:
 kakao:
   title: Kakao Talk
   url: https://open.kakao.com/o/@id
+vk:
+  title: VK
+  url: https://vk.com/@id
+coingecko:
+  title: CoinGecko
+  url: https://www.coingecko.com/en/coins/@id

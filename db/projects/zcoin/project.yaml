@@ -1,0 +1,52 @@
+name: ZCoin
+web:
+  - 'https://zcoin.io'
+ledgers:
+  - id: zcoin
+    name: ZCoin
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        algorithm: Lyra2Z
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'http://explorer.zcoin.io'
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/xzc/'
+          - type: explorer
+            url: 'https://insight.zcoin.io/'
+          - type: explorer
+            url: 'https://bchain.info/XZC/'
+          - type: explorer
+            url: 'https://xzc.ccore.online/'
+assets:
+  - id: xzc
+    name: ZCoin
+    type: native
+    ledger: zcoin
+    symbol: XZC
+    max_supply: 21400000
+    webids:
+      coinmarketcap: zcoin
+      cryptocompare: xzc
+      cryptocompare/id: '30022'
+team:
+  - name: Poramin Insom
+    role: founder
+  - name: Peter Shugalev
+    role: lead core developer
+  - name: Andrey Berzrukov
+    role: C++ developer
+webids:
+  bitcointalk: '1638450'
+  discord: 4FjnQ2q
+  github: zcoinofficial/zcoin
+  twitter: zcoinofficial
+  reddit: zcoin
+  facebook: zcoinofficial
+  youtube/channel: UC4zOvMMqnBM_DLrtA4_XwGA
+  custom/blog: https://zcoin.io/blog/
+contacts:
+  email: team@zcoin.io
