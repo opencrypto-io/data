@@ -44,11 +44,6 @@ assets:
       coinmarketcap: stellar
       cryptocompare: xlm
       cryptocompare/id: '4614'
-exchanges:
-  - id: interstellar
-    name: Interstellar
-    web:
-      - https://interstellar.exchange/
 team_url: https://www.stellar.org/about/
 team:
   - name: Bartek Nowotarski
