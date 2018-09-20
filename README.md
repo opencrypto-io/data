@@ -32,6 +32,7 @@ There is basic structure of the database:
 Language | Library | Status | Mantainer
 --- | --- | --- | ---
 **JavaScript** | [opencrypto-data-js](https://github.com/opencrypto-io/data-js) *(official)* | ✅ Working | OpenCrypto.io
+**Python** | [opencrypto-data.py](https://github.com/opencrypto-io/data.py) *(official)* | 🚧 In construction | OpenCrypto.io
 **PHP** | opencrypto-data-php | 🚧 In construction | OpenCrypto.io
 
 ## Builds
