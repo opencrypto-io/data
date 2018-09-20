@@ -3,3 +3,5 @@ node_modules
 dist
 db/projects_test
 tmp
+schema_*
+db/projects_*
