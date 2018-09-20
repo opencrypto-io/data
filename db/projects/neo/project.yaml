@@ -10,7 +10,7 @@ ledgers:
     networks:
       - id: main
         type: main
-        name: MainNet
+        name: Main Net
         tools:
           - type: explorer
             url: 'https://neotracker.io'
@@ -18,12 +18,24 @@ ledgers:
             url: 'https://neoscan.io/'
           - type: explorer
             url: 'http://monitor.cityofzion.io/'
+          - type: explorer
+            url: 'https://scan.nel.group/#mainnet'
+          - type: explorer
+            url: 'http://state.otcgo.cn/index.html?network=mainnet&idx=0'
+          - type: explorer
+            url: 'https://blolys.com/#/mainnet'
       - id: test
         type: test
         name: TestNet
         tools:
           - type: explorer
             url: 'http://monitor.cityofzion.io/'
+          - type: explorer
+            url: 'https://scan.nel.group/#testnet'
+          - type: explorer
+            url: 'https://neoscan-testnet.io/'
+          - type: explorer
+            url: 'http://state.otcgo.cn/?network=testne&idx=0'
 assets:
   - id: neo
     description: 'A token represents the ownership of the NEO blockchain.'
@@ -120,7 +132,9 @@ team:
       twitter: 1055954568Ray
 whitepapers:
   - title: 'NEO White Paper'
+    url: http://docs.neo.org/en-us/whitepaper.html
   - title: 'NEO Contract Whitepaper'
+    url: http://docs.neo.org/en-us/basic/neocontract.html
 history:
   - date: '2017-06-22'
     title: Antshares Rebrands, Introduces NEO and the New Smart Economy
@@ -134,9 +148,12 @@ webids:
   medium: '@NEO_Council'
   youtube/channel: UCl1AwEDN0w5lTmfJEMsY5Vw
   facebook: NEOSmartEcon
+  facebook/groups: '460442364313016'
   custome/blog: https://neo.org/blog
   wikipedia/en: NEO_(cryptocurrency)
   bitcoinwiki: NEO
+  linkedin/company: neo-blockchain
+  crunchbase/organization: neo
 tags:
   - smartcontract
   - china
