@@ -74,6 +74,13 @@ assets:
       coinmarketcap: gas
       cryptocompare: gas
       cryptocompare/id: '213532'
+clients:
+  - id: neo-gui
+    name: NEO-GUI
+    description: 'Desktop client with complete blockchain data.'
+  - id: neo-cli
+    name: NEO-CLI
+    description: 'Desktop client with complete blockchain data.'
 team:
   - name: Da Hongfei
     role: founder
@@ -87,7 +94,7 @@ team:
       twitter: neoerikzhang
       linkedin: erik-zhang-5a6b14ab
       github: erikzhang
-      custome/email: erik@neo.org
+      custom/email: erik@neo.org
   - name: Tony Tao
     role: secretary
   - name: Johnson Zhao
@@ -149,7 +156,7 @@ webids:
   youtube/channel: UCl1AwEDN0w5lTmfJEMsY5Vw
   facebook: NEOSmartEcon
   facebook/groups: '460442364313016'
-  custome/blog: https://neo.org/blog
+  custom/blog: https://neo.org/blog
   wikipedia/en: NEO_(cryptocurrency)
   bitcoinwiki: NEO
   linkedin/company: neo-blockchain
