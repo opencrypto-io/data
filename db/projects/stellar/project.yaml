@@ -34,7 +34,7 @@ ledgers:
             url: http://testnet.stellarchain.io/
 assets:
   - id: xlm
-    name: Stellar
+    name: Lumen
     type: native
     ledger: stellar
     symbol: XLM
@@ -44,19 +44,6 @@ assets:
       coinmarketcap: stellar
       cryptocompare: xlm
       cryptocompare/id: '4614'
-exchanges:
-  - id: stellarterm
-    name: stellarterm
-    web:
-      - https://stellarterm.com/
-  - id: stellarport
-    name: Stellarport
-    web:
-      - https://stellarport.io/home
-  - id: interstellar
-    name: Interstellar
-    web:
-      - https://interstellar.exchange/
 team_url: https://www.stellar.org/about/
 team:
   - name: Bartek Nowotarski
@@ -73,7 +60,7 @@ team:
       twitter: edmccaleb
 history:
   - date: '2016-07-27'
-    description: Stellar STR switching its currency to Stellar xlm
+    description: Stellar STR switching its currency to Lumen XLM
     url: https://www.mystellar.org/thread-86.html
 tags:
   - exchange
