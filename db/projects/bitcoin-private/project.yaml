@@ -1,0 +1,44 @@
+name: Bitcoin Private
+web:
+  - 'https://btcprivate.org'
+ledgers:
+  - id: bitcoin-private
+    name: Bitcoin Private
+    type: blockchain
+    forked: true
+    networks:
+      - id: main
+        algorithm: Equihash
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'https://explorer.btcprivate.org/'
+assets:
+  - id: btcp
+    name: Bitcoin Private
+    type: native
+    ledger: bitcoin-private
+    symbol: BTCP
+    max_supply: 21000000
+    start_date: '2018-01-01'
+    webids:
+      coinmarketcap: bitcoin-private
+      cryptocompare: btcp
+      cryptocompare/id: '770095'
+whitepapers:
+  - title: 'Bitcoin Private: Whitepaper'
+    url: 'https://btcprivate.org/whitepaper.pdf'
+webids:
+  bitcointalk: '2675257.0'
+  discord: eGuQQUR
+  github: BTCPrivate
+  twitter: bitcoinprivate
+  reddit: BTC_Private
+  facebook: bitcoinprivate
+  youtube/channel: 'UCt5MOeYrCAa-KzjpRSwEwAg'
+  instagram: btcprivateofficial
+  medium: '@bitcoinprivate'
+  discord: 46U2p4m
+  telegram: BTCPrivate
+contacts:
+  email: 'bitcoinprivateofficial@gmail.com'

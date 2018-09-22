@@ -1,0 +1,107 @@
+name: Elastos
+web:
+  - 'https://www.elastos.org/'
+ledgers:
+  - id: elastos
+    name: Elastos
+    type: blockchain
+    networks:
+      - id: main
+        tools:
+          - type: explorer
+            url: 'https://blockchain.elastos.org/'
+assets:
+  - id: ela
+    name: Elastos
+    type: native
+    ledger: elastos
+    symbol: ELA
+    max_supply: 33000000
+    start_date: '2017-12-22'
+    first_distribution:
+      - title: 'public participants'
+        amount: 16500000
+        percent: 50
+      - title: 'employees, advisors'
+        amount: 5000000
+        percent: 15
+      - title: 'developement'
+        amount: 8000000
+        percent: 24
+      - title: 'foundation'
+        amount: 3500000
+        percent: 11
+    webids:
+      coinmarketcap: elastos
+      cryptocompare: ela
+      cryptocompare/id: '744987'
+clients:
+  - id: elastos-wallet
+    name: Elastos Wallet
+    description: 'Wallet for Elastos blockchain.'
+team_url: https://www.elastos.org/en/team/
+team:
+  - name: Rong Chen
+    role: founder
+    photo: 'https://www-e7de82.elastos.org/wp-content/uploads/2018/05/RongChen.jpg'
+  - name: Feng Han
+    role: co-founder
+    photo: 'https://www-e7de82.elastos.org/wp-content/uploads/2018/05/hanfeng.jpg'
+  - name: Yipeng Su
+    role: board member
+    photo: 'https://www-e7de82.elastos.org/wp-content/uploads/2018/05/suyipeng.jpg'
+  - name: Shunan Yu
+    role: technical manager
+    photo: 'https://www-e7de82.elastos.org/wp-content/uploads/2018/05/yushunan.jpg'
+  - name: Song Sjun
+    role: technical manager
+    photo: 'https://www-e7de82.elastos.org/wp-content/uploads/2018/05/songshijun.jpg'
+  - name: Rebecca Zhu
+    role: assistant chief engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/09%E6%9C%B1%E5%87%A4-1.jpg'
+  - name: Emilie Xu
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/27%E5%BE%90%E4%B8%BD%E5%A9%B7-2.jpg'
+  - name: Wesley Zhao
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/28%E8%B5%B5%E4%B8%87%E9%87%8C-1.jpg'
+  - name: Kevin He
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/11%E4%BD%95%E5%89%91%E8%BE%89-1.jpg'
+  - name: Alex Pan
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/10%E6%BD%98%E9%B9%8F-1.jpg'
+  - name: Tony Tan
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/18%E8%B0%AD%E4%B8%9C%E9%9B%B7-1.jpg'
+  - name: Bob Zhang
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/17%E5%BC%A0%E5%8D%9A%E5%9F%8E-1.jpg'
+  - name: Sean Xu
+    role: engineer
+    photo: 'https://www.elastos.org/wp-content/uploads/2018/05/20%E5%BE%90%E6%99%A8-1.jpg'
+whitepapers:
+  - title: 'elastos white paper: Smart-web powered by blockchain'
+    url: 'https://www.elastos.org/wp-content/uploads/2018/White%20Papers/elastos_whitepaper_en1.pdf'
+  - title: 'Elastos Sidechain White Paper'
+    url: 'https://www.elastos.org/wp-content/uploads/2018/White%20Papers/elastos_sidechain_whitepaper_v0.3.0.8_EN.pdf'
+  - title: 'elastos white paper: Chytrý web napájený blockchainem'
+    url: 'https://www.elastos.org/wp-content/uploads/2018/White%20Papers/elastos_whitepaper_cz.pdf'
+webids:
+  telegram: elastosgroup
+  slack: elastos
+  github: elastos
+  twitter: Elastos_org
+  reddit: Elastos
+  facebook: elastosorg
+  slack: elastos
+  instagram: elastosofficial
+  youtube/channel: UCy5AjgpQIQq3bv8oy_L5WTQ
+  discord: MHSUVZN
+tags:
+  - republic
+  - China
+contacts:
+  email: 'global-community@elastos.org'
+  location:hq: 'Tower G. Zhizao street, No. 45, Chengfu Road, Haidian District, Beijing, China'
+  location:node: '11F, Huahong Tower, 463 Tanggu Road, Shanghai, China'
