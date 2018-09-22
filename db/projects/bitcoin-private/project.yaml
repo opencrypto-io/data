@@ -5,10 +5,12 @@ ledgers:
   - id: bitcoin-private
     name: Bitcoin Private
     type: blockchain
+    start_date: '2018-03-02'
     forked: true
     networks:
       - id: main
         algorithm: Equihash
+        target_block_time: 150
         proof_type: PoW
         tools:
           - type: explorer
@@ -25,9 +27,17 @@ assets:
       coinmarketcap: bitcoin-private
       cryptocompare: btcp
       cryptocompare/id: '770095'
+clients:
+  - id: full-node-desktop-wallet
+    name: Full-Node Desktop Wallet
+    description: 'Wallet for Bitcoin Private blockchain.'
+  - id: electrum-wallet
+    name: Electrum Wallet
 whitepapers:
   - title: 'Bitcoin Private: Whitepaper'
     url: 'https://btcprivate.org/whitepaper.pdf'
+tags:
+  - fork
 webids:
   bitcointalk: '2675257.0'
   discord: eGuQQUR
@@ -40,5 +50,6 @@ webids:
   medium: '@bitcoinprivate'
   discord: 46U2p4m
   telegram: BTCPrivate
+  wikipedia/en: Bitcoin_Private
 contacts:
   email: 'bitcoinprivateofficial@gmail.com'
