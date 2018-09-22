@@ -2,7 +2,7 @@ name: NEO
 web:
   - 'https://neo.org/'
 start_date: '2014-02-01'
-description: 'NEO is a blockchain, originally known as AntShares, sometimes called as chinese Ethereum. It is open source platform for smart contracts in China.'
+description: 'NEO is a blockchain, originally known as AntShares, sometimes called as chinese Ethereum. It is a first open source platform for smart contracts started in China.'
 ledgers:
   - id: neo
     name: NEO
@@ -11,6 +11,8 @@ ledgers:
       - id: main
         type: main
         name: Main Net
+        algorithm: dBFT
+        proof_type: PoS
         tools:
           - type: explorer
             url: 'https://neotracker.io'
