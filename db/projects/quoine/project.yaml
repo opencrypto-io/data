@@ -1,0 +1,24 @@
+name: QASH
+alt_names:
+  - Quoine Liquid
+web:
+  - 'https://liquid.plus/'
+assets:
+  - id: qash
+    name: QASH
+    type: token
+    ledger: ethereum
+    symbol: QASH
+    contract_address: '0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
+    max_supply: 1000000000
+    start_date: '2017-10-02'
+    webids:
+      coinmarketcap: qash
+      cryptocompare: qash
+      cryptocompare/id: '402714'
+webids:
+  bitcointalk: '2256844.0'
+  custom/forum: 'https://steemit.com/@quoineliquid'
+  telegram: QUOINE
+  twitter: quoine_SG
+  reddit: Qash
