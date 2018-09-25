@@ -1,0 +1,63 @@
+name: Horizen
+alt_names:
+  - ZenCash
+web:
+  - 'https://horizen.global/'
+ledgers:
+  - id: horizen
+    name: Horizen
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        tools:
+          - type: explorer
+            url: 'https://explorer.zensystem.io/'
+          - type: explorer
+            url: 'https://explorer.zen-solutions.io/'
+assets:
+  - id: zen
+    name: Horizen
+    type: native
+    ledger: horizen
+    symbol: ZEN
+    webids:
+      coinmarketcap: zencash
+team_url: 'https://www.horizen.global/team/'
+team:
+  - name: Rob Viglione
+    role: team lead
+    webids:
+      linkedin: robert-viglione-2780634
+      twitter: robviglione
+  - name: Rolf Versluis
+    role: executive advisor
+    webids:
+      linkedin: rolfversluis
+      twitter: RolfVersluis
+  - name: Alberto Garoffolo
+    role: director of engineering
+    webids:
+      linkedin: alberto-garoffolo-576554
+      twitter: agaroffolo
+whitepapers:
+  - title: 'Zen White Paper'
+    url: 'https://www.horizen.global/assets/files/Zen-White-Paper.pdf'
+  - title: 'Horizen: Bringing privacy to life'
+    url: 'https://www.horizen.global/assets/files/Horizen-Application-Platform-Whitepaper.pdf'
+  - title: 'Horizen: Proposal to modify Satoshi consensus to enhance protection against 51% attacks'
+    url: 'https://www.horizen.global/assets/files/A-Penalty-System-for-Delayed-Block-Submission-by-Horizen.pdf'
+webids:
+  bitcointalk: '2047435'
+  custom/blog: 'https://blog.zensystem.io/'
+  custom/chat: 'https://horizen.global/invite/telegram'
+  discord: Hu5mQxR
+  github: ZencashOfficial
+  twitter: horizenglobal
+  reddit: Horizen
+  youtube/channel: UCQ0v_lUnZHIKUQUXJzfgqOg
+  facebook: horizenglobal
+  linkedin/company: horizenofficial
+  telegram: zencash
+contacts:
+  email: info@horizen.global

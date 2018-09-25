@@ -1,0 +1,48 @@
+name: Decentraland
+web:
+  - 'https://decentraland.org/'
+assets:
+  - id: mana
+    name: Decentraland
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: MANA
+    contract_address: '0x0f5d2fb29fb7d3cfee444a200298f468908cc942'
+    max_supply: 2805886393.1583
+    decimals: 18
+    start_date: '2017-08-08'
+    webids:
+      coinmarketcap: decentraland
+      etherscan/token: decentraland
+      cryptocompare: mana
+      cryptocompare/id: '199148'
+team:
+  - name: Ari Meilich
+    role: project lead
+    webids:
+      linkedin: arimeilich
+      twitter: arimeilich
+  - name: Esteban Ordano
+    role: tech lead
+    webids:
+      github: eordano
+      linkedin: eordano
+      twitter: eordano
+whitepapers:
+  - title: 'Decentraland: White paper'
+    url: 'https://decentraland.org/whitepaper.pdf'
+webids:
+  bitcointalk: '2065128.0'
+  custom/forum: 'https://forum.decentraland.org/'
+  custom/chat: 'https://chat.decentraland.org/'
+  telegram: dcl_market
+  github: decentraland
+  twitter: decentraland
+  reddit: decentraland
+  discord: 9EcuFgC
+  custom/blog: 'https://blog.decentraland.org/'
+  facebook: decentraland
+  coingecko: decentraland
+contacts:
+  email: hello@decentraland.org
