@@ -1,0 +1,35 @@
+name: Dentacoin
+web:
+  - 'http://www.dentacoin.com/'
+assets:
+  - id: dcn
+    name: Dentacoin
+    type: token
+    ledger: ethereum
+    symbol: DCN
+    contract_address: '0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6'
+    decimals: 0
+    max_supply: 8000000000000
+    start_date: '2017-06-01'
+    webids:
+      coinmarketcap: dentacoin
+      cryptocompare: dcn
+      cryptocompare/id: '218906'
+whitepapers:
+  - title: 'Dentacoin: The Blockchain Solution for the Global Dental Industry'
+    url: 'https://dentacoin.com/assets/uploads/whitepaper.pdf'
+webids:
+  bitcointalk: '1944236.0'
+  telegram: dentacoin
+  github: Dentacoin
+  twitter: dentacoin
+  reddit: Dentacoin
+  slack: dentacoin
+  facebook: dentacoin
+  coingecko: dentacoin
+  custom/blog: 'https://blog.dentacoin.com/'
+  medium: '@dentacoin'
+  youtube: dentacoin
+  instagram: dentacoin_official
+contacts:
+  email: admin@dentacoin.com
