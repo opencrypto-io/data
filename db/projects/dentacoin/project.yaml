@@ -29,7 +29,7 @@ webids:
   coingecko: dentacoin
   custom/blog: 'https://blog.dentacoin.com/'
   medium: '@dentacoin'
-  youtube: dentacoin
+  youtube/channel: 'UCSL-UsN8dc4CzHWiCv-NfrQ'
   instagram: dentacoin_official
 contacts:
   email: admin@dentacoin.com

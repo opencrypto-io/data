@@ -31,9 +31,9 @@ assets:
       cryptocompare: nas
       cryptocompare/id: '619555'
 clients:
-  id: nasnano
-  name: NASnano
-  description: 'Wallet for Nebulas blockchain.'
+  - id: nasnano
+    name: NASnano
+    description: 'Wallet for Nebulas blockchain.'
 team_url: https://nebulas.io/team.html
 team:
   - name: Hitters Xu

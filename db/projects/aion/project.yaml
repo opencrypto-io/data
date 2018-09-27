@@ -1,0 +1,23 @@
+name: Aion
+web:
+  - 'https://aion.network/'
+assets:
+  - id: aion
+    name: Aion
+    type: token
+    ledger: ethereum
+    symbol: AION
+    contract_address: '0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466'
+    max_supply: 465934586.66
+    start_date: '2017-09-28'
+    webids:
+      coinmarketcap: aion
+      cryptocompare: aion
+      cryptocompare/id: '431235'
+webids:
+  custom/forum: 'https://blog.aion.network/'
+  telegram: aion_blockchain
+  discord: srU4qbS
+  github: aionnetwork
+  twitter: Aion_Network
+  reddit: AionNetwork
