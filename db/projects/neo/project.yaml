@@ -99,6 +99,7 @@ team:
       custom/email: erik@neo.org
   - name: Tony Tao
     role: secretary
+    photo: 'https://ngc.fund/images/Tony_Tao.png'
   - name: Johnson Zhao
     role: business developement
     webids:
