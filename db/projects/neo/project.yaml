@@ -45,6 +45,7 @@ assets:
     type: native
     ledger: neo
     symbol: NEO
+    decimals: 0
     max_supply: 100000000
     ico_properties:
       start_date: '2017-08-08'
@@ -63,7 +64,9 @@ assets:
       cryptocompare/id: '27368'
   - id: gas
     description: 'A cryptocurrency which is distributed by holding NEO, used to fuel transactions on the NEO blockchain.'
-    name: Gas
+    name: NeoGas
+    alt_names:
+      - Gas
     start_date: '2016-07-15'
     type: token
     token_standard: NEP-5
