@@ -1,0 +1,61 @@
+name: TenX
+web:
+  - 'https://www.tenx.tech/'
+assets:
+  - id: pay
+    name: TenX
+    alt_names:
+      - TenXPay
+    type: token
+    ledger: ethereum
+    symbol: PAY
+    contract_address: '0xb97048628db6b661d4c2aa833e95dbe1a905b280'
+    decimals: 18
+    max_supply: 205218255.9485
+    start_date: '2016-06-06'
+    webids:
+      coinmarketcap: tenx
+      etherscan/token: TenXPay
+      cryptocompare: pay
+      cryptocompare/id: '45260'
+team_url: https://tenx.tech/en/our-team
+team:
+  - name: Toby Hoenisch
+    role: co-founder
+    webids:
+      linkedin: tobyai
+      twitter: tobyai
+  - name: Julian Hosp
+    role: co-founder
+    webids:
+      linkedin: julianhosp
+      twitter: julianhosp
+  - name: Paul Kittiwongsunthorn
+    role: co-founder
+    webids:
+      linkedin: paulkitti
+      twitter: Paul_Kitti
+  - name: Michael Sperk
+    role: co-founder
+    webids:
+      linkedin: 'michael-sperk-15b0b0ba'
+      twitter: SperkMichael
+whitepapers:
+  - title: 'TenX: Payment Platform Whitepaper'
+    url: 'https://downloads.ctfassets.net/xecblntwky6m/5sWzq3FOoMiWuiQ0i8gKCG/84d359acabe7bb1ef3d1c1252c82828a/tenx_whitepaper_final.pdf'
+  - title: 'Ten X: Payment Platform Supplemental Whitepaper'
+    url: 'https://assets.ctfassets.net/xecblntwky6m/7aZa87CiyseY6Que2sWYaA/f21a3b76d24d2d58104023407bb062cd/tenx_whitepaper_supplemental.pdf'
+webids:
+  bitcointalk: '1953612.0'
+  custom/forum: 'https://blog.tenx.tech/'
+  custom/chat: 'https://chat.tenx.tech'
+  twitter: tenxwallet
+  reddit: TenX
+  youtube/channel: 'UCrh49JX-9UQJbee6e4EGhog'
+  facebook: tenxwallet
+  linkedin/company: tenxwallet
+  instagram: tenxofficial
+  coingecko: tenx
+contacts:
+  email: team@tenx.tech
+  location:hq: '8 Eu Tong Sen Street #24-89,90, The Central, Singapore 059818'

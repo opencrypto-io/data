@@ -112,3 +112,6 @@ vk:
 coingecko:
   title: CoinGecko
   url: https://www.coingecko.com/en/coins/@id
+vimeo:
+  title: Vimeo
+  url: https://vimeo.com/@id

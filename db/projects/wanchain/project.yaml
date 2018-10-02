@@ -1,0 +1,63 @@
+name: Wanchain
+web:
+  - 'https://wanchain.org/'
+ledgers:
+  - id: wanchain
+    name: Wanchain
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: PoS
+        tools:
+          - type: explorer
+            url: 'https://explorer.wanchain.org/'
+          - type: explorer
+            url: 'https://www.wanscan.org/'
+      - id: test
+        type: test
+        name: Testnet
+        tools:
+          - type: faucet
+            url: 'http://52.88.191.131:8080/'
+          - type: explorer
+            url: 'http://47.104.61.26/'
+assets:
+  - id: wan
+    name: Wanchain
+    type: native
+    ledger: wanchain
+    symbol: WAN
+    webids:
+      coinmarketcap: wanchain
+      cryptocompare: wan
+      cryptocompare/id: '240142'
+team_url: https://wanchain.org/about
+team:
+  - name: Jack Lu
+    role: founder
+    webids:
+      linkedin: 'jack-lu-57995469'
+  - name: LI NI
+    role: vice president
+  - name: Oliver Birch
+    role: vice president
+    webids:
+      linkedin: 'oliver-birch-08ba8a44'
+whitepapers:
+  - title: White paper
+    url: 'https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf'
+  - title: Yellow paper
+    url: 'https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf'
+  - title: Commercial paper
+    url: 'https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf'
+webids:
+  telegram: WanchainCHAT
+  github: wanchain
+  twitter: wanchain_org
+  reddit: wanchain
+  discord: 3DpeV6W
+  facebook: wanchainfoundation
+  medium: wanchain-foundation
+contacts:
+  email: 'info@wanchain.org'

@@ -1,0 +1,69 @@
+name: Nebulas
+web:
+  - 'https://nebulas.io/'
+ledgers:
+  - id: nebulas
+    name: Nebulas
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Nebulas mainnet
+        tools:
+          - type: explorer
+            url: 'https://explorer.nebulas.io/'
+      - id: test
+        type: test
+        name: Nebulas Testnet
+        tools:
+          - type: explorer
+            url: 'https://explorer.nebulas.io/#/testnet'
+assets:
+  - id: nas
+    name: Nebulas
+    type: native
+    ledger: nebulas
+    symbol: NAS
+    max_supply: 100000000
+    start_date: '2017-09-01'
+    webids:
+      coinmarketcap: nebulas-token
+      cryptocompare: nas
+      cryptocompare/id: '619555'
+clients:
+  - id: nasnano
+    name: NASnano
+    description: 'Wallet for Nebulas blockchain.'
+team_url: https://nebulas.io/team.html
+team:
+  - name: Hitters Xu
+    role: founder
+    photo: 'https://nebulas.io/assets/images/users/hitters.jpg'
+    webids:
+      linkedin: hitters
+  - name: Aero Wang
+    role: co-founder
+    photo: 'https://nebulas.io/assets/images/users/aero.jpg'
+    webids:
+      linkedin: aero101
+  - name: Xuepeng Fan
+    role: research director
+    photo: 'https://nebulas.io/assets/images/users/xuepeng.jpg'
+    webids:
+      linkedin: 'xuepeng-fan-4a77a558'
+      github: AthrunArthur
+whitepapers:
+  - title: 'Nebulas Technical White Paper'
+    url: 'https://nebulas.io/docs/NebulasTechnicalWhitepaper.pdf'
+webids:
+  medium: nebulasio
+  telegram: nebulasio
+  github: nebulasio
+  twitter: nebulasio
+  reddit: nebulas
+  custom/chat: https://nebulasio.herokuapp.com/
+  facebook: nebulasproject
+  youtube/channel: UCjLeXpHykFS71FlXNrk9MWg
+  instagram: nebulasio
+contacts:
+  email: contact@nebulas.io

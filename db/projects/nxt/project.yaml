@@ -1,0 +1,42 @@
+name: Nxt
+web:
+  - 'https://nxt.org/'
+ledgers:
+  - id: nxt
+    name: Nxt
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: PoS
+        proof_type: PoS/LPoS
+        tools:
+          - type: explorer
+            url: 'https://www.mynxt.info/blockexplorer/'
+          - type: explorer
+            url: 'https://nxtportal.org/'
+          - type: explorer
+            url: 'http://www.peerexplorer.com/'
+assets:
+  - id: nxt
+    name: Nxt
+    type: native
+    ledger: nxt
+    symbol: NXT
+    max_supply: 1000000000
+    start_date: '2013-11-24'
+    webids:
+      coinmarketcap: nxt
+      cryptocompare: nxt
+      cryptocompare/id: '1183'
+webids:
+  bitcointalk: '587007.0'
+  custom/forum: 'https://nxtforum.org'
+  telegram: NXTCommunity
+  gitlab: JeanLucPicard/nxt/src
+  twitter: NxtCommunity
+  reddit: nxt
+  facebook: NxtBlockchain
+  vimeo: nxtorg
+  custom/blog: 'https://nxtplatform.org/news/'
+contacts:
+  email: travin@nxtfoundation.io

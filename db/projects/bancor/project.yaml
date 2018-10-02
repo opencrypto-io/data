@@ -1,0 +1,35 @@
+name: Bancor
+alt_names:
+  - Bancor Network Token
+web:
+  - 'https://bancor.network/'
+assets:
+  - id: bnt
+    name: Bancor
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: BNT
+    contract_address: '0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c'
+    decimals: 18
+    max_supply: 79323978
+    start_date: '2017-02-13'
+    webids:
+      coinmarketcap: bancor
+      etherscan/token: Bancor
+      cryptocompare: bnt
+      cryptocompare/id: '22327'
+whitepapers:
+  - title: 'Bancor Protocol'
+    url: 'https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf'
+webids:
+  bitcointalk: '1789222.0'
+  custom/blog: 'https://blog.bancor.network'
+  telegram: bancor
+  github: bancorprotocol
+  twitter: Bancor
+  reddit: Bancor
+  coingecko: bancor-network
+  facebook: bancor
+  youtube/channel: UCA125wWsdbsG1XPenWcBkyg
+  linkedin/company: bancor-foundation

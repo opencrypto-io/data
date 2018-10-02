@@ -1,0 +1,40 @@
+name: Quoine
+alt_names:
+  - QASH
+  - Quoine Liquid
+  - Liquid
+web:
+  - 'https://liquid.plus/'
+assets:
+  - id: qash
+    name: QASH
+    type: token
+    ledger: ethereum
+    symbol: QASH
+    contract_address: '0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
+    decimals: 6
+    max_supply: 1000000000
+    start_date: '2017-10-02'
+    ico_properties:
+      start_date: '2017-11-05'
+      end_date: '2017-11-08'
+      ico_price: 0.001 ETH
+      raised: 106400000 USD
+      country: Singapore
+    webids:
+      coinmarketcap: qash
+      cryptocompare: qash
+      cryptocompare/id: '402714'
+webids:
+  bitcointalk: '2256844.0'
+  custom/forum: 'https://steemit.com/@quoineliquid'
+  telegram: QUOINE
+  twitter: QuoineGlobal
+  reddit: Qash
+  facebook: QuoineGlobal
+  instagram: quoineglobal
+  linkedin/company: quoine
+  youtube/channel: UCOR2GJnFoOgTazC5v6mBTSA
+  coingecko: qash
+contacts:
+  email: support@quoine.com
