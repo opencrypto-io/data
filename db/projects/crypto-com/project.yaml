@@ -27,7 +27,7 @@ team:
     role: co-founder
 whitepapers:
   - title: 'MCO Whitepaper 2.0'
-    url: 'https://crypto.com/images/mco_whitepaper.pdf'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '1926269.0'
   twitter: cryptocom

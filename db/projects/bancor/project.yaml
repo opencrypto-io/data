@@ -21,7 +21,7 @@ assets:
       cryptocompare/id: '22327'
 whitepapers:
   - title: 'Bancor Protocol'
-    url: 'https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '1789222.0'
   custom/blog: 'https://blog.bancor.network'

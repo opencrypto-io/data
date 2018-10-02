@@ -64,6 +64,9 @@ team:
     role: Go Developer
   - name: Yury Gagrin
     role: Javascript Developer
+whitepapers:
+  - title: 'Into the Ether with Ethereum Classic: The Store-of-Value Commodity to Power the Internet of Things.'
+    file: whitepaper.pdf
 webids:
   twitter: EthereumClassic
   telegram: ethclassic

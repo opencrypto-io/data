@@ -64,7 +64,7 @@ team:
       linkedin: maggie-guan-8a16838
 whitepapers:
   - title: 'CyberMiles: Empowering the Decentralization of Online Marketplaces'
-    url: https://www.cybermiles.io/wp-content/uploads/2018/03/Project-white-paper_en-US.pdf
+    file: whitepaper.pdf
   - title: 'CyberMiles: A Next Generation Blockchain Protocol for Business Transactions'
     url: https://www.cybermiles.io/wp-content/uploads/2018/03/Technical-Whitepaper_en-US.pdf
 webids:
