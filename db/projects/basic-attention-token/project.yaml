@@ -37,6 +37,9 @@ team:
       twitter: bcrypt
   - name: Scott Locklin
     role: smart contracts
+whitepapers:
+  - title: 'Basic Attention Toknen (BAT): Blockchain Based Digital Advertising'
+    file: whitepaper.pdf
 contacts:
   email: info@basicattentiontoken.org
 tags:

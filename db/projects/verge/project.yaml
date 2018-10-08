@@ -33,7 +33,7 @@ assets:
       cryptocompare: xvg
 whitepapers:
   - title: 'Verge: The most privacy focused cryptocurrency'
-    url: https://vergecurrency.com/static/blackpaper/Verge-Anonymity-Centric-CryptoCurrency.pdf
+    file: whitepaper.pdf
 team_url: https://vergecurrency.com/verge-team/
 team:
   - name: Sunerok

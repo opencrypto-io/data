@@ -25,6 +25,9 @@ assets:
       coinmarketcap: qash
       cryptocompare: qash
       cryptocompare/id: '402714'
+whitepapers:
+  - title: 'Providing liquidity to the non-LIQUID Crypto Economy'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '2256844.0'
   custom/forum: 'https://steemit.com/@quoineliquid'

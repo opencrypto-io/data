@@ -18,7 +18,7 @@ assets:
       cryptocompare/id: '918501'
 whitepapers:
   - title: 'Aurora Chain White Paper'
-    url: 'https://www.aurorachain.io/Aurora%20Chain%20white%20paper%20EN.pdf'
+    file: whitepaper.pdf
 webids:
   github: aoaio
   bitcointalk: '4437272.'

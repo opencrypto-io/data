@@ -49,7 +49,7 @@ assets:
       cryptocompare: dash
 whitepapers:
   - title: 'Dash: A Privacy-Centric Crypto-Currency'
-    url: https://github.com/dashpay/dash/wiki/Whitepaper
+    file: whitepaper.pdf
 team_url: https://www.dash.org/team/
 team:
   - name: Ryan Taylor

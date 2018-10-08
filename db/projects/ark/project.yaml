@@ -1,7 +1,7 @@
 name: ARK
 alt_names:
   - Ark
-web: 
+web:
   - 'http://ark.io/'
 ledgers:
   - id: ark
@@ -30,3 +30,6 @@ team:
     role: Managing Director/Co-Founder
     webids:
       linkedin: mikedoty
+whitepapers:
+  - title: 'ARK Whitepaper: A Platform for Consumer Adoption'
+    file: whitepaper.pdf

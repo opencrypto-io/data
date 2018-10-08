@@ -52,6 +52,9 @@ team:
       twitter: rogerkver
       wikipedia/en: Roger_Ver
       custom/web: https://rogerver.com/
+whitepapers:
+  - title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '2040221.0'
   github: bitcoincashorg

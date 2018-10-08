@@ -22,7 +22,7 @@ assets:
     max_supply: 100000000
 whitepapers:
   - title: 'AidCoin Whitepaper'
-    url: https://www.aidcoin.co/assets/documents/whitepaper.pdf
+    file: whitepaper.pdf
 team_url: https://www.aidcoin.co/#team
 team:
   - name: Francesco Nazari Fusetti

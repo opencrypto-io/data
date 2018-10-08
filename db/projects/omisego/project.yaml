@@ -28,7 +28,7 @@ team:
     role: managing director
 whitepapers:
   - title: 'OmiseGO Decentralized Exchange and Payments Platform'
-    url: https://cdn.omise.co/omg/whitepaper.pdf
+    file: whitepaper.pdf
 webids:
   telegram: omisego
   custom/chat: 'https://omg.omise.co/slack'

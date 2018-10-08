@@ -39,6 +39,9 @@ team:
     role: lead core developer
   - name: Andrey Berzrukov
     role: C++ developer
+whitepapers:
+  - title: 'Zerocoin: Anonymous Distributed E-Cash from Bitcoin'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '1638450'
   discord: 4FjnQ2q

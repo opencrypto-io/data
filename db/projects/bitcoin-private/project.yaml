@@ -35,7 +35,7 @@ clients:
     name: Electrum Wallet
 whitepapers:
   - title: 'Bitcoin Private: Whitepaper'
-    url: 'https://btcprivate.org/whitepaper.pdf'
+    file: whitepaper.pdf
 tags:
   - fork
 webids:

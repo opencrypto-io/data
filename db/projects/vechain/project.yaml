@@ -28,6 +28,9 @@ assets:
       coinmarketcap: vechain
       cryptocompare: vet
       cryptocompare/id: '236131'
+whitepapers:
+  - title: 'Development Plan and Whitepaper'
+    file: whitepaper.pdf
 webids:
   telegram: joinchat/GG4BlQwm19czcBGOewv40Q
   twitter: vechainofficial

@@ -44,8 +44,8 @@ team:
       twitter: sasha35625
       linkedin: sasha35625
 whitepapers:
-  - title: Whitepaper
-    url: https://wavesplatform.com/files/images/whitepaper_v0.pdf
+  - title: 'Whitepaper'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '3223136.0'
   custom/forum: 'https://wavestalk.org/'

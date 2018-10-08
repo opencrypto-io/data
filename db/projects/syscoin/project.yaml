@@ -30,7 +30,7 @@ assets:
       cryptocompare/id: '4618'
 whitepapers:
   - title: 'Syscoin 3.0 Whitepaper Summary'
-    url: https://www.syscoin.org/wp-content/uploads/2018/06/Syscoin-3-WhitePaper-Summary.pdf
+    file: whitepaper.pdf
   - title: 'Syscoin 3.0 Whitepaper'
     url: https://syscoin.org/Syscoin_3.0_Whitepaper__Condensed.pdf
   - title: 'Syscoin 2.0 Whitepaper'

@@ -40,7 +40,7 @@ team:
     role: embassy board
 whitepapers:
   - title: 'Nexus: A Peer-to-Peer Network'
-    url: https://www.nexusearth.com/wp-content/uploads/2018/05/Nexus-White-Paper-2018-05-11.pdf
+    file: whitepaper.pdf
 webids:
   bitcointalk: '657601.0'
   github: Nexusoft

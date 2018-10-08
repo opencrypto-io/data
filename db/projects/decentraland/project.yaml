@@ -31,7 +31,7 @@ team:
       twitter: eordano
 whitepapers:
   - title: 'Decentraland: White paper'
-    url: 'https://decentraland.org/whitepaper.pdf'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '2065128.0'
   custom/forum: 'https://forum.decentraland.org/'

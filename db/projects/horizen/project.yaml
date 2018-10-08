@@ -42,7 +42,7 @@ team:
       twitter: agaroffolo
 whitepapers:
   - title: 'Zen White Paper'
-    url: 'https://www.horizen.global/assets/files/Zen-White-Paper.pdf'
+    file: whitepaper.pdf
   - title: 'Horizen: Bringing privacy to life'
     url: 'https://www.horizen.global/assets/files/Horizen-Application-Platform-Whitepaper.pdf'
   - title: 'Horizen: Proposal to modify Satoshi consensus to enhance protection against 51% attacks'

@@ -58,6 +58,9 @@ team:
       linkedin: 'jed-mccaleb-4052a4'
       github: jedmccaleb
       twitter: edmccaleb
+whitepapers:
+  - title: 'The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus'
+    file: whitepaper.pdf
 history:
   - date: '2016-07-27'
     description: Stellar STR switching its currency to Lumen XLM

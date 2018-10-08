@@ -31,7 +31,7 @@ assets:
     max_supply: 42
 whitepapers:
   - title: 'Whitepaper'
-    url: https://github.com/42-coin/42/releases/download/v0.0.8/whitepaper.pdf
+    file: whitepaper.pdf
 team:
   - name: aelpop
     role: Graphic designer

@@ -14,6 +14,9 @@ assets:
       coinmarketcap: aion
       cryptocompare: aion
       cryptocompare/id: '431235'
+whitepapers:
+  - title: 'Aion: White Paper'
+    file: whitepaper.pdf
 webids:
   custom/forum: 'https://blog.aion.network/'
   telegram: aion_blockchain

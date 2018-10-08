@@ -18,6 +18,9 @@ assets:
       etherscan/token: KyberNetwork
       cryptocompare: knc
       cryptocompare/id: '310497'
+whitepapers:
+  - title: 'KyberNetwork: A trustless decentralized exchange and payment service'
+    file: whitepaper.pdf
 webids:
   telegram: kybernetwork
   github: kybernetwork

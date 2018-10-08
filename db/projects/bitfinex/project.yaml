@@ -59,6 +59,9 @@ team:
     photo: https://www.bitfinex.com/assets/bitfinex-kasper-rasmussen-bb043fe3530469a8ece343f14d9a544ea864d797b5baf32747d1865f826dd275.jpg
     webids:
       linkedin: kasperrasmussen-
+whitepapers:
+  - title: 'Ethfinex Liquidity Token: Creating the worlds most liquid exchange for digital assets. Built for the Ethereum community, using Ethereum'
+    file: whitepaper.pdf
 webids:
   twitter: bitfinex
   facebook: bitfinex

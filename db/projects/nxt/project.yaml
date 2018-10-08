@@ -28,6 +28,9 @@ assets:
       coinmarketcap: nxt
       cryptocompare: nxt
       cryptocompare/id: '1183'
+whitepapers:
+  - title: 'Whitepaper:Nxt'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '587007.0'
   custom/forum: 'https://nxtforum.org'

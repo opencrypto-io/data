@@ -34,7 +34,7 @@ exchanges:
       - https://oasis.direct/
 whitepapers:
   - title: 'The Dai Stablecoin System'
-    url: https://makerdao.com/whitepaper/DaiDec17WP.pdf
+    file: whitepaper.pdf
   - title: 'Reference implementation (Purple Paper)'
     url: https://makerdao.com/purple/
 webids:

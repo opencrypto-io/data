@@ -58,8 +58,8 @@ contacts:
   email: info@cardanohub.com
   location:hq: Zug, Switzerland
 whitepapers:
-- title: 'Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol'
-  url: https://whycardano.com/assets/WhyCardanoEN.pdf
+  - title: 'Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol'
+    file: whitepaper.pdf
 tags:
 - academic
 webids:

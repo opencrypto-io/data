@@ -82,6 +82,9 @@ team:
       email: noodledoodle@getmonero.org
       github: NoodleDoodleNoodleDoodleNoodleDoodleNoo
       reddit/user: NoodleDoodle_xmr
+whitepapers:
+  - title: 'CryptoNote v 2.0'
+    file: whitepaper.pdf
 tags:
   - technology:private
 webids:

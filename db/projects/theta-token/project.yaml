@@ -30,8 +30,8 @@ team:
   - name: Rizwan Virk
     role: advisor
 whitepapers:
-  - title: Theta Network
-    url: 'https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf'
+  - title: 'Theta Network'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '2451089.0'
   telegram: joinchat/Gt6mbxJb-2XukwGA_atLjg

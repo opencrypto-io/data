@@ -44,7 +44,7 @@ team:
       wikipedia/en: Changpeng_Zhao
 whitepapers:
   - title: Binance Exchange Whitepaper
-    url: https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
+    file: whitepaper.pdf
 webids:
   telegram: binance_announcements
   facebook: binanceexchange

@@ -39,6 +39,9 @@ team:
     role: developer
   - name: Chad Ballantyne
     role: marketing
+whitepapers:
+  - title: 'Technical notes: Whitepaper aka Purplepaper'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '1262920'
   custom/forum: 'https://forum.pivx.org/'

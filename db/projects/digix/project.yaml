@@ -39,7 +39,7 @@ team:
       twitter: '@shaundjie'
 whitepapers:
   - title: 'Digixs Whitepaper: The Gold Standard in Crypto-Assets'
-    url: https://digix.global/whitepaper.pdf
+    file: whitepaper.pdf
 webids:
   medium: '@digix'
   github: digixglobal

@@ -40,6 +40,9 @@ team:
       wikipedia/en: Daniel_Larimer
       medium: '@bytemaster'
       github: bytemaster
+whitepapers:
+  - title: 'bitshares blockchain foundation: The BitShares Blockchain'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '1949828'
   custom/forum: 'https://bitsharestalk.org/'

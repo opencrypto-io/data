@@ -71,8 +71,8 @@ team:
     webids:
       linkedin: scottgwarner
 whitepapers:
-  - title: Dragonchain
-    url: 'https://dragonchain.com/assets/Dragonchain_Business_Summary.pdf'
+  - title: 'Dragonchain'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '2096284.0'
   telegram: dragontalk

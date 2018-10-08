@@ -69,9 +69,9 @@ webids:
   bitcoinwiki: Nucleus_Vision
 whitepapers:
   - title: 'One Page Whitepaper'
-    url: https://nucleus.vision/onepager.pdf?v=3.0.1
+    file: whitepaper.pdf
   - title: 'Light paper'
-    url: https://nucleus.vision/light-paper.pdf?v=3.0.1
+    url: https://nucleus.vision/light-paper.pdf
   - title: 'Whitepaper'
     url: https://docsend.com/view/sfdfg6p
 tags:

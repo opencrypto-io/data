@@ -67,7 +67,7 @@ clients:
     name: Bitcoin Core
 whitepapers:
   - title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
-    url: https://bitcoin.org/bitcoin.pdf
+    file: whitepaper.pdf
 team:
   - name: Satoshi Nakamoto
     role: Author

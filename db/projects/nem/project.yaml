@@ -45,6 +45,9 @@ assets:
       coinmarketcap: nem
       cryptocompare: xem
       cryptocompare/id: '5285'
+whitepapers:
+  - title: 'NEM: Technical Reference'
+    file: whitepaper.pdf
 history:
   - date: '2014-01-19'
     description: 'User called UtopianFuture on BitcoiTalk started open call for participation on community-oriented cryptocurrency'

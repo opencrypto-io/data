@@ -54,7 +54,7 @@ team:
       github: AthrunArthur
 whitepapers:
   - title: 'Nebulas Technical White Paper'
-    url: 'https://nebulas.io/docs/NebulasTechnicalWhitepaper.pdf'
+    file: whitepaper.pdf
 webids:
   medium: nebulasio
   telegram: nebulasio

@@ -17,7 +17,7 @@ assets:
       cryptocompare/id: '218906'
 whitepapers:
   - title: 'Dentacoin: The Blockchain Solution for the Global Dental Industry'
-    url: 'https://dentacoin.com/assets/uploads/whitepaper.pdf'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '1944236.0'
   telegram: dentacoin

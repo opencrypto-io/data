@@ -49,7 +49,7 @@ assets:
     max_supply: 1000000000
 whitepapers:
   - title: 'EOS.IO Technical White Paper v2'
-    url: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
+    file: whitepaper.pdf
 team:
   - name: Brendan Blumer
     role: CEO

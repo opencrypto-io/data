@@ -46,7 +46,8 @@ team:
     webids:
       linkedin: 'xiao-peng%EF%BC%88alex%EF%BC%89-xu-77b19596'
 whitepapers:
-  - title: Whitepaper
+  - title: 'Whitepaper'
+    url: 'https://github.com/gxchain/whitepaper/blob/master/en/whitepaper.md'
 webids:
   bitcointalk: '1813679.0'
   custom/forum: 'https://forum.gxb.io/'

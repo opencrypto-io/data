@@ -42,7 +42,7 @@ team:
       twitter: SperkMichael
 whitepapers:
   - title: 'TenX: Payment Platform Whitepaper'
-    url: 'https://downloads.ctfassets.net/xecblntwky6m/5sWzq3FOoMiWuiQ0i8gKCG/84d359acabe7bb1ef3d1c1252c82828a/tenx_whitepaper_final.pdf'
+    file: whitepaper.pdf
   - title: 'Ten X: Payment Platform Supplemental Whitepaper'
     url: 'https://assets.ctfassets.net/xecblntwky6m/7aZa87CiyseY6Que2sWYaA/f21a3b76d24d2d58104023407bb062cd/tenx_whitepaper_supplemental.pdf'
 webids:

@@ -18,7 +18,7 @@ assets:
       cryptocompare/id: '318169'
 whitepapers:
   - title: 'Loopring: A Decentralized Token Exchange Protocol'
-    url: 'https://github.com/Loopring/whitepaper/blob/master/en_whitepaper.pdf'
+    file: whitepaper.pdf
 webids:
   bitcointalk: '2069498'
   medium: '@loopring'

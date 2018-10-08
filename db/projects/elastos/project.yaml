@@ -82,7 +82,7 @@ team:
     photo: 'https://www.elastos.org/wp-content/uploads/2018/05/20%E5%BE%90%E6%99%A8-1.jpg'
 whitepapers:
   - title: 'elastos white paper: Smart-web powered by blockchain'
-    url: 'https://www.elastos.org/wp-content/uploads/2018/White%20Papers/elastos_whitepaper_en1.pdf'
+    file: whitepaper.pdf
   - title: 'Elastos Sidechain White Paper'
     url: 'https://www.elastos.org/wp-content/uploads/2018/White%20Papers/elastos_sidechain_whitepaper_v0.3.0.8_EN.pdf'
   - title: 'elastos white paper: Chytrý web napájený blockchainem'

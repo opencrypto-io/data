@@ -45,11 +45,11 @@ team:
     webids:
       linkedin: 'oliver-birch-08ba8a44'
 whitepapers:
-  - title: White paper
-    url: 'https://wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf'
-  - title: Yellow paper
+  - title: 'White paper'
+    file: whitepaper.pdf
+  - title: 'Yellow paper'
     url: 'https://wanchain.org/files/Wanchain-Yellowpaper-EN-version.pdf'
-  - title: Commercial paper
+  - title: 'Commercial paper'
     url: 'https://wanchain.org/files/Wanchain-Commercial-Whitepaper-EN-version.pdf'
 webids:
   telegram: WanchainCHAT
