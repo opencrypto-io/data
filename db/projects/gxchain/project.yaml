@@ -1,0 +1,61 @@
+name: GXChain
+web:
+  - 'https://gxs.gxb.io'
+ledgers:
+  - id: gxchain
+    name: GXChain
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: DPoS
+        tools:
+          - type: explorer
+            url: 'https://block.gxb.io/'
+assets:
+  - id: gxs
+    name: GXChain
+    type: native
+    ledger: gxchain
+    symbol: GXS
+    max_supply: 100000000
+    start_date: '2017-03-04'
+    webids:
+      coinmarketcap: gxchain
+      cryptocompare: gxs
+      cryptocompare/id: '659770'
+team:
+  - name: MQ Huang
+    role: founder
+    photo: 'https://gxs.gxb.io/en/images/team/newpic1.png'
+    webids:
+      linkedin: 'minqiang-huang'
+  - name: Andy
+    role: co-founder
+    photo: 'https://gxs.gxb.io/en/images/team/newpic2.png'
+    webids:
+      linkedin: 'andy-tu-a1566a132'
+  - name: Cheng Wang
+    role: CTO
+    photo: 'https://gxs.gxb.io/en/images/team/wangcheng.png'
+    webids:
+      linkedin: 'charles-wang-85b1b8163'
+  - name: Xiaopeng Xu
+    role: operation director
+    photo: 'https://gxs.gxb.io/en/images/team/newpic3.png'
+    webids:
+      linkedin: 'xiao-peng%EF%BC%88alex%EF%BC%89-xu-77b19596'
+whitepapers:
+  - title: Whitepaper
+webids:
+  bitcointalk: '1813679.0'
+  custom/forum: 'https://forum.gxb.io/'
+  telegram: GXChain_international
+  github: gxchain
+  twitter: gongxinbao
+  reddit: gxs
+  facebook: GXChain
+contacts:
+  email: bd@gxb.io
+  location:hq: '9 Temasek Boulevard, #04-20 Suntec Tower, Singapore'
+  location:node: '69 King William Street, London, EC4N 7DZ, United Kingdon'

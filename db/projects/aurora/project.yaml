@@ -1,0 +1,34 @@
+name: Aurora
+web:
+  - 'https://www.aurorachain.io/'
+assets:
+  - id: aoa
+    name: Aurora
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: AOA
+    contract_address: '0x9ab165d795019b6d8b3e971dda91071421305e5a'
+    decimals: 18
+    max_supply: 10000000000
+    start_date: '2018-05-18'
+    webids:
+      coinmarketcap: aurora
+      cryptocompare: aoa
+      cryptocompare/id: '918501'
+whitepapers:
+  - title: 'Aurora Chain White Paper'
+    url: 'https://www.aurorachain.io/Aurora%20Chain%20white%20paper%20EN.pdf'
+webids:
+  github: aoaio
+  bitcointalk: '4437272.'
+  telegram: AuroraOfficialEN
+  twitter: AuroraOffic_en
+  reddit: AuroraOfficial
+  facebook: AuroraOfficialEN
+  coingecko: aurora
+  slack: auroraofficial
+  medium: '@AuroraOfficial'
+  linkedin/company: aurorachain
+contacts:
+  email: info@aurorachain.io

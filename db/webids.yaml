@@ -64,6 +64,9 @@ keybase:
 crunchbase/person:
   title: Crunchbase Person
   url: https://www.crunchbase.com/person/@id
+crunchbase/organization:
+  title: Crunchbase Organization
+  url: https://www.crunchbase.com/organization/@id
 wikipedia/en:
   title: Wikipedia EN
   url: https://wikipedia.org/wiki/@id
@@ -109,3 +112,6 @@ vk:
 coingecko:
   title: CoinGecko
   url: https://www.coingecko.com/en/coins/@id
+vimeo:
+  title: Vimeo
+  url: https://vimeo.com/@id
