@@ -1,0 +1,57 @@
+name: 42-coin
+web:
+  - 'http://42-coin.org/'
+start_date: '2014-01-04'
+ledgers:
+  - id: '42'
+    name: '42'
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: mainnet
+        proof_type: PoW+PoS
+        mineable: true
+        algorithm: Scrypt
+        target_block_time: 42
+        tools:
+          - type: explorer
+            url: https://chainz.cryptoid.info/42/
+          - type: explorer
+            url: https://prohashing.com/explorer/42/
+assets:
+  - id: '42'
+    type: native
+    ledger: '42'
+    name: 42-coin
+    symbol: '42'
+    start_date: '2016-11-12'
+    webids:
+      coinmarketcap: 42-coin
+    max_supply: 42
+whitepapers:
+  - title: 'Whitepaper'
+    url: https://github.com/42-coin/42/releases/download/v0.0.8/whitepaper.pdf
+team:
+  - name: aelpop
+    role: Graphic designer
+  - name: farl4web
+    role: Online marketing
+    webids:
+      twitter: farl
+  - name: hendo420
+    role: Founder
+  - name: hpulijala
+    role: Java architect
+  - name: IMZ
+    role: Community manager
+  - name: Lasergun
+    role: Lead developer
+  - name: sirslayer
+    role: Mining specialist
+webids:
+  github: 42-coin
+  bitcointalk: '1502028'
+  bitcoinwiki: 42-coin
+  twitter: 42newchain
+  telegram: newchain42

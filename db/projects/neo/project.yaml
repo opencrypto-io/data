@@ -1,0 +1,174 @@
+name: NEO
+web:
+  - 'https://neo.org/'
+start_date: '2014-02-01'
+description: 'NEO is a blockchain, originally known as AntShares, sometimes called as chinese Ethereum. It is a first open source platform for smart contracts started in China.'
+ledgers:
+  - id: neo
+    name: NEO
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Main Net
+        algorithm: dBFT
+        proof_type: PoS
+        tools:
+          - type: explorer
+            url: 'https://neotracker.io'
+          - type: explorer
+            url: 'https://neoscan.io/'
+          - type: explorer
+            url: 'http://monitor.cityofzion.io/'
+          - type: explorer
+            url: 'https://scan.nel.group/#mainnet'
+          - type: explorer
+            url: 'http://state.otcgo.cn/index.html?network=mainnet&idx=0'
+          - type: explorer
+            url: 'https://blolys.com/#/mainnet'
+      - id: test
+        type: test
+        name: TestNet
+        tools:
+          - type: explorer
+            url: 'http://monitor.cityofzion.io/'
+          - type: explorer
+            url: 'https://scan.nel.group/#testnet'
+          - type: explorer
+            url: 'https://neoscan-testnet.io/'
+          - type: explorer
+            url: 'http://state.otcgo.cn/?network=testne&idx=0'
+assets:
+  - id: neo
+    description: 'A token represents the ownership of the NEO blockchain.'
+    name: NEO
+    type: native
+    ledger: neo
+    symbol: NEO
+    decimals: 0
+    max_supply: 100000000
+    ico_properties:
+      start_date: '2017-08-08'
+      end_date: '2017-09-09'
+      total_cap: 100000000
+      ico_price: 0.032 USD
+      raised: 6199.53 BTC
+      country: China
+    first_distribution:
+      - title: 'public participants'
+        amount: 20000000
+        percent: 20
+    webids:
+      coinmarketcap: neo
+      cryptocompare: neo
+      cryptocompare/id: '27368'
+  - id: gas
+    description: 'A cryptocurrency which is distributed by holding NEO, used to fuel transactions on the NEO blockchain.'
+    name: NeoGas
+    alt_names:
+      - Gas
+    start_date: '2016-07-15'
+    type: token
+    token_standard: NEP-5
+    ledger: neo
+    symbol: GAS
+    contract_address: '602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7'
+    decimals: 8
+    max_supply: 100000000
+    webids:
+      coinmarketcap: gas
+      cryptocompare: gas
+      cryptocompare/id: '213532'
+clients:
+  - id: neo-gui
+    name: NEO-GUI
+    description: 'Desktop client with complete blockchain data.'
+  - id: neo-cli
+    name: NEO-CLI
+    description: 'Desktop client with complete blockchain data.'
+team:
+  - name: Da Hongfei
+    role: founder
+    photo: https://coincentral.com/wp-content/uploads/2018/01/download-1.jpeg
+    webids:
+      twitter: dohongfei
+      linkedin: dahongfei
+  - name: Erik Zhang
+    role: founder
+    webids:
+      twitter: neoerikzhang
+      linkedin: erik-zhang-5a6b14ab
+      github: erikzhang
+      custom/email: erik@neo.org
+  - name: Tony Tao
+    role: secretary
+    photo: 'https://ngc.fund/images/Tony_Tao.png'
+  - name: Johnson Zhao
+    role: business developement
+    webids:
+      twitter: blkchnzc
+  - name: You Xinfei
+    role: public relations
+  - name: Dong Guohua
+    role: community operation
+  - name: Chris Chen
+    role: developer
+  - name: Huang Shuxi
+    role: community operation
+    webids:
+      twitter: huangjesus6
+  - name: Peter Lin
+    role: developer
+    webids:
+      twitter: fortuneskylin
+  - name: Sharlyne
+    role: community operation
+  - name: Ray
+    role: test engineer
+  - name: Fred Huang
+    role: overseas community operation
+    webids:
+      twitter: fredafrica2012
+  - name: Nathan Chen
+    role: community operation
+  - name: Lights Li
+    role: core developer
+    webids:
+      twitter: sharlyne8888
+  - name: Susu
+    role: community operation
+  - name: Yan Mingxia
+    role: front-end developement engineer
+  - name: Fan Shoushou
+    role: technical tester
+    webids:
+      twitter: 1055954568Ray
+whitepapers:
+  - title: 'NEO White Paper'
+    url: http://docs.neo.org/en-us/whitepaper.html
+  - title: 'NEO Contract Whitepaper'
+    url: http://docs.neo.org/en-us/basic/neocontract.html
+history:
+  - date: '2017-06-22'
+    title: Antshares Rebrands, Introduces NEO and the New Smart Economy
+    description: 'NEO rebranded from Antshares to NEO in June 2017.'
+    url: https://bitcoinmagazine.com/articles/antshares-rebrands-introduces-neo-and-new-smart-economy1/
+webids:
+  bitcointalk: '2057932.0'
+  github: neo-project
+  twitter: neo_blockchain
+  reddit: NEO
+  medium: '@NEO_Council'
+  youtube/channel: UCl1AwEDN0w5lTmfJEMsY5Vw
+  facebook: NEOSmartEcon
+  facebook/groups: '460442364313016'
+  custom/blog: https://neo.org/blog
+  wikipedia/en: NEO_(cryptocurrency)
+  bitcoinwiki: NEO
+  linkedin/company: neo-blockchain
+  crunchbase/organization: neo
+tags:
+  - smartcontract
+  - china
+contacts:
+  email: 'contact@neo.org'

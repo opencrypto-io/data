@@ -1,0 +1,43 @@
+name: OmiseGO
+alt_names:
+  - OmiseGo
+web:
+  - 'https://omisego.network/'
+assets:
+  - id: omg
+    name: OmiseGO
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: OMG
+    contract_address: '0xd26114cd6ee289accf82350c8d8487fedb8a0c07'
+    decimals: 18
+    max_supply: 140245398
+    start_date: '2017-06-23'
+    webids:
+      coinmarketcap: omisego
+      etherscan/token: OmiseGo
+      cryptocompare: omg
+      cryptocompare/id: '187440'
+team:
+  - name: Juan Hasegawa
+    role: CEO
+  - name: Donnie Harinsut
+    role: COO
+  - name: Vansa Chatikavanij
+    role: managing director
+whitepapers:
+  - title: 'OmiseGO Decentralized Exchange and Payments Platform'
+    url: https://cdn.omise.co/omg/whitepaper.pdf
+webids:
+  telegram: omisego
+  custom/chat: 'https://omg.omise.co/slack'
+  custom/blog: 'https://blog.omisego.network/'
+  github: omisesgo
+  twitter: omise_go
+  reddit: omise_go
+  facebook: OmiseGO
+contacts:
+  email: omg@omise.co
+tags:
+  - financial

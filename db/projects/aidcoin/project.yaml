@@ -1,0 +1,63 @@
+name: AidCoin
+web:
+  - 'https://www.aidcoin.co/'
+start_date: '2017-11-02'
+assets:
+  - id: aid
+    type: token
+    name: AidCoin
+    symbol: AID
+    ledger: ethereum
+    start_date: '2018-01-24'
+    contract_address: '0x37e8789bb9996cac9156cd5f5fd32599e6b91289'
+    decimals: 18
+    ico_properties:
+      start_date: '2018-01-16'
+      end_date: '2018-02-01'
+      total_cap: 41700000
+      raised: 8333.333 ETH
+    webids:
+      coinmarketcap: aidcoin
+      cryptocompare: aid
+    max_supply: 100000000
+whitepapers:
+  - title: 'AidCoin Whitepaper'
+    url: https://www.aidcoin.co/assets/documents/whitepaper.pdf
+team_url: https://www.aidcoin.co/#team
+team:
+  - name: Francesco Nazari Fusetti
+    role: CEO
+    photo: http://list.wiki/File:Francesco_Nazari_Fusetti.jpg
+    webids:
+      linkedin: francescon
+      twitter: fusettinazari
+  - name: Manuel Ravalli
+    role: Business Development Manager
+    webids:
+      linkedin: manuela-ravalli-85a1a721
+  - name: Vittorio Minacori
+    role: CTO
+    webids:
+      github: vittominacori
+      linkedin: vittoriominacori
+      twitter: vittominacori
+  - name: Alexandra Ducocq
+    role: COO
+  - name: Shanna Zullo
+    role: US Business Developlment Manager
+  - name: Robert Robinson
+    webids:
+      email: UK Managing Director
+  - name: Federico Malvezzi
+    role: Managing Director
+webids:
+  github: AidCoinCo
+  bitcointalk: '2347477.0'
+  reddit: AidCoin
+  twitter: aid_coin
+  facebook: AidCoinCo
+  linkedin/company: aidcoin
+  telegram: kleros aidcoin
+  medium: kleros aidcoin
+tags:
+ - general:charity

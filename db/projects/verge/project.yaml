@@ -1,0 +1,85 @@
+name: Verge
+web:
+  - 'http://vergecurrency.com/'
+start_date: '2014-10-09'
+ledgers:
+  - id: verge
+    name: Verge
+    type: blockchain
+    start_date: '2016-02-15'
+    networks:
+      - id: main
+        type: main
+        name: main
+        proof_type: PoW
+        mineable: true
+        algorithm: Scrypt
+        target_block_time: 30
+        maximum_block_size: 240000000
+        tools:
+          - type: explorer
+            url: https://prohashing.com/explorer/Verge/
+          - type: explorer
+            url: https://verge-blockchain.info/
+assets:
+  - id: xvg
+    type: native
+    name: Verge
+    symbol: XVG
+    ledger: verge
+    max_supply: 16555000000
+    webids:
+      coinmarketcap: Verge
+      cryptocompare: xvg
+whitepapers:
+  - title: 'Verge: The most privacy focused cryptocurrency'
+    url: https://vergecurrency.com/static/blackpaper/Verge-Anonymity-Centric-CryptoCurrency.pdf
+team_url: https://vergecurrency.com/verge-team/
+team:
+  - name: Sunerok
+    role: Lead Developer
+    webids:
+      github: justinvforvendetta
+      twitter: justinvendetta
+  - name: Marvin - maprme
+    role: Product Developer
+    webids:
+      github: marpme
+      twitter: marpme_
+  - name: StanFaas
+    role: Lead Web Developer
+    webids:
+      github: StanFaas
+      twitter: StanFaas
+  - name: EdwinB89
+    role: Front-end Developer
+    webids:
+      github: EdwinB89
+  - name: Sourcedexter
+    role: Bot Dev
+    webids:
+      github: sourcedexter
+  - name: Swen
+    webids:
+      github: SwenVanZanten
+  - name: SpookyKid
+    role: Int. Business Development
+history:
+  - date: '2018-04-17'
+    title: 'Pornhub Partners With Verge Cryptocurrency, Shifting The Future Of Porn Payments'
+    url: https://www.forbes.com/sites/curtissilver/2018/04/17/pornhub-partners-with-verge-cryptocurrency-shifting-the-future-of-porn-payments/#419294c324b5
+  - date: '2016-02-01'
+    title: 'A History of Verge - Understanding the Verge Price Spikes'
+    description: 'In February 2016, DogeCoinDark was renamed to Verge'
+webids:
+  github: vergecurrency
+  bitcointalk: '1365894.0'
+  bitcoinwiki: Verge
+  reddit: vergecurrency
+  twitter: vergecurrency
+  facebook: VERGEcurrency
+  youtube/channel: UCv59uw_WhHB2VxbBs0LPeeQ
+  telegram: kleros VERGExvg
+  custom/chat: https://discordapp.com/invite/vergecurrency
+tags:
+ - general:anonymity

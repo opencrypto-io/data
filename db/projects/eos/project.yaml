@@ -1,0 +1,77 @@
+name: EOS
+web:
+  - 'https://eos.io/'
+start_date: '2017-06-26'
+ledgers:
+  - id: eos
+    name: EOSIO
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: EOS Network
+        proof_type: DPoS
+        mineable: false
+        target_block_time: 120
+        maximum_block_size: 1000000
+        tools:
+          - type: explorer
+            url: https://eostracker.io/
+          - type: explorer
+            url: https://eosmonitor.io/
+          - type: explorer
+            url: http://www.eos.host/
+      - id: jungle
+        type: test
+        name: EOS Jungle Testnet
+        tools:
+          - type: explorer
+            url: http://dev.cryptolions.io/
+          - type: faucet
+            url: http://dev.cryptolions.io/#faucet
+assets:
+  - id: eos
+    type: token
+    name: EOS
+    symbol: EOS
+    ledger: ethereum
+    contract_address: '0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0'
+    decimals: 18
+    start_date: '2017-07-01'
+    ico_properties:
+      start_date: '2017-06-26'
+      end_date: '2018-06-01'
+      total_cap: 900000000
+      raised: 185000000 USD
+    webids:
+      coinmarketcap: EOS
+      cryptocompare: eos
+    max_supply: 1000000000
+whitepapers:
+  - title: 'EOS.IO Technical White Paper v2'
+    url: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
+team:
+  - name: Brendan Blumer
+    role: CEO
+    webids:
+      linkedin: brendanblumer
+      twitter: brendanblumer
+      wikipedia/en: Brendan_Blumer
+  - name: Daniel Larimer
+    role: CTO
+    webids:
+      linkedin: daniel-larimer-0a367089
+      twitter: bytemaster7
+  - name: Ian Grigg
+    role: Partner
+    webids:
+      linkedin: ian-grigg-0379
+      twitter: iang_fc
+  - name: Brock Pierce
+    role: Partner
+webids:
+  github: eosio
+  bitcoinwiki: EOS
+  twitter: eos_io
+  facebook: eosblockchain
+  telegram: AAAAAEQbOeucnaMWN0A9dQ

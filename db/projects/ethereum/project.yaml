@@ -1,11 +1,15 @@
 name: Ethereum
 web:
   - 'https://www.ethereum.org/'
+<<<<<<< HEAD
 assets:
   - id: eth
+=======
+ledgers:
+  - id: ethereum
+    name: Ethereum
+>>>>>>> master
     type: blockchain
-    name: Ether
-    symbol: ETH
     networks:
       - id: main
         type: main
@@ -23,7 +27,11 @@ assets:
         name: Ropsten Test Network
         tools:
           - type: explorer
+<<<<<<< HEAD
             id: 'https://ropsten.etherscan.io/'
+=======
+            url: https://ropsten.etherscan.io/
+>>>>>>> master
       - id: kovan
         type: test
         name: Kovan Test Network
@@ -39,7 +47,17 @@ assets:
           - type: explorer
             url: 'https://rinkeby.etherscan.io/'
           - type: faucet
+<<<<<<< HEAD
             url: 'https://faucet.rinkeby.io/'
+=======
+            url: https://faucet.rinkeby.io/
+assets:
+  - id: eth
+    type: native
+    ledger: ethereum
+    name: Ether
+    symbol: ETH
+>>>>>>> master
     denominations:
       plural: ethers
       symbol: Ξ
@@ -64,7 +82,7 @@ webids:
   reddit: ethereum
   facebook: ethereumproject
   meetup: ethereum
-  youtube: ethereumproject
+  youtube/user: ethereumproject
   stackexchange: ethereum
   gitter: ethereum
   wikipedia/en: Ethereum

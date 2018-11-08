@@ -1,9 +1,9 @@
 name: Litecoin
-web: 
-- https://www.litecoin.org/
-assets:
-- id: ltc
-  symbol: LTC
+web:
+- 'https://www.litecoin.org/'
+start_date: '2011-10-07'
+ledgers:
+- id: litecoin
   name: Litecoin
   type: blockchain
   networks:
@@ -19,6 +19,12 @@ assets:
       url: http://explorer.litecoin.net/chain/Litecoin
     - type: explorer
       url: https://chainz.cryptoid.info/ltc/
+assets:
+- id: ltc
+  symbol: LTC
+  name: Litecoin
+  type: native
+  ledger: litecoin
   max_supply: 84000000
   first_distribution:
   - title: Premined
@@ -39,8 +45,8 @@ team:
 contacts:
   email: contact@litecoin.org
 tags:
-- "technology:segwit"
+- technology:segwit
 webids:
   facebook: LitecoinCommunity
   telegram: litecoin
-  bitcointalk: "47417.0"
+  bitcointalk: '47417.0'

@@ -1,0 +1,43 @@
+name: Theta Token
+alt_names:
+  - Theta
+start_date: '2017-11-23'
+web:
+  - 'https://www.thetatoken.org/'
+assets:
+  - id: theta
+    name: Theta Token
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: THETA
+    contract_address: '0x3883f5e181fccaf8410fa61e12b59bad963fb645'
+    decimals: 18
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2018-01-04'
+    webids:
+      coinmarketcap: theta-token
+      cryptocompare: theta
+      cryptocompare/id: '714811'
+team:
+  - name: Mitch Liu
+    role: co-founder
+  - name: Jieyi Long
+    role: co-founder
+  - name: Ryan Nichols
+    role: head of product
+  - name: Rizwan Virk
+    role: advisor
+whitepapers:
+  - title: Theta Network
+    url: 'https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf'
+webids:
+  bitcointalk: '2451089.0'
+  telegram: joinchat/Gt6mbxJb-2XukwGA_atLjg
+  github: thetatoken
+  twitter: thetatoken
+  reddit: thetatoken
+  facebook: ThetaToken
+  coingecko: theta-network
+  medium: theta-network

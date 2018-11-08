@@ -1,0 +1,106 @@
+name: Dash
+web:
+  - 'https://www.dash.org/'
+start_date: '2014-01-18'
+ledgers:
+  - id: dash
+    name: Dash
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Mainnet
+        proof_type: PoW
+        mineable: false
+        algorithm: X11
+        target_block_time: 150
+        maximum_block_size: 2000000
+        tools:
+          - type: explorer
+            url: https://chainz.cryptoid.info/dash/
+          - type: explorer
+            url: https://explorer.dash.org/chain/Dash
+          - type: explorer
+            url: https://www.dash.org/network/
+          - type: explorer
+            url: https://bitinfocharts.com/dash/explorer/
+      - id: test
+        type: test
+        name: Testnet
+        tools:
+          - type: explorer
+            url: https://test.explorer.dashninja.pl/chain/Dash
+          - type: explorer
+            url: https://test.insight.dash.siampm.com/
+          - type: faucet
+            url: https://test.faucet.dashninja.pl/
+          - type: faucet
+            url: http://test.faucet.masternode.io/
+assets:
+  - id: dash
+    type: native
+    ledger: dash
+    name: Dash
+    symbol: DASH
+    start_date: '2014-01-19'
+    max_supply: 18900000
+    webids:
+      coinmarketcap: Dash
+      cryptocompare: dash
+whitepapers:
+  - title: 'Dash: A Privacy-Centric Crypto-Currency'
+    url: https://github.com/dashpay/dash/wiki/Whitepaper
+team_url: https://www.dash.org/team/
+team:
+  - name: Ryan Taylor
+    role: CEO
+  - name: Holger Schnizel
+    role: Quality Assurance, Automaton, Testing
+    webids:
+      email: holger@dash.org
+      github: schinzelh
+      linkedin: holger-schinzel-60762015
+      twitter: schinzelh
+      keybase: schinzelh
+  - name: Fernando Gutierrez
+    role: CMO
+    webids:
+      email: fernando@dash.org
+      twitter: fernando
+  - name: Robert Wiecko
+    role: COO
+    webids:
+      email: robert@dash.org
+  - name: Philipp Engelhorn
+    role: Press & Multitool
+    webids:
+      email: press@dash.org
+  - name: Glenn Austin
+    webids:
+      email: glenn.austin@dash.org
+  - name: Bob Carroll
+    role: CTO
+    webids:
+      email: bob@dash.org
+history:
+  - date: '2014-01-18'
+    title: Fork from Litecoin tree 0.8
+    url: https://github.com/dashpay/dash/blob/master/doc/release-notes.md#older-releases
+  - date: '2014-03-13'
+    title: Masternode implementation
+    description: "DASH as a first cryptocurrency project to utilize masternodes."
+  - date: '2014-09-25'
+    title: PrivateSend implementation
+  - date: '2015-01-15'
+    title: Rebase on Bitcoin
+webids:
+  github: dashpay
+  bitcointalk: '421615.0'
+  wikipedia/en: Dash_(cryptocurrency)
+  bitcoinwiki: Dash
+  reddit: dashpay
+  twitter: dashpay
+  facebook: dashpay
+  meetup: dashpc
+  youtube/channel: UCAzD2v9Yx4a4iS2_-unODkA
+  custom/forum: https://www.dash.org/forum/

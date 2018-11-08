@@ -10,12 +10,24 @@ linkedin/company:
 facebook:
   title: Facebook
   url: https://www.facebook.com/@id
+facebook/groups:
+  title: Facebook Groups
+  url: https://www.facebook.com/groups/@id
 twitter:
   title: Twitter
   url: https://twitter.com/@id
 github:
   title: GitHub
   url: https://github.com/@id
+gist:
+  title: Gist
+  url: https://gist.github.com/@id
+gitlab:
+  title: GitLab
+  url: https://gitlab.com/@id
+bitbucket:
+  title: BitBucket
+  url: https://bitbucket.org/@id
 reddit:
   title: Reddit
   url: https://reddit.com/r/@id
@@ -24,10 +36,13 @@ reddit/user:
   url: https://reddit.com/u/@id
 gitter:
   title: Gitter
-  url: https://gitter.im/orgs/@id/rooms
-youtube:
-  title: YouTube
+  url: https://gitter.im/@id
+youtube/user:
+  title: YouTube User
   url: https://www.youtube.com/user/@id
+youtube/channel:
+  title: YouTube Channel
+  url: https://www.youtube.com/channel/@id
 stackexchange:
   title: Stack Exchange
   url: https://@id.stackexchange.com/
@@ -49,15 +64,54 @@ keybase:
 crunchbase/person:
   title: Crunchbase Person
   url: https://www.crunchbase.com/person/@id
+crunchbase/organization:
+  title: Crunchbase Organization
+  url: https://www.crunchbase.com/organization/@id
 wikipedia/en:
   title: Wikipedia EN
-  url: https://wikipedia.org/@id
+  url: https://wikipedia.org/wiki/@id
 coinmarketcap:
   title: CoinMarketCap
-  url: https://coinmarketcap.com/currencies/@/
+  url: https://coinmarketcap.com/currencies/@id/
+coinmarketcap/exchange:
+  title: CoinMarketCap Exchange
+  url: https://coinmarketcap.com/exchanges/@id/
 cryptocompare:
   title: CryptoCompare
   url: https://www.cryptocompare.com/coins/@id
+cryptocompare/id:
+  title: CryptoCompare API ID
+  url: https://www.cryptocompare.com/api/data/coinsnapshotfullbyid/?id=@id
 bitcointalk:
   title: BitcoinTalk Thread
   url: https://bitcointalk.org/index.php?topic=@id
+bitcoinwiki:
+  title: Bitcoin Wiki
+  url: https://en.bitcoinwiki.org/wiki/@id
+statuspageio:
+  title: Statuspage.io
+  url: https://@id.statuspage.io/
+etherscan/token:
+  title: EtherScan Token
+  url: https://etherscan.io/token/@id
+discord:
+  title: Discord
+  url: https://discord.gg/@id
+riot:
+  title: Riot
+  url: https://riot.im/app/#/room/%23@id
+slack:
+  title: Slack
+  url: https://@id.slack.com
+kakao:
+  title: Kakao Talk
+  url: https://open.kakao.com/o/@id
+vk:
+  title: VK
+  url: https://vk.com/@id
+coingecko:
+  title: CoinGecko
+  url: https://www.coingecko.com/en/coins/@id
+vimeo:
+  title: Vimeo
+  url: https://vimeo.com/@id

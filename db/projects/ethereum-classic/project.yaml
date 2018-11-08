@@ -1,0 +1,76 @@
+name: Ethereum Classic
+web:
+  - 'https://ethereumclassic.org/'
+start_date: '2016-07-20'
+ledgers:
+  - id: ethereum-classic
+    name: Ethereum Classic
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: ethereum
+      block: 1920000
+      time: '2016-07-20T13:20:40Z'
+    start_date: '2015-07-30'
+    networks:
+      - id: main
+        type: main
+        name: Main Ethereum Classic Network
+        proof_type: PoW
+        mineable: true
+        algorithm: Ethash
+        tools:
+          - type: explorer
+            url: https://gastracker.io/
+          - type: explorer
+            url: http://etherhub.io/
+          - type: explorer
+            url: https://etcplanet.org/
+      - id: morden
+        type: test
+        name: Morden Test Network
+        tools:
+          - type: explorer
+            url: http://mordenexplorer.ethernode.io/home
+          - type: faucet
+            url: https://testnet.epool.io/
+assets:
+  - id: etc
+    type: native
+    ledger: ethereum-classic
+    name: Classic Ether
+    symbol: ETC
+    webids:
+      coinmarketcap: ethereum-classic
+      cryptocompare: etc
+team:
+  - name: Igor Artamonov
+    role: Founder
+    photo: https://pbs.twimg.com/profile_images/1012395799622443008/dr9UnaGF_400x400.jpg
+    webids:
+      linkedin: igorartamonov
+      twitter: splix
+      github: splix
+      email: igor@artamonov.ru
+      custom/web: http://igorartamonov.com/
+  - name: Constantine Kryvomaz
+    role: Go Developer
+    photo: https://etcsummit.com/wp-content/uploads/2017/10/Constantine-Kryvomaz-BW-500x500.png
+    webids:
+      linkedin: constantine-kryvomaz-b8a60361
+      github: r8d8
+      medium: '@ckryvomaz'
+  - name: Isaac Ardis
+    role: Go Developer
+  - name: Yury Gagrin
+    role: Javascript Developer
+webids:
+  twitter: EthereumClassic
+  telegram: ethclassic
+  github: ethereumproject
+  reddit: EthereumClassic
+  facebook: ethereumclassic
+  bitcointalk: '1559630.0'
+  gitter: ethereum-classic/etc
+  wikipedia/en: Ethereum_Classic
+  custom/blog: https://blog.ethereum.org/

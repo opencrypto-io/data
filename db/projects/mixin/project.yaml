@@ -1,0 +1,37 @@
+name: Mixin
+web:
+  - 'https://mixin.one/'
+assets:
+  - id: xin
+    name: Mixin
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: XIN
+    contract_address: '0xa974c709cfb4566686553a20790685a47aceaa33'
+    decimals: 18
+    max_supply: 1000000
+    ico_properties:
+      start_date: '2017-11-25'
+      end_date: '2017-12-25'
+      country: China
+    start_date: '2017-11-24'
+    webids:
+      coinmarketcap: mixin
+      cryptocompare: xinstar
+      cryptocompare/id: '918566'
+whitepapers:
+  - title: 'Mixin Network'
+    url: https://mixin.one/assets/Mixin-Draft-2018-07-01.pdf
+webids:
+  medium: mixinnetwork
+  custom/forum: 'https://mixin.one/logs'
+  telegram: Mixindeveloper
+  github: MixinNetwork
+  twitter: Mixin_Network
+  reddit: mixin
+  facebook: MixinNetwork
+  youtube/channel: UCg67cC-GO8wNEOdgGH5IRew
+  coingecko: mixin
+contacts:
+  email: contacts@misin.one

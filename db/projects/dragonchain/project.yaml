@@ -1,0 +1,89 @@
+name: Dragonchain
+web:
+  - 'https://dragonchain.com/'
+assets:
+  - id: drgn
+    name: Dragonchain
+    alt_names:
+      - 'Dragon'
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: DRGN
+    contract_address: '0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e'
+    decimals: 18
+    max_supply: 433494437
+    start_date: '2017-08-17'
+    first_distribution:
+      - title: 'public participants'
+        percent: 55
+      - title: 'employees'
+        percent: 20
+      - title: 'comapany reserve'
+        percent: 10
+      - title: 'foundation'
+        percent: 10
+      - title: 'foundation'
+        percent: 5
+    webids:
+      coinmarketcap: dragonchain
+      cryptocompare: drgn
+      cryptocompare/id: '355702'
+team:
+  - name: Joe Roets
+    role: CEO
+    webids:
+      linkedin: j0j0r0
+  - name: George Sarhanis
+    role: chief business officer
+    webids:
+      linkedin: gsarhanis
+  - name: Brandon Kite
+    role: lead developer
+    webids:
+      linkedin: bkite
+  - name: Dylan Yelton
+    role: developer
+    webids:
+      linkedin: dylan-yelton-b11ba5aa
+  - name: Alex Benedetto
+    role: developer
+    webids:
+      linkedin: alex-benedetto-6175048b
+  - name: Chin-One Chan
+    role: marketing manager Asia
+    webids:
+      linkedin: cochan
+  - name: Sabrina Gasson
+    role: marketing manager Europe
+    webids:
+      linkedin: sabrina-gasson-0078a14
+  - name: Mike Grabham
+    role: incubation lead
+    webids:
+      linkedin: mikegrabham
+  - name: Chelsea Anderson
+    role: general counsel
+    webids:
+      linkedin: chelsea-anderson-3b65b02b
+  - name: Scott Warner
+    role: IP attorney
+    webids:
+      linkedin: scottgwarner
+whitepapers:
+  - title: Dragonchain
+    url: 'https://dragonchain.com/assets/Dragonchain_Business_Summary.pdf'
+webids:
+  bitcointalk: '2096284.0'
+  telegram: dragontalk
+  github: dragonchain/dragonchain
+  twitter: dragonchaingang
+  reddit: drgn
+  facebook: Dragonchaingang
+  linkedin/company: dragonchain
+  youtube/channel: UC2_StJYNWFrQz2wiL8n6hoA
+  medium: '@dragonchain'
+  slack: dragonchain
+  coingecko: dragonchain
+contacts:
+  email: tokensale@dragonchain.com

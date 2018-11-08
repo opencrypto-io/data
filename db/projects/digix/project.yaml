@@ -1,0 +1,56 @@
+name: Digix
+alt_names:
+  - DigixDAO
+  - Digix DAO
+web:
+  - 'https://digix.global/'
+assets:
+  - id: dgd
+    name: DigixDAO
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: DGD
+    contract_address: '0xe0b7927c4af23765cb51314a0e0521a9645f0e2a'
+    decimals: 9
+    max_supply: 1999421
+    start_date: '2016-04-28'
+    webids:
+      coinmarketcap: digixdao
+      etherscan/token: dgd
+      cryptocompare: dgd
+      cryptocompare/id: '18907'
+team:
+  - name: Chng Teo Hye
+    role: chairman
+  - name: Kai C. Chng
+    role: founder
+    webids:
+      linkedin: 'kai-c-chng-540b339'
+  - name: Anthony Eufemio
+    role: founder
+    webids:
+      linkedin: 'anthony-eufemio-a4284b100'
+      twitter: realACEufemio
+  - name: Shaun Djie
+    role: founder
+    webids:
+      linkedin: shaundjie
+      twitter: '@shaundjie'
+whitepapers:
+  - title: 'Digixs Whitepaper: The Gold Standard in Crypto-Assets'
+    url: https://digix.global/whitepaper.pdf
+webids:
+  medium: '@digix'
+  github: digixglobal
+  twitter: digixglobal
+  reddit: digix
+  coingecko: digixdao
+  discord: CCDBJJC
+  linkedin/company: digixglobal
+  youtube/channel: UCtkMrniF0MYg6nUIlZkYfzg
+  instagram: digix.global
+  bitcointalk: '1417151.0'
+contacts:
+  email: support@digix.io
+  location:hq: '6 Eu Tong Sen Street, #06-09, (S)059817, Singapore'

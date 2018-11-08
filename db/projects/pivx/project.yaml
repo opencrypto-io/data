@@ -1,0 +1,54 @@
+name: PIVX
+alt_names:
+  - Private Instant Verified Transaction
+web:
+  - 'http://www.pivx.org'
+ledgers:
+  - id: pivx
+    name: PIVX
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Quark
+        proof_type: PoW/PoS
+        target_block_time: 60
+        maximum_block_size: 2000000
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/pivx/'
+          - type: explorer
+            url: 'http://www.presstab.pw/phpexplorer/PIVX/'
+assets:
+  - id: pivx
+    name: PIVX
+    type: native
+    ledger: pivx
+    symbol: PIVX
+    start_date: '2015-11-25'
+    webids:
+      coinmarketcap: pivx
+      cryptocompare: pivx
+      cryptocompare/id: '42433'
+team_url: https://pivx.org/pivx-team/
+team:
+  - name: s3v3n h4cks
+    role: chief visionary
+  - name: Coin Server
+    role: SYS admin
+  - name: Mrs X
+    role: developer
+  - name: Chad Ballantyne
+    role: marketing
+webids:
+  bitcointalk: '1262920'
+  custom/forum: 'https://forum.pivx.org/'
+  github: PIVX-Project
+  twitter: _pivx
+  reddit: pivx
+  telegram: PIVXChat
+  facebook: PIVXCrypto
+  youtube/channel: UCr4Wk2opstIsUvMOz9quFSg
+  instagram: pivxcrypto
+  bitcoinwiki: PIVX
+tags:
+  - masternode

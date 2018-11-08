@@ -1,0 +1,43 @@
+name: Crypto.com
+web:
+  - 'https://crypto.com/'
+assets:
+  - id: cto
+    type: token
+    token_standard: ERC-20
+    name: Crypto.com
+    symbol: MCO
+    ledger: ethereum
+    contract_address: '0xb63b606ac810a52cca15e44bb630fd42d8d1d83d'
+    decimals: 8
+    max_supply: 31587682
+    ico_properties:
+      start_date: '2017-05-18'
+      end_date: '2017-06-18'
+    webids:
+      coinmarketcap: crypto-com
+team:
+  - name: Kris Marszalek
+    role: co-founder
+  - name: Rafael Melo
+    role: co-founder
+  - name: Gary Or
+    role: co-founder
+  - name: Bobby Bao
+    role: co-founder
+whitepapers:
+  - title: 'MCO Whitepaper 2.0'
+    url: 'https://crypto.com/images/mco_whitepaper.pdf'
+webids:
+  bitcointalk: '1926269.0'
+  twitter: cryptocom
+  discord: B6cZahJ
+  facebook: CryptoComOfficial
+  instagram: cryptocomofficial
+  linkedin/company: cryptocom
+  reddit: Crypto_com
+  telegram: CryptoComOfficial
+  medium: '@Crypto.com'
+  coingecko: monaco
+contacts:
+  email: contact@crypto.com

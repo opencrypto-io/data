@@ -4,11 +4,10 @@
   "description": "Open dataset about cryptocurrencies & ecosystem",
   "main": "index.js",
   "scripts": {
-    "test": "mocha node_modules/opencrypto-data-build-tools/test.js",
-    "build": "node node_modules/opencrypto-data-build-tools/test.js build",
-    "print": "node node_modules/opencrypto-data-build-tools/test.js print",
-    "readme-gen": "node node_modules/opencrypto-data-build-tools/readme-gen.js",
-    "readme-gitadd": "git add README.md"
+    "test": "mocha node_modules/opencrypto-data-build-tools/index.js",
+    "build": "node node_modules/opencrypto-data-build-tools/index.js build",
+    "build-full": "node node_modules/opencrypto-data-build-tools/index.js build full",
+    "print": "node node_modules/opencrypto-data-build-tools/index.js print"
   },
   "repository": {
     "type": "git",
@@ -21,13 +20,11 @@
   },
   "homepage": "https://github.com/opencrypto-io/data#readme",
   "devDependencies": {
-    "opencrypto-data-build-tools": "git+https://github.com/opencrypto-io/data-build-tools.git",
+    "opencrypto-data-build-tools": "git+https://github.com/opencrypto-io/data-build-tools.git#0d44ec7f4984bcc49da3517958265a5bb036160d",
     "pre-commit": "^1.2.2"
   },
   "pre-commit": [
     "test",
-    "build",
-    "readme-gen",
-    "readme-gitadd"
+    "build"
   ]
 }

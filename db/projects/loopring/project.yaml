@@ -1,0 +1,32 @@
+name: Loopring
+web:
+  - 'https://loopring.org'
+assets:
+  - id: lrc
+    name: Loopring
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: LRC
+    contract_address: '0xef68e7c694f40c8202821edf525de3782458639f'
+    decimals: 18
+    max_supply: 1395076055
+    start_date: '2017-08-06'
+    webids:
+      coinmarketcap: loopring
+      cryptocompare: lrc
+      cryptocompare/id: '318169'
+whitepapers:
+  - title: 'Loopring: A Decentralized Token Exchange Protocol'
+    url: 'https://github.com/Loopring/whitepaper/blob/master/en_whitepaper.pdf'
+webids:
+  bitcointalk: '2069498'
+  medium: '@loopring'
+  custom/chat: 'https://loopring.rocket.chat/'
+  github: loopring
+  twitter: loopringorg
+  reddit: loopringorg
+  slack: loopring-team
+  telegram: loopringfans
+contacts:
+  email: foundation@loopring.org
