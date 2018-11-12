@@ -104,4 +104,4 @@ resources:
     url: https://xrphodor.wordpress.com/2018/04/09/a-history-of-xrp-ripple-part-1-2011-2013
 history:
   - date_approx: '2004'
-    description: 'First implementation of Ripple coin by Ryan Fugger'
+    title: 'First implementation of Ripple coin by Ryan Fugger'
