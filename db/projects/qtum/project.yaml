@@ -1,0 +1,82 @@
+name: Qtum
+web:
+  - 'https://qtum.org/'
+start_date: '2016-12-19'
+description: 'A decentralized and open-source smart contracts platform and value transfer protocol.'
+ledgers:
+  - id: qtum
+    name: Qtum
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: POS 3.0
+        proof_type: PoS
+        target_block_time: 120
+        tools:
+          - type: explorer
+            url: 'https://qtum.info/'
+          - type: explorer
+            url: 'https://qtumexplorer.io/'
+assets:
+  - id: qtum
+    name: Qtum
+    type: native
+    ledger: qtum
+    symbol: QTUM
+    max_supply: 100000000
+    start_date: '2016-12-19'
+    ico_properties:
+      start_date: '2016-03-16'
+      end_date: '2016-04-15'
+      total_cap: 51000000
+      raised: 15600000 USD
+    first_distribution:
+      - title: 'public participants'
+        percent: 51
+      - title: 'Developers, sponsors and founders'
+        percent: 20
+      - title: 'Funds for Qtum-related projects'
+        percent: 29
+team:
+  - name: Patrick Dai
+    role: Founder, CEO
+    photo: https://pbs.twimg.com/profile_images/963340424982089728/-6IqmEpP_400x400.jpg
+    webids:
+      linkedin: patrick-dai-39278a108
+      twitter: patrickxdai
+  - name: Neil Mahi
+    role: CTO
+    photo: https://qtum.org/user/pages/02.team/01.members/neil.jpg
+  - name: Jordan Earls
+    role: Developer
+    photo: https://pbs.twimg.com/profile_images/784985469293584385/x2w0uc85_400x400.jpg
+    webids:
+      custom/web: http://earlz.net/
+      twitter: earlzdotnet
+webids:
+  bitcointalk: '1720632.0'
+  facebook: QtumOfficial
+  telegram: joinchat/D5oBaw29NeOdpw6qqqf2lw
+  github: qtumproject/qtum
+  twitter: qtumOfficial
+  reddit: Qtum
+  coinmarketcap: qtum
+  cryptocompare: qtum
+  cryptocompare/id: '112392'
+  crunchbase/organization: qtum
+tags:
+  - platform
+  - dApps
+  - toolkit
+  - opensource
+  - UTXO
+  - VTP
+partners:
+  - title: 'Amazon Web Services'
+    url: https://blog.qtum.org/qtum-announces-a-historic-partnership-with-amazon-web-services-6a197568f6a0
+resources:
+  - title: 'Interview with Jordan Earls'
+    url: https://www.techbullion.com/interview-jordan-earls-co-founder-qtum-co-chair-smart-contracts-alliance-qtum-org-techbullion/
+contacts:
+    email: 'foundation@qtum.org'
+    location:hq: 'China'
