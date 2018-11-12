@@ -68,11 +68,11 @@ whitepapers:
   - title: 'Nano: A Feeless Distributed Cryptocurrency Network'
     url: https://nano.org/en/whitepaper
 tags:
-  - NoFees
-  - DAG
-  - Sidechains
-  - Raiblocks
-  - InstantTransactions
+  - nofee
+  - dag
+  - sidechains
+  - raiblocks
+  - instanttransactions
 history:
   - date: '2018-02-01'
     title: 'RaiBlocks rebranded to Nano'

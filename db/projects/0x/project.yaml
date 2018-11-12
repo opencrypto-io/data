@@ -66,12 +66,12 @@ whitepapers:
   - title: '0x: An open protocol for decentralized exchange on the Ethereum blockchain'
     url: https://0xproject.com/pdfs/0x_white_paper.pdf
 tags:
-  - DEX
+  - dex
   - exchange
   - interoperability
   - smart contracts
   - ethereum
-  - dApps
+  - dapps
 partners:
   - title: 'Fred Ehrsam'
     url: https://www.linkedin.com/in/fredehrsam/
@@ -84,7 +84,7 @@ partners:
   - title: 'David Sacks'
     url: https://www.linkedin.com/in/davidoliversacks/
 history:
-  - date_approx: '2017-08-15'
+  - date: '2017-08-15'
     title: 'Launch event and ICO'
 resources:
   - title: 'Beginners guide to 0x'

@@ -66,11 +66,11 @@ webids:
   crunchbase/organization: qtum
 tags:
   - platform
-  - dApps
+  - dapps
   - toolkit
   - opensource
-  - UTXO
-  - VTP
+  - utxo
+  - vtp
 partners:
   - title: 'Amazon Web Services'
     url: https://blog.qtum.org/qtum-announces-a-historic-partnership-with-amazon-web-services-6a197568f6a0

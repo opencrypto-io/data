@@ -47,11 +47,11 @@ whitepapers:
     url: https://ripple.com/files/ripple_consensus_whitepaper.pdf
 tags:
   - payment
-  - Ripplenet
-  - xCurrent
-  - Interledger
-  - xRapid
-  - xVia
+  - ripplenet
+  - xcurrent
+  - interledger
+  - xrapid
+  - xvia
 contacts:
   email: 'support@ripple.com'
   location:hq: 'San Francisco, USA'
