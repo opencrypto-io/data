@@ -1,0 +1,61 @@
+name: Stratis
+web:
+  - 'http://stratisplatform.com/'
+start_date: '2016-06-14'
+description: 'Stratis offers full service capabilities for the development, deployment and management of enterprise blockchain applications and solutions utilizing C# on the .Net framework'
+ledgers:
+  - id: stratis
+    name: Stratis
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: X13
+        proof_type: PoW/PoS
+        target_block_time: 60
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/strat/'
+          - type: explorer
+            url: 'http://cryptobe.com/chain/Stratis'
+assets:
+  - id: strat
+    name: Stratis
+    type: native
+    ledger: stratis
+    symbol: STRAT
+    start_date: '2016-08-09'
+team:
+  - name: Chris Trew
+    role: Founder, CEO
+    photo: https://stratisplatform.com/wp-content/uploads/2016/06/Chris_m-128x128.jpg
+    webids:
+      email: chris.trew@stratisplatform.com
+      twitter: christrew
+webids:
+  email: info@stratisplatform.com
+  bitcointalk: '1512202.0'
+  custom/forum: 'https://www.stratistalk.org/'
+  telegram: StratisPlatform
+  discord: 9tDyfZs
+  github: stratisproject
+  twitter: stratisplatform
+  reddit: Stratisplatform
+  coinmarketcap: stratis
+  cryptocompare: strat
+  cryptocompare/id: '24294'
+  crunchbase/organization: stratis-2
+tags:
+  - privateblockchain
+  - deployment
+  - masternode
+  - enterprise
+  - medicalresearch
+  - tracking
+  - iot
+  - fintech
+partners:
+  - title: 'Microsoft Azure BaaS'
+    url: https://stratisplatform.com/2016/10/28/microsoft-_integrates_stratis_platform_into_azure_baas_program/
+contacts:
+    email: 'info@stratisplatform.com'
+    location:hq: 'London, UK'
