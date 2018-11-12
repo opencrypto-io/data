@@ -56,8 +56,6 @@ tags:
 contacts:
   email: 'support@ripple.com'
   location:hq: 'San Francisco, USA'
-  location:node: 'New York, USA'
-  location:node: 'London, UK'
 team:
   - name: Brad Garlinghouse
     role: CEO
