@@ -2,7 +2,7 @@ name: XRP
 start_date: '2013-02-02'
 description: 'Ripple is a system of the real time gross settlements, exchange a money transfer system'
 web:
-  - 'https://ripple.com/xrp/'
+  - 'https://ripple.com/xrp'
 ledgers:
   - id: xrp
     name: XRP
@@ -12,12 +12,11 @@ ledgers:
         type: main
         name: Ripple Network
         mineable: false
-        proof_type: 'Proof of Correctness'
         tools:
           - type: explorer
-            url: 'https://xrpcharts.ripple.com/#/graph/'
+            url: 'https://xrpcharts.ripple.com/#/graph'
           - type: explorer
-            url: 'https://bithomp.com/explorer/'
+            url: 'https://bithomp.com/explorer'
 assets:
   - id: xrp
     description: 'XRP is a public, counterparty-less asset native to the XRP Ledger, and is designed to bridge the many different currencies in use worldwide.'
@@ -32,7 +31,7 @@ assets:
       cryptocompare: xrp
       cryptocompare/id: '5031'
 webids:
-  custom/forum: 'http://www.xrpchat.com/'
+  custom/forum: 'http://www.xrpchat.com'
   bitcoinwiki: Ripple
   telegram: Ripple
   discord: N4x7kPb
@@ -50,7 +49,7 @@ tags:
   - payment
   - Ripplenet
   - xCurrent
-  - Interledger(ILP)
+  - Interledger
   - xRapid
   - xVia
 contacts:
@@ -102,7 +101,7 @@ resources:
   - title: 'Ripple News'
     url: https://ripple.com/category/xrp/
   - title: 'A History of XRP & Ripple: Part 1 2011-2013'
-    url: https://xrphodor.wordpress.com/2018/04/09/a-history-of-xrp-ripple-part-1-2011-2013/
+    url: https://xrphodor.wordpress.com/2018/04/09/a-history-of-xrp-ripple-part-1-2011-2013
 history:
   - date_approx: '2004'
     description: 'First implementation of Ripple coin by Ryan Fugger'
