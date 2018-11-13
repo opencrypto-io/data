@@ -1,0 +1,23 @@
+name: ChatCoin
+web:
+  - 'http://www.openchat.co/'
+ledgers:
+  - id: chatcoin
+    name: ChatCoin
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Scrypt
+        proof_type: PoW/PoS
+assets:
+  - id: chat
+    name: ChatCoin
+    type: native
+    ledger: chatcoin
+    symbol: CHAT
+    max_supply: 52500000
+    webids:
+      coinmarketcap: chatcoin
+      cryptocompare: chat
+      cryptocompare/id: '52008'
+webids: {}
