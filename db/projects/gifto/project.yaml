@@ -19,13 +19,13 @@ assets:
       raised: 30000000 USD
     first_distribution:
       - title: 'public participants'
-          percent: 30
+        percent: 30
       - title: 'Company reserve'
-          percent: 25
+        percent: 25
       - title: 'Advisors, investors and contributors'
-          percent: 15
+        percent: 15
       - title: 'Power the Ecosystem'
-          percent: 30
+        percent: 30
 webids:
   coinmarketcap: gifto
   cryptocompare: gto
