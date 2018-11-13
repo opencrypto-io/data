@@ -12,11 +12,11 @@ assets:
     contract_address: '0xc5bbae50781be1669306b9e001eff57a2957b09d'
     max_supply: 1000000000
     start_date: '2017-12-14'
-      ico_properties:
-        start_date: '2017-12-14'
-        end_date: '2018-01-13'
-        total_cap: 300000000
-        raised: 30000000 USD
+    ico_properties:
+      start_date: '2017-12-14'
+      end_date: '2018-01-13'
+      total_cap: 300000000
+      raised: 30000000 USD
     first_distribution:
       - title: 'public participants'
           percent: 30
