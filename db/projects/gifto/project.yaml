@@ -1,0 +1,77 @@
+name: Gifto
+web:
+  - 'https://gifto.io/'
+start_date: '2016-06-01'
+description: 'GIFTO is a decentralized universal gifting protocol.'
+assets:
+  - id: gto
+    name: Gifto
+    type: token
+    ledger: ethereum
+    symbol: GTO
+    contract_address: '0xc5bbae50781be1669306b9e001eff57a2957b09d'
+    max_supply: 1000000000
+    start_date: '2017-12-14'
+      ico_properties:
+        start_date: '2017-12-14'
+        end_date: '2018-01-13'
+        total_cap: 300000000
+        raised: 30000000 USD
+    first_distribution:
+      - title: 'public participants'
+          percent: 30
+      - title: 'Company reserve'
+          percent: 25
+      - title: 'Advisors, investors and contributors'
+          percent: 15
+      - title: 'Power the Ecosystem'
+          percent: 30
+webids:
+  coinmarketcap: gifto
+  cryptocompare: gto
+  cryptocompare/id: '517477'
+  linkedin/company: giftoprotocol
+  youtube/channel: UCQjmTBnd_wPXhz6pY9nXJmQ
+  crunchbase/organization: gifto
+  bitcointalk: '2356301.0'
+  facebook: gifto.io
+  email: info@gifto.io
+  medium: '@GIFTO'
+  telegram: GIFTOOfficial
+  kakao: ggLQMiC
+  github: GIFTO-io
+  twitter: GIFTO_io
+  reddit: GIFTO
+tags:
+  - gifts
+  - charity
+  - games
+  - content
+team:
+  - name: Andy Tian
+    role: Founder, CEO
+    photo: https://pbs.twimg.com/profile_images/978227499384553472/M9RB5mvB_400x400.jpg
+    webids:
+      linkedin: andytian
+      twitter: andytian
+whitepapers:
+  - title: 'Gifto: The Universal Gifting Protocol for Global Content Creators'
+    url: https://h.cdn.pengpengla.com/giftoh5/website-new/1.1.1/assets/GIFTO_Whitepaper_EN.pdf
+partners:
+  - title: 'Pantera Capital'
+    url: https://www.panteracapital.com
+  - title: 'MSA Capital'
+    url: http://www.msacap.com
+  - title: 'Ventech'
+    url: http://www.ventechvc.com
+  - title: 'Blockasset Ventures'
+    url: https://blockasset.ventures
+  - title: 'Index Ventures'
+    url: https://www.indexventures.com
+  - title: 'Kleiner Perkins'
+    url: https://www.kleinerperkins.com
+  - title: 'Ogier'
+    url: https://www.ogier.com/
+contacts:
+    email: 'info@gifto.io'
+    location:hq: 'Hong Kong, China'
