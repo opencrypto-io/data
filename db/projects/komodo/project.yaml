@@ -54,7 +54,7 @@ team:
     photo: https://komodoplatform.com/wp-content/uploads/2018/09/image10.png
     webids:
       linkedin: hackd
-      twitter: 0xca333
+      twitter: '0xca333'
       githunb: ca333
   - name: Ben Fairbank
     role: CEO
