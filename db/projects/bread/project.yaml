@@ -16,13 +16,13 @@ assets:
     max_supply: 88862718
     start_date: '2017-12-01'
     first_distribution:
-      - type: 'crowdsale'
+      - title: 'crowdsale'
         amount: 26263561
         percent: 29.56
-      - type: 'presale'
+      - title: 'presale'
         amount: 32978250
         percent: 37.11
-      - type: 'team'
+      - title: 'team'
         amount: 29620907
         percent: 33.33
     ico_properties:
