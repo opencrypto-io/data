@@ -9,6 +9,7 @@ ledgers:
     type: blockchain
     networks:
       - id: main
+        type: main
         algorithm: X13
         proof_type: PoW/PoS
         target_block_time: 60

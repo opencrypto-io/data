@@ -1,6 +1,6 @@
 name: Komodo
 web:
-  - 'https://komodoplatform.com/latest-news/'
+  - 'https://komodoplatform.com'
 start_date: '2014-01-01'
 description: 'Open-Source Infrastructure For An Interoperable Blockchain Ecosystem'
 ledgers:
@@ -9,6 +9,7 @@ ledgers:
     type: blockchain
     networks:
       - id: main
+        type: main
         algorithm: Equihash
         proof_type: dPoW/PoW
         mineable: true

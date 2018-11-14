@@ -9,6 +9,7 @@ ledgers:
     type: blockchain
     networks:
       - id: main
+        type: main
         algorithm: POS 3.0
         proof_type: PoS
         target_block_time: 120
