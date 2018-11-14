@@ -1,0 +1,24 @@
+name: Status
+alt_names:
+  - Status Network Token
+web:
+  - 'http://status.im/'
+assets:
+  - id: snt
+    name: Status
+    type: token
+    ledger: ethereum
+    symbol: SNT
+    contract_address: '0x744d70fdbe2ba4cf95131626614a1763df805b9e'
+    max_supply: 6804870175
+    start_date: '2017-06-20'
+    webids:
+      coinmarketcap: status
+      etherscan/token: StatusNetwork
+      cryptocompare: snt
+      cryptocompare/id: '137013'
+webids:
+  custom/chat: 'https://chat.status.im/#/register'
+  github: status-im
+  twitter: ethstatus
+  reddit: statusim
