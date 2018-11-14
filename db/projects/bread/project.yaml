@@ -1,0 +1,64 @@
+name: Bread
+alt_names:
+  - Bread token
+web:
+  - 'https://BRD.com'
+  - 'https://token.breadapp.com/'
+assets:
+  - id: brd
+    name: Bread
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: BRD
+    contract_address: '0x558ec3152e2eb2174905cd19aea4e34a23de9ad6'
+    decimals: 18
+    max_supply: 88862718
+    start_date: '2017-12-01'
+    first_distribution:
+      - type: 'crowdsale'
+        amount: 26263561
+        percent: 29.56
+      - type: 'presale'
+        amount: 32978250
+        percent: 37.11
+      - type: 'team'
+        amount: 29620907
+        percent: 33.33
+    ico_properties:
+      start_date: '2017-12-19'
+      ico_price: 0.0011111 ETH
+      raised: 20021300 USD
+      country: Switzerland
+    webids:
+      coinmarketcap: bread
+      cryptocompare: brd
+      cryptocompare/id: '543502'
+team_url: https://brd.com/about
+team:
+  - name: Adam Traidman
+    role: co-founder
+  - name: Aaron Voisine
+    role: co-founder
+  - name: Aaron Lasher
+    role: co-founder
+  - name: Sam Sutch
+    role: chief technology officer
+  - name: James MacWhyte
+    role: chief product officer
+whitepapers:
+  - title: 'BRD is the simple and secure bitcoin wallet'
+    url: https://token.breadapp.com/en/#white-paper
+tags:
+  - wallet
+webids:
+  github: breadwallet
+  telegram: BreadChat
+  twitter: BRDHQ
+  reddit: BRDapp
+  youtube/channel: UC33l26omZxKNf81927LjwDg
+  facebook: BRDHQ
+  instagram: brd_wallet
+contacts:
+  email: 'support@breadwallet.com'
+  location:hq: 'Switzerland'
