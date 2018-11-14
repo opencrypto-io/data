@@ -1,0 +1,94 @@
+name: 0x
+web:
+  - 'https://0xproject.com/'
+start_date: '2016-10-01'
+description: 'An Open Protocol for Decentralized Exchanges'
+assets:
+  - id: zrx
+    name: 0x
+    type: token
+    description: '0x is an open protocol that facilitates trustless, low friction exchange of Ethereum-based assets with interoperability among dApps'
+    ledger: ethereum
+    symbol: ZRX
+    contract_address: '0xe41d2489571d322189246dafa5ebde1f4699f498'
+    max_supply: 1000000000
+    start_date: '2017-08-15'
+    ico_properties:
+      start_date: '2017-08-15'
+      end_date: '2018-08-16'
+      total_cap: 5000000000
+      raised: 24000000 USD
+    first_distribution:
+      - title: 'retained by 0x'
+        percent: 15
+      - title: 'Developer fund'
+        percent: 15
+      - title: 'Founding team'
+        percent: 10
+      - title: 'Advisors and Early backers'
+        percent: 10
+team:
+  - name: Will Warren
+    role: Founder, CEO
+    photo: https://avatars0.githubusercontent.com/u/2459070?s=460&v=4
+    webids:
+      linkedin: will-warren-92aab62b
+      twitter: willwarren89
+      github: willwarren89
+  - name: Amir Bandeali
+    role: Founder, CTO
+    photo: https://avatars2.githubusercontent.com/u/18060168?s=460&v=4
+    webids:
+      linkedin: abandeali1
+      twitter: abandeali1
+      github: abandeali1
+  - name: Fabio Berger
+    role: Developer
+    photo: https://avatars2.githubusercontent.com/u/18060168?s=460&v=4
+    webids:
+      linkedin: fabio-berger-03ab261a
+      twitter: fabioberger123
+      github: fabioberger
+webids:
+  email: team@0xproject.com
+  facebook: 0xProject
+  github: 0xProject
+  twitter: 0xproject
+  reddit: 0xProject
+  custom/chat: https://chat.0xproject.com
+  coinmarketcap: '0x'
+  etherscan/token: ZRX
+  cryptocompare: zrx
+  cryptocompare/id: '186277'
+  bitcointalk: '2094353.0'
+  bitcoinwiki: '0x'
+whitepapers:
+  - title: '0x: An open protocol for decentralized exchange on the Ethereum blockchain'
+    url: https://0xproject.com/pdfs/0x_white_paper.pdf
+tags:
+  - dex
+  - exchange
+  - interoperability
+  - smartcontracts
+  - ethereum
+  - dapps
+partners:
+  - title: 'Fred Ehrsam'
+    url: https://www.linkedin.com/in/fredehrsam/
+  - title: 'Olaf Carlson-Wee'
+    url: https://www.linkedin.com/in/olafcw/
+  - title: 'Joey Krug'
+    url: https://www.linkedin.com/in/joeykrug/
+  - title: 'Linda Xie'
+    url: https://www.linkedin.com/in/lindaxie/
+  - title: 'David Sacks'
+    url: https://www.linkedin.com/in/davidoliversacks/
+history:
+  - date: '2017-08-15'
+    title: 'Launch event and ICO'
+resources:
+  - title: 'Beginners guide to 0x'
+    url: https://blockonomi.com/0x-guide/
+contacts:
+    email: 'team@0xproject.com'
+    location:hq: 'George Town, Cayman Islands'

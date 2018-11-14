@@ -1,0 +1,83 @@
+name: Nano
+web:
+  - 'https://nano.org'
+start_date: '2016-02-29'
+description: 'Nano is a peer-to-peer cryptocurrency that employs a block-lattice infrastructure in a directed acyclic graph (DAG) algorithm. Nano coin is focused on being an instant, zero-fee and scalable currency.'
+ledgers:
+  - id: nano
+    name: Nano
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Block-Lattice
+        proof_type: DPoS
+        mineable: false
+        algorithm: Blake2b
+        target_block_time: 0
+        tools:
+          - type: explorer
+            url: https://www.nanode.co/
+          - type: explorer
+            url: https://nanocrawler.cc/
+          - type: explorer
+            url: https://nanowat.ch/
+assets:
+  - id: nano
+    type: native
+    ledger: nano
+    name: Nano
+    symbol: NANO
+    max_supply: 133248290
+    webids:
+      coinmarketcap: nano
+      cryptocompare: nano
+webids:
+  email: press@nano.co
+  linkedin/company: nano-foundation
+  facebook: nanofoundation
+  twitter: nano
+  github: nanocurrency
+  reddit: nanocurrency
+  youtube/channel: UCFxXo3z9k4yvxSboEEjXO2w
+  medium: nanocurrency
+  discord: JphbBas
+  coinmarketcap: nano
+  cryptocompare: nano
+  bitcointalk: '1381323.0'
+  bitcoinwiki: Nano
+team:
+  - name: Colin LeMahieu
+    role: CEO/Founder
+    photo: https://nano.org/assets/photos/people-colin.jpg
+    webids:
+      linkedin: clemahieu
+      twitter: colinlemahieu
+  - name: Russel Waters
+    role: Developer
+    photo: https://nano.org/assets/photos/people-russel.jpg
+    webids:
+      linkedin: russel-waters-9606354b
+      twitter: argakiig
+  - name: Roy Keene
+    role: Developer
+    photo: https://avatars0.githubusercontent.com/u/5068442?s=460&v=4
+    webids:
+      github: rkeene
+whitepapers:
+  - title: 'Nano: A Feeless Distributed Cryptocurrency Network'
+    url: https://nano.org/en/whitepaper
+tags:
+  - nofee
+  - dag
+  - sidechains
+  - raiblocks
+  - instanttransactions
+history:
+  - date: '2018-02-01'
+    title: 'RaiBlocks rebranded to Nano'
+resources:
+  - title: 'ALLthingsNANO.net'
+    url: https://www.allthingsnano.net/
+  - title: 'Map of usage'
+    url: http://xrb.network/
