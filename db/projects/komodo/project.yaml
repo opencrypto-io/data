@@ -1,0 +1,91 @@
+name: Komodo
+web:
+  - 'https://komodoplatform.com'
+start_date: '2014-01-01'
+description: 'Open-Source Infrastructure For An Interoperable Blockchain Ecosystem'
+ledgers:
+  - id: komodo
+    name: Komodo
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        algorithm: Equihash
+        proof_type: dPoW/PoW
+        mineable: true
+        tools:
+          - type: explorer
+            url: 'https://kmdexplorer.io/'
+          - type: explorer
+            url: 'http://kmd.explorer.supernet.org/'
+assets:
+  - id: kmd
+    name: Komodo
+    type: native
+    ledger: komodo
+    symbol: KMD
+    max_supply: 200000000
+    start_date: '2016-09-01'
+    ico_properties:
+      start_date: '2016-10-15'
+      end_date: '2016-11-20'
+      total_cap: 100000000
+      raised: 1983781 USD
+    first_distribution:
+      - title: 'public participants'
+        percent: 90
+      - title: 'Company reserve'
+        percent: 10
+webids:
+  facebook: KomodoPlatform
+  bitcointalk: '1605144.0'
+  custom/forum: 'https://forum.komodoplatform.com/'
+  discord: ZSrn5sJ
+  telegram: KomodoPlatform_Official
+  github: KomodoPlatform
+  twitter: KomodoPlatform
+  reddit: komodoplatform
+  linkedin/company: komodo-platform
+  coinmarketcap: komodo
+  cryptocompare: kmd
+  cryptocompare/id: '26132'
+team:
+  - name: Kadan Stadelmann
+    role: CTO
+    photo: https://komodoplatform.com/wp-content/uploads/2018/09/image10.png
+    webids:
+      linkedin: hackd
+      twitter: '0xca333'
+      github: ca333
+  - name: Ben Fairbank
+    role: CEO
+    photo: https://komodoplatform.com/wp-content/uploads/2018/09/ben-fairbank.jpg
+    webids:
+      linkedin: ben-fairbank-7b256432
+  - name: James Lee
+    role: Founder, Developer
+    webids:
+      github: jl777
+      twitter: Jl777News
+tags:
+  - zksnarks
+  - opensource
+  - anonymous
+  - private
+  - atomicswaps
+  - dex
+  - exchange
+  - decentralizedcrowdfunding
+  - interoperability
+  - bridging
+  - crosschain
+  - smartcontracts
+  - zcash
+whitepapers:
+  - title: 'Komodo: Advanced blockchain technology, focused on freedom'
+    url: https://komodoplatform.com/wp-content/uploads/2018/06/Komodo-Whitepaper-June-3.pdf
+resources:
+  - title: 'Komodo Cryptocurrency: Everything Beginners Need to Know'
+    url: https://coinsutra.com/komodo-cryptocurrency-kmd/
+contacts:
+  email: 'benny@komodoplatform.com'

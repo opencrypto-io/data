@@ -1,0 +1,107 @@
+name: XRP
+start_date: '2013-02-02'
+description: 'Ripple is a system of the real time gross settlements, exchange a money transfer system'
+web:
+  - 'https://ripple.com/xrp'
+ledgers:
+  - id: xrp
+    name: XRP
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Ripple Network
+        mineable: false
+        tools:
+          - type: explorer
+            url: 'https://xrpcharts.ripple.com/#/graph'
+          - type: explorer
+            url: 'https://bithomp.com/explorer'
+assets:
+  - id: xrp
+    description: 'XRP is a public, counterparty-less asset native to the XRP Ledger, and is designed to bridge the many different currencies in use worldwide.'
+    name: XRP
+    type: native
+    ledger: xrp
+    symbol: XRP
+    max_supply: 100000000000
+    start_date: '2013-02-02'
+    webids:
+      coinmarketcap: ripple
+      cryptocompare: xrp
+      cryptocompare/id: '5031'
+webids:
+  custom/forum: 'http://www.xrpchat.com'
+  bitcoinwiki: Ripple
+  telegram: Ripple
+  discord: N4x7kPb
+  github: ripple
+  twitter: Ripple
+  reddit: ripple
+  wikipedia/en: 'Ripple_(payment_protocol)'
+  crunchbase/organization: ripple-labs
+  youtube/user: ripplevideo1
+  linkedin/company: ripple-labs
+whitepapers:
+  - title: 'The Ripple Protocol Consensus Algorithm'
+    url: https://ripple.com/files/ripple_consensus_whitepaper.pdf
+tags:
+  - payment
+  - ripplenet
+  - xcurrent
+  - interledger
+  - xrapid
+  - xvia
+contacts:
+  email: 'support@ripple.com'
+  location:hq: 'San Francisco, USA'
+team:
+  - name: Brad Garlinghouse
+    role: CEO
+    photo: https://pbs.twimg.com/profile_images/816347848702758913/TWoCdC1L_400x400.jpg
+    webids:
+      linkedin: bradgarlinghouse
+      twitter: bgarlinghouse
+  - name: Chris Larsen
+    role: Founder, Executive Chairman
+    photo: https://pbs.twimg.com/profile_images/248596902/chris_larsen_prosper_400x400.jpg
+    webids:
+      linkedin: chris-larsen-7721772
+      twitter: chrislarsensf
+  - name: David Schwartz
+    role: CTO
+    photo: https://i2.wp.com/elevenews.com/wp-content/uploads/2018/09/David-Schwartz.jpeg
+    webids:
+      linkedin: david-schwartz-8b767b34
+      twitter: joelkatz
+partners:
+  - title: 'Accenture'
+    url: https://www.accenture.com
+  - title: 'Andreessen Horowitz'
+    url: https://a16z.com
+  - title: 'CME Ventures'
+    url: https://www.cmegroup.com/cme-ventures.html
+  - title: 'Core Innovation Capital'
+    url: http://corevc.com
+  - title: 'Google Venture'
+    url: https://www.gv.com
+  - title: 'Santander InnoVentures'
+    url: http://santanderinnoventures.com
+  - title: 'SBI Group'
+    url: https://www.sbigroup.co.jp
+  - title: 'Digital Ventures'
+    url: http://www.dv.co.th
+  - title: 'Seagate'
+    url: http://www.seagate.com
+  - title: 'Standart Chartered Bank'
+    url: https://www.sc.com
+resources:
+  - title: 'XRP Ledger Overview'
+    url: https://developers.ripple.com/xrp-ledger-overview.html
+  - title: 'Ripple News'
+    url: https://ripple.com/category/xrp/
+  - title: 'A History of XRP & Ripple: Part 1 2011-2013'
+    url: https://xrphodor.wordpress.com/2018/04/09/a-history-of-xrp-ripple-part-1-2011-2013
+history:
+  - date_approx: '2004'
+    title: 'First implementation of Ripple coin by Ryan Fugger'
