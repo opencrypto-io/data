@@ -53,7 +53,7 @@ webids:
   reddit: statusim
   facebook: ethstatus
   custom/chat: https://chat.status.im
-  youtube: statusim
+  youtube/channel: UCFzdJTUdzqyX4e9dOW7UpPQ
 contacts:
   email: 'jarrad@status.im'
   location:hq: 'Status Research & Development GmbH, Baarerstrasse 10, Zug, Switzerland'
