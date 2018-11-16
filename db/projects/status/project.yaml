@@ -18,7 +18,7 @@ assets:
     start_date: '2017-06-20'
     ico_properties:
       start_date: '2017-06-20'
-      total_cap: 109488000 USD
+      total_cap: 109488000
       ico_price: 0.0001
     first_distribution:
       - title: 'public contributors'
