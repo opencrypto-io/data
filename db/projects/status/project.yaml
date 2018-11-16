@@ -48,7 +48,6 @@ tags:
   - ethereum
   - mobile
 webids:
-  custom/chat: 'https://chat.status.im/#/register'
   github: status-im
   twitter: ethstatus
   reddit: statusim
