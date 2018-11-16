@@ -6,19 +6,55 @@ web:
 assets:
   - id: snt
     name: Status
+    alt_names:
+      - StatusNetwork
     type: token
+    token_standard: ERC-20
     ledger: ethereum
     symbol: SNT
     contract_address: '0x744d70fdbe2ba4cf95131626614a1763df805b9e'
+    decimals: 18
     max_supply: 6804870175
     start_date: '2017-06-20'
+    ico_properties:
+      start_date: '2017-06-20'
+      total_cap: 109488000 USD
+      ico_price: 0.0001
+    first_distribution:
+      - title: 'public contributors'
+        percent: 41
+      - title: 'reserve for future stakeholders'
+        percent: 29
+      - title: 'status core dev'
+        percent: 20
+      - title: 'status genesis token holders'
+        percent: 10
     webids:
       coinmarketcap: status
       etherscan/token: StatusNetwork
       cryptocompare: snt
       cryptocompare/id: '137013'
+team:
+  - name: Alexander Pantyukhov
+  - name: Andrey Shovkoplyas
+  - name: Andrei Mironov
+  - name: Anna Danchenko
+  - name: Carl Bennetts
+whitepapers:
+  - title: 'The Status Network: A strategy towards mass adoption of Ethereum'
+    url: https://status.im/whitepaper.pdf
+tags:
+  - dapp
+  - ethereum
+  - mobile
 webids:
   custom/chat: 'https://chat.status.im/#/register'
   github: status-im
   twitter: ethstatus
   reddit: statusim
+  facebook: ethstatus
+  custom/chat: https://chat.status.im
+  youtube: statusim
+contacts:
+  email: 'jarrad@status.im'
+  location:hq: 'Status Research & Development GmbH, Baarerstrasse 10, Zug, Switzerland'

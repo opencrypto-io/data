@@ -51,6 +51,8 @@ whitepapers:
     url: https://token.breadapp.com/en/#white-paper
 tags:
   - wallet
+  - finance
+  - payment
 webids:
   github: breadwallet
   telegram: BreadChat
