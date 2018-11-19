@@ -76,6 +76,7 @@ webids:
   facebook: quarkchain
   youtube/channel: UCbgmRMFedbOj4yRFl2gtUDA
   discord: 7brQT
+  bitcointalk: 3587645.0
 whitepapers:
   - title: 'QuarkChain - A High-Capacity Peer-to-Peer Transacional System'
     url: https://quarkchain.io/wp-content/uploads/2018/11/QUARK-CHAIN-Public-Version-0.3.5.pdf
