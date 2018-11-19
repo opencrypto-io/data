@@ -1,0 +1,59 @@
+name: Storj
+web:
+  - 'https://storj.io/'
+assets:
+  - id: storj
+    name: Storj
+    type: token
+    ledger: ethereum
+    symbol: STORJ
+    contract_address: '0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac'
+    decimals: 8
+    max_supply: 424999998
+    start_date: '2017-07-19'
+    ico_properties:
+      start_date: '2017-05-19'
+      end_date: '2017-05-29'
+      raised: 30000000 USD
+      ico_price: 0.5 USD
+      country: USA
+    webids:
+      coinmarketcap: storj
+      etherscan/token: Storj
+      cryptocompare: storj
+      cryptocompare/id: '187347'
+team_url: 'https://storj.io/team'
+team:
+  - name: Ben Golub
+    role: executive chairman
+    photo: https://storj.io/img/team/ben-golub.jpg
+  - name: Shawn Wilkinson
+    role: founder
+    photo: https://storj.io/img/team/shawn.jpg
+  - name: John Quinn
+    role: founder
+    photo: https://storj.io/img/team/john.jpg
+  - name: Philip Hutchins
+    role: chief technology officer
+    photo: https://storj.io/img/team/philip.jpg
+  - name: JT Olio
+    role: director of engineering
+    photo: https://storj.io/img/team/jt.jpg
+whitepapers:
+  - title: 'Storj: A Decentralized Cloud Storage Network Framework'
+    url: https://storj.io/storj.pdf
+tags:
+  - storage
+webids:
+  bitcointalk: '555159.0'
+  custom/forum: 'https://community.storj.io'
+  medium: '@storjproject'
+  github: Storj
+  twitter: storjproject
+  reddit: storj
+  facebook: storjproject
+  custom/blog: https://storj.io/blog/
+  youtube/channel: 'UC-cTEqWwZV5Rl-h0RZsp2Qw'
+contacts:
+  email: 'hello@storj.io'
+  location:hq: 'Storj Labs Inc. - 3423 Piedmont Road NE, Suite 475, Atlanta, Georgia, 30305, United States'
