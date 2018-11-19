@@ -1,0 +1,72 @@
+name: ChatCoin
+alt_names:
+  - Chatcoin
+  - OpenChat
+web:
+  - 'http://www.openchat.co/'
+start_date: '2018-03-01'
+assets:
+  - id: chat
+    name: ChatCoin
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: CHAT
+    contract_address: '0x442bc47357919446eabc18c7211e57a13d983469'
+    decimals: 18
+    max_supply: 1000000000
+    webids:
+      coinmarketcap: chatcoin
+      cryptocompare: chat
+      cryptocompare/id: '52008'
+    first_distribution:
+      - title: 'token change'
+        amount: 400000000
+        percent: 40
+      - title: 'marketing and brand promotion'
+        amount: 100000000
+        percent: 10
+      - title: 'openchat team and develper community'
+        amount: 200000000
+        percent: 20
+      - title: 'ecosystem developement'
+        amount: 300000000
+        percent: 30
+team_url: 'http://www.openchat.co/about.html'
+team:
+  - name: Oscar
+    role: senior software engineer
+    photo: http://www.openchat.co/openchat/images/avatar/810906120.jpg
+  - name: Nell
+    role: senior developement engineer
+    photo: http://www.openchat.co/openchat/images/avatar/1382707778.jpg
+  - name: George
+    role: back-end and database senior software developement engineer
+    photo: http://www.openchat.co/openchat/images/avatar/1929823940.jpg
+  - name: Mia
+    role: legal
+    photo: http://www.openchat.co/openchat/images/avatar/223894118.jpg
+  - name: Pikaone
+    role: digital designer
+    photo: http://www.openchat.co/openchat/images/avatar/1558675182.jpg
+  - name: Ac
+    role: brand interaction and concept designer
+    photo: http://www.openchat.co/openchat/images/avatar/314197649.jpg
+  - name: Sardar Singh
+    role: director of community operations
+    photo: http://www.openchat.co/media-icon/community.jpg
+    webids:
+      linkedin: 'sardar-veerender-singh-6325a7119'
+whitepapers:
+  - title: 'Blockchain-Based Distributed Protocol: OpenChat White Paper'
+    url: http://www.openchat.co/whitepaper/OpenChat_en.pdf
+webids:
+  github: openchatproject
+  telegram: openchatio
+  twitter: OpenChatCo
+  medium: '@openchat'
+tags:
+  - chat
+  - dapp
+contacts:
+  email: openchat.co@gmail.com

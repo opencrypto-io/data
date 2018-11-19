@@ -1,0 +1,65 @@
+name: Iconomi
+web:
+  - 'https://www.iconomi.net/'
+assets:
+  - id: icn
+    name: Iconomi
+    alt_names:
+      - ICONOMI
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: ICN
+    contract_address: '0x888666CA69E0f178DED6D75b5726Cee99A87D698'
+    decimals: 18
+    max_supply: 100000000
+    start_date: '2016-08-25'
+    webids:
+      coinmarketcap: iconomi
+      etherscan/token: ICONOMI
+      cryptocompare: icn
+      cryptocompare/id: '25921'
+team_url: 'https://www.iconomi.net/about'
+team:
+  - name: Tim M. Zagar
+    role: co-founder and ceo
+    photo: https://www.iconomi.net/assets/team/tim_zagar-3a9177fa648025fba24479f92857b386d032564b9787abe60974725b07c71ed3.jpg
+    webids:
+      twitter: wwwMZ
+      linkedin: wwwmz
+  - name: Jani Valjavec
+    role: co-founder
+    photo: https://www.iconomi.net/assets/team/jani_valjavec-ead44ec92076260c900744c06f1ea318901042ff6549e44e2efff10d27d3246d.jpg
+    webids:
+      twitter: valjavec
+      linkedin: janivaljavec
+      reddit/user: jani8x
+  - name: Matej Tomazin
+    role: coo
+    photo: https://www.iconomi.net/assets/team/matej_tomazin-07695a4d81a3e2c0e6301022e643666a8bb6c2b7b324ab302c13794c2fd7e522.jpg
+    webids:
+      linkedin: matejtomazin
+  - name: Miha Vidmar
+    role: cto
+    photo: https://www.iconomi.net/assets/team/miha_vidmar-32931ddc1f3dcafdf4fd4883a6952040fb56ff76ff72f8ef3d884495e16d43e7.jpg
+    webids:
+      twitter: 'vidmar_miha'
+      linkedin: 'miha-vidmar'
+whitepapers:
+  - title: 'Iconomi: Open Fund Management Platform to disrupt the investment industry'
+    url: https://www.coss.io/documents/white-papers/iconomi.pdf
+webids:
+  bitcointalk: '1789926.0'
+  medium: iconominet
+  twitter: iconominet
+  reddit: iconomi
+  facebook: 'iconomi.net'
+  linkedin/company: iconominet
+  custom/chat: https://iconominet.rocket.chat/channel/announcements
+  slack: iconominet
+tags:
+  - economy
+  - finance
+contacts:
+  email: 'support@iconomi.net'
+  location:hq: 'Valletta, Malta'
