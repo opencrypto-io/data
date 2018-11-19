@@ -12,6 +12,7 @@ assets:
     contract_address: '0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3'
     max_supply: 280255193861
     start_date: '2017-09-27'
+    token_standard: ERC-20
     webids:
       coinmarketcap: pundi-x
       cryptocompare: npxs
