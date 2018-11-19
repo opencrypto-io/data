@@ -1,0 +1,84 @@
+name: QuarkChain
+web:
+  - 'https://quarkchain.io/'
+description: 'QuarkChain is a high-capacity peer-to-peer transactional system.'
+start_date: '2018-06-02'
+assets:
+  - id: qkc
+    name: QuarkChain
+    type: token
+    ledger: ethereum
+    symbol: QKC
+    contract_address: '0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664'
+    max_supply: 10000000000
+    start_date: '2018-06-02'
+    webids:
+      coinmarketcap: quarkchain
+      cryptocompare: qkc
+      cryptocompare/id: '899553'
+    ico_properties:
+      start_date: '2017-11-25'
+      end_date: '2018-01-28'
+      total_cap: 10000000000
+      raised: 20000000 USD
+    first_distribution:
+      - title: 'Public participants'
+        percent: 20
+      - title: 'Mining & community'
+        percent: 45
+      - title: 'Team'
+        percent: 15
+      - title: 'Advisors'
+        percent: 5
+      - title: 'Fund'
+        percent: 15
+team:
+  - name: Qi Zhou
+    role: Founder, CEO
+    photo: https://pbs.twimg.com/profile_images/1041858526929281024/dAjmA6Gh_400x400.jpg
+    webids:
+      linkedin: qi-zhou-9a668715
+      twitter: qc_qizhou
+  - name: Xiaoli Ma
+    role: Research
+    webids:
+      linkedin: xiaoli-ma-1524903
+  - name: Zhaoguang Wang
+    role: CTO
+    webids:
+      linkedin: zhaoguang-wang-436b8029
+  - name: Wencen Wu
+    role: Research
+    webids:
+      linkedin: wencen-wu-8b924621
+  - name: Yaodong Yang
+    role: Research
+    webids:
+      linkedin: yaodong-yang-37804817
+tags:
+  - sharding
+  - transactions
+  - payment
+  - smartcontracts
+  - scalability
+  - nodes
+  - fast
+  - ethereum
+  - utility
+webids:
+  custom/forum: 'https://steemit.com/@quarkchain'
+  telegram: quarkchainio
+  github: QuarkChain
+  twitter: Quark_Chain
+  reddit: quarkchainio
+  linkedin/company: quarkchain
+  medium: quarkchain-official
+  facebook: quarkchain
+  youtube/channel: UCbgmRMFedbOj4yRFl2gtUDA
+  discord: 7brQT
+whitepapers:
+  - title: 'QuarkChain - A High-Capacity Peer-to-Peer Transacional System'
+    url: https://quarkchain.io/wp-content/uploads/2018/11/QUARK-CHAIN-Public-Version-0.3.5.pdf
+contacts:
+    email: 'support@quarkchain.org'
+    location:hq: 'Palo Alto, California'
