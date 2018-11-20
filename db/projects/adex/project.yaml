@@ -1,0 +1,136 @@
+name: AdEx
+web:
+  - 'https://www.adex.network/'
+assets:
+  - id: adx
+    name: AdEx
+    type: token
+    ledger: ethereum
+    symbol: ADX
+    contract_address: '0x4470bb87d77b963a013db939be332f927f2b992e'
+    decimals: 4
+    max_supply: 100000000
+    start_date: '2017-05-30'
+    webids:
+      coinmarketcap: adx-net
+      cryptocompare: adx
+      cryptocompare/id: '170452'
+    ico_properties:
+      start_date: '2017-06-30'
+      total_cap: 11000000
+    first_distribution:
+      - title: 'team'
+        amount: 10000000
+        percent: 10
+      - title: 'advisor'
+        amount: 6000000
+        percent: 6
+      - title: 'promotion'
+        amount: 2000000
+        percent: 2
+      - title: 'bounty'
+        amount: 2000000
+        percent: 2
+      - title: 'public sale'
+        amount: 80000000
+        percent: 80
+team_url: https://www.adex.network/about/index.html
+team:
+  - name: Ivo Georgiev
+    role: co-founder
+    photo: https://www.adex.network/adex/photo-ivo-georgiev.png
+    webids:
+      linkedin: 'ivo-georgiev-8298b678'
+  - name: Dimo Stoyanov
+    role: co-founder
+    photo: https://www.adex.network/adex/photo-dimo-stoyanov.png
+    webids:
+      linkedin: dimostoyanov
+  - name: Vanina Ivanova
+    role: marketing and ad tech
+    photo: https://www.adex.network/adex/photo-vanina-ivanova.png
+    webids:
+      linkedin: vaninaivanova
+  - name: Shteryana Shopova
+    role: security expert
+    photo: https://www.adex.network/adex/photo-shteryana-shopova.png
+    webids:
+      linkedin: shteryana
+  - name: Alexandru Branza
+    role: developer
+    photo: https://www.adex.network/adex/photo-alexandru-branza.jpg
+    webids:
+      github: jaruba
+  - name: Ivo Paunov
+    role: developer
+    photo: https://www.adex.network/adex/photo-ivo-paunov.png
+    webids:
+      github: IvoPaunov
+  - name: Allesya Ivanova
+    role: graphic designer
+    photo: https://www.adex.network/adex/photo-allesya-ivanova.png
+    webids:
+      linkedin: alessyaivanova
+  - name: Jihan Wu
+    role: strategy advisor
+    photo: https://www.adex.network/adex/photo-jihan-wu.png
+    webids:
+      linkedin: 'wu-jihan-31972417'
+  - name: Stas Oskin
+    role: tech advisor
+    photo: https://www.adex.network/adex/photo-stas-oskin.png
+    webids:
+      linkedin: stasoskin
+  - name: Sebastian Stupurac
+    role: strategy advisor
+    photo: https://www.adex.network/adex/photo-sebastian-stupurac.png
+    webids:
+      linkedin: 'sebastian-stupurac-6bbb1712'
+  - name: Lior Zysman
+    role: legal advisor
+    photo: https://www.adex.network/adex/photo-lior-zysman.png
+    webids:
+      linkedin: 'lior-zysman-2977963'
+  - name: Georgi Matev
+    role: legal advisor
+    photo: https://www.adex.network/adex/photo-georgi-matev.jpg
+    webids:
+      linkedin: 'georgi-matev-41803411'
+  - name: Guy Corem
+    role: strategy advisor
+    photo: https://www.adex.network/adex/photo-guy-corem.png
+    webids:
+      linkedin: vcorem
+  - name: Dominik Zynis
+    role: marketing advisor
+    photo: https://www.adex.network/adex/photo-dominik-zynis.png
+    webids:
+      linkedin: everforgetmenot
+  - name: Nikola Stojanow
+    role: bizdev advisor
+    photo: https://www.adex.network/adex/photo-nikola-stojanov.png
+    webids:
+      linkedin: 'nikola-stojanow-46478518'
+  - name: Vladislav Dramaliev
+    role: community advisor
+    photo: https://www.adex.network/adex/photo-vlad-dramaliev.png
+    webids:
+      linkedin: dramaliev
+  - name: Vincent Zhou
+    role: strategy advisor - china
+    photo: https://www.adex.network/adex/photo-vincent-zhou.png
+    webids:
+      linkedin: shuojizhou
+whitepapers:
+  - title: 'AdEx: A Decentralized Ad Exchange'
+    url: https://www.adex.network/adex/AdEx-Whitepaper-v.8.pdf
+webids:
+  bitcointalk: '2060612.0'
+  telegram: AdExNetwork
+  github: adexnetwork
+  twitter: AdEx_Network
+  reddit: AdEx
+  facebook: 'AdEx-by-Stremio-756186427900381'
+  medium: 'the-adex-blog'
+contacts:
+  email: 'contact@adex.network'

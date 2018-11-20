@@ -1,0 +1,34 @@
+name: Zcash
+alt_names:
+  - ZCash
+web:
+  - 'https://z.cash/'
+ledgers:
+  - id: zcash
+    name: Zcash
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Equihash
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'https://explorer.zcha.in/'
+          - type: explorer
+            url: 'https://zchain.online/'
+assets:
+  - id: zec
+    name: Zcash
+    type: native
+    ledger: zcash
+    symbol: ZEC
+    max_supply: 21000000
+    start_date: '2016-10-28'
+    webids:
+      coinmarketcap: zcash
+      cryptocompare: zec
+      cryptocompare/id: '24854'
+webids:
+  custom/forum: 'https://forum.z.cash/'
+  github: zcash/zcash
+  twitter: zcashco

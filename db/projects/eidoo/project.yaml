@@ -1,0 +1,54 @@
+name: Eidoo
+web:
+  - 'https://eidoo.io/'
+assets:
+  - id: edo
+    name: Eidoo
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: EDO
+    contract_address: '0xced4e93198734ddaff8492d525bd258d49eb388e'
+    decimals: 18
+    max_supply: 90708327
+    start_date: '2017-09-26'
+    ico_properties:
+      start_date: '2017-10-04'
+      end_date: '2017-10-16'
+      raised: 27676992 USD
+      ico_price: 0.00870712 ETH
+      country: Switzerland
+    webids:
+      coinmarketcap: eidoo
+      cryptocompare: edo
+      cryptocompare/id: '310297'
+team_url: https://eidoo.io/company
+team:
+  - name: Natale Ferrara
+    role: founder
+    photo: https://eidoo.io/wp-content/themes/eidoo_v2/images/team/natale_ferrara.jpg
+  - name: Thomas Bertani
+    role: director
+    photo: https://eidoo.io/wp-content/themes/eidoo_v2/images/team/thomas_bertani.png
+  - name: Marco Polci
+    role: cto
+    photo: https://eidoo.io/wp-content/themes/eidoo_v2/images/team/marco_polci.jpg
+  - name: Luca Tamarindi
+    role: cfo
+    photo: https://eidoo.io/wp-content/themes/eidoo_v2/images/team/luca_tamarindi.jpg
+whitepapers:
+  - title: 'Technology White Paper'
+    url: https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_EN.pdf
+webids:
+  bitcointalk: '2243926.0'
+  telegram: joinchat/F4ox3EO_ubynqlzakd6lKw
+  twitter: eidoo_io
+  reddit: eidoo
+  facebook: eidoocrypto
+  linkedin/company: eidoo
+  custom/blog: https://blog.eidoo.io
+  medium: eidoo
+contacts:
+  email: 'info@eidoo.io'
+  location:hq: 'Via Giuseppe Motta 10, 6830 Chiasso - Switzerland'
+  phone: '+41798553635'
