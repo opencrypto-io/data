@@ -24,15 +24,11 @@ assets:
       raised: 22000000 USD
     first_distribution:
       - title: 'Public participants'
-        percent: 20
+        percent: 30
       - title: 'Mining & community'
-        percent: 45
-      - title: 'Team'
-        percent: 15
-      - title: 'Advisors'
-        percent: 5
-      - title: 'Fund'
-        percent: 15
+        percent: 40
+      - title: 'Company, team'
+        percent: 30
 webids:
   telegram: zilliqachat
   github: Zilliqa/Zilliqa
