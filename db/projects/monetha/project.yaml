@@ -1,0 +1,76 @@
+name: Monetha
+start_date: '2017-01-01'
+description: 'Monetha is creating a​ ​universal,​ transferable, ​immutable trust​ ​and​ reputation​ ​system combined​ ​with a payment​ ​solution.'
+web:
+  - 'https://www.monetha.io/'
+assets:
+  - id: mth
+    name: Monetha
+    type: token
+    ledger: ethereum
+    symbol: MTH
+    contract_address: '0xaf4dce16da2877f8c9e00544c93b62ac40631f16'
+    max_supply: 402400000
+    start_date: '2017-08-31'
+    token_standard: ERC-20
+    webids:
+      coinmarketcap: monetha
+      cryptocompare: mth
+      cryptocompare/id: '208914'
+    ico_properties:
+      start_date: '2017-08-31'
+      end_date: '2018-08-31'
+      total_cap: 200000000
+      raised: 37000000 USD
+    first_distribution:
+      - title: 'Public participants'
+        percent: 50
+      - title: 'Company'
+        percent: 10
+      - title: 'Team'
+        percent: 15
+      - title: 'Advisors, Marketing'
+        percent: 12
+      - title: 'Loyality program'
+        percent: 13
+tags:
+  - payment
+  - gateway
+  - reputation
+team:
+  - name: Andrej Ruckij
+    role: Founder
+    photo: https://www.monetha.io/5b61cac9f551bbfc6b2b6045ea770b2a.jpg
+    webids:
+      linkedin: andrejruckij
+  - name: Justas Pikelis
+    role: Cofounder
+    photo: https://www.monetha.io/1218248fe5f1bee54ca95457d9ac963a.jpg
+    webids:
+      linkedin: justaspikelis
+  - name: Laurynas Jokubaitis
+    role: Cofounder
+    photo: https://www.monetha.io/8ff71e62224c4229811224cc8071a039.jpg
+    webids:
+      linkedin: laurynas-jokubaitis-2b460248
+  - name: Dmitrij Koniajev
+    role: CTO
+    photo: https://www.monetha.io/0751acf0d7dfb86382fec4f7d9de3ad3.jpg
+    webids:
+      linkedin: dimchansky
+whitepapers:
+  - title: 'Monetha - Whitepaper'
+    url: https://www.monetha.io/Monetha_WP.pdf
+webids:
+  bitcointalk: '1978067.0'
+  medium: '@monetha'
+  telegram: Monethagroup
+  github: monetha
+  twitter: Monetha_io
+  reddit: Monetha
+  linkedin/company: monetha
+  facebook: Monetha.io
+  youtube/channel: UCtFfGdY6Kfi7qpBsCIAVc9g
+contacts:
+  email: 'support@ripple.com'
+  location:hq: 'Zurich, Switzerland'
