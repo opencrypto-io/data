@@ -1,0 +1,63 @@
+name: Agrello
+alt_names:
+  - Agrello Delta
+start_date: '2016-11-01'
+description: 'Agrello is building platform to manage smart-contracts legal agreements'
+web:
+  - 'https://www.agrello.io/'
+assets:
+  - id: dlt
+    start_date: '2017-07-16'
+    name: Agrello
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x07e3c70653548b04f0a75970c1f81b4cbbfb606f'
+    ledger: ethereum
+    symbol: DLT
+    max_supply: 130271020
+    ico_properties:
+      start_date: '2017-07-16'
+      end_date: '2017-08-18'
+      raised: 35000000 USD
+    webids:
+      coinmarketcap: agrello-delta
+      cryptocompare: dlt
+      cryptocompare/id: '220204'
+webids:
+  bitcointalk: '1934422.0'
+  bitcoinwiki: Agrello
+  coingecko: agrello
+  facebook: agrellofoundation
+  github: Agrello
+  linkedin/company: agrellofoundation
+  twitter: AgrelloOfficial
+  reddit: Agrello
+  discord: czfnP2f
+  telegram: agrello
+  youtube/channel: UCJ939SlnjwRQvRpaKuA_iOw
+whitepapers:
+  - title: 'Self-Aware Agent-Supported Contract Management on Blockchains for Legal Accountability'
+    url: https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf
+tags:
+  - legal
+  - smartcontracts
+  - identity
+  - signature
+  - law
+team_url: https://www.agrello.io/agrello-team
+team:
+  - name: Hando Rand
+    role: CEO
+    webids:
+      linkedin: hando-rand-7b25a791
+  - name: Addi Rull
+    role: Chief Sales, Marketing
+    webids:
+      linkedin: addi-rull-55608a2
+  - name: Margus Poola
+    role: CFO
+    webids:
+      linkedin: margus-poola-0a7069102
+contacts:
+  email: 'sales@agrello.io'
+  location:hq: 'Talinn, Estonia'
