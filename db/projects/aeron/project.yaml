@@ -1,0 +1,80 @@
+name: Aeron
+start_date: '2017-11-03'
+description: 'Aeron’s solution relies on blockchain technology to track aircraft maintenance and pilot logs.'
+web:
+  - 'https://aeron.aero/'
+assets:
+  - id: arn
+    start_date: '2017-08-10'
+    name: Aeron
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xba5f11b16b155792cf3b2e6880e8706859a8aeb6'
+    ledger: ethereum
+    symbol: ARN
+    max_supply: 100000000
+    ico_properties:
+      start_date: '2017-11-28'
+      end_date: '2017-12-10'
+      total_cap: 300000000
+      raised: 24750000 USD
+    first_distribution:
+      - title: 'public'
+        percent: 25
+      - title: 'advisors'
+        percent: 10
+      - title: 'team'
+        percent: 16
+      - title: 'mining'
+        percent: 12
+      - title: 'foundation'
+        percent: 25
+      - title: 'marketing'
+        percent: 12
+    webids:
+      coinmarketcap: aeron
+      cryptocompare: arn
+      cryptocompare/id: '335127'
+webids:
+  bitcointalk: '2078239.0'
+  bitcoinwiki: Aeron
+  coingecko: aeron
+  facebook: aeronpublic
+  github: aeronaero
+  linkein/company: aeronpublic
+  medium: aeronaero
+  twitter: aeron_aero
+  reddit: aeronaero
+  telegram: aeronaero
+whitepapers:
+  - title: 'Aeron: Blockchain for Aviation Safety'
+    url: https://i.aeron.aero/storage/AeronWhitepaper.pdf
+tags:
+  - aviation
+  - aerospace
+  - flightlog
+  - tracking
+team:
+  - name: Artem Orange
+    role: CEO
+    photo: https://i.aeron.aero/storage/team/1.jpg
+    webids:
+      linkedin: artemorange
+  - name: Nadezhda Barkanova
+    role: CTO
+    photo: https://i.aeron.aero/storage/team/2.jpg
+    webids:
+      linkedin: nadezhda-barkanova-33b83a1b
+  - name: Konstantin Gertman
+    role: CDO
+    photo: https://i.aeron.aero/storage/team/3.jpg
+    webids:
+      linkedin: konstantin-gertman-3684891
+  - name: Andrii Bulavinov
+    role: Developer
+    photo: https://i.aeron.aero/storage/team/14.jpg
+    webids:
+      linkedin: andriibulavinov
+contacts:
+  email: 'info@aeron.aero'
+  location:hq: 'Belize City, Belize'
