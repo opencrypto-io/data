@@ -1,6 +1,6 @@
 name: Aeron
 start_date: '2017-11-03'
-description: 'Aeron’s solution relies on blockchain technology to track aircraft maintenance and pilot logs.'
+description: 'Aeron solution relies on blockchain technology to track aircraft maintenance and pilot logs.'
 web:
   - 'https://aeron.aero/'
 assets:
