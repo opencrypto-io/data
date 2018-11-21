@@ -10,7 +10,7 @@ ledger:
     networks:
       - id: main
         type: main
-        name: Ardor
+        name: Ardor Network
         proof_type: PoS
         mineable: false
         tools:
