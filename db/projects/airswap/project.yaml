@@ -1,0 +1,65 @@
+name: AirSwap
+start_date: '2016-11-01'
+description: 'AirSwap is Decentralized Exchange for ethereum tokens build by Fluidity.io'
+web:
+  - 'https://www.airswap.io/'
+assets:
+  - id: ast
+    start_date: '2017-09-26'
+    name: AirSwap
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x27054b13b1b798b345b591a4d22e6562d47ea75a'
+    ledger: ethereum
+    symbol: AST
+    max_supply: 500000000
+    ico_properties:
+      start_date: '2017-10-10'
+      end_date: '2017-11-10'
+      raised: 36000000 USD
+    first_distribution:
+      - title: 'Public participants'
+        percent: 30
+      - title: 'Company reserve'
+        percent: 40
+      - title: 'Team, Employees'
+        percent: 10
+      - title: 'Advisors'
+        percent: 10
+      - title: 'Partnerships'
+        percent: 10
+    webids:
+      coinmarketcap: airswap
+      cryptocompare: ast
+      cryptocompare/id: '337162'
+webids:
+  bitcointalk: '2208855.0'
+  facebook: airswapio
+  linkedin/company: airswap
+  medium: airswap
+  twitter: airswap
+  reddit: AirSwap
+whitepapers:
+  - title: 'Swap: A Peer-to-Peer Protocol for Trading Ethereum Tokens'
+    url: https://swap.tech/whitepaper/
+tags:
+  - dex
+  - ethereum
+  - exchange
+team_url: https://www.fluidity.io/team/
+team:
+  - name: Michael Oved
+    role: CEO, Founder
+    webids:
+      linkedin: michaeloved
+  - name: Don Mosites
+    role: UX, Founder
+    webids:
+      linkedin: dmosites
+  - name: Sam Tabar
+    role: Founder
+    webids:
+      linkedin: sam-tabar-14a24698
+contacts:
+  email: 'eam@fluidity.io.'
+  location:hq: 'Brooklyn, New York'
