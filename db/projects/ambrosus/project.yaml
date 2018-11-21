@@ -1,0 +1,72 @@
+name: Ambrosus
+start_date: '2017-07-19'
+description: 'Ambrosus is building food, medical and IoT smart-contracts based supply chain solution'
+web:
+  - 'http://ambrosus.com/'
+assets:
+  - id: amb
+    start_date: '2017-07-19'
+    name: Ambrosus
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce'
+    ledger: ethereum
+    symbol: AMB
+    max_supply: 361477438
+    ico_properties:
+      start_date: '2017-09-13'
+      end_date: '2017-10-11'
+      raised: 30000000 USD
+    first_distribution:
+      - title: 'Public participants'
+        percent: 40
+      - title: 'Company reserve'
+        percent: 60
+    webids:
+      coinmarketcap: amber
+      cryptocompare: amb
+      cryptocompare/id: '238733'
+webids:
+  bitcointalk: '2034826.0'
+  custom/forum: 'https://blog.ambrosus.com/'
+  discord: jbmWg8c
+  facebook: ambrosusAMB
+  github: ambrosus
+  linkedin/company: ambrosus
+  telegram: ambrosuschat
+  twitter: AmbrosusAMB
+  reddit: ambrosus
+  youtube/channel: UC27wKQU7KBgvtuTAOKD0BJg
+  vk: ambrosus_ru
+whitepapers:
+  - title: 'Ambrosus Whitepaper'
+    url: https://ambrosus.com/assets/en/Ambrosus-White-Paper.pdf
+tags:
+  - iot
+  - sensors
+  - foodtech
+  - medicine
+  - opensource
+  - hardware
+  - dapps
+  - masternodes
+team_url: https://ambrosus.com/team/
+team:
+  - name: Angel Versetti
+    role: CEO
+    photo: https://ambrosus.com/wp-content/uploads/2018/05/Angel-Versetti.png
+    webids:
+      linkedin: angelversetti
+  - name: Stefan Meyer
+    role: CTO
+    photo: https://ambrosus.com/wp-content/uploads/2018/05/Stefan-Meyer-1.png
+    webids:
+      linkedin: drstefanmeyer
+  - name: Vlad Trifa
+    role: CPO
+    photo: https://ambrosus.com/wp-content/uploads/2018/05/Vlad-Trifa.png
+    webids:
+      linkedin: vladtrifa
+contacts:
+  email: 'info@ambrosus.com'
+  location:hq: 'Tallin, Estonia'
