@@ -7,7 +7,6 @@ ledger:
   - id: ardor
     name: Ardor
     type: blockchain
-    ledger: native
     networks:
       - id: main
         type: main
