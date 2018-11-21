@@ -32,20 +32,13 @@ assets:
       cryptocompare: ardr
       cryptocompare/id: '30173'
       coingecko: ardor
-    ico_properties:
-      raised: 15000000 USD
-      total_cap: 500000000
-    webids:
-      coinmarketcap: appcoins
-      cryptocompare: appc
-      cryptocompare/id: '346812'
 webids:
   bitcointalk: '1518497.0'
   custom/forum: 'https://nxtforum.org'
   custom/chat: 'https://nxtplatform.org/slack/'
   discord: wkcmqff
   facebook: ardorplatform
-  gitlab: Jelurida/ardor/src
+  gitlab: jelurida/ardor/src
   linkedin/company: jelurida
   telegram: ardorplatform
   twitter: ardorplatform
