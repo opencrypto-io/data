@@ -1,6 +1,6 @@
 name: AirSwap
 start_date: '2016-11-01'
-description: 'AirSwap is Decentralized Exchange for ethereum tokens build by Fluidity.io'
+description: 'AirSwap is decentralized exchange for ethereum tokens build by Fluidity.io'
 web:
   - 'https://www.airswap.io/'
 assets:
@@ -61,5 +61,5 @@ team:
     webids:
       linkedin: sam-tabar-14a24698
 contacts:
-  email: 'eam@fluidity.io.'
+  email: 'team@fluidity.io'
   location:hq: 'Brooklyn, New York'
