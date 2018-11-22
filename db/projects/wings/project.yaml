@@ -1,0 +1,23 @@
+name: Wings
+alt_names:
+  - Wings DAO
+web:
+  - 'https://wings.ai/'
+assets:
+  - id: wings
+    name: Wings
+    type: token
+    ledger: ethereum
+    symbol: WINGS
+    contract_address: '0x667088b212ce3d06a1b553a7221e1fd19000d9af'
+    max_supply: 100000000
+    start_date: '2016-12-31'
+    webids:
+      coinmarketcap: wings
+      cryptocompare: wings
+      cryptocompare/id: '25946'
+webids:
+  bitcointalk: '1477055.0'
+  telegram: wingschat
+  twitter: wingsplatform
+  reddit: WingsDAO
