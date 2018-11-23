@@ -1,0 +1,62 @@
+name: TrueUSD
+alt_names:
+  - True USD
+web:
+  - 'https://www.trueusd.com/'
+assets:
+  - id: tusd
+    name: TrueUSD
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: TUSD
+    contract_address: '0x8dd5fbce2f6a956c3022ba3663759011dd51e73e'
+    decimals: 18
+    start_date: '2018-03-31'
+    webids:
+      coinmarketcap: trueusd
+      cryptocompare: tusd
+      cryptocompare/id: '844139'
+team:
+  - name: Danny An
+    role: co-founder
+    photo: https://www.trusttoken.com/images/team-members/danny.png
+    webids:
+      linkedin: djan92
+  - name: Rafael Cosman
+    role: co-founder
+    photo: https://www.trusttoken.com/images/team-members/rafael.png
+    webids:
+      github: RafaelCosman
+      linkedin: rafaelcosman
+  - name: Stephen Kade
+    role: co-founder
+    photo: https://www.trusttoken.com/images/team-members/stephen.png
+    webids:
+      linkedin: stephenkade
+  - name: Tory Reiss
+    role: co-founder
+    photo: https://www.trusttoken.com/images/team-members/tory.png
+    webids:
+      linkedin: toryreiss
+  - name: Alex C. Levine
+    role: chief regulatory officer
+    photo: https://www.trusttoken.com/images/team-members/alex.png
+    webids:
+      linkedin: alexclevine
+whitepapers:
+  - title: 'TurstToken: Executive Summary'
+    url: https://docsend.com/view/ws6tkvs
+tags:
+  - dollar
+  - currency
+  - stablecoin
+webids:
+  telegram: joinchat/HihkMkTja1gIyBRM1J1_vg
+  github: trusttoken
+  twitter: TrustToken
+  facebook: TrustToken
+  custom/blog: https://blog.trusttoken.com/
+contacts:
+  email: 'hello@trusttoken.com'
+  location:hq: 'San Francisco, USA'
