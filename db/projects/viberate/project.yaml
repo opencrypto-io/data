@@ -1,0 +1,20 @@
+name: Viberate
+web:
+  - 'https://www.viberate.com/'
+assets:
+  - id: vib
+    name: Viberate
+    type: token
+    ledger: ethereum
+    symbol: VIB
+    contract_address: '0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724'
+    max_supply: 200000000
+    webids:
+      coinmarketcap: viberate
+      cryptocompare: vib
+      cryptocompare/id: '198710'
+webids:
+  bitcointalk: '2029450.0'
+  telegram: ViberateOfficial
+  twitter: Viberate_com
+  reddit: viberate
