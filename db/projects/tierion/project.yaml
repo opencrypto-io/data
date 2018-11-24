@@ -1,0 +1,22 @@
+name: Tierion
+web:
+  - 'https://tierion.com/'
+assets:
+  - id: tnt
+    name: Tierion
+    type: token
+    ledger: ethereum
+    symbol: TNT
+    contract_address: '0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8'
+    max_supply: 1000000000
+    start_date: '2017-07-17'
+    webids:
+      coinmarketcap: tierion
+      cryptocompare: tnt
+      cryptocompare/id: '186309'
+webids:
+  bitcointalk: '2027510.0'
+  discord: 9HM4Qy9
+  github: chainpoint
+  twitter: Tierion
+  reddit: tierion
