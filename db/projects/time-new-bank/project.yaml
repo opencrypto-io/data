@@ -5,6 +5,7 @@ assets:
   - id: tnb
     name: Time New Bank
     type: token
+    token_standard: ERC-20
     ledger: ethereum
     symbol: TNB
     contract_address: '0xf7920b0768ecb20a123fac32311d07d193381d6f'
@@ -23,7 +24,7 @@ assets:
         percent: 25
       - tile: 'ecosystem user integration'
         percent: 18
-      coinmarketcap: time-new-bank
+      coinmarketcap: 'time-new-bank'
       cryptocompare: tnb
       cryptocompare/id: '517483'
     ico_properties:
