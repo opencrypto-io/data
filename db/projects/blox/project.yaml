@@ -1,6 +1,6 @@
 name: Blox
-  alt_names:
-    - CoinDash
+alt_names:
+  - CoinDash
 start_date: '2016-01-01'
 description: 'App for managing your crypto assets, wallets and accounting'
 web:
