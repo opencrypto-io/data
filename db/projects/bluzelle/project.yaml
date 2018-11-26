@@ -4,7 +4,7 @@ description: 'Decentralize database for Dapps'
 web:
   - 'https://bluzelle.com/'
 assets:
-  - id: BLZ
+  - id: blz
     start_date: '2017-11-01'
     name: Bluzelle
     type: token
