@@ -1,0 +1,58 @@
+name: Blox
+  alt_names:
+    - CoinDash
+start_date: '2016-01-01'
+description: 'App for managing your crypto assets, wallets and accounting'
+web:
+  - 'https://blox.io/'
+assets:
+  - id: cdt
+    start_date: '2017-03-28'
+    name: Blox
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af'
+    ledger: ethereum
+    symbol: CDT
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-06-17'
+      end_date: '2017-08-17'
+      total_cap: 33700000
+      raised: 7000000 USD
+    webids:
+      coinmarketcap: blox
+      cryptocompare: cdt
+      cryptocompare/id: '177139'
+webids:
+  bitcointalk: '1831969.0'
+  facebook: blox.io
+  linkedin/company: blox-io
+  telegram: blox_product_discussion
+  twitter: Blox_Official
+  reddit: blox_io
+  youtube/channel: /UCYRrKmYrnSviUQQq-1xELAg
+tags:
+  - portfolio
+  - wallet
+  - app
+  - statistics
+  - datamanagement
+  - trading
+  - data
+  - API
+team:
+  - name: Alon Muroch
+    role: CEO
+    webids:
+      linkedin: alon-muroch-09198348
+  - name: Adam Efrima
+    role: Co-founder
+    webids:
+      linkedin: adam-efrima-b64a1477
+  - name: Ofir Eliasi
+    role: Research
+    webids:
+      linkedin: ofir-eliasi-97b9a445
+contacts:
+  location:hq: 'Tel Aviv, Israel'
