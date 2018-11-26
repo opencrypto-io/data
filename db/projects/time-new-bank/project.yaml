@@ -24,9 +24,9 @@ assets:
         percent: 25
       - tile: 'ecosystem user integration'
         percent: 18
-      coinmarketcap: 'time-new-bank'
-      cryptocompare: tnb
-      cryptocompare/id: '517483'
+    coinmarketcap: 'time-new-bank'
+    cryptocompare: tnb
+    cryptocompare/id: '517483'
     ico_properties:
       start_date: '2018-11-08'
       end_date: '2018-11-24'
