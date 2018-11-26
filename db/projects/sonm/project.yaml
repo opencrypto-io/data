@@ -1,0 +1,44 @@
+name: SONM
+web:
+  - 'https://sonm.io/'
+assets:
+  - id: snm
+    name: SONM
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: SNM
+    contract_address: '0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63'
+    decimals: 18
+    max_supply: 444000000
+    start_date: '2017-01-24'
+    ico_properties:
+      start_date: '2017-06-15'
+      total_cap: 42000000
+      ico_price: 0.00035 ETH
+    webids:
+      coinmarketcap: sonm
+      cryptocompare: snm
+      cryptocompare/id: '136244'
+team:
+  - name: Aleksei Antonov
+    role: co-founder
+    webids:
+      linkedin: auantonov
+  - name: Sergei Ponomarev
+    role: co-founder
+    webids:
+      linkedin: 'sergey-ponomarev'
+tags:
+  - cloud
+  - computing
+webids:
+  bitcointalk: '1845114.0'
+  telegram: sonm_eng
+  github: sonm-io
+  twitter: sonmdevelopment
+  reddit: SONM
+  custom/blog: 'https://sonm.com/blog/'
+  facebook: SONMproject
+contacts:
+  email: 'info@sonm.com'

@@ -24,7 +24,7 @@ assets:
         percent: 20
       - title: 'maintenance and operation'
         percent: 25
-      - tile: 'ecosystem user integration'
+      - title: 'ecosystem user integration'
         percent: 18
     ico_properties:
       start_date: '2018-11-08'
