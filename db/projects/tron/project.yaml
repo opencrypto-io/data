@@ -55,6 +55,8 @@ clients:
 whitepapers:
   - title: Tron
     url: https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf
+tags:
+  - coinburn
 team:
   - name: Justin Sun
     role: Founder, CEO

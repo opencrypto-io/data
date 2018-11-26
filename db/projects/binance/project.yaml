@@ -3,12 +3,23 @@ web:
   - 'https://www.binance.com/'
 assets:
   - id: bnb
+    description: 'Binance coin is giving you sale for exchange fees, also Binance burn 20% of their revenue worth of BNB every quartal'
     type: token
     ledger: ethereum
     name: Binance Coin
     symbol: BNB
     contract_address: '0xB8c77482e45F1F44dE1745F52C74426C631bDD52'
+    token_standard: ERC-20
     decimals: 18
+    max_supply: 200000000
+    start_date: '2017-06-27'
+    first_distribution:
+      - title: 'Public participants'
+        percent: 50
+      - title: 'Company reserve'
+        percent: 40
+      - title: 'Investors'
+        percent: 10
     webids:
       coinmarketcap: binance-coin
       cryptocompare: bnb
@@ -45,9 +56,16 @@ team:
 whitepapers:
   - title: Binance Exchange Whitepaper
     url: https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
+tags:
+  - coinburn
+  - exchange
+  - fees
 webids:
   telegram: binance_announcements
   facebook: binanceexchange
   reddit: binanceexchange
   medium: binanceexchange
   instagram: binanceexchange
+  twitter: binance
+contacts:
+  email: support@binance.com

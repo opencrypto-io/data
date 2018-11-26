@@ -9,6 +9,7 @@ assets:
     name: Augur
     type: token
     token_standard: ERC-20
+    contract_address: '0xe94327d07fc17907b4db788e5adf2ed424addff6'
     ledger: ethereum
     symbol: REP
     max_supply: 11000000
@@ -28,7 +29,7 @@ webids:
   bitcoinwiki: Augur
   discord: faud6Fx
   stackexchange: augur
-  facebook: augurproject/
+  facebook: augurproject
   github: AugurProject
   linkedin/company: augur-net
   telegram: AugurProject
