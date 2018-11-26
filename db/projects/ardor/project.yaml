@@ -3,7 +3,7 @@ start_date: '2018-01-01'
 description: 'Ardor is a platform securing various transaction sidechains.'
 web:
   - 'https://www.ardorplatform.org/'
-ledger:
+ledgers:
   - id: ardor
     name: Ardor
     type: blockchain
