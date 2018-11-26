@@ -1,0 +1,57 @@
+name: BlockMason Credit Protocol
+start_date: '2017-10-16'
+description: 'Framework for dApp developers focused on credit operations'
+web:
+  - 'https://blockmason.io/'
+assets:
+  - id: bcpt
+    start_date: '2017-08-28'
+    name: BlockMason Credit Protocol
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x1c4481750daa5ff521a2a7490d9981ed46465dbd'
+    ledger: ethereum
+    symbol: BCPT
+    max_supply: 116158667
+    ico_properties:
+      start_date: '2017-01-08'
+      end_date: '2017-11-08'
+      total_cap: 33700000
+    webids:
+      coinmarketcap: blockmason
+      cryptocompare: bcpt
+      cryptocompare/id: '374281'
+webids:
+  facebook: blockmasonio
+  github: blockmason
+  linkedin/company: blockmason-inc
+  medium: BlockMason
+  telegram: blockmason
+  twitter: blockmasonio
+  reddit: blockmason
+  youtube/channel: UCqv0UBWjgjM5JZkxdQR7DYw
+whitepapers:
+  - title: 'The Credit Protocol Whitepaper'
+    url: https://blockmason.io/cp-whitepaper.pdf
+tags:
+  - framework
+  - dapps
+  - lndr
+  - credit
+  - debt
+  - accounting
+team:
+  - name: Michael Chin
+    role: CEO, Co-founder
+    webids:
+      linkedin: michael-chin-172a0466
+  - name: Devin Canterberry
+    role: CTO
+    webids:
+      linkedin: canterberry
+  - name: Erik MacKinnon
+    role: CMO
+    webids:
+      linkedin: erikmackinnon
+contacts:
+  email: 'info@blockmason.io'
