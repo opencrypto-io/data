@@ -1,0 +1,60 @@
+name: Chainlink
+start_date: '2017-08-17'
+description: 'ChainLink connects smart contracts to any external systems and API'
+web:
+  - 'https://chain.link'
+assets:
+  - id: link
+    start_date: '2017-09-19'
+    name: Chainlink
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x514910771af9ca656af840dff83e8264ecf986ca'
+    ledger: ethereum
+    symbol: LINK
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-08-28'
+      total_cap: 350000000
+      raised: 32000000 USD
+    webids:
+      coinmarketcap: chainlink
+      cryptocompare: link
+      cryptocompare/id: '309621'
+webids:
+  github: smartcontractkit
+  gitter: smartcontractkit-chainlink
+  linkedin/company: smartcontract
+  medium: chainlink
+  telegram: chainlinkofficial
+  twitter: chainlink
+  reddit: chainlink
+whitepapers:
+  - title: 'ChainLink: A Decentralized Oracle Network'
+    url: https://link.smartcontract.com/whitepaper
+tags:
+  - framework
+  - dapps
+  - smartcontracts
+  - developerkit
+  - api
+  - payments
+  - oracle
+  - opensource
+  - technology
+team:
+  - name: Sergey Nazarov
+    role: CEO
+    webids:
+      linkedin: sergeydnazarov
+  - name: Steve Ellis
+    role: CTO
+    webids:
+      linkedin: steveellis0606
+  - name: Mark Oblad
+    role: COO
+    webids:
+      linkedin: markoblad
+contacts:
+  email: 'support@chain.link'
+  location:hq: 'Cayman, Cayman Islands'
