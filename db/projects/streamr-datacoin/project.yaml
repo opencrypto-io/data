@@ -41,8 +41,8 @@ team:
   - name: Risto Karjalainen
   - name: Nikke Nylund
 whitepapers:
-  title: 'Unstoppable Data for Unstoppable Apps: DATAcoin by Streamr'
-  url: https://s3.amazonaws.com/streamr-public/streamr-datacoin-whitepaper-2017-07-25-v1_0.pdf
+  - title: 'Unstoppable Data for Unstoppable Apps: DATAcoin by Streamr'
+    url: https://s3.amazonaws.com/streamr-public/streamr-datacoin-whitepaper-2017-07-25-v1_0.pdf
 tags:
   - data
 webids:

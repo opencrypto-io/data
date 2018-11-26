@@ -45,7 +45,7 @@ webids:
   reddit: tierion
   telegram: tierion
   facebook: TierionInc
-  custom:blog: 'https://blog.tierion.com/'
+  custom/blog: 'https://blog.tierion.com/'
 contacts:
   email: 'support@tierion.com'
   location:hq: 'San Francisco, California, USA'

@@ -10,9 +10,11 @@ assets:
     symbol: TNB
     contract_address: '0xf7920b0768ecb20a123fac32311d07d193381d6f'
     decimals: 18
-    max_supply:  6000000000
+    max_supply: 6000000000
     start_date: '2016-10-01'
     webids:
+      cryptocompare: tnb
+      cryptocompare/id: '517483'
     first_distribution:
       - title: 'ico'
         percent: 27
@@ -24,9 +26,6 @@ assets:
         percent: 25
       - tile: 'ecosystem user integration'
         percent: 18
-    coinmarketcap: 'time-new-bank'
-    cryptocompare: tnb
-    cryptocompare/id: '517483'
     ico_properties:
       start_date: '2018-11-08'
       end_date: '2018-11-24'

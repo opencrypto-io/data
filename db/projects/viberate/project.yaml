@@ -4,7 +4,7 @@ web:
 assets:
   - id: vib
     name: Viberate
-    alt_name:
+    alt_names:
       - VIB
     type: token
     ledger: ethereum
