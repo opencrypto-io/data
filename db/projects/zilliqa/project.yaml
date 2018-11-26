@@ -1,0 +1,78 @@
+name: Zilliqa
+start_date: '2017-07-01'
+web:
+  - 'https://www.zilliqa.com/'
+description: 'Zilliqa is project focused on scalability and sharding research'
+assets:
+  - id: zil
+    name: Zilliqa
+    type: token
+    ledger: ethereum
+    symbol: ZIL
+    contract_address: '0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27'
+    token_standard: ERC-20
+    max_supply: 12600000000
+    start_date: '2017-11-06'
+    webids:
+      coinmarketcap: zilliqa
+      cryptocompare: zil
+      cryptocompare/id: '716725'
+    ico_properties:
+      start_date: '2017-12-27'
+      end_date: '2018-01-04'
+      total_cap: 21000000000
+      raised: 22000000 USD
+    first_distribution:
+      - title: 'Public participants'
+        percent: 30
+      - title: 'Mining & community'
+        percent: 40
+      - title: 'Company, team'
+        percent: 30
+webids:
+  telegram: zilliqachat
+  github: Zilliqa
+  twitter: zilliqa
+  reddit: zilliqa
+  linkedin: zilliqa
+  bitcointalk: '2219655.0'
+team:
+  - name: Xinshu Dong
+    role: CEO
+    photo: https://zilliqa.com/images/9b_9.png
+    webids:
+      linkedin: xinshudong
+      twitter: xinshudong
+  - name: Jia Yaoqi
+    role: CTO, Founder
+    photo: https://zilliqa.com/images/8b_10.png
+    webids:
+      linkedin: jia-yaoqi-7588a347
+      twitter: jiayaoqi
+  - name: Amrit Kumar
+    role: Research, cofounder
+    photo: https://zilliqa.com/images/6b_11.png
+    webids:
+      linkedin: amrit-kumar-6aa66151
+  - name: Evan Cheng
+    role: Advisor
+    photo: https://zilliqa.com/images/evan_2_orig.png
+    webids:
+      linkedin: chengevan
+tags:
+  - sharding
+  - scalability
+  - smartcontracts
+whitepapers:
+  - title: 'The Zilliqa - Technical Whitepaper'
+    url: https://docs.zilliqa.com/whitepaper.pdf
+  - title: 'The Zilliqa project: A Secure, Scalable Blockchain Platform'
+    url: https://docs.zilliqa.com/positionpaper.pdf
+contacts:
+    email: 'enquiry@zilliqa.com'
+    location:hq: 'Singapore, Singapore'
+history:
+  - date: '2018-07-01'
+    title: Testnet v2.0 release'
+  - date: '2019-01-01'
+    title: 'Mainnet Launch'

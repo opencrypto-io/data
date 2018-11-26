@@ -1,0 +1,74 @@
+name: Pundi X
+web:
+  - 'https://pundix.com/'
+start_date: '2016-01-01'
+description: 'Pundi X aims to bring in the next billion crypto users as it allows users to buy, sell, use cryptocurrency anywhere and anytime.'
+assets:
+  - id: npxs
+    name: Pundi X
+    type: token
+    ledger: ethereum
+    symbol: NPXS
+    contract_address: '0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3'
+    max_supply: 280255193861
+    start_date: '2017-09-27'
+    token_standard: ERC-20
+    webids:
+      coinmarketcap: pundi-x
+      cryptocompare: npxs
+      cryptocompare/id: '731516'
+    ico_properties:
+      start_date: '2018-01-21'
+      end_date: '2018-01-21'
+      total_cap: 35000000
+      raised: 40000000 USD
+    first_distribution:
+      - title: 'public participants'
+        percent: 67
+      - title: 'Company reserve'
+        percent: 13
+      - title: 'Founders'
+        percent: 17
+      - title: 'Advisors, Marketing'
+        percent: 3
+whitepapers:
+  - title: 'PundiX Whitepaper'
+    url: https://pundix.com/pdf/PundiX_Whitepaper_EN_Ver.pdf
+tags:
+  - pointofsale
+  - offline
+  - retailers
+  - platform
+  - terminal
+  - xpos
+  - xpass
+  - payment
+team:
+  - name: Zac Cheah
+    role: CEO, Founder
+    photo: https://pundix.com/public/img/about/33F44F145689A3DCADF13D8807B1A169.png
+    webids:
+      linkedin: zibin
+      twitter: zibin
+  - name: Constantin Papadimitriou
+    role: President
+    photo: https://pundix.com/public/img/about/team_kiki.png
+    webids:
+      linkedin: constantin-papadimitriou-447436
+      twitter: kiki_cp
+  - name: Pitt Huang
+    role: CTO, Founder
+    photo: https://pundix.com/public/img/about/3F65EE20BA78D3CD323EEAC921910F60.png
+    webids:
+      linkedin: pitt-huang-086591b
+webids:
+  medium: pundix
+  telegram: pundix
+  twitter: PundiXLabs
+  youtube/channel: UCOIf6WeLEzZi3DQxzenTZeA
+  linkedin/company: pundipundi
+  facebook: pundixlabs
+  bitcointalk: '2212228'
+contacts:
+    email: 'contact@pundix.com'
+    location:hq: 'Jakarta, Jakarta'
