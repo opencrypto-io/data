@@ -1,0 +1,73 @@
+name: Substratum
+alt_names:
+  - Substratum Network
+web:
+  - 'https://substratum.net/'
+assets:
+  - id: sub
+    name: Substratum
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: SUB
+    contract_address: '0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a'
+    decimals: 2
+    max_supply: 600000000
+    start_date: '2017-08-14'
+    ico_properties:
+      start_date: '2017-08-14'
+      end_date: '2017-09-14'
+      total_cap: 13800000
+      ico_price: 0.00033 ETH
+      country: USA
+    webids:
+      coinmarketcap: substratum
+      cryptocompare: sub
+      cryptocompare/id: '221463'
+team_url: 'https://substratum.net/our-team/'
+team:
+  - name: Justin Tabb
+    role: solutions architect
+    webids:
+      email: 'justin@substratum.net'
+      linkedin: justintabb
+      twitter: overridepro
+  - name: Abram Cookson
+    role: cio and co-founder
+    webids:
+      email: 'abram@substratum.net'
+      linkedin: abramcookson
+      twitter: abramcookson
+  - name: B. J. Allmon
+    role: senior software engineer
+    webids:
+      email: 'bj@substratum.net'
+      linkedin: bjallmon
+      twitter: bjallmon
+  - name: Steve Swing
+    role: chief technical officer
+    webids:
+      email: 'steve@substratum.net'
+      linkedin: 'steve-swing-042891'
+      twitter: sswing
+  - name: Dan Wiebe
+    role: technical lead
+    webids:
+      email: 'dan@substratum.net'
+      linkedin: 'dan-wiebe-0a501a1'
+      twitter: dnwiebe
+whitepapers:
+  - title: 'Substratum Whitepaper'
+    url: 'https://substratum.net/wp-content/uploads/2017/12/Substratum-Whitepaper-English.pdf'
+webids:
+  bitcointalk: '2054963.0'
+  telegram: SubstratumCommunity
+  github: SubstratumNetwork
+  twitter: substratumnet
+  reddit: SubstratumNetwork
+  custom/blog: https://substratum.net/blog/
+  slack: substratumcoin
+  youtube/channel: UCxUJoTH0XLERKl55zGnFI6g
+  facebook: substratumnet
+contacts:
+  email: 'justin@substratum.net'

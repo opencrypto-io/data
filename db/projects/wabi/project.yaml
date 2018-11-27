@@ -1,0 +1,58 @@
+name: WaBi
+web:
+  - 'https://wacoin.io/'
+assets:
+  - id: wabi
+    name: WaBi
+    type: token
+    ledger: ethereum
+    token_standard: ERC-20
+    symbol: WABI
+    contract_address: '0x286bda1413a2df81731d4930ce2f862a35a609fe'
+    decimals: 18
+    max_supply: 100000000
+    start_date: '2017-07-21'
+    ico_properties:
+      start_date: '2017-11-27'
+      end_date: '2017-11-30'
+      total_cap: 11500000
+      ico_price: 0.25 USD
+      country: 'Singapore, China'
+    webids:
+      coinmarketcap: wabi
+      cryptocompare: wabi
+      cryptocompare/id: '340940'
+team:
+  - name: Mario F. Pazos
+    role: adviser
+    webids:
+      linkedin: mapazos
+  - name: Igor Livant
+    role: adviser
+    webids:
+      linkedin: livant
+  - name: Long Chiu
+    role: adviser
+    webids:
+      linkedin: longchiu
+  - name: Mark Zavadskiy
+    role: adviser
+    webids:
+      linkedin: 'mark-zavadskiy-76a14b17'
+  - name: Bruno Mercier
+    role: adviser
+    webids:
+      linkedin: 'bruno-mercier-%E6%A2%85%E6%80%9D%E5%8B%B0%EF%BC%89-95a73541'
+whitepapers:
+  - title: 'WaBi - crypto token for safe consumer products'
+    url: 'https://resources.wacoin.io/WaBI_Whitepaper_ENG.pdf'
+webids:
+  bitcointalk: '2038385.0'
+  medium: '@wabiico'
+  telegram: wabiico
+  custom/chat: 'http://slack.wacoin.io/'
+  twitter: wabiico
+  reddit: wabitoken
+  facebook: wabiico
+contacts:
+  email: 'support@wacoin.io'

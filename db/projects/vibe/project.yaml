@@ -1,0 +1,67 @@
+name: VIBE
+alt_names:
+  - VIBEHub
+web:
+  - 'https://www.vibehub.io/'
+assets:
+  - id: vibe
+    name: VIBE
+    alt_names:
+      - Vibe Coin
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: VIBE
+    contract_address: '0xe8ff5c9c75deb346acac493c463c8950be03dfba'
+    decimals: 18
+    max_supply: 267000000
+    start_date: '2017-07-25'
+    webids:
+      coinmarketcap: vibe
+      cryptocompare: vibe
+      cryptocompare/id: '336538'
+team_url: 'https://betanet.vibehub.io/about/team'
+team:
+  - name: Alessio Mack
+    role: co-founder
+    photo: https://betanet.vibehub.io/images/team/alessio.jpg
+    webids:
+      linkedin: amackvibehub
+  - name: Matthew Myers
+    role: co-founder
+    photo: https://betanet.vibehub.io/images/team/matthew.jpg
+    webids:
+      linkedin: mattvibehub
+  - name: Fred Bender
+    role: senior developer
+    photo: https://betanet.vibehub.io/images/team/fred.jpg
+    webids:
+      linkedin: 'fred-bender-8099b8104'
+  - name: Nick Papillon
+    role: business development
+    photo: https://betanet.vibehub.io/images/team/nick.jpg
+    webids:
+      linkedin: gratefulenergy
+  - name: Rema Fazal
+    role: business development
+    photo: https://betanet.vibehub.io/images/team/rema.jpg
+    webids:
+      linkedin: 'rema-fazal-b08119110'
+tags:
+  - vr
+  - music
+  - game
+webids:
+  bitcointalk: '2044729.0'
+  discord: rDJTpxC
+  github: amack2u
+  twitter: VibeHubVR
+  reddit: VibeHub
+  telegram: VIBEHub2
+  youtube/channel: 'UCbZuYQJpz2G2x2Y2eIbw_UA'
+  instagram: 'vibehub.io'
+  medium: '@VIBEHUBNEWS'
+  slack: vibehub
+  facebook: vibehubvr
+contacts:
+  email: 'info@vibehub.io'

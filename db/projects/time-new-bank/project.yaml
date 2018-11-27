@@ -1,0 +1,50 @@
+name: Time New Bank
+web:
+  - 'http://tnb.fund/'
+assets:
+  - id: tnb
+    name: Time New Bank
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: TNB
+    contract_address: '0xf7920b0768ecb20a123fac32311d07d193381d6f'
+    decimals: 18
+    max_supply: 6000000000
+    start_date: '2016-10-01'
+    webids:
+      cryptocompare: tnb
+      cryptocompare/id: '517483'
+    first_distribution:
+      - title: 'ico'
+        percent: 27
+      - title: 'investors'
+        percent: 10
+      - title: 'team'
+        percent: 20
+      - title: 'maintenance and operation'
+        percent: 25
+      - title: 'ecosystem user integration'
+        percent: 18
+    ico_properties:
+      start_date: '2018-11-08'
+      end_date: '2018-11-24'
+      ico_price: 0.00005 ETH
+      country: Singapore
+team:
+  - name: Vincent Lim
+  - name: Andrew Wong
+  - name: Chris Weilacker
+  - name: Best Liang
+whitepapers:
+  - title: 'Whitepaper'
+    url: https://tnb.fund/pdf/TNB_business_white_paper_en.pdf
+webids:
+  telegram: tnb_en
+  github: timenewbank
+  twitter: TimeNewBank
+  reddit: TimeNewBank
+  slack: tnbtalk
+  medium: '@timenewbank'
+contacts:
+  email: 'contact@tnb.fund'

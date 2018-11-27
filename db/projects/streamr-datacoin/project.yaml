@@ -1,0 +1,61 @@
+name: Streamr DATAcoin
+web:
+  - 'https://www.streamr.com/'
+assets:
+  - id: data
+    name: Streamr DATAcoin
+    alt_names:
+      - DATAcoin
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: DATA
+    contract_address: '0x0cf0ee63788a0849fe5297f3407f701e122cc023'
+    decimals: 18
+    max_supply: 987154514
+    start_date: '2017-10-06'
+    ico_properties:
+      start_date: '2017-10-12'
+      end_date: '2017-10-13'
+      total_cap: 31000000
+      ico_price: 0.000186 ETH
+      country: Switzerland
+    webids:
+      coinmarketcap: 'streamr-datacoin'
+      cryptocompare: data
+      cryptocompare/id: '369151'
+team:
+  - name: Henri Pihkala
+    role: founder
+    photo: https://www.streamr.com/assets/TeamPhotos/Henri.jpg
+    webids:
+      twitter: henripihkala
+      linkedin: henripihkala
+      email: 'henri.pihkala@streamr.com'
+  - name: Michael Malka
+    role: head of streamr labs
+    photo: https://www.streamr.com/assets/TeamPhotos/Michael.jpg
+    webids:
+      twitter: michaelmalka
+      linkedin: 'michael-malka'
+  - name: Risto Karjalainen
+  - name: Nikke Nylund
+whitepapers:
+  - title: 'Unstoppable Data for Unstoppable Apps: DATAcoin by Streamr'
+    url: https://s3.amazonaws.com/streamr-public/streamr-datacoin-whitepaper-2017-07-25-v1_0.pdf
+tags:
+  - data
+webids:
+  custom/chat: 'https://chat.streamr.com/'
+  github: streamr-dev
+  twitter: streamrinc
+  reddit: streamr
+  custom/trello: 'https://trello.com/b/j24hxvjg'
+  telegram: streamrdata
+  linkedin/company: 'streamr-ltd-'
+  youtube/channel: 'UCGWEA61RueG-9DV53s-ZyJQ'
+  medium: 'streamrblog'
+contacts:
+  email: 'contact@streamr.com'
+  location:hq: 'Streamr Network AG, Baarerstrasse 135, 6300 Zug, Switzerland'
+  location:node: 'Streamr Labs, Kaisaniemenkatu 4, 00101 Helsinki, Finland'

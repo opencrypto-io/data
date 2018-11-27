@@ -1,0 +1,30 @@
+name: YOYOW
+alt_names:
+  - Yoyow
+web:
+  - 'https://yoyow.org/'
+assets:
+  - id: yoyow
+    name: YOYOW
+    type: token
+    ledger: ethereum
+    symbol: YOYOW
+    contract_address: '0xcbeaec699431857fdb4d37addbbdc20e132d4903'
+    decimals: 18
+    max_supply: 62000000
+    start_date: '2017-03-21'
+    ico_properties:
+      start_date: '2017-05-21'
+      end_date: '2017-05-24'
+      raised: 4364760 USD
+      ico_price: 0.02 USD
+      country: China
+    webids:
+      coinmarketcap: yoyow
+      cryptocompare: yoyow
+      cryptocompare/id: '322002'
+webids:
+  github: 'yoyow-org'
+  telegram: HelloYOYOW
+  twitter: InfoYoyow
+  custom/forum: 'https://www.yoyow123.com/forum.php'

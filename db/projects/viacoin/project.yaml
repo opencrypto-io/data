@@ -1,0 +1,75 @@
+name: Viacoin
+alt_names:
+  - ViaCoin
+web:
+  - 'http://viacoin.org'
+ledgers:
+  - id: viacoin
+    name: Viacoin
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        start_date: '2014-07-17'
+        algorithm: Scrypt
+        proof_type: PoW
+        mineable: true
+        target_block_time: 24
+        tools:
+          - type: explorer
+            url: 'http://chainz.cryptoid.info/via/'
+          - type: explorer
+            url: 'https://explorer.viacoin.org/'
+assets:
+  - id: via
+    name: Viacoin
+    type: native
+    ledger: viacoin
+    symbol: VIA
+    max_supply: 23021392.414590
+    start_date: '2014-07-18'
+    webids:
+      coinmarketcap: viacoin
+      cryptocompare: via
+      cryptocompare/id: '5015'
+team:
+  - name: Romano
+    role: lead developer
+    photo: https://viacoin.org/team/romano.svg
+    webids:
+      github:
+        romanornr
+  - name: Reorder
+    role: developer
+    photo: https://viacoin.org/team/reorder.svg
+    webids:
+      github: reorder
+  - name: Frank
+    role: developer
+    photo: https://viacoin.org/team/frank.svg
+    webids:
+      linkedin: 'frank-marrone-b833533'
+  - name: Chainfailure
+    role: developer
+    photo: https://viacoin.org/team/chainfailure.svg
+    webids:
+      github: chainfailure
+      twitter: chainfailur
+  - name: Hotshot
+    role: developer
+    photo: https://viacoin.org/team/hotshot.svg
+    webids:
+      github: abllr
+      twitter: cryptoshot
+whitepapers:
+  - title: Viacoin Whitepaper
+    url: https://github.com/viacoin/documents/raw/master/whitepapers/Viacoin_whitepaper.pdf
+webids:
+  bitcointalk: '1840789.0'
+  telegram: viacoin
+  github: viacoin
+  twitter: viacoin
+  reddit: viacoin
+  medium: '@viacoin'
+contacts:
+  email: 'info@viacoin.org'

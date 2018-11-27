@@ -7,15 +7,33 @@ ledgers:
   - id: zcash
     name: Zcash
     type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+    start_date: '2016-10-28'
     networks:
       - id: main
+        type: main
         algorithm: Equihash
         proof_type: PoW
+        mineable: true
+        target_block_time: 150
+        maximum_block_size: 2000000
         tools:
           - type: explorer
             url: 'https://explorer.zcha.in/'
           - type: explorer
             url: 'https://zchain.online/'
+      - id: test
+        type: test
+        name: testnet
+        tools:
+          - type: faucet
+            url: 'https://faucet.testnet.z.cash/'
+          - type: explorer
+            url: 'https://explorer.testnet.z.cash/'
+          - type: explorer
+            url: 'https://chain.so/testnet/zcash'
 assets:
   - id: zec
     name: Zcash
@@ -28,7 +46,36 @@ assets:
       coinmarketcap: zcash
       cryptocompare: zec
       cryptocompare/id: '24854'
+team_url: https://z.cash/team/
+team:
+  - name: Andy Murray
+    role: cfo
+    photo: https://z.cash/wp-content/uploads/2018/09/AMurray.jpg
+  - name: Ariel Gabizon
+    role: engineer
+    photo: https://z.cash/wp-content/uploads/2018/09/AGabizon.jpg
+    webids:
+      twitter: btcVeg
+  - name: Benjamin Winston
+    role: director of product security
+    photo: https://z.cash/wp-content/uploads/2018/09/BWinston.jpg
+  - name: Brad Miller
+    role: developer relations manager
+    photo: https://z.cash/wp-content/uploads/2018/10/brad.jpg
+  - name: Charlie O Keefe
+    role: engineer
+    photo: https://z.cash/wp-content/uploads/2018/09/Charlie-OKeefe.jpg
+    webids:
+      twitter: charlieok
+tags:
+  - fork
+  - privacy
+  - anonymity
 webids:
-  custom/forum: 'https://forum.z.cash/'
-  github: zcash/zcash
+  custom/forum: 'https://forum.zcashcommunity.com/'
+  github: zcash
   twitter: zcashco
+  custom/blog: https://z.cash/blog/
+  custom/chat: https://chat.zcashcommunity.com/
+contacts:
+  email: 'info@z.cash'
