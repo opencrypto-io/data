@@ -1,0 +1,64 @@
+name: Skycoin
+web:
+  - 'http://skycoin.net/'
+ledgers:
+  - id: skycoin
+    name: Skycoin
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        tools:
+          - type: explorer
+            url: 'http://explorer.skycoin.net/'
+          - type: explorer
+            url: 'https://www.cryptoground.com/skycoin-block-explorer'
+      - id: test
+        type: test
+        name: Skywire
+assets:
+  - id: sky
+    name: Skycoin
+    type: native
+    ledger: skycoin
+    symbol: SKY
+    max_supply: 250000000
+    start_date: '2013-12-22'
+    webids:
+      coinmarketcap: skycoin
+      cryptocompare: sky
+      cryptocompare/id: '136269'
+team_url: https://www.skycoin.net/team/
+team:
+  - name: Synth
+    role: founder
+    photo: https://www.skycoin.net/static/media/synth.ad8fbb20.png
+  - name: Houwu Chen
+    role: founder
+  - name: Steve Leonard
+    role: founder
+  - name: Michael Terpin
+    role: advisor
+  - name: John Otto Peters
+    role: advisor
+whitepapers:
+  - title: 'Skycoin: Business Whitepaper'
+    url: https://downloads.skycoin.net/whitepapers/Skycoin-Whitepaper-v1.0.pdf
+tags:
+  - mcafee
+webids:
+  bitcointalk: '380441.0'
+  github: skycoin
+  twitter: Skycoinproject
+  reddit: Skycoin
+  custom/blog: 'https://www.skycoin.net/blog'
+  telegram: Skycoin
+  discord: EgBenrW
+  medium: '@Skycoinproject'
+  facebook: SkycoinOfficial
+  instagram: skycoinproject
+  youtube/channel: UCzLASufel2No4vSt4rudHSQ
+  linkedin/company: skycoin
+contacts:
+  email: 'contact@skycoin.net'
+  location:hq: 'Shanghai'

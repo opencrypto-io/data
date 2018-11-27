@@ -1,0 +1,51 @@
+name: Tierion
+web:
+  - 'https://tierion.com/'
+assets:
+  - id: tnt
+    name: Tierion
+    alt_names:
+      - Tierion Network Token
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: TNT
+    contract_address: '0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8'
+    decimals: 8
+    max_supply: 1000000000
+    start_date: '2017-07-17'
+    webids:
+      coinmarketcap: tierion
+      cryptocompare: tnt
+      cryptocompare/id: '186309'
+team:
+  - name: Wayne Vaughan
+    role: co-founder
+    photo: https://tierion.com/static/bio-wayne@3x-6e65c1cff789eb6a2fa38e79a1546dbf.jpg
+  - name: Jason Bukowski
+    role: co-founder
+    photo: https://tierion.com/static/bio-jason@3x-4c62bb1e9cebdb20649530a977925e37.jpg
+  - name: Glenn Rempe
+    role: vp of engineering
+    photo: https://tierion.com/static/bio-glenn@3x-c7dfb874036b42af24006d96d9fb7d4c.jpg
+  - name: Pierre Wolff
+    role: vp of business development
+    photo: https://tierion.com/static/bio-pierre@3x-09f76d8556154d102fcf8ca6ad76b4a2.jpg
+  - name: Adam Evers
+    role: head of marketing
+    photo: https://tierion.com/static/bio-adam@3x-c1a4306a176cf0486ed3bce732b78f8b.jpg
+whitepapers:
+  - title: 'Tierion Network: A global platform for verifiable data'
+    url: 'https://tokensale.tierion.com/TierionTokenSaleWhitePaper.pdf'
+webids:
+  bitcointalk: '2027510.0'
+  discord: 9HM4Qy9
+  github: tierion
+  twitter: Tierion
+  reddit: tierion
+  telegram: tierion
+  facebook: TierionInc
+  custom/blog: 'https://blog.tierion.com/'
+contacts:
+  email: 'support@tierion.com'
+  location:hq: 'San Francisco, California, USA'

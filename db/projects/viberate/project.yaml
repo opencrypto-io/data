@@ -1,0 +1,63 @@
+name: Viberate
+web:
+  - 'https://www.viberate.com/'
+assets:
+  - id: vib
+    name: Viberate
+    alt_names:
+      - VIB
+    type: token
+    ledger: ethereum
+    symbol: VIB
+    contract_address: '0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724'
+    decimals: 18
+    max_supply: 200000000
+    ico_properties:
+      start_date: '2017-09-25'
+      total_cap: 12000000
+      ico_price: 0.1 USD
+      country: Slovenia
+    webids:
+      coinmarketcap: viberate
+      cryptocompare: vib
+      cryptocompare/id: '198710'
+team_url: 'https://www.viberate.io/en/people'
+team:
+  - name: Matej Gegorcic
+    role: founder
+    photo: https://viberatecdn.blob.core.windows.net/ico/1533792401-503851542.jpg
+    webids:
+      linkedin: matejgregorcic
+  - name: Vasja Veber
+    role: founder
+    photo: https://viberatecdn.blob.core.windows.net/ico/1533792367-376865332.jpg
+    webids:
+      linkedin: vasjaveber
+  - name: Uros Umek
+    role: founder
+    photo: https://viberatecdn.blob.core.windows.net/ico/1533792336-1497257164.jpg
+  - name: Luka Kase
+    role: creative director
+    photo: https://viberatecdn.blob.core.windows.net/ico/1533792253-806049054.jpg
+    webids:
+      linkedin: 'luka-kase-b2705225'
+  - name: Mateja Tomazincic
+    role: art director
+    photo: https://viberatecdn.blob.core.windows.net/ico/1533792239-1599724883.jpg
+    webids:
+      linkedin: mateja1111
+tags:
+  - music
+  - eshop
+webids:
+  bitcointalk: '2029450.0'
+  telegram: ViberateOfficial
+  twitter: Viberate_com
+  reddit: viberate
+  facebook: viberateOFC
+  linkedin/company: viberate
+  medium: 'viberate-blog'
+  instagram: 'viberate_music'
+contacts:
+  email: 'ico@viberate.com'
+  location:hq: 'Ljubljana, Slovenia'

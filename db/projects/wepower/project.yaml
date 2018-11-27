@@ -1,0 +1,70 @@
+name: WePower
+web:
+  - 'https://wepower.network/'
+assets:
+  - id: wpr
+    name: WePower
+    type: token
+    ledger: ethereum
+    symbol: WPR
+    contract_address: '0x4cf488387f035ff08c371515562cba712f9015d4'
+    decimals: 18
+    max_supply: 746403007.29
+    ico_properties:
+      start_date: '2018-02-01'
+      total_cap: 30000000
+      ico_price: 0.000125 ETH
+      country: 'Lithuania, Estonia'
+    first_distribution:
+      - title: 'public'
+        amount: 462769864.52
+        percent: 62
+      - title: 'team'
+        amount: 283633142.77
+        percent: 38
+    webids:
+      coinmarketcap: wepower
+      cryptocompare: wpr
+      cryptocompare/id: '355242'
+team_url: 'https://wepower.network/team'
+team:
+  - name: Nikolaj Martyniuk
+    role: chief executive officer
+    webids:
+      linkedin: nikolajmartyniuk
+      twitter: 'nikver?lang=en'
+      medium: '@Nikver'
+  - name: Kaspar Kaarlep
+    role: chief technology officer
+    webids:
+      linkedin: 'kaspar-kaarlep-76268b28'
+      medium: '@kaspar_66813'
+  - name: Kristjan Kuhi
+    role: chief architect
+    webids:
+      linkedin: 'kristjan-kuhi-347652'
+  - name: Jarmo Tuisk
+    role: head of product
+    webids:
+      linkedin: tuskjarmo
+  - name: Michael John
+    role: chief information security officer
+    webids:
+      linkedin: 'michael-john-59a4a14'
+whitepapers:
+  - title: 'White Paper'
+    url: 'https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view'
+tags:
+  - energy
+webids:
+  bitcointalk: '2213411.0'
+  telegram: WePowerNetwork
+  github: WePowerNetwork
+  twitter: WePowerN
+  reddit: WePowerNetwork
+  medium: wepower
+  facebook: WePowerNetwork
+contacts:
+  email: 'energy@wepower.network'
+  location:hq: 'WePower UAB, Antakalnio str. 17, LT-10312 Vilnius,Lithuania'
+  location:node: 'WePower Network OÜ, Staapli 4-33, 10411 Tallinn, Estonia'

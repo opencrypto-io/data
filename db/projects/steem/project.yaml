@@ -1,0 +1,33 @@
+name: Steem
+web:
+  - 'https://steemit.com/'
+ledgers:
+  - id: steem
+    name: Steem
+    type: blockchain
+    networks:
+      - id: main
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'http://steemd.com/'
+          - type: explorer
+            url: 'https://steemdb.com/'
+assets:
+  - id: steem
+    name: Steem
+    type: native
+    ledger: steem
+    symbol: STEEM
+    max_supply: 99692126
+    start_date: '2015-07-04'
+    webids:
+      coinmarketcap: steem
+      cryptocompare: steem
+      cryptocompare/id: '20333'
+webids:
+  bitcointalk: '1466593.0'
+  custom/forum: 'https://steemit.com/@steemitblog'
+  github: steemit/steem
+  twitter: Steemit
+  reddit: steemit

@@ -1,0 +1,53 @@
+name: Waltonchain
+web:
+  - 'http://www.waltonchain.org/'
+assets:
+  - id: wtc
+    name: Waltonchain
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: WTC
+    contract_address: '0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74'
+    decimals: 18
+    max_supply: 70000000
+    start_date: '2017-08-27'
+    ico_properties:
+      start_date: '2017-07-03'
+      end_date: '2017-07-17'
+      total_cap: 10000000
+      ico_price: 0.0019575 ETH
+      country: China
+    webids:
+      coinmarketcap: waltonchain
+      cryptocompare: wtc
+      cryptocompare/id: '299397'
+team_url: 'https://www.waltonchain.org/en/team/'
+team:
+  - name: Do Sanghyuk
+    role: founder
+    photo: https://www.waltonchain.org/uploads/allimg/180305/1-1P3051F0360-L.jpg
+  - name: Xu Fangcheng
+    role: founder
+    photo: https://www.waltonchain.org/uploads/allimg/180305/1-1P3051A9310-L.jpg
+  - name: Kim Sukki
+    role: internet of things
+    photo: https://www.waltonchain.org/uploads/allimg/180305/1-1P3051F2110-L.jpg
+  - name: Zhu Yanping
+    role: blockchain
+    photo: https://www.waltonchain.org/uploads/allimg/180305/1-1P3051F1390-L.jpg
+  - name: Mo Bing
+    role: internet of things
+    photo: https://www.waltonchain.org/uploads/allimg/180305/1-1P3051H5310-L.jpg
+whitepapers:
+  - title: 'Waltonchain White Paper'
+    url: 'https://www.waltonchain.org/templets/default/doc/Waltonchain-whitepaper_en_20180208.pdf'
+webids:
+  github: waltonchain
+  bitcointalk: '2127069.0'
+  telegram: waltonchain_en
+  twitter: Waltonchain
+  reddit: waltonchain
+  facebook: waltonchain
+contacts:
+  email: 'info@waltonchain.org'

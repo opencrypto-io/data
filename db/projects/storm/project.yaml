@@ -1,0 +1,22 @@
+name: Storm
+web:
+  - 'https://stormtoken.com/'
+assets:
+  - id: storm
+    name: Storm
+    type: token
+    ledger: ethereum
+    symbol: STORM
+    contract_address: '0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433'
+    max_supply: 10000000000
+    start_date: '2017-07-06'
+    webids:
+      coinmarketcap: storm
+      cryptocompare: storm
+      cryptocompare/id: '186875'
+webids:
+  bitcointalk: '2006999'
+  telegram: joinchat/GHTZGQwsy9mZk0KFEEjGtg
+  github: StormX-Inc/crowdsale
+  twitter: Storm_Token
+  reddit: stormtoken

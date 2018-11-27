@@ -1,0 +1,46 @@
+name: Wings
+alt_names:
+  - Wings DAO
+web:
+  - 'https://wings.ai/'
+assets:
+  - id: wings
+    name: Wings
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: WINGS
+    contract_address: '0x667088b212ce3d06a1b553a7221e1fd19000d9af'
+    decimals: 18
+    max_supply: 100000000
+    ico_properties:
+      start_date: '2016-11-18'
+      raised: 2074000 USD
+      ico_price: 0.028 USD
+    start_date: '2016-12-31'
+    webids:
+      coinmarketcap: wings
+      cryptocompare: wings
+      cryptocompare/id: '25946'
+team:
+  - name: Sebastia Stupurac
+    role: founder
+  - name: Stas Oskin
+    role: founder
+  - name: Dominik Zynis
+    role: founder
+  - name: Boris Povod
+    role: founder
+  - name: Serguei Popov
+    role: founder
+whitepapers:
+  - title: 'Wings: White Paper'
+    url: 'https://wingsfoundation.ch/docs/WINGS_Whitepaper_V1.1.2_en.pdf'
+webids:
+  bitcointalk: '1477055.0'
+  telegram: wingschat
+  twitter: wingsplatform
+  reddit: WingsDAO
+  facebook: 'Wings-638325459654317'
+contacts:
+  email: 'domi@wings.ai'
