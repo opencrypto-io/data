@@ -1,0 +1,31 @@
+name: Siacoin
+web:
+  - 'https://sia.tech/'
+ledgers:
+  - id: siacoin
+    name: Siacoin
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Blake2b
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'http://explore.sia.tech/'
+assets:
+  - id: sc
+    name: Siacoin
+    type: native
+    ledger: siacoin
+    symbol: SC
+    start_date: '2015-06-01'
+    webids:
+      coinmarketcap: siacoin
+      cryptocompare: sc
+      cryptocompare/id: '13072'
+webids:
+  bitcointalk: '1060294.0'
+  discord: sia
+  github: NebulousLabs/Sia
+  twitter: SiaTechHQ
+  reddit: Siacoin
