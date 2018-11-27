@@ -1,0 +1,45 @@
+name: SingularDTV
+web:
+  - 'https://singulardtv.com/'
+assets:
+  - id: sngls
+    name: SingularDTV
+    alt_names:
+      - SNGLS
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: SNGLS
+    contract_address: '0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009'
+    decimals: 0
+    max_supply: 1000000000
+    start_date: '2016-10-02'
+    ico_properties:
+      start_date: '2016-10-02'
+      end_date: '2016-10-02'
+      total_cap: 7500000
+      ico_price: 0.02 USD
+      country: Channel Islands
+    webids:
+      coinmarketcap: singulardtv
+      etherscan/token: SNGLS
+      cryptocompare: sngls
+      cryptocompare/id: '24926'
+whitepapers:
+  - title: 'SingularDTV SNGLS Creation Specifications.'
+    url: https://www.coss.io/documents/white-papers/singulardtv.pdf
+tags:
+  - entertainment
+  - art
+  - platform
+webids:
+  bitcointalk: '1943123.0'
+  telegram: singulardtvofficial
+  twitter: SingularDTV
+  reddit: SingularDTV
+  medium: '@SingularDTV'
+  facebook: singulardtv
+  linkedin/company: singulardtv
+contacts:
+  email: 'support@singulardtv.com'
+  location:hq: 'New York, USA'

@@ -15,7 +15,7 @@ assets:
     ico_properties:
       start_date: '2017-12-21'
       end_date: '2017-12-22'
-      raised: 32847814
+      raised: 32847814 USD
       ico_price: 0.001231 ETH
     first_distribution:
       - title: 'token sale'
