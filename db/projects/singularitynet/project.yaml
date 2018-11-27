@@ -1,0 +1,82 @@
+name: SingularityNET
+web:
+  - 'https://singularitynet.io/'
+assets:
+  - id: agi
+    name: SingularityNET
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: AGI
+    contract_address: '0x8eb24319393716668d768dcec29356ae9cffe285'
+    decimals: 8
+    max_supply: 1000000000
+    start_date: '2017-12-15'
+    ico_properties:
+      start_date: '2017-12-21'
+      end_date: '2017-12-22'
+      raised: 32847814
+      ico_price: 0.001231 ETH
+    first_distribution:
+      - title: 'token sale'
+        amount: 500000000
+      - title: 'reward pool'
+        amount: 200000000
+      - title: 'founders'
+        amount: 180000000
+      - title: 'foundation'
+        amount: 80000000
+      - title: 'bounty'
+        amount: 40000000
+    webids:
+      coinmarketcap: singularitynet
+      cryptocompare: agi
+      cryptocompare/id: '710156'
+team_url: https://singularitynet.io/team/
+team:
+  - name: Ben Goertzel
+    role: ceo
+    photo: https://singularitynet.io/wp-content/uploads/2018/05/ben.png
+    webids:
+      linkedin: bengoertzel
+  - name: Simone Giacomelli
+    role: head of biz dev
+    photo: https://singularitynet.io/wp-content/uploads/2018/05/simone.png
+    webids:
+      linkedin: 'simone-giacomelli-a8458197'
+  - name: Cassio Pennachin
+    role: chief al officer
+    photo: https://singularitynet.io/wp-content/uploads/2018/05/cassiop-e1527286658372.png
+    webids:
+      linkedin: pennachin
+  - name: Arif Khan
+    role: vp of marketing
+    photo: https://singularitynet.io/wp-content/uploads/2018/05/0.jpg
+    webids:
+      linkedin: arikhan
+  - name: Hilen Amin
+    role: vp of solutions
+    photo: https://singularitynet.io/wp-content/uploads/2018/06/hilen.jpeg
+    webids:
+      linkedin: hilenamin
+whitepapers:
+  - title: 'SingularityNET: A decentralized, open market and inter-network for AIs'
+    url: https://public.singularitynet.io/whitepaper.pdf
+tags:
+  - ai
+  - marketplace
+  - sophia
+webids:
+  custom/forum: 'https://community.singularitynet.io/'
+  telegram: singularitynet
+  github: singnet
+  twitter: singularity_net
+  reddit: SingularityNet
+  facebook: 'singularityNET.io'
+  linkedin/company: singularitynet
+  youtube/channel: UCbTE8vfz5zuEK5uRnc2yjrw
+  instagram: 'singularitynet.io'
+  bitcointalk: '2491147.0'
+contacts:
+  email: 'info@singularitynet.io'
+  location:hq: 'Stichting SingularityNET, Barbara Strozzilaan 362, 1083 HN Amsterdam, The Netherlands'
