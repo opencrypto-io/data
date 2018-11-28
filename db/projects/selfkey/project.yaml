@@ -1,0 +1,80 @@
+name: Selfkey
+alt_names:
+  - SelfKey
+web:
+  - 'https://selfkey.org/'
+assets:
+  - id: key
+    name: Selfkey
+    type: token
+    ledger: ethereum
+    symbol: KEY
+    contract_address: '0x4cc19356f2d37338b9802aa8e8fc58b0373296e7'
+    decimals: 18
+    max_supply: 6000000000
+    start_date: '2017-10-24'
+    ico_properties:
+      start_date: '2018-01-15'
+      end_date: '2018-02-01'
+      total_cap: 5940000
+      ico_price: 0.0000109 ETH
+      raised: 21780000 USD
+      country: Cayman Island
+    first_distribution:
+      - title: 'token sale'
+        amount: 1980000000
+        percent: 33
+      - title: 'network'
+        amount: 1980000000
+        percent: 33
+      - title: 'team'
+        amount: 990000000
+        percent: 16.5
+      - title: 'foudation'
+        amount: 990000000
+        percent: 16.5
+      - title: 'legal cost'
+        amount: 60000000
+        percent: 1
+    webids:
+      coinmarketcap: selfkey
+      cryptocompare: key
+      cryptocompare/id: '360299'
+team_url: https://selfkey.org/team
+team:
+  - name: Edmund Lowell
+    role: founder
+    webids:
+      linkedin: 'Edmund-Lowell'
+  - name: Terry Lin
+    role: product manager
+    webids:
+      linkedin: itsmeterrylin
+  - name: Marc Gras
+    role: strategic advisor
+    webids:
+      linkedin: 'marc-gras-a2034511b'
+  - name: Zach Garman
+    role: business development
+    webids:
+      linkedin: zachgarman
+  - name: Kelvin Tomo
+    role: marketing
+    webids:
+      linkedin: 'kelvin-nabeshima-6b9145104'
+whitepapers:
+  - title: 'SelfKey: The SelfKey Foundation'
+    url: https://selfkey.org/wp-content/uploads/2017/11/selfkey-whitepaper-en.pdf
+webids:
+  github: selfkeyfoundation
+  bitcointalk: '2310691'
+  medium: selfkey
+  telegram: selfkeyfoundation
+  twitter: SelfKey
+  reddit: selfkey
+  facebook: SelfKeyHQ
+  linkedin/company: selfkey
+  youtube/channel: 'UCsilze3-MhbCY3_QkKul3PQ'
+contacts:
+  email: 'info@selfkey.org'
+  location:hq: 'Port Louis, Mauritius'
