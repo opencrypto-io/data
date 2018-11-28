@@ -1,4 +1,6 @@
 name: Ambrosus
+alt_names:
+  - Amber
 start_date: '2017-07-19'
 description: 'Ambrosus is building food, medical and IoT smart-contracts based supply chain solution'
 web:
@@ -10,6 +12,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce'
+    decimals: 18
     ledger: ethereum
     symbol: AMB
     max_supply: 361477438
