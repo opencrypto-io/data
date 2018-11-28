@@ -1,5 +1,7 @@
 name: Agrello
 alt_names:
+  - Delta
+alt_names:
   - Agrello Delta
 start_date: '2016-11-01'
 description: 'Agrello is building platform to manage smart-contracts legal agreements'
@@ -12,6 +14,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x07e3c70653548b04f0a75970c1f81b4cbbfb606f'
+    decimals: 18
     ledger: ethereum
     symbol: DLT
     max_supply: 130271020

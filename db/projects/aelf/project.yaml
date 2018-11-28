@@ -1,4 +1,6 @@
 name: aelf
+alt_names:
+  - ELF
 start_date: '2017-08-13'
 description: 'Decentralized Cloud Computing Blockchain Network'
 web:
@@ -10,6 +12,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0xbf2179859fc6d5bee9bf9158632dc51678a4100e'
+    decimals: 18
     ledger: ethereum
     symbol: ELF
     max_supply: 1000000000
@@ -50,7 +53,7 @@ webids:
   youtube/channel: aelfblockchain
 whitepapers:
   - title: 'Aelf: Decentralized Cloud Computing Blockchain Network'
-    url: https://aelf.io/gridcn/AElf.pdf?v=2
+    url: https://aelf.io/gridcn/AElf.pdf
 tags:
   - cloud
   - computing

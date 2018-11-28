@@ -30,6 +30,9 @@ webids:
   twitter: bluzellehq
   reddit: Bluzelle
   youtube/channel: UCzhJz9g-T5BWjbPeJLKY_jw
+whitepapers:
+  title: 'Bluezelle: A Decentralized Database For the Future'
+  url: https://crushcrypto.com/wp-content/uploads/2018/01/BLZ-Whitepaper.pdf
 tags:
   - storage
   - decentralized

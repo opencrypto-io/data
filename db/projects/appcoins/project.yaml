@@ -10,6 +10,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db'
+    decimals: 18
     ledger: ethereum
     symbol: APPC
     max_supply: 246203093
@@ -39,7 +40,7 @@ webids:
   gitter: AppCoinsProject
   github: AppStoreFoundation
   linkedin/company: appcoins
-  medium: appcoins
+  medium: @appcoins
   telegram: appcoinsofficial
   twitter: appcoinsproject
   reddit: AppcoinsProtocol

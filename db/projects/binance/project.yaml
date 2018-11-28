@@ -1,4 +1,6 @@
 name: Binance
+alt_names:
+  - BNB
 web:
   - 'https://www.binance.com/'
 assets:

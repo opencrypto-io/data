@@ -10,6 +10,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x27054b13b1b798b345b591a4d22e6562d47ea75a'
+    decimals: 4
     ledger: ethereum
     symbol: AST
     max_supply: 500000000
@@ -36,12 +37,12 @@ webids:
   bitcointalk: '2208855.0'
   facebook: airswapio
   linkedin/company: airswap
-  medium: airswap
+  medium: @airswap
   twitter: airswap
   reddit: AirSwap
 whitepapers:
   - title: 'Swap: A Peer-to-Peer Protocol for Trading Ethereum Tokens'
-    url: https://swap.tech/whitepaper/
+    url: https://swap.tech/pdfs/SwapWhitepaper.pdf
 tags:
   - dex
   - ethereum
@@ -62,4 +63,4 @@ team:
       linkedin: sam-tabar-14a24698
 contacts:
   email: 'team@fluidity.io'
-  location:hq: 'Brooklyn, New York'
+  location:hq: 'New York, USA'

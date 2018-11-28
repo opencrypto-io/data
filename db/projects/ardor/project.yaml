@@ -18,6 +18,14 @@ ledgers:
             url: 'https://ardor.tools/'
           - type: explorer
             url: 'https://ardorportal.org'
+      - id: test
+        type: test
+        name: Test Net
+        tools:
+          - type: faucet
+            url: 'https://www.ardor.world/en/faucet_ardor/'
+          - type: faucet
+            url: 'https://cryptopanic.com/news/457713/Ardor-Test-Net-Faucet'
 assets:
   - id: ardr
     name: Ardor
@@ -42,7 +50,7 @@ webids:
   telegram: ardorplatform
   twitter: ardorplatform
   reddit: ardor
-  youtube/channel: ardorplatform
+  youtube/channel: UCzAXALLXsnz9ZBnzI0DM5vA
 whitepapers:
   - title: 'Jerulida Whitepaper'
     url: https://www.jelurida.com/sites/default/files/JeluridaWhitepaper.pdf

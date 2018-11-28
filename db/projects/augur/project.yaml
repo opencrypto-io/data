@@ -4,18 +4,18 @@ description: 'Augur is a Decentralized Prediction Market Platform'
 web:
   - 'http://www.augur.net/'
 assets:
-  - id: rep
+  - id: reputation
     start_date: '2014-11-17'
     name: Augur
     type: token
     token_standard: ERC-20
-    contract_address: '0xe94327d07fc17907b4db788e5adf2ed424addff6'
+    contract_address: '0x1985365e9f78359a9B6AD760e32412f4a445E862'
+    decimals: 18
     ledger: ethereum
     symbol: REP
     max_supply: 11000000
     ico_properties:
-      start_date: '2015-08-17'
-      end_date: '2017-10-01'
+      start_date: '2015-08-01'
       total_cap: 8800000
       raised: 5000000 USD
     webids:
@@ -32,13 +32,14 @@ webids:
   facebook: augurproject
   github: AugurProject
   linkedin/company: augur-net
+  medium: @augurproject
   telegram: AugurProject
   twitter: AugurProject
   reddit: augur
   youtube/channel: UCnQRWIWIT8ExlegLTajjhiQ
 whitepapers:
   - title: 'Augur Whitepaper'
-    url: https://github.com/AugurProject/whitepaper
+    url: https://github.com/AugurProject/whitepaper/blob/master/english/whitepaper.pdf
 tags:
   - prediction
   - dapps

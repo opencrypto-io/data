@@ -28,7 +28,7 @@ assets:
       cryptocompare/id: '238733'
 webids:
   bitcointalk: '2034826.0'
-  custom/forum: 'https://blog.ambrosus.com/'
+  custom/blog: 'https://blog.ambrosus.com/'
   discord: jbmWg8c
   facebook: ambrosusAMB
   github: ambrosus

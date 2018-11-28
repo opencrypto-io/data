@@ -10,6 +10,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x514910771af9ca656af840dff83e8264ecf986ca'
+    decimals: 18
     ledger: ethereum
     symbol: LINK
     max_supply: 1000000000
@@ -56,5 +57,5 @@ team:
     webids:
       linkedin: markoblad
 contacts:
-  email: 'support@chain.link'
+  email: 'chainlink@smartcontract.com'
   location:hq: 'Cayman, Cayman Islands'

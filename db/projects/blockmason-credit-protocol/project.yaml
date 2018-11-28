@@ -10,6 +10,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x1c4481750daa5ff521a2a7490d9981ed46465dbd'
+    decimals: 18
     ledger: ethereum
     symbol: BCPT
     max_supply: 116158667
@@ -25,7 +26,7 @@ webids:
   facebook: blockmasonio
   github: blockmason
   linkedin/company: blockmason-inc
-  medium: BlockMason
+  medium: @BlockMason
   telegram: blockmason
   twitter: blockmasonio
   reddit: blockmason

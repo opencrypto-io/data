@@ -10,9 +10,10 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0xba5f11b16b155792cf3b2e6880e8706859a8aeb6'
+    decimals: 8
     ledger: ethereum
     symbol: ARN
-    max_supply: 100000000
+    max_supply: 20000000
     ico_properties:
       start_date: '2017-11-28'
       end_date: '2017-12-10'
@@ -42,7 +43,7 @@ webids:
   facebook: aeronpublic
   github: aeronaero
   linkedin/company: aeronpublic
-  medium: aeronaero
+  medium: @aeronaero
   twitter: aeron_aero
   reddit: aeronaero
   telegram: aeronaero

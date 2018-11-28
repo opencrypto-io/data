@@ -10,6 +10,7 @@ assets:
     type: token
     token_standard: ERC-20
     contract_address: '0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d'
+    decimals: 18
     ledger: ethereum
     symbol: AE
     max_supply: 273685831
@@ -33,8 +34,8 @@ webids:
   reddit: Aeternity
   telegram: aeternity
 whitepapers:
-  - title: 'Aeternity protocol'
-    url: https://github.com/aeternity/protocol
+  - title: 'Æternity blockchain: The trustless, decentralized and purely functional oracle machine'
+    url: https://www.aeternity.com/aeternity-blockchain-whitepaper.pdf
 tags:
   - oracles
   - smartcontracts
