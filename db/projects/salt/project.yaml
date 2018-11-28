@@ -1,0 +1,23 @@
+name: SALT
+alt_names:
+  - Salt Lending
+web:
+  - 'https://www.saltlending.com/'
+assets:
+  - id: salt
+    name: SALT
+    type: token
+    ledger: ethereum
+    symbol: SALT
+    contract_address: '0x4156d3342d5c385a87d264f90653733592000581'
+    max_supply: 120000000
+    start_date: '2017-07-28'
+    webids:
+      coinmarketcap: salt
+      cryptocompare: salt
+      cryptocompare/id: '314580'
+webids:
+  custom/forum: 'https://blog.saltlending.com/'
+  telegram: SALTLendingDiscussion
+  discord: 4S9eFBK
+  twitter: SaltLending

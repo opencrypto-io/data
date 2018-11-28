@@ -8,10 +8,9 @@ ledgers:
     type: blockchain
     networks:
       - id: main
-        algorithm: Blake2b
+        algorithm: Blake
         proof_type: PoW
         mineable: true
-        algorithm: Blake
         tools:
           - type: explorer
             url: 'http://explore.sia.tech/'
