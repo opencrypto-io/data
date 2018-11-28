@@ -1,0 +1,66 @@
+name: Cindicator
+start_date: '2015-01-01'
+description: 'Artifical Intelligence predicting signals for cryptocurrency trading'
+web:
+  - 'https://cindicator.com/'
+assets:
+  - id: cnd
+    start_date: '2017-08-03'
+    name: Cindicator
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xd4c435f5b09f855c3317c8524cb1f586e42795fa'
+    decimals: 18
+    ledger: ethereum
+    symbol: CND
+    max_supply: 2000000005
+    ico_properties:
+      start_date: '2017-08-12'
+      end_date: '2017-08-24'
+      raised: 15000000 USD
+    webids:
+      coinmarketcap: cindicator
+      cryptocompare: cnd
+      cryptocompare/id: '338070'
+webids:
+  facebook: crowdindicator
+  bitcointalk: '2062875'
+  github: Cindicator
+  linkedin/company: vote-
+  medium: cindicator
+  telegram: cindicator_chat
+  twitter: Cindicator
+  reddit: Cindicator
+  youtube/channel: UCNWkzeqsbFTYnyz3S3EceQg
+whitepapers:
+  - title: 'Cindicator: Hybrid Intelligence for Effective Asset Management'
+    url: https://cindicator.com/Cindicator_WhitePaper_en.pdf
+  - title: 'Cindicator OnePager'
+    url: https://cindicator.com/Cindicator_Onepager.pdf
+tags:
+  - ai
+  - machinelearning
+  - data
+  - prediction
+  - signals
+  - trading
+team:
+  - name: Mike Brusov
+    role: CEO
+    webids:
+      linkedin: mike-brusov
+  - name: Yuri Lobyntsev
+    role: CTO, Co-founder
+    webids:
+      linkedin: yurilobyntsev
+  - name: Artem Baranov
+    role: COO, Co-founder
+    webids:
+      linkedin: artembaranov
+  - name: Charlie Shrem
+    role: Advisor
+    webids:
+        linkedin: charlieshrem
+contacts:
+  email: support@cindicator.com
+  location:hq: 'New York, USA'
