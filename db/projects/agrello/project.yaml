@@ -1,8 +1,7 @@
 name: Agrello
 alt_names:
-  - Delta
-alt_names:
   - Agrello Delta
+  - Delta
 start_date: '2016-11-01'
 description: 'Agrello is building platform to manage smart-contracts legal agreements'
 web:
