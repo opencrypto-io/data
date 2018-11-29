@@ -1,0 +1,59 @@
+name: Dock
+start_date: '2017-01-01'
+description: 'Dock is helping users to control their data and creating interoperabitity between networks and apps'
+web:
+  - 'https://dock.io'
+assets:
+  - id: dock
+    start_date: '2018-01-17'
+    name: Dock
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xe5dada80aa6477e85d09747f2842f7993d0df71c'
+    decimals: 18
+    ledger: ethereum
+    symbol: DOCK
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-02-17'
+      end_date: '2017-02-17'
+      raised: 20000000 USD
+    webids:
+      coinmarketcap: dock
+      cryptocompare: dock
+      cryptocompare/id: '866363'
+webids:
+  bitcointalk: '2769614.0'
+  facebook: getdock
+  github: getdock
+  linkedin/company: getdock
+  medium: dock-io
+  telegram: dockio
+  twitter: getdock
+  reddit: dockio
+tags:
+  - security
+  - userdata
+  - data
+  - mobileapp
+  - identity
+  - privacy
+whitepapers:
+  - title: 'Decentralized Data Exchange Powered by Ethereum'
+    url: https://dock.io/whitepaper.pdf
+team:
+  - name: Nick Macario
+    role: CEO, Founder
+    webids:
+      linkedin: nickmacario
+  - name: Elina Cadouri
+    role: COO
+    webids:
+      linkedin: elinacadouri
+  - name: Avneet Singh
+    role: CTO
+    webids:
+      linkedin: foravneet
+contacts:
+  email: 'support@dock.io'
+  location:hq: 'San Francisco, USA'
