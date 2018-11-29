@@ -1,0 +1,65 @@
+name: Red Pulse Phoenix
+web:
+  - 'https://www.redpulse.com'
+assets:
+  - id: phx
+    name: Red Pulse Phoenix
+    alt_names:
+      - Red Pulse Phoenix Token
+    type: token
+    token_standard: NEP5
+    ledger: neo
+    symbol: PHX
+    contract_address: 1578103c13e39df15d0d29826d957e85d770d8c9
+    max_supply: 1399415266.6427075
+    decimals: 8
+    start_date: '2018-07-16'
+    ico_properties:
+      start_date: '2017-10-08'
+    webids:
+      coinmarketcap: red-pulse
+      cryptocompare: phx
+      cryptocompare/id: '341267'
+team_url: https://app.redpulse.com/team
+team:
+  - name: Jonathan Ha
+    role: founder
+    photo: https://app.redpulse.com/static/img/jon.316fc0d.png
+    webids:
+      linkedin: hajon
+  - name: Stanley Chao
+    role: co-founder
+    photo: https://app.redpulse.com/static/img/stanley.07b5e9d.png
+    webids:
+      linkedin: 'stanley-chao-cfa-caia-4a12043'
+  - name: Peter Alexander
+    role: co-founder
+    photo: https://app.redpulse.com/static/img/peter.31c5954.png
+    webids:
+      linkedin: 'peter-alexander-97630910'
+  - name: James Maher
+    role: coo
+    photo: https://app.redpulse.com/static/img/james.c64c08b.png
+    webids:
+      linkedin: jamesmahercfa
+  - name: Dylan Blankenship
+    role: cpo
+    photo: https://app.redpulse.com/static/img/dylan.d625497.png
+    webids:
+      linkedin: dylanblankenship
+tags:
+  - china
+  - research
+  - finance
+webids:
+  github: RedPulse
+  bitcointalk: '2096780.0'
+  telegram: redpulse
+  twitter: red_pulse_china
+  reddit: RedPulseToken
+  linkedin/company: 'red-pulse'
+  youtube/channel: UC8KBaSywi1AhmKXTT3MqClA
+contacts:
+  email: 'info@redpulse.com'
+  location:hq: 'Rooms 05 -15, 13A/F, South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong'
+  location:node: 'Shanghai Office, Urban City Center, 45 Nanchang Road, Floor 5D, Shanghai, China'

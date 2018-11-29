@@ -4,7 +4,7 @@ web:
 assets:
   - id: req
     name: Request Network
-    alt_name:
+    alt_names:
       - Request
     type: token
     token_standard: ERC-20
@@ -72,3 +72,5 @@ webids:
   facebook: TheRequestNetwork
   discord: 6aGhs6v
   slack: requestnetwork
+contacts:
+  email: 'join@request.network'
