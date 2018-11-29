@@ -1,0 +1,60 @@
+name: CloakCoin
+start_date: '2014-06-03'
+description: 'Anonymous transfers based on Proof-af-Stake-Anonymous (PoSA)'
+web:
+  - 'https://www.cloakcoin.com/'
+ledgers:
+  - id: cloakcoin
+    name: CloakCoin
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Enigma
+        algorithm: X13
+        proof_type: PoSA
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/cloak/'
+assets:
+  - id: cloak
+    start_date: '2014-05-04'
+    name: CloakCoin
+    type: native
+    ledger: cloackcoin
+    symbol: CLOAK
+    webids:
+      coinmarketcap: cloakcoin
+      cryptocompare: cloak
+      cryptocompare/id: '4417'
+webids:
+  bitcointalk: '823143.0'
+  custom/chat: 'https://chat.cloakcoin.com'
+  custom/wiki: 'https://www.cloakwiki.org/index.php/Main_Page'
+  facebook: CloakCoinOfficia
+  github: CloakProject/Cloak2Public
+  linkedin/company: cloakcoin
+  instagram: cloakcoin
+  telegram: cloakproject
+  twitter: CloakCoin
+  reddit: Cloak_Coin
+  youtube/channel: UC3bFvXADxAnJ39fAzS5uqrg
+whitepapers:
+  - title: 'ENIGMA: A Private, Secure and Untraceable Transaction System for CloakCoin'
+    url: https://www.cloakcoin.com/user/themes/g5_cloak/resources/CloakCoin_Whitepaper_v2.1.pdf
+tags:
+  - Anonymous
+  - payments
+  - posa
+  - enigma
+  - untraceable
+  - privacy
+  - opensource
+team:
+  - name: Joshua Marriage
+    role: Global Spokeperson
+    webids:
+      linkedin: joshua-marriage
+      twitter: satoshua
+contacts:
+  email: 'info@cloakcoin.com'
