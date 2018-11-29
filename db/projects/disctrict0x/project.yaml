@@ -1,0 +1,59 @@
+name: district0x
+start_date: '2017-02-01'
+description: 'A network of decentralized markets and communities. Powered by Ethereum, Aragon, and IPFS.'
+web:
+  - 'https://district0x.io/'
+assets:
+  - id: dnt
+    start_date: '2017-07-12'
+    name: District0x
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x0abdace70d3790235af448c88547603b945604ea'
+    decimals: 18
+    ledger: ethereum
+    symbol: DNT
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-07-18'
+      end_date: '2017-08-01'
+      raised: 9000000 USD
+    webids:
+      coinmarketcap: district0x
+      etherscan/token: district0x
+      cryptocompare: dnt
+      cryptocompare/id: '177175'
+webids:
+  bitcointalk: '2009966.0'
+  custom/blog: 'https://blog.district0x.io/'
+  facebook: district0x
+  github: district0x
+  linkedin/company: district0x
+  telegram: district0x
+  twitter: district0x
+  reddit: district0x
+  youtube/channel: UCQq0INymkcGDYYXeFZgYk4g
+tags:
+  - marketplace
+  - community
+  - ipfs
+  - ethereum
+  - aragon
+  - autonomous
+  - d0xinfra
+  - opensource
+whitepapers:
+  - title: 'A Cooperative of Decentralized Marketplaces and Communities. Powered by Ethereum, Aragon, and IPFS'
+    url: https://district0x.io/docs/district0x-whitepaper.pdf
+team:
+  - name: Joe Urgo
+    role: Founder
+    webids:
+      linkedin: joseph-urgo-a8b77983
+  - name: Matus Lestan
+    role: CTO
+    webids:
+      linkedin: matus-lestan
+contacts:
+  email: 'hello@district0x.io'
+  location:hq: 'San Francisco, USA'
