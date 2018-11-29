@@ -1,6 +1,6 @@
 name: CloakCoin
 start_date: '2014-06-03'
-description: 'Anonymous transfers based on Proof-af-Stake-Anonymous (PoSA)'
+description: 'Anonymous transfers based on Proof-af-Stake-Anonymous algorithm'
 web:
   - 'https://www.cloakcoin.com/'
 ledgers:
@@ -43,9 +43,8 @@ whitepapers:
   - title: 'ENIGMA: A Private, Secure and Untraceable Transaction System for CloakCoin'
     url: https://www.cloakcoin.com/user/themes/g5_cloak/resources/CloakCoin_Whitepaper_v2.1.pdf
 tags:
-  - Anonymous
+  - anonymous
   - payments
-  - posa
   - enigma
   - untraceable
   - privacy
