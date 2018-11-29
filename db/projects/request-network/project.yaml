@@ -1,0 +1,74 @@
+name: Request Network
+web:
+  - 'https://request.network/'
+assets:
+  - id: req
+    name: Request Network
+    alt_name:
+      - Request
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: REQ
+    contract_address: '0x8f8221afbb33998d8584a2b05749ba73c37a938a'
+    decimals: 18
+    max_supply: 1000000000
+    start_date: '2017-08-31'
+    ico_properties:
+      start_date: '2017-10-13'
+      end_date: '2017-10-16'
+      raised: 33600000 USD
+      ico_price: 0.0002 ETH
+    webids:
+      coinmarketcap: request-network
+      cryptocompare: req
+      cryptocompare/id: '335059'
+team:
+  - name: Christophe Lassuyt
+    role: co-founder
+    photo: https://request.network/assets/img/team/CLA.png
+    webids:
+      linkedin: christophel1310
+      twitter: lassuytchristop
+  - name: Etienne Tatur
+    role: co-founder
+    photo: https://request.network/assets/img/team/ETA.png
+    webids:
+      linkedin: etiennetatur
+      twitter: etiennetatur
+      github: etiennetatur
+  - name: Vincent Rolland
+    role: lead engineer
+    photo: https://request.network/assets/img/team/VRO.png
+    webids:
+      linkedin: 'vincent-r-75a37818'
+      github: vrolland
+  - name: Laura Girod
+    role: data analyst
+    photo: https://request.network/assets/img/team/LGI.png
+    webids:
+      linkedin: 'laura-girod-99315b97'
+  - name: Julien Devoir
+    role: cmo
+    photo: https://request.network/assets/img/team/JDE.png
+    webids:
+      linkedin: juliendevoir
+      twitter: JulienDevoir
+whitepapers:
+  - title: 'Whitepaper: Request Network: The future of commerce: A decentralized network for payment requests'
+    url: https://request.network/assets/pdf/request_whitepaper.pdf
+tags:
+  - payment
+  - ivoice
+  - finance
+webids:
+  bitcointalk: '2137740.0'
+  telegram: requestnetwork
+  kakao: g0Y6wJA
+  github: RequestNetwork
+  twitter: requestnetwork
+  reddit: RequestNetwork
+  custom/chat: 'https://request-slack.herokuapp.com'
+  facebook: TheRequestNetwork
+  discord: 6aGhs6v
+  slack: requestnetwork
