@@ -1,0 +1,58 @@
+name: Decred
+start_date: '2016-02-08'
+description: 'Decred is autonomous currency with community-based governance'
+web:
+  - 'https://www.decred.org/'
+ledgers:
+  - id: decred
+    name: Decred
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: BLAKE256
+        proof_type: PoW/PoS
+        tools:
+          - type: explorer
+            url: 'https://mainnet.decred.org/'
+          - type: explorer
+            url: 'https://explorer.dcrdata.org/'
+          - type: explorer
+            url: 'https://stats.decred.org/'
+assets:
+  - id: dcr
+    name: Decred
+    type: native
+    ledger: decred
+    symbol: DCR
+    max_supply: 21000000
+    start_date: '2016-02-08'
+    webids:
+      coinmarketcap: decred
+      cryptocompare: dcr
+      cryptocompare/id: '16713'
+webids:
+  bitcointalk: '1290358.0'
+  custom/forum: 'https://forum.decred.org/'
+  custom/chat: 'https://slack.decred.org/'
+  crunchbase: decred
+  discord: GJ2GXfz
+  facebook: decredproject
+  github: decred
+  linkedin/company: decredproject
+  medium: decred
+  twitter: decredproject
+  reddit: decred
+  youtube/channel: decredchannel
+whitepapers:
+  - title: 'ENIGMA: A Private, Secure and Untraceable Transaction System for CloakCoin'
+    url: https://www.cloakcoin.com/user/themes/g5_cloak/resources/CloakCoin_Whitepaper_v2.1.pdf
+tags:
+  - consensus
+  - governance
+  - opensource
+  - pos
+  - atomicswaps
+  - community
+contacts:
+  email: 'marguerite@decred.org'
+  location:hq: 'Chicago, USA'
