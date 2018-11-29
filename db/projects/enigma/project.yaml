@@ -1,0 +1,64 @@
+name: Enigma
+start_date: '2015-01-01'
+description: ''
+web:
+  - 'https://enigma.co/'
+assets:
+  - id: eng
+    start_date: '2017-07-28'
+    name: Enigma
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4'
+    decimals: 8
+    ledger: ethereum
+    symbol: ENG
+    max_supply: 150000000
+    ico_properties:
+      start_date: '2017-09-11'
+      end_date: '2017-09-11'
+      total_cap: 75000000
+      raised: 45000000 USD
+    webids:
+      coinmarketcap: enigma-project
+      cryptocompare: eng
+      cryptocompare/id: '338335'
+webids:
+  bitcointalk: '2052215.0'
+  discord: SJK32GY
+  custom/blog: 'https://blog.enigma.co/'
+  github: enigmampc
+  linkedin/company: enigma-mpc-
+  telegram: enigmacatalyst
+  twitter: enigmampc
+  reddit: enigmaproject
+  youtube/channel: UCyyl1qq8o7uIKd9caF1fanw
+tags:
+  - privacy
+  - dapps
+  - smartcontracts
+  - secretcontracts
+  - computation
+  - platform
+  - iot
+  - data
+  - ethereum
+whitepapers:
+  - title: 'Enigma: Decentralized Computation Platform with Guaranteed Privacy'
+    url: https://enigma.co/enigma_full.pdf
+team:
+  - name: Guy Zyskind
+    role: CEO
+    webids:
+      linkedin: gguyz
+  - name: Can Kisagun
+    role: COO
+    webids:
+      linkedin: cankisagun
+  - name: Victor Grau Serrat
+    role: CTO
+    webids:
+      linkedin: victorgrauserrat
+contacts:
+  email: 'info@enigma.co'
+  location:hq: 'San Francisco, USA'
