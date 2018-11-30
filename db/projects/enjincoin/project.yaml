@@ -1,0 +1,59 @@
+name: Enjin Coin
+start_date: '2009-01-01'
+description: 'Enjin is blockchain-based social platform for gamers and creators'
+web:
+  - 'https://enjincoin.io/'
+assets:
+  - id: enj
+    start_date: '2017-07-24'
+    name: Enjin Coin
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c'
+    decimals: 18
+    ledger: ethereum
+    symbol: ENJ
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-10-03'
+      end_date: '2017-10-31'
+      total_cap: 800000000
+      raised: 22959609 USD
+    webids:
+      coinmarketcap: enjin-coin
+      cryptocompare: enj
+      cryptocompare/id: '283116'
+webids:
+  bitcointalk: '2042871.0'
+  facebook: enjinsocial
+  github: enjin/contracts
+  medium: '@enjin'
+  linkedin/company: enjin
+  telegram: enjin_coin
+  twitter: enjin
+  reddit: EnjinCoin
+tags:
+  - games
+  - platform
+  - framework
+  - community
+  - social
+whitepapers:
+  - title: 'Enjin Coin: Smart Cryptocurrency for Gaming'
+    url: https://enjincoin.io/enjincoin_whitepaper.pdf
+team:
+  - name: Maxim Blagov
+    role: CEO
+    webids:
+      linkedin: maxim-blagov
+  - name: Witek Radomski
+    role: CTO
+    webids:
+      linkedin: witekradomski
+  - name: Lilia Pritchard
+    role: COO
+    webids:
+      linkedin: lilia-p-30b2b2148
+contacts:
+  email: 'info@enjincoin.io'
+  location:hq: 'Singapore, Singapore'
