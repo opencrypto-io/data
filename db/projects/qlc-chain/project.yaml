@@ -1,0 +1,59 @@
+name: QLC Chain
+web:
+  - 'https://qlcchain.org/'
+assets:
+  - id: qlc
+    name: QLC Chain
+    alt_names:
+      - 'Qlink Token'
+    type: token
+    token_standard: NEP5
+    ledger: neo
+    symbol: QLC
+    contract_address: '0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5'
+    decimals: 8
+    max_supply: 600000000
+    start_date: '2017-12-21'
+    webids:
+      coinmarketcap: qlink
+      cryptocompare: qlc
+      cryptocompare/id: '637681'
+team:
+  - name: Tony Gu
+    role: head of strategy
+    webids:
+      linkedin: tonygutao
+  - name: Roger Lim
+    role: head of investor relations
+    webids:
+      linkedin: limroger
+  - name: Allen Lee
+    role: chief architect
+    webids:
+      linkedin: 'allen-lee-79384428'
+  - name: Susan Zhou
+    role: co-founder
+    webids:
+      linkedin: susanzhoushu
+  - name: Toya Zhang
+    role: marketing
+    webids:
+      linkedin: 'toya-xiaoduo-zhang-68981099'
+whitepapers:
+  - title: 'QLC Chain: A Multidimensional Block-Lattice Public Chain with Smart Contracts Support for Network as a Service'
+    url: https://github.com/qlcchain/YellowPaper/blob/master/QLC-Chain-Yellowpaper.pdf
+tags:
+  - blockchain
+  - bloclattice
+webids:
+  bitcointalk: '3860784.0'
+  medium: qlc-chain
+  telegram: qlinkmobile
+  github: qlcchain
+  twitter: QLCchain
+  reddit: QLCChain
+  youtube/channel: UCbdnrnM7Zok47NI75NPdcrg
+  facebook: QLCchain
+  linkedin/company: qlcchain
+contacts:
+  location:hq: 'Hong Kong'

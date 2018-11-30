@@ -1,0 +1,72 @@
+name: Raiden Network Token
+alt_names:
+  - Raiden Network
+web:
+  - 'https://raiden.network/'
+assets:
+  - id: rdn
+    name: Raiden Network Token
+    alt_names:
+      - Raiden
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: RDN
+    contract_address: '0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6'
+    decimals: 18
+    max_supply: 100000000
+    start_date: '2017-09-22'
+    first_distribution:
+      - title: 'public sale'
+        percent: 50
+        amount: 50000000
+      - title: 'team'
+        percent: 34
+        amount: 34000000
+      - title: 'development'
+        percent: 16
+        amount: 16000000
+    ico_properties:
+      start_date: '2017-10-18'
+      end_date: '2017-11-01'
+      raised: 33407260 USD
+      ico_price: 0.00213663 ETH
+    webids:
+      coinmarketcap: raiden-network-token
+      cryptocompare: rdnstar
+      cryptocompare/id: '372369'
+team:
+  - name: Heiko Hees
+  - name: André Vitor De Lima Matos
+    webids:
+      linkedin: andrevmatos
+      facebook: 'andre.vmatos'
+      github: andrevmatos
+  - name: Bernd Bohmeier
+    webids:
+      linkedin: berndbohmeier
+  - name: Oliver Buenting
+    webids:
+      linkedin: 'oliver-b%C3%BCnting-42743bb0'
+      github: eorituz
+  - name: Chris Seifert
+    webids:
+      linkedin: 'chris-seifert'
+      github: seichris
+tags:
+  - blockchain
+  - ethereum
+  - raiden
+  - payment
+  - payments
+  - micropayments
+webids:
+  medium: 'raiden_network'
+  riot: 'raiden-network:matrix.org'
+  gitter: raiden-network
+  github: raiden-network/raiden
+  twitter: raiden_network
+  reddit: raidennetwork
+  youtube/channel: 'UCoUP_hnjUddEvbxmtNCcApg'
+contacts:
+  email: 'contact@raiden.network'
