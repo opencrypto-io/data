@@ -1,0 +1,56 @@
+name: Genesis Vision
+start_date: '2017-11-20'
+description: 'Genesis Vision is the platform for the private trust management market'
+web:
+  - 'https://genesis.vision/'
+assets:
+  - id: gvt
+    start_date: '2017-09-02'
+    name: Genesis Vision
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x103c3a209da59d3e7c4a89307e66521e081cfdf0'
+    decimals: 18
+    ledger: ethereum
+    symbol: GVT
+    max_supply: 4436644
+    ico_properties:
+      start_date: '2017-10-15'
+      end_date: '2017-11-15'
+      raised: 2832736 USD
+    webids:
+      coinmarketcap: genesis-vision
+      cryptocompare: gvt
+      cryptocompare/id: '385952'
+webids:
+  bitcointalk: '2143279.0'
+  bitcoinwiki: 'Genesis_Vision'
+  custom/chat: 'https://u.wechat.com/IL6s8kyYCLGz0S6t5HqJwr4'
+  facebook: GenesisVisionProject
+  github: GenesisVision
+  linkedin/company: genesis-vision
+  telegram: genesisvision
+  twitter: genesis_vision
+  reddit: genesisvision
+  youtube/channel: UCnx2ja9luqWjgRt35tWR99w
+tags:
+  - trading
+  - platform
+  - broker
+  - market
+  - trust
+whitepapers:
+  - title: 'Genesis Vision Whitepaper'
+    url: https://genesis.vision/white-paper-eng.pdf
+team:
+  - name: Ruslan Kamenskiy
+    role: Founder
+    webids:
+      linkedin: ruslan-kamenskiy
+  - name: Dmitry Nazarov
+    role: CEO, Co-founder
+    webids:
+      linkedin: jeremy-longley-16827b
+contacts:
+  email: 'support@genesis.vision'
+  location:hq: 'Dublin, Ireland'
