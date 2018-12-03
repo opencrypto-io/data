@@ -1,0 +1,67 @@
+name: Golem
+alt_names:
+  - Golem Network Token
+start_date: '2016-01-01'
+description: 'Airbnb for computers. Rent your unused CPU/GPU cycles and get paid in cryptocurrency.'
+web:
+  - 'https://golem.network/'
+assets:
+  - id: gnt
+    start_date: '2016-11-17'
+    name: Golem
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xa74476443119a942de498590fe1f2454d7d4ac0d'
+    decimals: 18
+    ledger: ethereum
+    symbol: GNT
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2016-11-13'
+      end_date: '2016-11-13'
+      raised: 8000000USD
+    webids:
+      coinmarketcap: golem-network-tokens
+      etherscan/token: Golem
+      cryptocompare: gnt
+      cryptocompare/id: '33022'
+webids:
+  bitcointalk: '1655002.0'
+  bitcoinwiki: Golem
+  custom/blog: 'https://blog.golemproject.net/'
+  crunchbase/organization: golem-network
+  facebook: golemproject
+  github: golemfactory/golem
+  linkedin/company: golem-factory
+  twitter: golemproject
+  reddit: GolemProject
+  youtube/channel: UCl3fxgrSML2sL3UYZrynbMg
+tags:
+  - computing
+  - cgi
+  - rendering
+  - gpu
+  - virtualmachine
+  - marketplace
+whitepapers:
+  - title: 'The Golem Project: Crowdfunding Whitepaper'
+    url: https://golem.network/crowdfunding/Golemwhitepaper.pdf
+team:
+  - name: Julian Zawistowski
+    role: CEO, Founder
+    webids:
+      linkedin: julian-zawistowski-352478
+  - name: Piotrek Janiuk
+    role: CTO, Co-founder
+    webids:
+      linkedin: viggith
+  - name: Andrzej Regulski
+    role: COO, Co-founder
+    webids:
+      linkedin: andrzej-regulski-5298a818
+contacts:
+  email: 'contact@golem.network'
+  location:hq: 'Warsaw, Poland'
+resources:
+  - title: 'What is Golem'
+    url: 'https://nulltx.com/what-is-golem/'

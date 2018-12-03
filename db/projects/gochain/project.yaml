@@ -14,7 +14,7 @@ ledgers:
         tools:
           - type: explorer
             url: 'https://explorer.gochain.io/home'
-          - type: stats
+          - type: other
             url: 'https://stats.gochain.io/'
 assets:
   - id: go
@@ -64,5 +64,5 @@ team:
     webids:
       linkedin: treeder
 contacts:
-  email: 'support@genesis.vision'
+  email: 'info@gochain.io'
   location:hq: 'Charlestown, Nevis'
