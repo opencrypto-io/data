@@ -28,7 +28,7 @@ assets:
       start_date: '2018-05-02'
       end_date: '2017-05-03'
       total_cap: 500000000
-      raised: 13685000USD
+      raised: 13685000 USD
     webids:
       coinmarketcap: gochain
       cryptocompare: go

@@ -19,7 +19,7 @@ assets:
     ico_properties:
       start_date: '2016-11-13'
       end_date: '2016-11-13'
-      raised: 8000000USD
+      raised: 8000000 USD
     webids:
       coinmarketcap: golem-network-tokens
       etherscan/token: Golem
