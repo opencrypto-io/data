@@ -1,0 +1,70 @@
+name: Populous
+web:
+  - 'https://populous.world/'
+assets:
+  - id: ppt
+    name: Populous
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: PPT
+    contract_address: '0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a'
+    decimals: 8
+    max_supply: 53252246
+    start_date: '2017-04-12'
+    ico_properties:
+      start_date: '2017-06-24'
+      total_cap: 10000000
+      ico_price: 0.0011 ETH
+      country: United Kingdom
+    webids:
+      coinmarketcap: populous
+      cryptocompare: ppt
+      cryptocompare/id: '179896'
+team:
+  - name: Stephen Williams
+    role: ceo
+    photo: https://populous.world/img/team-s.williams.jpg
+    webids:
+      linkedin: 'steve-nico-williams'
+  - name: Jason Tuang
+    role: head of finance
+    photo: https://populous.world/img/team-j.tuang.jpg
+    webids:
+      linkedin: jasontuang
+  - name: Alex Oritogun
+    role: head of business development
+    photo: https://populous.world/img/team-a.oritogun.jpg
+    webids:
+      linkedin: 'alex-oritogun-704147123'
+  - name: Mukesh Ashtekar
+    role: full stack developer
+    photo: https://populous.world/img/team-m.ashtekar.jpg
+    webids:
+      github: makashtekar
+  - name: Jahi Grant
+    role: company secretary
+    photo: https://populous.world/img/team-j.grant.jpg
+    webids:
+      linkedin: jahigrant
+whitepapers:
+  - title: Whitepaper
+    url: https://populous.world/invoice-finance/populous_whitepaper_final_v1.pdf
+tags:
+  - invoice
+  - financing
+webids:
+  bitcointalk: '1866936.0'
+  slack: bitpopulous
+  telegram: populous
+  github: bitpopulous
+  twitter: BitPopulous
+  linkedin/companny: 'populous-world'
+  youtube/channel: 'UCBI-O3zFjYYjJCBxJ77faqw'
+  custom/chat: 'https://bitpopulous.herokuapp.com/'
+  custom/blog: https://blog.populous.world/
+  facebook: populousworld
+contacts:
+  email: 'info@populous.world'
+  phone: '+4408438496671'
+  location:hq: 'Lansdowne House, 57 Berkeley Square, Berkeley Square, London W1J 6ER, United Kingdom'

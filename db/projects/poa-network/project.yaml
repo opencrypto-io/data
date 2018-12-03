@@ -1,0 +1,37 @@
+name: POA Network
+alt_names:
+  - Poa Network
+web:
+  - 'https://poa.network/'
+ledgers:
+  - id: poa-network
+    name: POA Network
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Proof-of-Authority
+        proof_type: PoA
+        tools:
+          - type: explorer
+            url: 'https://poaexplorer.com/'
+          - type: explorer
+            url: >-
+              https://etherscan.io/token/0x6758b7d441a9739b98552b373703d8d3d14f9e62
+assets:
+  - id: poa
+    name: POA Network
+    type: native
+    ledger: poa-network
+    symbol: POA
+    max_supply: 252460800
+    start_date: '2017-07-20'
+    webids:
+      coinmarketcap: poa-network
+      cryptocompare: poa
+      cryptocompare/id: '793845'
+webids:
+  medium: poa-network
+  telegram: oraclesnetwork
+  github: poanetwork
+  twitter: poanetwork
+  reddit: POA
