@@ -1,0 +1,30 @@
+name: Ontology
+web:
+  - 'https://ont.io/'
+ledgers:
+  - id: ontology
+    name: Ontology
+    type: blockchain
+    networks:
+      - id: main
+        proof_type: PoS
+        tools:
+          - type: explorer
+            url: 'https://explorer.ont.io/'
+assets:
+  - id: ont
+    name: Ontology
+    type: native
+    ledger: ontology
+    symbol: ONT
+    max_supply: 1000000000
+    start_date: '2018-02-26'
+    webids:
+      coinmarketcap: ontology
+      cryptocompare: ont
+      cryptocompare/id: '808414'
+webids:
+  medium: ontologynetwork
+  telegram: OntologyNetworkCN
+  twitter: OntologyNetwork
+  reddit: OntologyNetwork

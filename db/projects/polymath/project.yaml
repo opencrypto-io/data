@@ -10,15 +10,35 @@ assets:
     ledger: ethereum
     symbol: POLY
     contract_address: '0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec'
+    decimals: 18
     max_supply: 1000000000
     start_date: '2017-12-25'
     webids:
       coinmarketcap: polymath-network
       cryptocompare: polystar
       cryptocompare/id: '744820'
+team_url: https://polymath.network/team.html
+team:
+  - name: Trevor Koverko
+    role: co-founder
+  - name: Chris Housser
+    role: co-founder
+  - name: Pablo Ruiz
+    role: vp of engineering
+  - name: Thomas Borrel
+    role: chief product officer
+  - name: Graeme Moore
+    role: vp of marketing
 webids:
-  custom/forum: 'https://blog.polymath.network/'
   telegram: PolymathNetwork
   github: PolymathNetwork
   twitter: polymathnetwork
   reddit: polymathnetwork
+  facebook: polymathnetwork
+  youtube/channel: UC77syPQJO0eA5FBUMczZ4bA
+  linkedin/comapany: polymathnetwork
+  medium: '@polymathnetwork'
+contacts:
+  email: 'sukhveer@polymath.network'
+  location:hq: 'Haggatt Hall, St. Michael'
+  location:node: '155 Wellington St W, Toronto, ON, Canada'

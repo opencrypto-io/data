@@ -1,0 +1,96 @@
+name: OST
+web:
+  - 'https://ost.com'
+assets:
+  - id: st
+    name: OST
+    alt_names:
+      - 'Simple Token'
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: ST
+    contract_address: '0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca'
+    decimals: 18
+    max_supply: 800000000
+    start_date: '2107-12-19'
+    ico_properties:
+      start_date: '2017-11-14'
+      end_date: '2017-12-01'
+      raised: 21728192 USD
+      ico_price: 0.0002489 ETH
+      country: Hong Kong
+    first_distribution:
+      - title: 'token sale'
+        amount: 261070175
+        percent: 32.64
+      - title: 'developers'
+        percent: 27.2
+      - title: 'advisors'
+        percent: 10
+      - title: 'reserved'
+        percent: 14.56
+      - title: 'investors'
+        percent: 5.6
+      - title: 'team'
+        percent: 10
+    webids:
+      coinmarketcap: ost
+team_url: https://ost.com/team
+team:
+  - name: Jason Goldberg
+    role: ceo
+    photo: https://d36lai1ppm9dxu.cloudfront.net/assets/image/team/Jason-Goldberg.png
+    webids:
+      linkedin: jasonsethgoldberg
+      twitter: betashop
+      medium: '@betashop'
+  - name: Sunil Khedar
+    role: cto
+    photo: https://d36lai1ppm9dxu.cloudfront.net/assets/image/team/Sunil-Khedar.png
+    webids:
+      linkedin: sunilkhedar
+      twitter: sunilkhedar
+  - name: Ben Bollen
+    role: chief blockchain strategist
+    photo: https://d36lai1ppm9dxu.cloudfront.net/assets/image/team/Ben-Bollen.png
+    webids:
+      linkedin: benjaminbollen
+      twitter: BenjaminBollen
+      medium: '@BenjaminBollen'
+  - name: Renee Wong
+    role: chief financial officer
+    photo: https://d36lai1ppm9dxu.cloudfront.net/assets/image/team/Renee-Wong.jpg
+    webids:
+      linkedin: 'renee-wong-340ba91'
+  - name: Chris Dark
+    role: chief commercial officer
+    photo: https://d36lai1ppm9dxu.cloudfront.net/assets/image/team/Chris-Dark.png
+    webids:
+      linkedin: chrisdark
+      twitter: darky999
+      medium: '@chrisdark'
+whitepapers:
+  - title: 'OpenST Protocol White Paper'
+    url: https://drive.google.com/file/d/0Bwgf8QuAEOb7Z2xIeUlLd21DSjQ/view
+  - title: 'Mosaic: Running Meta-Blockchains to Scale Decentralized Applications'
+    url: https://github.com/OpenSTFoundation/mosaic-contracts/blob/develop/docs/mosaicv0.pdf
+tags:
+  - economy
+  - business
+  - sidechain
+webids:
+  bitcointalk: '2266379.0'
+  medium: OSTdotcom
+  telegram: OSTdotcom
+  github: OpenSTFoundation
+  twitter: OSTdotcom
+  reddit: OSTdotcom
+  facebook: OST
+  youtube/channel: 'UCrDo4vSElgUa_HzdvYqBZTA'
+  custom/forum: https://discuss.openst.org/
+  gitter: OpenSTFoundation
+contacts:
+  email: 'review@ost.com'
+  location:hq: 'Berlin, Germany'
+  location:node: 'Pune, India'
