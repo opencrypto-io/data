@@ -1,0 +1,18 @@
+name: OAX
+web:
+  - 'https://oax.org/'
+assets:
+  - id: oax
+    name: OAX
+    type: token
+    ledger: ethereum
+    symbol: OAX
+    contract_address: '0x701c244b988a513c945973defa05de933b23fe1d'
+    webids:
+      coinmarketcap: oax
+webids:
+  bitcointalk: '1943946'
+  telegram: openanxteam
+  gitlab: groups/oax
+  twitter: OAX_Foundation
+  reddit: OpenANX
