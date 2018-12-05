@@ -1,0 +1,55 @@
+name: NavCoin
+web:
+  - 'http://www.navcoin.org/'
+start_date: '2014-06-06'
+ledgers:
+  - id: navcoin
+    name: NavCoin
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: X13
+        proof_type: PoW/PoS
+        start_date: '2016-05-12'
+        tools:
+          - type: explorer
+            url: 'https://www.navexplorer.com/'
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/nav/'
+          - type: explorer
+            url: 'https://www.cryptoground.com/navcoin-block-explorer'
+assets:
+  - id: nav
+    name: NavCoin
+    type: native
+    ledger: navcoin
+    symbol: NAV
+    start_date: '2014-06-06'
+    webids:
+      coinmarketcap: nav-coin
+      cryptocompare: nav
+      cryptocompare/id: '4571'
+team:
+  - name: Craigh MacGregor
+    role: chief engineer
+  - name: Alex V
+    role: core engineer
+  - name: Paul Sanderson
+    role: software engineer
+  - name: Matt Paul
+    role: software engineer
+  - name: Victor Jones
+    role: software engineer
+webids:
+  bitcointalk: '679791.0'
+  medium: nav-coin
+  custom/forum: 'https://forum.navcoin.org/'
+  telegram: navcoin
+  discord: y4Vu9jw
+  github: NAVCoin
+  twitter: NAVCoin
+  reddit: NavCoin
+  facebook: NavCoin
+  youtube/channel: UCjDs4JceVSsaeCyvkA9cWCg
+contacts:
+  email: 'admin@navcoin.org'
