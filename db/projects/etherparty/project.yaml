@@ -1,0 +1,59 @@
+name: Etherparty
+start_date: '2015-01-01'
+description: 'Etherparty produces blockchain products that simplifies creation of agreements between people.'
+web:
+  - 'https://etherparty.com/'
+assets:
+  - id: fuel
+    start_date: '2017-10-01'
+    name: Etherparty
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xea38eaa3c86c8f9b751533ba2e562deb9acded40'
+    decimals: 18
+    ledger: ethereum
+    symbol: FUEL
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-10-01'
+      end_date: '2017-10-31'
+      total_cap: 50000000
+      raised: 33000000 USD
+    webids:
+      coinmarketcap: etherparty
+      cryptocompare: fuel
+      cryptocompare/id: '292748'
+webids:
+  bitcointalk: '2005965.0'
+  github: '@etherparty'
+  facebook: etherparty
+  linkedin/company: etherparty
+  medium: '@etherparty'
+  telegram: etherparty
+  twitter: etherparty_com
+  reddit: etherparty
+  youtube/channel: UCwBzpneop1za6w4DYJJgsIQ
+tags:
+  - agreements
+  - userexperience
+  - ux
+  - dapps
+  - smartcontracts
+  - builder
+  - law
+  - management
+whitepapers:
+  - title: 'Etherparty: User-friendly Smart Contract Compiler'
+    url: https://etherparty.com/media/Etherparty_White_Paper_EN.pdf
+team:
+  - name: Kevin Hobbs
+    role: CEO
+    webids:
+      linkedin: kevinhobbs007
+  - name: Lisa Cheng
+    role: Co-founder
+    webids:
+      linkedin: chenglisa
+contacts:
+  email: 'hello@etherparty.io'
+  location:hq: 'Vancouver, Canada'

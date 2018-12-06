@@ -1,0 +1,75 @@
+name: Civic
+start_date: '2015-01-01'
+description: 'Civic is an identity solution based on blockchain'
+web:
+  - 'https://www.civic.com/'
+assets:
+  - id: cvc
+    start_date: '2017-06-21'
+    name: Civic
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x41e5560054824ea6b0732e656e3ad64e20e94e45'
+    decimals: 18
+    ledger: ethereum
+    symbol: CVC
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2017-06-21'
+      end_date: '2017-06-22'
+      total_cap: 330000000
+      raised: 33000000 USD
+    first_distribution:
+      - title: 'public participants'
+        percent: 33
+      - title: 'Company reserve'
+        percent: 33
+      - title: 'Participants'
+        percent: 33
+      - title: 'Token sale cost'
+        percent: 1
+    webids:
+      coinmarketcap: civic
+      etherscan/token: civic
+      cryptocompare: cvc
+      cryptocompare/id: '139467'
+webids:
+  facebook: civictechnologiesinc
+  bitcointalk: '1942882.0'
+  github: civicteam
+  linkedin/company: civic-technologies
+  telegram: civicplatform
+  twitter: civickey
+  reddit: civicplatform
+  youtube/channel: CivicTechnologies
+whitepapers:
+  - title: 'Civic Whitepaper'
+    url: https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf
+tags:
+  - identity
+  - security
+  - biometrics
+  - authentication
+  - kyc
+  - verification
+team:
+  - name: Vinny Lingham
+    role: CEO
+    webids:
+      linkedin: vinnylingham
+      twitter: VinnyLingham
+  - name: Jonathan Smith
+    role: CTO, Co-founder
+    webids:
+      linkedin: jonathan-smith-2b997a
+  - name: Chris Hart
+    role: COO, Co-founder
+    webids:
+      linkedin: chrishart1
+  - name: JP Bedoya
+    role: Design
+    webids:
+        linkedin: bedoya
+contacts:
+  email: contact@civic.com
+  location:hq: 'San Francisco, CA'

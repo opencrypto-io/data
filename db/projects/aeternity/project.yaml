@@ -1,0 +1,75 @@
+name: Aeternity
+start_date: '2016-11-01'
+description: 'Aeternity is building scalable blockchain with hybrid consensus, off-chain smart contracts execution, oracles and own governance system'
+web:
+  - 'https://www.aeternity.com/'
+assets:
+  - id: ae
+    start_date: '2016-12-29'
+    name: Aeternity
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d'
+    decimals: 18
+    ledger: ethereum
+    symbol: AE
+    max_supply: 273685831
+    ico_properties:
+      start_date: '2017-05-29'
+      end_date: '2017-06-19'
+      total_cap: 273685831
+      raised: 24426689 USD
+    webids:
+      coinmarketcap: aeternity
+      cryptocompare: ae
+      cryptocompare/id: '190978'
+webids:
+  bitcointalk: '1733140.0'
+  bitcoinwiki: Aeternity
+  coingecko: aeternity
+  facebook: aeternityproject
+  github: aeternity
+  linkedin/company: aeternity
+  twitter: aeternity
+  reddit: Aeternity
+  telegram: aeternity
+whitepapers:
+  - title: 'Æternity blockchain: The trustless, decentralized and purely functional oracle machine'
+    url: https://www.aeternity.com/aeternity-blockchain-whitepaper.pdf
+tags:
+  - oracles
+  - smartcontracts
+  - statechannels
+  - opensource
+  - offchaintx
+  - dapps
+  - erlang
+team:
+  - name: Yanislav Malahov
+    role: CEO
+    photo: https://aeternity.com/user/pages/01.home/_10.team/yanislav.jpg
+    webids:
+      linkedin: yanislav-malahov-5025b712
+      twitter: noyyy
+      github: keypair
+      medium: yanislav
+  - name: Marion Vogel
+    role: Director
+    photo: https://aeternity.com/user/pages/01.home/_10.team/marion.png
+    webids:
+      linkedin: marionvogel
+      twitter: marionmiaume
+  - name: Emin Mahrt
+    role: COO
+    photo: https://aeternity.com/user/pages/01.home/_10.team/emin.jpg
+    webids:
+      linkedin: eminmahrt
+      twitter: em
+  - name: Nikola Stojanow
+    role: CBDO
+    photo: https://aeternity.com/user/pages/01.home/_10.team/nikola.png
+    webids:
+      linkedin: nikola-stojanow-46478518
+contacts:
+  email: 'info@aeternity.com'
+  location:hq: 'Vaduz, Liechtenstein'

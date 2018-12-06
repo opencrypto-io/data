@@ -1,0 +1,58 @@
+name: Dent
+start_date: '2014-01-01'
+description: 'Dent is aiming to tokenize and create marketplace for mobile data'
+web:
+  - 'https://www.dentwireless.com/'
+assets:
+  - id: dent
+    start_date: '2017-07-12'
+    name: Dent
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x3597bfd533a99c9aa083587b074434e61eb0a258'
+    decimals: 8
+    ledger: ethereum
+    symbol: DENT
+    max_supply: 100000000000
+    ico_properties:
+      start_date: '2017-06-17'
+      end_date: '2017-08-17'
+      total_cap: 33700000
+      raised: 7000000 USD
+    webids:
+      coinmarketcap: dent
+      cryptocompare: dent
+      cryptocompare/id: '141331'
+webids:
+  bitcointalk: '1974825'
+  facebook: dentcoin
+  linkedin/company: dentwireless
+  telegram: dentcoin
+  twitter: dentcoin
+  reddit: dentcoin
+  youtube/channel: UCyxn3sx68u1VrErs_tNI7ig
+tags:
+  - mobiledata
+  - marketplace
+  - ethereum
+  - telecommunication
+team:
+  - name: Tero Katajainen
+    role: CEO
+    webids:
+      linkedin: terokatajainen
+  - name: Mikko Linnamäki
+    role: Co-founder
+    webids:
+      linkedin: linnamaeki
+  - name: Andreas Vollmer
+    role: Co-founder
+    webids:
+      linkedin: andreasvollmer
+  - name: Henrik Erkkonen
+    role: CTO
+    webids:
+      linkedin: erkkonen
+contacts:
+  email: 'info@dentcoin.com'
+  location:hq: 'Hong Kong, CN'

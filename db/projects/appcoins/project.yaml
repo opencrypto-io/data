@@ -1,0 +1,70 @@
+name: AppCoins
+start_date: '2017-11-06'
+description: 'Appcoins is protocol for code validation and payments in mobile apps'
+web:
+  - 'https://appcoins.io/'
+assets:
+  - id: appc
+    start_date: '2017-11-06'
+    name: Appcoins
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db'
+    decimals: 18
+    ledger: ethereum
+    symbol: APPC
+    max_supply: 246203093
+    ico_properties:
+      start_date: '2017-12-13'
+      end_date: '2017-12-20'
+      raised: 15300000 USD
+      total_cap: 450000000
+    first_distribution:
+      - title: 'Team, Advisors'
+        amount: 24000000
+      - title: 'Company reserve'
+        percent: 37000000
+      - title: 'Bootstrap'
+        amount: 49000000
+      - title: 'Operation'
+        percent: 37000000
+      - title: 'Public'
+        amount: 98000000
+    webids:
+      coinmarketcap: appcoins
+      cryptocompare: appc
+      cryptocompare/id: '346812'
+webids:
+  bitcointalk: '2280664.0'
+  facebook: AppCoinsOfficial
+  gitter: AppCoinsProject
+  github: AppStoreFoundation
+  linkedin/company: appcoins
+  medium: '@appcoins'
+  telegram: appcoinsofficial
+  twitter: appcoinsproject
+  reddit: AppcoinsProtocol
+  youtube/channel: UCSbBDkmtn99nnzdDHA_1fQw
+whitepapers:
+  - title: 'Appcoins : Redesigning the App Economy'
+    url: https://appcoins.io/assets/images/white-paper.pdf
+tags:
+  - apps
+  - payment
+  - safety
+team:
+  - name: Paulo Trezentos
+    role: CEO, Founder
+    webids:
+      linkedin: paulotrezentos
+  - name: Alvaro Pinto
+    role: COO, Founder
+    webids:
+      linkedin: lapinto
+  - name: Ren Tang
+    role: CTO
+    webids:
+      linkedin: rentang
+contacts:
+  email: 'info@appcoins.io'
+  location:hq: 'Singapore, Singapore'
