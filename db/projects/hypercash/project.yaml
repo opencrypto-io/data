@@ -1,0 +1,85 @@
+name: HyperCash
+alt_names:
+  - Hcash
+  - HyperShare
+  - Hshare
+start_date: '2017-06-28'
+description: 'HyperCash is opensource cryptocurrency implementing blockless DAG, Zero-Knowledge Proofs and hybrid PoW/Pos algorithm.'
+web:
+  - 'https://h.cash'
+ledgers:
+  - id: hcash
+    name: HyperCash
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: PoW / PoS
+        mineable: true
+        name: mainnet
+        tools:
+          - type: explorer
+            url: 'https://hc-explorer.h.cash/'
+assets:
+  - id: hc
+    start_date: '2017-10-02'
+    name: HyperCash
+    type: native
+    ledger: hcash
+    symbol: HC
+    max_supply: 84000000
+    ico_properties:
+      start_date: '2017-06-28'
+      end_date: '2017-07-27'
+    first_distribution:
+      - title: 'public'
+        percent: 25
+      - title: 'pre-ico'
+        percent: 15
+      - title: 'team'
+        percent: 5
+      - title: 'hcash-dao'
+        percent: 5
+      - title: 'minted by PoW'
+        percent: 25
+      - title: 'minted by PoS'
+        percent: 25
+    webids:
+      coinmarketcap: hypercash
+      cryptocompare: hc
+webids:
+  custom/blog: https://wiki.h.cash/
+  facebook: HcashOfficial
+  github: HcashOrg
+  linkedin/company: hcash
+  medium: '@media_30378'
+  telegram: HcashOfficialEnglish
+  twitter: HcashOfficial
+  reddit: hcash
+tags:
+  - quantumresistence
+  - exchange
+  - asicresistant
+  - privacy
+  - opensource
+  - platform
+  - dao
+  - zeroknowledge
+  - pos
+  - pow
+  - dag
+  - sidechain
+whitepapers:
+  - title: 'Hcash: The New Standard of Value'
+    url: https://h.cash/themes/en/images/Hcash+Whitepaper+V0.8.5.pdf
+team:
+  - name: Adam Geri
+    role: CEO
+    webids:
+      linkedin: adam-geri-94550068
+  - name: andrew-wasylewicz
+    role: COO
+    webids:
+      linkedin: andrew-wasylewicz
+contacts:
+  location:hq: 'Melbourne, Australia'
