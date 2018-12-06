@@ -1,0 +1,60 @@
+name: Insolar
+alt_names:
+  - INS Ecosysem
+start_date: '2017-01-01'
+description: 'Insolar is building ecosystem that is providing seamless interactions between companies'
+web:
+  - 'https://insolar.io/'
+assets:
+  - id: ins
+    start_date: '2017-12-04'
+    name: Insolar
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x5b2e4a700dfbc560061e957edec8f6eeeb74a320'
+    decimals: 10
+    ledger: ethereum
+    symbol: INS
+    max_supply: 50000000
+    ico_properties:
+      start_date: '2017-12-04'
+      end_date: '2017-12-25'
+      raised: 41500000 USD
+    webids:
+      coinmarketcap: ins-ecosystem
+      cryptocompare: ins
+      cryptocompare/id: '370973'
+webids:
+  bitcointalk: '2208591.0'
+  facebook: insolario
+  instagram: insolario
+  github: insolar
+  linkedin/company: insolario
+  telegram: insolar
+  twitter: insolario
+  reddit: insolar
+  youtube/channel: UCyAkkLSuxsuwBIRo6u1keHA
+tags:
+  - contracts
+  - domains
+  - enterprise
+  - privatenetworks
+  - opensource
+  - ecosystem
+  - platform
+  - business
+whitepapers:
+  - title: 'Insolar: Enterprise blockchain platform'
+    url: https://insolar.io/uploads/Insolar%20Presentation.pdf
+team:
+  - name: Andrey Zhulin
+    role: CEO, Founder
+    webids:
+      linkedin: andreyzhulin
+  - name: Pavel Sсherbinin
+    role: CTO
+    webids:
+      linkedin: dzirtik
+contacts:
+  email: 'support@insolar.io'
+  location:hq: 'Moscow, Russia'
