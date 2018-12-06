@@ -1,0 +1,68 @@
+name: Modum
+web:
+  - 'https://modum.io/'
+assets:
+  - id: mod
+    name: Modum
+    alt_names:
+      - 'Modum Token'
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: MOD
+    contract_address: '0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e'
+    decimals: 0
+    max_supply: 21266200
+    start_date: '2017-08-15'
+    first_distribution:
+      - title: 'sale'
+        percent: 60
+      - title: 'team'
+        percent: 30
+      - title: 'bounty'
+        percent: 3
+      - title: 'presale'
+        percent: 7
+    ico_properties:
+      start_date: '2017-09-01'
+      end_date: '2017-09-22'
+      raised: 13350000 USD
+      ico_price: 0.002555 ETH
+      country: Switzerland
+    webids:
+      coinmarketcap: modum
+      cryptocompare: mod
+      cryptocompare/id: '345510'
+team_url: https://modum.io/company/team
+team:
+  - name: Andrew Connell
+    role: test engineering
+    photo: https://modum.io/sites/default/files/styles/image_person_2x/public/05.jpg
+  - name: Philipp Doppelhammer
+    role: hardware engineering
+    photo: https://modum.io/sites/default/files/styles/image_person_2x/public/17_0.jpg
+  - name: Simon Dossegger
+    role: ceo
+    photo: https://modum.io/sites/default/files/styles/image_person_2x/public/24_0.jpg
+  - name: Marc Heimgartner
+    role: software engineering
+    photo: https://modum.io/sites/default/files/styles/image_person_2x/public/03.jpg
+  - name: Benjamin Indermuehle
+    role: engineering
+    photo: https://modum.io/sites/default/files/styles/image_person_2x/public/bi_with_hands.jpg
+whitepapers:
+  - title: 'Whitepaper: Data integrity for supply chain operations, powered by blockchain technology'
+    url: https://modum.io/sites/default/files/documents/2018-05/modum-whitepaper-v.-1.0.pdf
+tags:
+  - supply
+  - monitoring
+  - distribution
+webids:
+  github: 'modum-io'
+  telegram: 'modum_announcements'
+  twitter: modum_io
+  reddit: modum_io
+  linkedin/company: 'modum.io-ag'
+contacts:
+  email: 'info@modum.io'
+  location:hq: 'Technoparkstrasse 1, CH-8005, Zurich, Switzerland'
