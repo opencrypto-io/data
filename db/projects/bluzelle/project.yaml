@@ -1,0 +1,52 @@
+name: Bluzelle
+start_date: '2014-01-01'
+description: 'Decentralize database for Dapps'
+web:
+  - 'https://bluzelle.com/'
+assets:
+  - id: blz
+    start_date: '2017-11-01'
+    name: Bluzelle
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x5732046a883704404f284ce41ffadd5b007fd668'
+    decimals: 18
+    ledger: ethereum
+    symbol: BLZ
+    max_supply: 500000000
+    ico_properties:
+      start_date: '2018-01-18'
+      end_date: '2018-02-02'
+      total_cap: 195000000
+      raised: 19500000 USD
+    webids:
+      coinmarketcap: bluzelle
+      cryptocompare: blz
+webids:
+  bitcointalk: '2345293.0'
+  github: bluzelle
+  linkedin/company: bluzelle-networks
+  telegram: bluzelle
+  twitter: bluzellehq
+  reddit: Bluzelle
+  youtube/channel: UCzhJz9g-T5BWjbPeJLKY_jw
+whitepapers:
+  - title: 'Bluezelle: A Decentralized Database For the Future'
+    url: https://crushcrypto.com/wp-content/uploads/2018/01/BLZ-Whitepaper.pdf
+tags:
+  - storage
+  - decentralized
+  - opensource
+  - data
+  - infrastructure
+team:
+  - name: Pavel Bains
+    role: CEO
+    webids:
+      linkedin: njmurarka
+  - name: Neeraj Murarka
+    role: CTO, Co-founder
+    webids:
+      linkedin: pavelbains
+contacts:
+  location:hq: 'Singapore, Singapore'

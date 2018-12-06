@@ -1,0 +1,79 @@
+name: Ardor
+start_date: '2018-01-01'
+description: 'Ardor is a platform securing various transaction sidechains.'
+web:
+  - 'https://www.ardorplatform.org/'
+ledgers:
+  - id: ardor
+    name: Ardor
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Ardor Network
+        proof_type: PoS
+        mineable: false
+        tools:
+          - type: explorer
+            url: 'https://ardor.tools/'
+          - type: explorer
+            url: 'https://ardorportal.org'
+      - id: test
+        type: test
+        name: Test Net
+        tools:
+          - type: faucet
+            url: 'https://www.ardor.world/en/faucet_ardor/'
+          - type: faucet
+            url: 'https://cryptopanic.com/news/457713/Ardor-Test-Net-Faucet'
+assets:
+  - id: ardr
+    name: Ardor
+    type: native
+    ledger: ardor
+    symbol: ARDR
+    max_supply: 1000000000
+    start_date: '2016-10-13'
+    webids:
+      coinmarketcap: ardor
+      cryptocompare: ardr
+      cryptocompare/id: '30173'
+      coingecko: ardor
+webids:
+  bitcointalk: '1518497.0'
+  custom/forum: 'https://nxtforum.org'
+  custom/chat: 'https://nxtplatform.org/slack/'
+  discord: wkcmqff
+  facebook: ardorplatform
+  gitlab: jelurida
+  linkedin/company: jelurida
+  telegram: ardorplatform
+  twitter: ardorplatform
+  reddit: ardor
+  youtube/channel: UCzAXALLXsnz9ZBnzI0DM5vA
+whitepapers:
+  - title: 'Jerulida Whitepaper'
+    url: https://www.jelurida.com/sites/default/files/JeluridaWhitepaper.pdf
+tags:
+  - sidechain
+  - platform
+  - smartcontracts
+  - nxt
+  - opensource
+  - ignis
+  - childchain
+  - pos
+team:
+  - name: Kristina Kalcheva
+    role: CEO, Co-founder
+    webids:
+      linkedin: kristina-kalcheva
+  - name: Lior Yaffe
+    role: Managing Director
+  - name: Petko Petkov
+    role: Developer
+  - name: Tomislav Gountchev
+    role: Software architect
+contacts:
+  email: 'info@jelurida.com'
+  location:hq: 'Lugano, Switzerland'
