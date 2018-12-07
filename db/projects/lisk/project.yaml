@@ -1,0 +1,62 @@
+name: Lisk
+web:
+  - 'https://lisk.io/'
+ledgers:
+  - id: lisk
+    name: Lisk
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: DPoS
+        proof_type: DPoS
+        tools:
+          - type: explorer
+            url: 'https://explorer.lisk.io/'
+assets:
+  - id: lsk
+    name: Lisk
+    type: native
+    ledger: lisk
+    symbol: LSK
+    max_supply: 159918400
+    start_date: '2016-05-24'
+    webids:
+      coinmarketcap: lisk
+      cryptocompare: lsk
+      cryptocompare/id: '19745'
+team_url: https://lisk.io/team
+team:
+  - name: Oliver Beddows
+    role: vice president
+    webids:
+      github: karmacoma
+      twitter: Karmacrypto
+      linkedin: 'oliver-beddows-19aa09107'
+  - name: Mariusz Serek
+    role: beckend developer
+    webids:
+      github: 4miners
+      linkedin: 'mariusz-serek'
+  - name: Maciej Baj
+    role: beckend developer
+    webids:
+      github: MaciejBaj
+      twitter: 'macko_baj'
+      linkedin: 'maciej-baj-52a875104'
+  - name: Vit Stanislav
+    role: frontend developer
+    webids:
+      github: slaweet
+      linkedin: 'v%C3%ADt-stanislav-21b64367'
+  - name: Ali Haghighatkhah
+    role: frontend developer
+    webids:
+      github: reyraa
+      twitter: 'rey_raa'
+      linkedin: 'ali-haghighatkhah-32238784'
+webids:
+  bitcointalk: '1346646'
+  custom/forum: 'https://forum.lisk.io/'
+  github: LiskHQ
+  twitter: LiskHQ
+  reddit: lisk
