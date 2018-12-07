@@ -1,0 +1,64 @@
+name: Loom Network
+web:
+  - 'https://loomx.io/'
+assets:
+  - id: loom
+    name: Loom Network
+    alt_names:
+      - Loom
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: LOOM
+    contract_address: '0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0'
+    decimals: 18
+    max_supply: 1000000000
+    start_date: '2018-03-03'
+    ico_properties:
+      ico_price: 0.003 ETH
+      country: Thailand
+    webids:
+      coinmarketcap: loom-network
+      cryptocompare: loom
+      cryptocompare/id: '836492'
+team_url: https://loomx.io/team/
+team:
+  - name: Matthew Campbell
+    role: founder
+    photo: https://d1qb2nb5cznatu.cloudfront.net/users/850924-medium_jpg
+    webids:
+      github: mattkanwisher
+      linkedin: mattcampbell777
+      twitter: biebergazm
+      facebook: 'matthew.kanwisher'
+  - name: James Martin Duffy
+    role: founder
+    photo: https://d1qb2nb5cznatu.cloudfront.net/users/4838314-medium_jpg
+    webids:
+      facebook: jamesmartinduffy
+  - name: Luke Zhang
+    role: founder
+    photo: https://d1qb2nb5cznatu.cloudfront.net/users/190676-medium_jpg
+    webids:
+      linkedin: 'luke-zhang-4ba18b4b'
+  - name: Sidharth Madan
+  - name: Jacquiline Romorosa
+    role: director of marketing and sales
+    photo: https://d1qb2nb5cznatu.cloudfront.net/users/6957119-medium_jpg
+    webids:
+      linkedin: jacquilineromorosa
+      twitter: allthatsJacqui
+tags:
+  - game
+  - dapp
+  - advertisment
+webids:
+  medium: loom-network
+  telegram: loomnetwork
+  github: loomnetwork
+  twitter: loomnetwork
+  medium: 'loom-network'
+  reddit: loomnetwork
+  facebook: loomxnetwork
+contacts:
+  email: 'satoshi@loomx.io'

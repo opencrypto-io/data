@@ -1,0 +1,41 @@
+name: Lunyr
+web:
+  - 'https://lunyr.com/'
+assets:
+  - id: lun
+    name: Lunyr
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: LUN
+    contract_address: '0xfa05A73FfE78ef8f1a739473e462c54bae6567D9'
+    decimals: 18
+    max_supply: 2703356.0785
+    start_date: '2017-03-08'
+    ico_properties:
+      start_date: '2017-03-29'
+      end_date: '2017-04-28'
+      raised: 3400000 USD
+      ico_price: 1.61 USD
+      country: USA
+    webids:
+      coinmarketcap: lunyr
+      etherscan/token: Lunyr
+      cryptocompare: lun
+      cryptocompare/id: '67447'
+tags:
+  - knowledge
+  - sharing
+  - advertising
+webids:
+  bitcointalk: '1818468'
+  github: Lunyr
+  twitter: LunyrInc
+  reddit: Lunyr
+  discord: Vaw5MWD
+  facebook: lunyrinc
+  medium: lunyr
+  telegram: lunyrcommunity
+contacts:
+  email: 'support@lunyr.com'
+  location:hq: 'California, USA'

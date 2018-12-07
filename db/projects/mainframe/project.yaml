@@ -1,0 +1,66 @@
+name: Mainframe
+web:
+  - 'https://mainframe.com/'
+assets:
+  - id: mft
+    name: Mainframe
+    alt_names:
+      - 'Mainframe Token'
+    type: token
+    ledger: ethereum
+    symbol: MFT
+    contract_address: '0xdf2c7238198ad8b389666574f2d8bc411a4b7428'
+    decimals: 18
+    max_supply: 10000000000
+    start_date: '2018-07-04'
+    webids:
+      coinmarketcap: mainframe
+      cryptocompare: mft
+      cryptocompare/id: '917211'
+team_url: https://mainframe.com/team/
+team:
+  - name: Mick Hagen
+    role: ceo
+    webids:
+      github: mickhagen
+      linkedin: mickhagen
+      twitter: mickhagen
+  - name: Carl Youngblood
+    role: cto
+    webids:
+      github: cayblood
+      linkedin: carlyoungblood
+  - name: Brad Hagen
+    role: business development
+    webids:
+      linkedin: 'brad-hagen-49419028'
+  - name: Matt Larson
+    role: vp of operations
+    webids:
+      github: mickhagen
+      linkedin: rmatthewlarson
+      twitter: mickhagen
+  - name: Cahlan Sharp
+    role: head of product
+    webids:
+      github: cahlan
+      linkedin: cahlan
+      twitter: cahlan
+whitepapers:
+  - title: 'Mainframe: the web3 communication layers'
+    url: https://mainframe.docsend.com/view/j39qpui
+tags:
+  - plarform
+  - security
+  - dapp
+webids:
+  custom/blog: 'https://blog.mainframe.com/'
+  telegram: mainframehq
+  github: MainframeHQ
+  twitter: Mainframe_HQ
+  facebook: MainframeHQ
+  instagram: mainframehq
+  youtube/channel: UCOhQaYVAUypRWHucouG3Sjg
+contacts:
+  email: 'contact@mainframe.com'
+  location:hq: 'London, United Kingdom'
