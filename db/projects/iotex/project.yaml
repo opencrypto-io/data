@@ -46,7 +46,6 @@ team:
   - name: Xinxin Fan
     role: head of cryptography
     photo: https://s3.amazonaws.com/web-iotex-static/home/xinxin.png
-    webids:
 whitepapers:
   - title: 'IoTeX: A Decentralized Network for Internet of Things Powered by a Privacy-Centric Blockchian'
     url: https://iotex.io/white-paper
