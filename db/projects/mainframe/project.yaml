@@ -7,6 +7,7 @@ assets:
     alt_names:
       - 'Mainframe Token'
     type: token
+    token_standard: ERC-20
     ledger: ethereum
     symbol: MFT
     contract_address: '0xdf2c7238198ad8b389666574f2d8bc411a4b7428'

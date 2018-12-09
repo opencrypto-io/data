@@ -1,0 +1,38 @@
+name: Bitcoin Gold
+web:
+  - 'https://bitcoingold.org/'
+ledgers:
+  - id: bitcoin-gold
+    name: Bitcoin Gold
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Equihash
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'https://explorer.bitcoingold.org/insight/'
+          - type: explorer
+            url: 'https://btgexp.com/'
+          - type: explorer
+            url: 'https://btgexplorer.com/'
+assets:
+  - id: btg
+    name: Bitcoin Gold
+    type: native
+    ledger: bitcoin-gold
+    symbol: BTG
+    max_supply: 21000000
+    start_date: '2017-10-25'
+    webids:
+      coinmarketcap: bitcoin-gold
+      cryptocompare: btg
+      cryptocompare/id: '347235'
+webids:
+  bitcointalk: '2284289.0'
+  custom/forum: 'https://forum.bitcoingold.org'
+  telegram: BitcoinGoldHQ
+  discord: HmVUU6S
+  github: BTCGPU/BTCGPU
+  twitter: bitcoingold
+  reddit: BitcoinGoldHQ

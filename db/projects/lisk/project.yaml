@@ -7,11 +7,21 @@ ledgers:
     type: blockchain
     networks:
       - id: main
+        type: main
         algorithm: DPoS
         proof_type: DPoS
+        target_block_time: 10
         tools:
           - type: explorer
             url: 'https://explorer.lisk.io/'
+          - type: explorer
+            url: 'https://explorer.lisk.4miners.net/'
+      - id: test
+        type: test
+        name: Lisk Testnet
+        tools:
+          - type: explorer
+            url: 'https://testnet-explorer.lisk.io/'
 assets:
   - id: lsk
     name: Lisk
@@ -20,6 +30,21 @@ assets:
     symbol: LSK
     max_supply: 159918400
     start_date: '2016-05-24'
+    first_distribution:
+      - title: 'ico'
+        percent: 85
+      - title: 'team'
+        percent: 7.8
+      - title: 'advisors'
+        percent: 4
+      - title: 'supporters'
+        percent: 1
+      - title: 'first day ico'
+        percent: 0.2
+    ico_properties:
+      start_date: '2016-02-22'
+      end_date: '2016-04-21'
+      ico_price: 0.0001821238671 BTC
     webids:
       coinmarketcap: lisk
       cryptocompare: lsk
@@ -60,3 +85,12 @@ webids:
   github: LiskHQ
   twitter: LiskHQ
   reddit: lisk
+  gitter: LiskHQ
+  facebook: LiskHQ
+  instagram: liskhq
+  youtube/channel: 'UCuqpGfg_bOQ8Ja4pj811PWg'
+  custom/chat: https://lisk.chat/
+  telegram: 'Lisk_HQ'
+  linkedin/company: lisk
+contacts:
+  location:hq: 'Zug, Switzerland'
