@@ -28,10 +28,6 @@ assets:
     type: native
     ledger: bitcoin-diamond
     symbol: BCD
-    subunits:
-      - name: mBCD
-      - name: bits
-      - name: sat
     max_supply: 210000000
     webids:
       coinmarketcap: bitcoin-diamond
