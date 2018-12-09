@@ -1,0 +1,51 @@
+name: Paxos Standard
+alt_names:
+  - Paxos Standard Token
+start_date: '2012-01-01'
+description: 'Paxos Standard is regulated crypto asset. It is fully collateralized 1:1 by the U.S. dollar, approved and regulated by the NYDFS, and enables instantaneous transactions.'
+web:
+  - 'https://www.paxos.com/'
+assets:
+  - id: pax
+    start_date: ''
+    name: Paxos Standard
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x8e870d67f660d95d5be530380d0ec0bd388289e1'
+    decimals: 18
+    ledger: ethereum
+    symbol: PAX
+    max_supply: 174677221
+    webids:
+      coinmarketcap: paxos-standard-token
+      cryptocompare: pax
+      coingecko: paxos-standard
+webids:
+  bitcoinwiki: Paxos_Standard_Token
+  github: paxosglobal
+  linkedin/company: paxos
+  medium: '@PaxosStandard'
+  twitter: PaxosStandard
+  reddit: PaxosStandardToken
+whitepapers:
+  - title: 'Paxos Standard Whitepaper'
+    url: https://standard.paxos.com/whitepaper.pdf
+tags:
+  - stablecoin
+  - fintech
+team:
+  - name: Charles Cascarilla
+    role: CEO
+    webids:
+      linkedin: charlescascarilla
+  - name: Andrew Chang
+    role: COO
+    webids: mrandrewchang
+      linkedin:
+  - name: Rajesh Nair
+    role: CTO
+    webids:
+      linkedin: rajeshnair2k
+contacts:
+  email: 'hello@paxos.com'
+  location: 'New York, NY United States'
