@@ -41,9 +41,8 @@ team:
   - name: Silk
   - name: Stark
 whitepapers:
-  title: 'Bitcoin Diamond: Whitepaper'
-  url: https://btcd.io/wp-content/uploads/2018/08/Bitcoin-Diamond-Whitepaper-1.pdf
-
+  - title: 'Bitcoin Diamond: Whitepaper'
+    url: https://btcd.io/wp-content/uploads/2018/08/Bitcoin-Diamond-Whitepaper-1.pdf
 webids:
   telegram: BCDcommunity
   slack: bitcoindiamonds
