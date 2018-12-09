@@ -24,7 +24,7 @@ assets:
       cryptocompare: blz
 webids:
   bitcointalk: '2345293.0'
-  crunchbase: bluzelle-networks
+  crunchbase/organization: bluzelle-networks
   github: bluzelle
   linkedin/company: bluzelle-networks
   telegram: bluzelle
