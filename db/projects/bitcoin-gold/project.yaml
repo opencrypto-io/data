@@ -34,8 +34,8 @@ ledgers:
             url: 'https://test-faucet.bitcoingold.org/'
           - type: explorer
             url: 'https://test-explorer.bitcoingold.org/'
-         - type: explorer
-           url: 'https://testnet.btgexplorer.com/'
+          - type: explorer
+            url: 'https://testnet.btgexplorer.com/'
 assets:
   - id: btg
     name: Bitcoin Gold
