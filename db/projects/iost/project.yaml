@@ -1,0 +1,63 @@
+name: IOST
+alt_names:
+  - IOS token
+start_date: '2017-01-01'
+description: 'Blockchain for The Internet Services with focus on transactions speed and network scalability'
+web:
+  - 'http://iost.io/'
+assets:
+  - id: iost
+    start_date: '2018-01-20'
+    name: IOST
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab'
+    decimals: 18
+    ledger: ethereum
+    symbol: IOST
+    max_supply: 21000000000
+    ico_properties:
+      raised: 31255000 USD
+    webids:
+      coinmarketcap: iostoken
+      cryptocompare: iost
+      cryptocompare/id: '716522'
+webids:
+  facebook: IOSTofficial
+  github: iost-official
+  linkedin/company: iostproject
+  medium: 'iost'
+  telegram: iost_announcements
+  twitter: iostoken
+  reddit: IOStoken
+tags:
+  - scalability
+  - fast
+  - sharding
+  - atomicswap
+  - pos
+  - performance
+  - tps
+whitepapers:
+  - title: 'IOST: The Next-Generation, Secure, Highly Scalable Ecosystem for Online Services'
+    url: https://iost.io/iost-whitepaper/
+team:
+  - name: Jimmy Zhong
+    role: CEO, Founder
+    webids:
+      linkedin: jimmy-zhong-a6322b45
+  - name: Terrence Wang
+    role: CTO
+    webids:
+      linkedin: yannan-terrence-wang-3092252a
+  - name: Justin Li
+    role: CIO
+    webids:
+      linkedin: tiancheng-li
+  - name: Ray Xiao
+    role: COO
+    webids:
+      linkedin: ray-xiao-600a5044
+contacts:
+  email: 'team@iost.io'
+  location:hq: 'Singapore, Singapore'

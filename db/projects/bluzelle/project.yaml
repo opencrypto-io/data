@@ -24,6 +24,7 @@ assets:
       cryptocompare: blz
 webids:
   bitcointalk: '2345293.0'
+  crunchbase/organization: bluzelle-networks
   github: bluzelle
   linkedin/company: bluzelle-networks
   telegram: bluzelle
@@ -49,4 +50,5 @@ team:
     webids:
       linkedin: pavelbains
 contacts:
+  email: 'sales@bluzelle.com'
   location:hq: 'Singapore, Singapore'

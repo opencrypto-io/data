@@ -1,0 +1,60 @@
+name: iExec RLC
+alt_names:
+  - iEx.ec
+start_date: '2016-10-16'
+description: 'iExec is building marketplace for cloud resources.'
+web:
+  - 'http://iex.ec/'
+assets:
+  - id: rlc
+    start_date: '2017-01-10'
+    name: iExec RLC
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x607f4c5bb672230e8672085532f7e901544a7375'
+    decimals: 9
+    ledger: ethereum
+    symbol: RLC
+    max_supply: 87000000
+    ico_properties:
+      start_date: '2017-04-19'
+      end_date: '2017-04-19'
+      raised: 12000000 USD
+    webids:
+      coinmarketcap: rlc
+      etherscan/token: RLC
+      cryptocompare: rlc
+      cryptocompare/id: '61877'
+webids:
+  bitcointalk: '1746241.0'
+  custom/chat: 'https://slack.iex.ec/'
+  facebook: iexecteam
+  instagram: iexec_team
+  github: iExecBlockchainComputing
+  linkedin/company: iex.ec
+  medium: iex-ec
+  telegram: joinchat/FswFJw6AaL-kpQeWdBSwRA
+  twitter: iEx_ec
+  reddit: iexec
+  youtube/channel: UCwWxZWvKVHn3CXnmDooLWtA
+tags:
+  - computing
+  - marketplace
+  - ethereum
+  - dapps
+  - cloud
+whitepapers:
+  - title: 'iExec: Blockchain-Based Decentralized Cloud Computing'
+    url: https://iex.ec/whitepaper/iExec-WPv3.0-English.pdf
+team:
+  - name: Gilles Fedak
+    role: CEO, Founder
+    webids:
+      linkedin: gilles-fedak-4a303a5
+  - name: Haiwu He
+    role: Research, Co-founder
+    webids:
+      linkedin: hehaiwu
+contacts:
+  email: 'contact@iex.ec'
+  location:hq: 'Lyon, France'
