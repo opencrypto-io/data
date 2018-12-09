@@ -1,0 +1,56 @@
+name: Everex
+start_date: '2016-01-01'
+description: 'Cross-board payment solution for unbanked communities in South East Asia'
+web:
+  - 'https://www.everex.io/'
+assets:
+  - id: evx
+    start_date: '2017-07-24'
+    name: Everex
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8'
+    decimals: 8
+    ledger: ethereum
+    symbol: EVX
+    max_supply: 25000000
+    ico_properties:
+      start_date: '2017-07-24'
+      end_date: '2017-08-31'
+      raised: 26700000 USD
+    webids:
+      coinmarketcap: everex
+      cryptocompare: evx
+      cryptocompare/id: '194883'
+webids:
+  bitcointalk: '1975013.0'
+  facebook: everex.io
+  linkedin/company: everexio
+  telegram: everexio
+  twitter: everexio
+  reddit: everex
+  youtube/channel: UC0IYiy2fu66fGBk3MzUlgaQ
+tags:
+  - payment
+  - crossborder
+  - exchange
+  - sme
+whitepapers:
+  - title: 'Everex: Lowering Financial Inclusion Barriers With a Blockchain-Based Capital Transfer System'
+    url: https://daks2k3a4ib2z.cloudfront.net/59157962bdb4300afa8771a9/5963c09d077a520b5a965208_20170710_EVX_WP.pdf
+team:
+  - name: Alexi Lane
+    role: CEO, Founder
+    webids:
+      linkedin: alexilane
+  - name: Alexandr Kakunov
+    role: CTO
+    webids:
+      linkedin: alexnsk
+  - name: Visakha Thongphetsavong
+    role: CMO
+    webids:
+      linkedin: visakha-thongphetsavong-0b51a41a
+contacts:
+  email: 'team@everex.io'
+  location:hq: 'Singapore, Singapore'

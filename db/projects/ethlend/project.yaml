@@ -1,0 +1,64 @@
+name: ETHLend
+start_date: '2017-05-01'
+description: 'ETHLend decentralize lending using digital assets as collateral for your LEND loans.'
+web:
+  - 'https://ethlend.io/'
+assets:
+  - id: lend
+    start_date: '2017-08-15'
+    name: ETHLend
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x80fb784b7ed66730e8b1dbd9820afd29931aab03'
+    decimals: 18
+    ledger: ethereum
+    symbol: LEND
+    max_supply: 1299999942
+    ico_properties:
+      start_date: '2017-11-25'
+      end_date: '2017-11-30'
+      raised: 16200000 USD
+    webids:
+      coinmarketcap: ethlend
+      cryptocompare: lend
+      cryptocompare/id: '418778'
+webids:
+  bitcointalk: '2090735.0'
+  facebook: AaveCom
+  github: ETHLend
+  linkedin/company: aaveaave
+  medium: '@ethlend1'
+  telegram: ETHLend
+  twitter: ethlend1
+  reddit: ETHlend
+  youtube/channel: UCZUFYgrvO7xpxzMjijgqWyQ
+tags:
+  - lend
+  - collateral
+  - crypto
+  - ethereum
+  - loan
+  - exchange
+  - p2p
+whitepapers:
+  - title: 'ETHLend.io Whitepaper: Democratizing Lending'
+    url: https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md
+team:
+  - name: Jordan Lazaro Gustave
+    role: COO
+    webids:
+      linkedin: jordan-lazaro-gustave-32018976
+  - name: Stani Kulechov
+    role: CEO, Founder
+    webids:
+      linkedin: stani-kulechov-361284132
+  - name: Ville Valkonen
+    role: CCO
+    webids:
+      linkedin: villevvalkonen
+contacts:
+  email: 'hi@ethlend.io'
+  location:hq: 'Chiasso, Switzerland'
+resources:
+  - title: 'Cryptopicks ETHLend'
+    url: https://crypto-picks.com/wp-content/uploads/2018/04/Crypto-Picks-ETHLend-Final-1.pdf

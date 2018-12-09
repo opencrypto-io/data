@@ -1,0 +1,73 @@
+name: Ethos
+start_date: '2017-01-01'
+description: 'Ethos is a multi-asset wallet ecosystem providing performance dashboards, portfolio and universal access to your funds'
+web:
+  - 'https://www.ethos.io/'
+assets:
+  - id: ethos
+    start_date: '2017-06-28'
+    name: Ethos
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x5af2be193a6abca9c8817001f45744777db30756'
+    decimals: 8
+    ledger: ethereum
+    symbol: ETHOS
+    max_supply: 222295208
+    ico_properties:
+      start_date: '2017-06-28'
+      end_date: '2017-07-16'
+    first_distribution:
+      - title: 'Public'
+        percent: 30
+      - title: 'Development'
+        percent: 30
+      - title: 'Reserve Fund'
+        percent: 40
+    webids:
+      coinmarketcap: ethos
+      cryptocompare: ethos
+      cryptocompare/id: '141464'
+webids:
+  bitcointalk: '1964187.0'
+  facebook: ethosplatform
+  linkedin/company: ethos_io
+  medium: ethos-io
+  instagram: ethosplatform
+  telegram: ethos_io
+  twitter: ethos_io
+  reddit: ethos_io
+  youtube/channel: UC6i32aCbnoz6ceS8i2UZR6w
+tags:
+  - wallet
+  - app
+  - charts
+  - api
+  - portfolio
+  - ux
+  - security
+  - social
+  - community
+whitepapers:
+  - title: 'Ethos: Democratizing Cryptocurrency'
+    url: https://www.ethos.io/Ethos_Whitepaper.pdf
+team:
+  - name: Shingo Lavine
+    role: CEO, Founder
+    webids:
+      linkedin: shingo-lavine
+  - name: Kevin Dean Pettit
+    role: CPO
+    webids:
+      linkedin: kevin-dean-pettit-88409944
+  - name: Tim Simmons
+    role: CTO
+    webids:
+      linkedin: tsimmons
+  - name: Adam Lavine
+    role: COO
+    webids:
+      linkedin: adamlavine
+contacts:
+  email: 'press@ethos.io'
+  location:hq: 'Singapore, Singapore'
