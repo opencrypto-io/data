@@ -39,8 +39,8 @@ team:
       linkedin: charlescascarilla
   - name: Andrew Chang
     role: COO
-    webids: mrandrewchang
-      linkedin:
+    webids:
+      linkedin: mrandrewchang
   - name: Rajesh Nair
     role: CTO
     webids:
