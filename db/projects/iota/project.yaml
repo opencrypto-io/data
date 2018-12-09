@@ -19,6 +19,15 @@ ledgers:
             url: 'https://thetangle.org/'
           - type: explorer
             url: 'https://iotasear.ch/'
+      - id: test
+        type: test
+        name: Tangle
+        tools:
+          - type: explorer
+            url: 'https://devnet.thetangle.org/'
+          - type: explorer
+            url: 'http://tangle.glumb.de:8080/'
+
 assets:
   - id: miota
     start_date: '2016-07-17'

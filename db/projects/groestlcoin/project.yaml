@@ -24,6 +24,12 @@ ledgers:
             url: 'https://chainz.cryptoid.info/grs/'
           - type: explorer
             url: 'http://groestlsight.groestlcoin.org/'
+      - id: test
+        type: test
+        name: TestNet
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/grs-test/'
 assets:
   - id: grs
     start_date: '2014-03-22'
@@ -55,5 +61,5 @@ tags:
   - asicresistant
   - pos
   - opensource
-  - smstransaction 
+  - smstransaction
 team_url: https://www.groestlcoin.org/team/

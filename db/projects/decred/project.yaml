@@ -41,7 +41,7 @@ webids:
   medium: decred
   twitter: decredproject
   reddit: decred
-  youtube/channel: decredchannel
+  youtube/channel: UCJ2bYDaPYHpSmJPh_M5dNSg
 whitepapers:
   - title: 'ENIGMA: A Private, Secure and Untraceable Transaction System for CloakCoin'
     url: https://www.cloakcoin.com/user/themes/g5_cloak/resources/CloakCoin_Whitepaper_v2.1.pdf

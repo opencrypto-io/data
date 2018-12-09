@@ -3,7 +3,7 @@ alt_names:
   - ICON Project
   - Loopchain
 start_date: '2017-01-01'
-description: 'ICON provide that independent blockchains with different governances can transact with one another without intermediaries.'
+description: 'ICON provides independent blockchains with different governances that could connect with each other without any intermediate party.'
 web:
   - 'https://www.icon.foundation/'
 ledgers:
@@ -71,4 +71,5 @@ team:
     webids:
       linkedin: jeegun
 contacts:
+  email: foo@icon.foundation
   location:hq: 'Soul, South Korea'

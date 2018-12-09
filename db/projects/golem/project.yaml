@@ -31,7 +31,7 @@ webids:
   custom/blog: 'https://blog.golemproject.net/'
   crunchbase/organization: golem-network
   facebook: golemproject
-  github: golemfactory/golem
+  github: golemfactory
   linkedin/company: golem-factory
   twitter: golemproject
   reddit: GolemProject

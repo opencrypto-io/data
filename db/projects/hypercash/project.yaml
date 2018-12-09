@@ -4,7 +4,7 @@ alt_names:
   - HyperShare
   - Hshare
 start_date: '2017-06-28'
-description: 'HyperCash is opensource cryptocurrency implementing blockless DAG, Zero-Knowledge Proofs and hybrid PoW/Pos algorithm.'
+description: 'HyperCash is an open-source cryptocurrency implementing blockless DAG, Zero-Knowledge Proofs and hybrid PoW/Pos algorithm.'
 web:
   - 'https://h.cash'
 ledgers:
@@ -57,9 +57,9 @@ webids:
   twitter: HcashOfficial
   reddit: hcash
 tags:
-  - quantumresistence
+  - quantumresistance
   - exchange
-  - asicresistant
+  - asicresistance
   - privacy
   - opensource
   - platform
