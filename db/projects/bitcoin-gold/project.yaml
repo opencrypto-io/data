@@ -28,14 +28,14 @@ ledgers:
           - type: explorer
             url: 'https://bitinfocharts.com/bitcoin%20gold/explorer/'
       - id: test
-       type: test
-       tools:
-         - type: faucet
-           url: 'https://test-faucet.bitcoingold.org/'
+        type: test
+        tools:
+          - type: faucet
+            url: 'https://test-faucet.bitcoingold.org/'
+          - type: explorer
+            url: 'https://test-explorer.bitcoingold.org/'
          - type: explorer
-           url: 'https://test-explorer.bitcoingold.org/'
-        - type: explorer
-          url: 'https://testnet.btgexplorer.com/'
+           url: 'https://testnet.btgexplorer.com/'
 assets:
   - id: btg
     name: Bitcoin Gold
