@@ -7,7 +7,6 @@ web:
   - 'https://www.paxos.com/'
 assets:
   - id: pax
-    start_date: ''
     name: Paxos Standard
     type: token
     token_standard: ERC-20
