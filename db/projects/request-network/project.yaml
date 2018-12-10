@@ -55,11 +55,11 @@ team:
       linkedin: juliendevoir
       twitter: JulienDevoir
 whitepapers:
-  - title: 'Whitepaper: Request Network: The future of commerce: A decentralized network for payment requests'
+  - title: 'Request Network: The future of commerce: A decentralized network for payment requests'
     url: https://request.network/assets/pdf/request_whitepaper.pdf
 tags:
   - payment
-  - ivoice
+  - invoice
   - finance
 webids:
   bitcointalk: '2137740.0'

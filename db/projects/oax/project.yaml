@@ -10,9 +10,16 @@ assets:
     contract_address: '0x701c244b988a513c945973defa05de933b23fe1d'
     webids:
       coinmarketcap: oax
+whitepapers:
+  - title: 'White Paper: openANX – Real World Application of Decentralized Exchanges V2.3.8'
+    url: 'https://www.oax.org/assets/whitepaper/openANX_White_Paper_ENU.pdf'
 webids:
   bitcointalk: '1943946'
   telegram: openanxteam
   gitlab: groups/oax
   twitter: OAX_Foundation
   reddit: OpenANX
+  linkedin/company: 'oax-foundation'
+contacts:
+  email: 'projectstallman@oax.org'
+  location:hq: 'Wanchai, Hong Kong'

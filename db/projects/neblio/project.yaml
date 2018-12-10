@@ -1,6 +1,7 @@
 name: Neblio
 web:
   - 'https://nebl.io/'
+description: 'A secure, distributed, platform built for enterprise applications and services. Running on the Neblio blockchain network.'
 ledgers:
   - id: neblio
     name: Neblio
@@ -56,8 +57,12 @@ team:
     webids:
       linkedin: samerafach
 whitepapers:
-  - title: 'neblio: Next Generation Enterprise Blockchain Solutions'
+  - title: 'Neblio: Next Generation Enterprise Blockchain Solutions'
     url: https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf
+tags:
+  - business
+  - enterprise
+  - blockchain
 webids:
   bitcointalk: '2048414.0'
   telegram: 'neblio_official'
