@@ -1,0 +1,68 @@
+name: GoChain
+start_date: '2017-12-01'
+description: 'GoChain is solving perfomance and scalability issues for Dapps'
+web:
+  - 'https://gochain.io/'
+ledgers:
+  - id: gochain
+    name: GoChain
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: mainnet
+        tools:
+          - type: explorer
+            url: 'https://explorer.gochain.io/home'
+          - type: other
+            url: 'https://stats.gochain.io/'
+assets:
+  - id: go
+    start_date: '2018-05-16'
+    name: GoChain
+    type: native
+    ledger: gochain
+    symbol: GO
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2018-05-02'
+      end_date: '2017-05-03'
+      total_cap: 500000000
+      raised: 13685000 USD
+    webids:
+      coinmarketcap: gochain
+      cryptocompare: go
+      cryptocompare/id: '838328'
+webids:
+  bitcointalk: '2976243.0'
+  crunchbase/organization: gochain
+  discord: uKCEF6j
+  facebook: gochaingo
+  github: gochain-io
+  linkedin/company: gochain
+  medium: gochain
+  telegram: go_chain
+  twitter: go_chain
+  reddit: OfficialGoChain
+  youtube/channel: UCKbuJTknZxBmn1rGAm6QXbg
+tags:
+  - fast
+  - dapps
+  - scalability
+  - performance
+  - ethereum
+whitepapers:
+  - title: 'GoChain: Smarter, Better, Faster, Stronger - Blockchain at Scale'
+    url: https://gochain.io/gochain-whitepaper-v2.1.2.pdf
+team:
+  - name: Jason Dekker
+    role: CEO
+    webids:
+      linkedin: jason-dekker-2a10155
+  - name: Travis Reeder
+    role: CTO
+    webids:
+      linkedin: treeder
+contacts:
+  email: 'info@gochain.io'
+  location:hq: 'Charlestown, Nevis'

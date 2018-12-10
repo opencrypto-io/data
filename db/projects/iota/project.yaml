@@ -1,0 +1,86 @@
+name: IOTA
+start_date: '2015-11-25'
+description: 'IOTA is a project optimizing microtransactions for the Internet of Things (IoT)'
+web:
+  - 'https://www.iota.org/'
+ledgers:
+  - id: iota
+    name: IOTA
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Groestl
+        proof_type: Tangle
+        type: main
+        mineable: false
+        name: Tangle
+        tools:
+          - type: explorer
+            url: 'https://thetangle.org/'
+          - type: explorer
+            url: 'https://iotasear.ch/'
+      - id: test
+        type: test
+        name: Tangle
+        tools:
+          - type: explorer
+            url: 'https://devnet.thetangle.org/'
+          - type: explorer
+            url: 'http://tangle.glumb.de:8080/'
+
+assets:
+  - id: miota
+    start_date: '2016-07-17'
+    name: IOTA
+    type: native
+    ledger: iota
+    symbol: MIOTA
+    denominations:
+      plural: Iota
+      subunits:
+        - unit: 1e-0
+          name: Iota
+        - unit: 1e-3
+          name: KiloIota
+        - unit: 1e-6
+          name: MegaIota
+        - unit: 1e-9
+          name: GigaIota
+        - unit: 1e-12
+          name: TeraIota
+        - unit: 1e-15
+          name: PetaIota
+    alt_symbols:
+      - IOT
+    max_supply: 2779530283
+    ico_properties:
+      start_date: '2017-11-24'
+      end_date: '2017-12-20'
+    webids:
+      coinmarketcap: groestlcoin
+      cryptocompare: grs
+      cryptocompare/id: '13070'
+webids:
+  bitcointalk: '1216479.0'
+  custom/forum: 'https://forum.iota.org'
+  discord: 7Gu2mG5
+  facebook: iotatoken
+  github: iotaledger
+  telegram: iotatangle
+  twitter: iotatoken
+  reddit: Iota
+  youtube/channel: UClxDa0qkOqxIguokXPhnuOA
+tags:
+  - iot
+  - dag
+  - tangle
+  - scalability
+  - internetofthings
+  - microtransactions
+team_url: https://www.iota.org/the-foundation/team
+whitepapers:
+  - title: 'The Tangle'
+    url: http://www.tangleblog.com/wp-content/uploads/2016/11/IOTA_Whitepaper.pdf
+contacts:
+  email: 'contact@iota.org'
+  location:hq: 'Berlin, Germany'

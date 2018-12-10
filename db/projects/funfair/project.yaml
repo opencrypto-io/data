@@ -1,0 +1,68 @@
+name: FunFair
+start_date: '2017-01-01'
+description: 'FunFair provides blockchain powered solution for gaming & gambling industry'
+web:
+  - 'https://funfair.io/'
+assets:
+  - id: fun
+    start_date: '2017-06-15'
+    name: FunFair
+    type: token
+    token_standard: ERC-20
+    contract_address: '0x419d0d8bdd9af5e606ae2232ed285aff190e711b'
+    decimals: 8
+    ledger: ethereum
+    symbol: FUN
+    max_supply: 10999873621
+    ico_properties:
+      start_date: '2017-06-22'
+      end_date: '2017-06-23'
+      total_cap: 3654638581
+      raised: 20000000 USD
+    webids:
+      coinmarketcap: funfair
+      etherscan/token: FunFair
+      cryptocompare: fun
+      cryptocompare/id: '178978'
+webids:
+  bitcointalk: '1968383.0'
+  bitcoinwiki: 'Funfair'
+  discord: rwETqSP
+  facebook: funfairtech
+  linkedin/company: funfair-technologies
+  telegram: FunFair_Official
+  twitter: FunFairTech
+  reddit: FunfairTech
+tags:
+  - games
+  - gambling
+  - security
+  - community
+  - casino
+  - platform
+whitepapers:
+  - title: 'FunFair: Blockchain Solutions for Gaming'
+    url: https://funfair.io/wp-content/uploads/FunFair-Commercial-White-Paper-v2-draft.pdf
+team:
+  - name: Jez San Obe
+    role: CEO, Founder
+    webids:
+      linkedin: jezsan
+  - name: Jeremy Longley
+    role: CTO, Co-founder
+    webids:
+      linkedin: jeremy-longley-16827b
+  - name: Oliver Hopton
+    role: Developer, Co-founder
+    webids:
+      linkedin: oliver-hopton-0387a61
+  - name: Stefan Kovach
+    role: CCO
+    webids:
+      linkedin: stefankovach
+contacts:
+  email: 'info@funfair.io'
+  location:hq: 'Dublin, Ireland'
+resources:
+  - title: 'Game showroom'
+    url: https://showcase.funfair.io/lobby/

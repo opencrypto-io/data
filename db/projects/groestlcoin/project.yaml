@@ -1,0 +1,65 @@
+name: Groestlcoin
+start_date: '2014-03-22'
+description: 'Groestlcoin is independent developer project that implements new blockchain technologies'
+web:
+  - 'http://www.groestlcoin.org/'
+ledgers:
+  - id: groestlcoin
+    name: Groestlcoin
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+    networks:
+      - id: main
+        algorithm: Groestl
+        proof_type: PoW / PoS
+        target_block_time: 60
+        maximum_block_size: 1000000
+        mineable: true
+        type: main
+        name: mainnet
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/grs/'
+          - type: explorer
+            url: 'http://groestlsight.groestlcoin.org/'
+      - id: test
+        type: test
+        name: TestNet
+        tools:
+          - type: explorer
+            url: 'https://chainz.cryptoid.info/grs-test/'
+assets:
+  - id: grs
+    start_date: '2014-03-22'
+    name: Groestlcoin
+    type: native
+    ledger: groestlcoin
+    symbol: GRS
+    max_supply: 105000000
+    webids:
+      coinmarketcap: groestlcoin
+      cryptocompare: grs
+      cryptocompare/id: '13070'
+webids:
+  bitcointalk: '525926.0'
+  custom/forum: 'http://www.groestlcoin.org/forum'
+  discord: vCKxQBz
+  facebook: groestlcoin
+  github: Groestlcoin
+  medium: '@groestlcoin'
+  telegram: groestl
+  twitter: GroestlcoinTeam
+  reddit: groestlcoin
+  youtube/channel: UCNH2USpHNl7cR9maD8GeoUw
+tags:
+  - segwit
+  - lightingnetwork
+  - nofee
+  - privacy
+  - asicresistant
+  - pos
+  - opensource
+  - smstransaction
+team_url: https://www.groestlcoin.org/team/
