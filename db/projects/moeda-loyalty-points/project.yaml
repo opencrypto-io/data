@@ -28,18 +28,26 @@ team:
   - name: Taynaah Reis
     role: ceo
     photo: https://moedaseeds.com/assets/images/site/profiles/taynaah.jpg
+    webids:
+      linkedin: 'taynaah-reis'
+      medium: '@taynaahreis'
   - name: Brad Chun
     role: co-founder
     photo: https://d33wubrfki0l68.cloudfront.net/b2b86c1270b47a3b189840401f3b86ad6c040f72/26c43/assets/images/site/profiles/brad.jpg
   - name: Isa Yu
     role: co-founder
     photo: https://d33wubrfki0l68.cloudfront.net/4f61180a491285ee8061ab436faf6b1380f31c57/0dd65/assets/images/site/profiles/isa.jpg
+    webids:
+      linkedin: 'isabella-yu-297212a3'
+      medium: '@Isa.moeda'
   - name: Edward Stehling
     role: director of operations
     photo: https://moedaseeds.com/assets/images/site/profiles/edward-stehling.jpg
   - name: Ubirajara Melo
     role: cto
     photo: https://moedaseeds.com/assets/images/site/profiles/ubirajara-melo.jpg
+    webids:
+      github: 'ubirajara-infolog'
 tags:
   - agriculture
   - farms
@@ -54,5 +62,7 @@ webids:
   instagram: moedaseeds
   youtube/channel: 'UCYKNfrimYV-goJP2Du-k7Mw'
   medium: moeda
+  linkedin/company: moeda
 contacts:
   email: 'contact@moeda.in'
+  location:hq: 'Brasilia, Brazil'

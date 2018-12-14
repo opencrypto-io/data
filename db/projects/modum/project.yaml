@@ -38,18 +38,28 @@ team:
   - name: Andrew Connell
     role: test engineering
     photo: https://modum.io/sites/default/files/styles/image_person_2x/public/05.jpg
+    webids:
+      linkedin: 'andrew-connell-738a8796'
   - name: Philipp Doppelhammer
     role: hardware engineering
     photo: https://modum.io/sites/default/files/styles/image_person_2x/public/17_0.jpg
+    webids:
+      linkedin: 'philipp-doppelhammer-30544293'
   - name: Simon Dossegger
     role: ceo
     photo: https://modum.io/sites/default/files/styles/image_person_2x/public/24_0.jpg
+    webids:
+      linkedin: 'sdoessegger'
   - name: Marc Heimgartner
     role: software engineering
     photo: https://modum.io/sites/default/files/styles/image_person_2x/public/03.jpg
+    webids:
+      linkedin: 'marc-heimgartner-245a7a144'
   - name: Benjamin Indermuehle
     role: engineering
     photo: https://modum.io/sites/default/files/styles/image_person_2x/public/bi_with_hands.jpg
+    webids:
+      linkedin: 'benjamin-indermuehle-1585ba6a'
 whitepapers:
   - title: 'Whitepaper: Data integrity for supply chain operations, powered by blockchain technology'
     url: https://modum.io/sites/default/files/documents/2018-05/modum-whitepaper-v.-1.0.pdf
