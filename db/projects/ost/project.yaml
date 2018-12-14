@@ -90,7 +90,8 @@ webids:
   youtube/channel: 'UCrDo4vSElgUa_HzdvYqBZTA'
   custom/forum: https://discuss.openst.org/
   gitter: OpenSTFoundation
+  linkedin/company: ostdotcom
 contacts:
   email: 'review@ost.com'
-  location:hq: 'Berlin, Germany'
+  location:hq: 'Hong Kong'
   location:node: 'Pune, India'
