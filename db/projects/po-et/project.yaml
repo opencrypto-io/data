@@ -1,0 +1,66 @@
+name: Po.et
+web:
+  - 'https://po.et/'
+assets:
+  - id: poe
+    name: Po.et
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: POE
+    contract_address: '0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195'
+    decimals: 8
+    max_supply: 3141592653
+    start_date: '2017-08-08'
+    ico_properties:
+      start_date: '2017-08-08'
+      end_date: '2017-08-09'
+      total_cap: 10000000
+      ico_price: 0.00004 ETH
+      country: USA
+    first_distribution:
+      - title: 'token sale'
+        percent: 50
+      - title: 'team'
+        percent: 8
+      - title: 'investors'
+        percent: 10
+      - title: 'partners'
+        percent: 10
+      - title: 'foundation'
+        percent: 22
+    webids:
+      coinmarketcap: poet
+      cryptocompare: poe
+      cryptocompare/id: '188811'
+team:
+  - name: Jarrod Dicker
+    role: ceo
+    photo: https://global-uploads.webflow.com/5a0c978e0d22aa0001464356/5a8241af71acd50001b17e6b_B%202.png
+    webids:
+      twitter: jarroddicker
+      linkedin: jarroddicker
+  - name: David Turner
+    role: head of product
+    photo: https://global-uploads.webflow.com/5a0c978e0d22aa0001464356/5ac14f927e9bbe04d674fb87_david-turner.jpg
+    webids:
+      twitter: wdavidturner
+      linkedin: wdavidturner
+whitepapers:
+  - title: 'Whitepaper'
+    url: https://uploads-ssl.webflow.com/5a0c978e0d22aa0001464356/5a7796662b07370001ace7a1_whitepaper.pdf
+tags:
+  - media
+  - publishing
+webids:
+  bitcointalk: '2027214.0'
+  telegram: joinchat/GKMQ1kOQSdXVZpN1Rygcdw
+  github: poetapp
+  twitter: _poetproject
+  reddit: poetproject
+  linkedin/company: poetchain
+  custom/chat: https://poet-slack.herokuapp.com/
+contacts:
+  email: 'contact@po.et'
+  location:hq: 'New York, USA'
+  location:node: 'Singapore'

@@ -1,0 +1,75 @@
+name: Neblio
+web:
+  - 'https://nebl.io/'
+description: 'A secure, distributed, platform built for enterprise applications and services. Running on the Neblio blockchain network.'
+ledgers:
+  - id: neblio
+    name: Neblio
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: PoS
+        tools:
+          - type: explorer
+            url: 'http://explorer.nebl.io/'
+      - id: test
+        type: test
+        name: Neblio Testnet
+        tools:
+          - type: explorer
+            url: 'http://explorer.neblio.tokento.me/'
+assets:
+  - id: nebl
+    name: Neblio
+    type: native
+    ledger: neblio
+    symbol: NEBL
+    start_date: '2017-08-06'
+    webids:
+      coinmarketcap: neblio
+      cryptocompare: nebl
+      cryptocompare/id: '222085'
+team:
+  - name: Eddy Smith
+    role: co-founder
+    photo: https://nebl.io/wp-content/uploads/2017/08/ed-250x250.png
+    webids:
+      linkedin: 'edward-smith-008256149'
+  - name: Ann Jackson
+    role: co-founder
+    photo: https://nebl.io/wp-content/uploads/2017/08/ann1-250x250.png
+    webids:
+      linkedin: 'annette-jackson-9102a1149'
+  - name: Yuval Amar
+    role: marketing advisor
+    photo: https://nebl.io/wp-content/uploads/2017/08/yuval-250x250.jpg
+    webids:
+      linkedin: yuvalamar
+  - name: Riley Stockton
+    role: developer
+    photo: https://nebl.io/wp-content/uploads/2017/09/riley-e1505066565129-250x250.jpg
+    webids:
+      linkedin: stocktonriley
+  - name: Samer Afach
+    role: developer
+    photo: https://nebl.io/wp-content/uploads/2017/12/sam-250x250.jpg
+    webids:
+      linkedin: samerafach
+whitepapers:
+  - title: 'Neblio: Next Generation Enterprise Blockchain Solutions'
+    url: https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf
+tags:
+  - business
+  - enterprise
+  - blockchain
+webids:
+  bitcointalk: '2048414.0'
+  telegram: 'neblio_official'
+  github: NeblioTeam
+  twitter: NeblioTeam
+  reddit: Neblio
+  discord: PFt3bVw
+  facebook: neblioteam
+  medium: 'neblio-blog'
+  custom/blog: https://nebl.io/blog/

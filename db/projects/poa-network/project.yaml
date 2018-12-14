@@ -1,0 +1,77 @@
+name: POA Network
+alt_names:
+  - Poa Network
+web:
+  - 'https://poa.net/'
+  - 'https://poa.network/'
+ledgers:
+  - id: poa-network
+    name: POA Network
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: Core
+        algorithm: Proof-of-Authority
+        proof_type: PoA
+        target_block_time: 5
+        tools:
+          - type: explorer
+            url: 'https://poaexplorer.com/'
+          - type: explorer
+            url: 'https://blockscout.com/poa/core/'
+      - id: test
+        type: test
+        name: Sokol
+        target_block_time: 5
+        tools:
+          - type: explorer
+            url: 'https://blockscout.com/poa/core/'
+          - type: faucet
+            url: 'https://faucet-sokol.herokuapp.com/'
+assets:
+  - id: poa
+    name: POA Network
+    type: native
+    ledger: poa-network
+    symbol: POA
+    max_supply: 252460800
+    start_date: '2017-07-20'
+    ico_properties:
+      start_date: '2017-11-17'
+      end_date: '2017-11-17'
+      ico_price: 0.072 USD
+      country: USA
+    webids:
+      coinmarketcap: poa-network
+      cryptocompare: poa
+      cryptocompare/id: '793845'
+team:
+  - name: Igor Barinov
+    role: product manager
+    webids:
+      linkedin: igorbarinov
+  - name: Viktor Baranov
+    role: core developer
+    webids:
+      github: oraclesorg
+  - name: Pavlo Goncharenko
+    role: ui
+  - name: Dmitry Chirun
+    role: evangelist
+    webids:
+      linkedin: dmitrychirun
+  - name: Jeff Christian
+    role: software engineer
+    webids:
+      github: 15chrjef
+webids:
+  medium: poa-network
+  telegram: 'poa_network'
+  github: poanetwork
+  twitter: poanetwork
+  reddit: POA
+  discord: SwbdEAS
+  custom/forum: https://forum.poa.network/
+contacts:
+  email: 'info@poa.net'

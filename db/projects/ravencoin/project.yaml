@@ -1,0 +1,76 @@
+name: Ravencoin
+web:
+  - 'https://ravencoin.org/'
+  - 'https://getravencoin.org/'
+  - 'http://ravencoin.life/'
+ledgers:
+  - id: ravencoin
+    name: Ravencoin
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+    networks:
+      - id: main
+        type: main
+        name: livenet
+        proof_type: PoW
+        mineable: true
+        algorithm: X16R
+        target_block_time: 60
+        maximum_block_size: 1000000
+        tools:
+          - type: explorer
+            url: 'https://ravencoin.network/'
+          - type: explorer
+            url: 'http://raven-blockchain.info/'
+          - type: explorer
+            url: 'https://checkraven.com/'
+          - type: explorer
+            url: 'https://rvn.traysi.org/'
+          - type: explorer
+            url: 'https://explorer.ravencoin.world/'
+          - type: explorer
+            url: 'https://www.assetsexplorer.com/'
+          - type: explorer
+            url: 'https://www.mangofarmassets.com/assetviewer/assetviewer.html'
+      - id: test
+        type: test
+        name: testnet
+        tools:
+          - type: explorer
+            url: 'https://testnet.ravencoin.network/'
+          - type: explorer
+            url: 'https://testnet.ravencoin.world/'
+          - type: explorer
+            url: 'https://testnet.assetsexplorer.com/'
+          - type: explorer
+            url: 'https://testnet.assetsexplorer.com/'
+assets:
+  - id: rvn
+    name: Ravencoin
+    type: native
+    ledger: ravencoin
+    symbol: RVN
+    max_supply: 21000000000
+    start_date: '2018-01-03'
+    webids:
+      coinmarketcap: ravencoin
+      cryptocompare: rvn
+      cryptocompare/id: '794350'
+whitepapers:
+  - title: 'Ravencoin: A Peer to Peer Electronic System for the Creation and Transfer of Assets'
+    url: http://ravencoin.org/Ravencoin.pdf
+tags:
+  - transfer
+  - opensource
+webids:
+  bitcointalk: '3238497'
+  medium: '@ravencoin'
+  telegram: RavencoinDev
+  discord: PtEnyvH
+  github: RavenProject
+  twitter: ravencoin
+  reddit: Ravencoin
+  custom/forum: https://www.ravencointalk.org
+  custom/blog: https://ravencoinblog.com/

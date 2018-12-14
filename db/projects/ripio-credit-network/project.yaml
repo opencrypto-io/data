@@ -1,0 +1,71 @@
+name: Ripio Credit Network
+alt_names:
+  - Ripio
+web:
+  - 'https://ripiocredit.network/'
+assets:
+  - id: rcn
+    name: Ripio Credit Network
+    alt_names:
+      - RipioCreditNetwork
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: RCN
+    contract_address: '0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6'
+    max_supply: 1000000000
+    decimals: 18
+    start_date: '2017-10-17'
+    first_distribution:
+      - title: 'presale'
+        percent: 42.5
+      - title: 'crowd sale'
+        percent: 8.5
+      - title: 'fund'
+        percent: 34
+      - title: 'network'
+        percent: 15
+    ico_properties:
+      start_date: '2017-10-24'
+      end_date: '2017-12-01'
+      raised: 37863045 USD
+      ico_price: 0.00025 ETH
+      country: Argentina
+    webids:
+      coinmarketcap: ripio-credit-network
+      cryptocompare: rcn
+      cryptocompare/id: '307219'
+team_url: https://ripiocredit.network/#team
+team:
+  - name: Sebastian Serrano
+    role: founder
+    photo: https://ripiocredit.network/images/sebastian.png
+  - name: David Garcia
+    role: svp
+  - name: Luciana Gruszeczka
+    role: compliance officer
+    photo: https://ripiocredit.network/images/luciana.png
+  - name: Andreas Fleischer
+    role: head of operations
+    photo: https://ripiocredit.network/images/andres.png
+  - name: Eugenio Cocimano
+    role: data scientist
+    photo: https://ripiocredit.network/images/eugenio.png
+whitepapers:
+  - title: 'Ripio Credit Network: a global credit network based on cosigned smart contracts'
+    url: https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf
+tags:
+  - loan
+  - finance
+  - payment
+webids:
+  bitcointalk: '2202647.0'
+  telegram: RCNtalk
+  github: ripio
+  twitter: RCN_token
+  reddit: rcn_token
+  facebook: 'ripiocredit.network'
+  linkedin/company: 'ripio-credit-network/'
+contacts:
+  email: 'info@ripiocredit.network'
+  location:hq: 'Cricket Square, Grand Cayman'

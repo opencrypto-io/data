@@ -1,0 +1,67 @@
+name: Quantstamp
+web:
+  - 'https://quantstamp.com/'
+assets:
+  - id: qsp
+    name: Quantstamp
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: QSP
+    contract_address: '0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d'
+    max_supply: 976442388.3211
+    decimals: 18
+    start_date: '2017-10-01'
+    ico_properties:
+      start_date: '2017-11-17'
+      raised: 31320000 USD
+      ico_price: 0.00021708 ETH
+    webids:
+      coinmarketcap: quantstamp
+      cryptocompare: qsp
+      cryptocompare/id: '397757'
+team_url: https://quantstamp.com/team
+team:
+  - name: Richard Ma
+    role: co-founder
+    photo: https://uploads-ssl.webflow.com/5bb269510fd6bf857fcd50c7/5be37157f129c669761925cd_richard-ma%402x.jpg
+    webids:
+      linkedin: rtmtd
+      medium: '@richard_19839'
+  - name: Steven Stewart
+    role: co-founder
+    photo: https://uploads-ssl.webflow.com/5bb269510fd6bf857fcd50c7/5be371667252460c0021b8ba_steven-stewart%402x.jpg
+    webids:
+      linkedin: stevenstewart2015
+      medium: '@stevenstewart_9009'
+      github: sstewart2012
+  - name: Linda Selker
+    role: vp of legal
+    photo: https://uploads-ssl.webflow.com/5bb269510fd6bf857fcd50c7/5be3717c4fc469ae14ab1b54_linda-selker%402x.jpg
+    webids:
+      linkedin: 'linda-selker-59035772'
+  - name: Don Ho
+    role: business development
+    photo: https://uploads-ssl.webflow.com/5bb269510fd6bf857fcd50c7/5be37138effedc7fc5d83aa7_don-ho%402x.jpg
+    webids:
+      linkedin: donhojr
+  - name: Krishna Sriram
+    role: business development
+    photo: https://uploads-ssl.webflow.com/5bb269510fd6bf857fcd50c7/5be37143f129c6cd511925c8_krishna-sriram%402x.jpg
+    webids:
+      linkedin: 91krish
+whitepapers:
+  - title: 'Quantstamp: The protocol for securing smart contracts'
+    url: https://docsend.com/view/shcsmhe
+webids:
+  bitcointalk: '2220795.0'
+  telegram: quantstamp
+  github: quantstamp
+  twitter: Quantstamp
+  reddit: Quantstamp
+  medium: quantstamp
+  youtube/channel: UCXP3YLX4JdI0gGb9UKSunMg
+  facebook: quantstamp
+  linkedin/company: quantstamp
+contacts:
+  location:hq: 'San Francisco, California, USA'
