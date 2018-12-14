@@ -1,0 +1,75 @@
+name: ICON
+alt_names:
+  - ICON Project
+  - Loopchain
+start_date: '2017-01-01'
+description: 'ICON provides independent blockchains with different governances that could connect with each other without any intermediate party.'
+web:
+  - 'https://www.icon.foundation/'
+ledgers:
+  - id: loopchain
+    name: LoopChain
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: LFT
+        name: mainnet
+        tools:
+          - type: explorer
+            url: 'https://tracker.icon.foundation/'
+assets:
+  - id: icx
+    start_date: '2017-10-24'
+    name: ICON
+    type: native
+    ledger: loopchain
+    symbol: ICX
+    max_supply: 400230000
+    ico_properties:
+      start_date: '2017-09-22'
+      end_date: '2017-09-22'
+      raised: 45000000 USD
+    webids:
+      coinmarketcap: icon
+      cryptocompare: icx
+      cryptocompare/id: '324068'
+webids:
+  bitcointalk: '2115503.0'
+  facebook: helloicon
+  github: icon-project
+  linkedin/company: helloiconworld
+  medium: helloiconworld
+  twitter: helloiconworld
+  reddit: helloicon
+  youtube/channel: UC5SrWL7CKY09cVtuDxHtizw
+tags:
+  - interoperability
+  - framework
+  - ai
+  - machinelearning
+  - loopchain
+  - nexus
+  - masternodes
+  - scalability
+  - dex
+  - banking
+  - securities
+  - healthcare
+  - insurance
+  - education
+whitepapers:
+  - title: 'ICON: Hyperconnect the World'
+    url: https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf
+team:
+  - name: Archer Yoo
+    role: CTO
+    webids:
+      linkedin: archer-yoo-9465359
+  - name: Jee Gun Kim
+    role: COO
+    webids:
+      linkedin: jeegun
+contacts:
+  email: foo@icon.foundation
+  location:hq: 'Soul, South Korea'
