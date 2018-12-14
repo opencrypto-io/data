@@ -1,0 +1,93 @@
+name: Bitcoin Gold
+web:
+  - 'https://bitcoingold.org/'
+ledgers:
+  - id: bitcoin-gold
+    name: Bitcoin Gold
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+      block: 491407
+      time: '2017-10-24T01:20:39Z'
+    start_date: '2009-01-03'
+    networks:
+      - id: main
+        type: main
+        algorithm: Equihash
+        proof_type: PoW
+        mineable: true
+        target_block_time: 600
+        tools:
+          - type: explorer
+            url: 'https://explorer.bitcoingold.org/'
+          - type: explorer
+            url: 'https://btgexp.com/'
+          - type: explorer
+            url: 'https://btgexplorer.com/'
+          - type: explorer
+            url: 'https://bitinfocharts.com/bitcoin%20gold/explorer/'
+      - id: test
+        type: test
+        tools:
+          - type: faucet
+            url: 'https://test-faucet.bitcoingold.org/'
+          - type: explorer
+            url: 'https://test-explorer.bitcoingold.org/'
+          - type: explorer
+            url: 'https://testnet.btgexplorer.com/'
+assets:
+  - id: btg
+    name: Bitcoin Gold
+    type: native
+    ledger: bitcoin-gold
+    symbol: BTG
+    max_supply: 21000000
+    start_date: '2017-10-25'
+    webids:
+      coinmarketcap: bitcoin-gold
+      cryptocompare: btg
+      cryptocompare/id: '347235'
+team_url: https://bitcoingold.org/our-team/
+team:
+  - name: H4X3ROTAB
+    role: lead developer
+    photo: https://bitcoingold.org/wp-content/uploads/h4x.jpg
+    webids:
+      twitter: bgmshana
+      linkedin: 'hang-yin-167012a7'
+  - name: Martin Kuvandzhiev
+    role: operations lead
+    photo: https://bitcoingold.org/wp-content/uploads/2018/01/Martin.jpg
+    webids:
+      twitter: MKuvandzhiev
+      linkedin: 'martin-kuvandzhiev-061615a2'
+  - name: Franco Niebles
+    role: lead designer
+    photo: https://bitcoingold.org/wp-content/uploads/2018/01/franco2.jpg
+    webids:
+      twitter: franconiebles
+      linkedin: 'franconiebles'
+  - name: Alejandro Regojo
+    role: project manager
+    photo: https://bitcoingold.org/wp-content/uploads/2018/01/alejandro.jpg
+    webids:
+      twitter: alejandroregojo
+  - name: Rober Kuhne
+    role: co-founder
+    photo: https://bitcoingold.org/wp-content/uploads/2018/01/rk.jpg
+    webids:
+      twitter: rbtkhn
+webids:
+  bitcointalk: '2284289.0'
+  custom/forum: 'https://forum.bitcoingold.org'
+  telegram: BitcoinGoldHQ
+  discord: HmVUU6S
+  github: BTCGPU
+  twitter: bitcoingold
+  reddit: BitcoinGoldHQ
+  facebook: bitcoingoldofficial
+  youtube/channel: UCmYIP4GQdsBIevQtx8k6Bcw
+  medium: '@btcgpu'
+  custom/blog: https://bitcoingold.org/blog/
+  wikipedia/en: 'Bitcoin_Gold'

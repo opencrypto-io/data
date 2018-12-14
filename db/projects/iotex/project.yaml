@@ -1,0 +1,64 @@
+name: IoTeX
+alt_names:
+  - IoTeX Network
+web:
+  - 'https://iotex.io/'
+assets:
+  - id: iotx
+    name: IoTeX
+    alt_names:
+      - 'IoTeX Network'
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: IOTX
+    contract_address: '0x6fb3e0a217407efff7ca062d46c26e5d60a14d69'
+    decimals: 18
+    max_supply: 10000000000
+    start_date: '2018-05-21'
+    ico_properties:
+      start_date: '2018-02-01'
+      end_date: '2018-02-28'
+      raised: 14000000 USD
+      ico_price: 0.0000125 ETH
+      country: USA
+    webids:
+      coinmarketcap: iotex
+      cryptocompare: iotx
+      cryptocompare/id: '893122'
+team_url: https://iotex.io/our-company
+team:
+  - name: Raullen Chai
+    role: co-founder
+    photo: https://s3.amazonaws.com/web-iotex-static/home/raullen.png
+    webids:
+      linkedin: raullenchai
+  - name: Qevan Guo
+    role: co-founder
+    photo: https://s3.amazonaws.com/web-iotex-static/home/qevan.png
+    webids:
+      linkedin: donguo
+  - name: Jing Sun
+    role: co-founder
+    photo: https://s3.amazonaws.com/web-iotex-static/home/jing.png
+    webids:
+      linkedin: cbetasun
+  - name: Xinxin Fan
+    role: head of cryptography
+    photo: https://s3.amazonaws.com/web-iotex-static/home/xinxin.png
+whitepapers:
+  - title: 'IoTeX: A Decentralized Network for Internet of Things Powered by a Privacy-Centric Blockchian'
+    url: https://iotex.io/white-paper
+tags:
+  - iot
+webids:
+  medium: '@iotex'
+  telegram: IoTeXGroup
+  github: iotexproject
+  twitter: iotex_io
+  reddit: IoTex
+  linkedin/company: iotex
+  custom/forum: https://forum.iotex.io/
+contacts:
+  email: 'hello@iotex.io'
+  location:hq: 'Singapore, Singapore'

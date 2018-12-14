@@ -1,0 +1,54 @@
+name: Bitcoin Diamond
+web:
+  - 'http://btcd.io/'
+ledgers:
+  - id: bitcoin-diamond
+    name: Bitcoin Diamond
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+      block: 495866
+      time: '2017-11-24T09:20:12Z'
+    start_date: '2008-08-18'
+    networks:
+      - id: main
+        algorithm: X13
+        proof_type: PoW/PoS
+        mineable: true
+        target_block_time: 600
+        tools:
+          - type: explorer
+            url: 'http://explorer.btcd.io/'
+          - type: explorer
+            url: 'https://bcd.zupago.pe/'
+assets:
+  - id: bcd
+    name: Bitcoin Diamond
+    type: native
+    ledger: bitcoin-diamond
+    symbol: BCD
+    max_supply: 210000000
+    webids:
+      coinmarketcap: bitcoin-diamond
+      cryptocompare: bcd
+      cryptocompare/id: '409492'
+team_url: https://www.bitcoindiamond.org/team/
+team:
+  - name: '007'
+  - name: Evey
+  - name: Knight
+  - name: Silk
+  - name: Stark
+whitepapers:
+  - title: 'Bitcoin Diamond: Whitepaper'
+    url: https://btcd.io/wp-content/uploads/2018/08/Bitcoin-Diamond-Whitepaper-1.pdf
+webids:
+  telegram: BCDcommunity
+  slack: bitcoindiamonds
+  github: eveybcd
+  twitter: BitcoinDiamond_
+  reddit: Bitcoin-Diamond
+  custom/blog: https://www.bitcoindiamond.org/blog/
+  facebook: btdbitcoin
+  custom/forum: https://bbs.btcd.io/

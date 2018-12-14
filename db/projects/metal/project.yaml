@@ -1,0 +1,56 @@
+name: Metal
+web:
+  - 'https://www.metalpay.com/'
+assets:
+  - id: mtl
+    name: Metal
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: MTL
+    contract_address: '0xf433089366899d83a9f26a773d59ec7ecf30355e'
+    decimals: 8
+    max_supply: 66588888
+    start_date: '2017-06-09'
+    webids:
+      coinmarketcap: metal
+      cryptocompare: mtl
+      cryptocompare/id: '179164'
+team:
+  - name: Marshall Hayner
+    role: ceo
+    webids:
+      twitter: marshallhayner
+      linkedin: marshallhayner
+      email: 'marshall@metalpay.com'
+  - name: Glenn Marien
+    role: cto
+    webids:
+      linkedin: 'glenn-marien'
+  - name: Vivian Chai
+    role: hr manager
+    webids:
+      linkedin: 'vivian-chai-4179bb69'
+  - name: Ephraim Russo
+    role: lead architect
+    webids:
+      linkedin: marshallhayner
+      instagram: 'when_is_tea_time'
+  - name: Stephanie Chan
+    role: office manager
+    webids:
+      linkedin: 'stephanie-c-3a881372'
+whitepapers:
+  - title: 'Metal: A Payments-Based Cryptocurrency and Incentivization Network'
+    url: https://www.metalpay.com/assets/pdf/whitepaper.pdf
+webids:
+  telegram: metalpaysme
+  discord: B2QDmgf
+  twitter: metalpaysme
+  reddit: MetalPay
+  custom/blog: 'https://blog.metalpay.com/'
+  instagram: metalpaysme
+  facebook: metalpaysme
+contacts:
+  email: 'hello@metalpay.com'
+  location:hq: 'San Francisco, California, USA'
