@@ -1,0 +1,40 @@
+name: SALT
+alt_names:
+  - Salt Lending
+web:
+  - 'https://www.saltlending.com/'
+assets:
+  - id: salt
+    name: SALT
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: SALT
+    contract_address: '0x4156d3342d5c385a87d264f90653733592000581'
+    decimals: 8
+    max_supply: 120000000
+    start_date: '2017-07-28'
+    ico_properties:
+      start_date: '2017-08-01'
+      end_date: '2018-08-15'
+      total_cap: 48500000
+      ico_price: 0.0032806 ETH
+      country: USA
+    webids:
+      coinmarketcap: salt
+      cryptocompare: salt
+      cryptocompare/id: '314580'
+tags:
+  - loan
+  - finance
+webids:
+  custom/blog: 'https://blog.saltlending.com/'
+  telegram: SALTLendingDiscussion
+  discord: 4S9eFBK
+  twitter: SaltLending
+  linkedin/company: saltfintech
+  facebook: SALTLENDING
+contacts:
+  email: 'support@saltlending.com'
+  location:hq: 'PO Box 8350, Denver, Colorado, USA'
+  phone: '+17205752272'

@@ -1,0 +1,24 @@
+name: Nuls
+web:
+  - 'https://nuls.io/'
+assets:
+  - id: nuls
+    name: Nuls
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: NULS
+    contract_address: '0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c'
+    max_supply: 40000000
+    start_date: '2017-09-01'
+    webids:
+      coinmarketcap: nuls
+      cryptocompare: nuls
+      cryptocompare/id: '377792'
+webids:
+  custom/forum: 'https://steemit.com/@nuls'
+  telegram: Nulsio
+  slack: join
+  github: nuls-io/nuls
+  twitter: nulsservice
+  reddit: nulsservice

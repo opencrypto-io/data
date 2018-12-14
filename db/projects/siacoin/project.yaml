@@ -1,0 +1,79 @@
+name: Siacoin
+web:
+  - 'https://sia.tech/'
+ledgers:
+  - id: siacoin
+    name: Siacoin
+    start_date: '2014-05-09'
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: Blake
+        proof_type: PoW
+        mineable: true
+        tools:
+          - type: explorer
+            url: 'http://explore.sia.tech/'
+          - type: explorer
+            url: 'https://explorer.siahub.info/'
+          - type: explorer
+            url: 'https://www.cryptoground.com/siacoin-block-explorer'
+assets:
+  - id: sc
+    name: Siacoin
+    type: native
+    ledger: siacoin
+    symbol: SC
+    max_supply: 38143183829
+    start_date: '2015-06-01'
+    webids:
+      coinmarketcap: siacoin
+      cryptocompare: sc
+      cryptocompare/id: '13072'
+team:
+  - name: David Vorick
+    role: ceo
+    webids:
+      github: DavidVorick
+      gitlab: DavidVorick
+      twitter: davidvorick
+      email: 'david@nebulouslabs.com'
+  - name: https://gitlab.com/DavidVorick
+    role: co-founder
+    webids:
+      github: lukechampine
+      gitlab: lukechampine
+      twitter: lukechampine
+      email: 'luke@nebulouslabs.com'
+  - name: Zach Herbert
+    role: vp of operations
+    webids:
+      linkedin: zherbert
+      twitter: zachherbert
+  - name: Chris Schinnerl
+    role: core developer
+    webids:
+      github: ChrisSchinnerl
+      gitlab: ChrisSchinnerl
+      twitter: ChrisSchinnerl
+  - name: Steve Funk
+    role: head of support
+    webids:
+      linkedin: tevengfunk
+whitepapers:
+  - title: 'Sia: Simple Decentralized Storage'
+    url: https://sia.tech/sia.pdf
+webids:
+  bitcointalk: '1060294.0'
+  discord: sia
+  github: NebulousLabs/Sia
+  twitter: SiaTechHQ
+  reddit: Siacoin
+  gitlab: NebulousLabs
+  custom/trello: 'https://trello.com/b/Io1dDyuI'
+  facebook: SiaTechHQ
+  linkedin/company: 'sia-nebulous-inc.-'
+  custom/forum: 'https://forum.sia.tech/'
+contacts:
+  email: 'hello@sia.tech'
+  location:hq: 'Nebulous, Inc., 67 Batterymarch St., Floor 4, Boston, MA 02110 USA'
