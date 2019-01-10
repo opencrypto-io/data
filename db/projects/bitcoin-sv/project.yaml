@@ -1,0 +1,64 @@
+name: Bitcoin SV
+alt_names:
+  - 'Bitcoin Cash SV'
+web:
+  - 'https://bitcoinsv.io/'
+ledgers:
+  - id: bitcoin-sv
+    name: Bitcoin SV
+    type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin-cash
+    networks:
+      - id: main
+        type: main
+        name: Bitcoin SV
+        algorithm: SHA256
+        proof_type: PoW
+        mineable: true
+        tools:
+          - type: explorer
+            url: 'https://whatsonchain.com/'
+          - type: explorer
+            url: 'https://bsvexplorer.info/'
+          - type: explorer
+            url: 'https://bsvexplorer.io/'
+      - id: test
+        type: test
+        name: BSV Testnet
+        tools:
+          - type: faucet
+            url: 'https://bitcoincloud.net/faucet/'
+          - type: explorer
+            url: 'https://testnet.bitcoincloud.net/'
+assets:
+  - id: bsv
+    name: Bitcoin SV
+    alt_names:
+      - Bitcoin Cash SV
+    type: native
+    ledger: bitcoin-sv
+    symbol: BSV
+    alt_symbols:
+      - BCHSV
+    max_supply: 21000000
+    start_date: '2018-11-15'
+    denominations:
+      subunits:
+        - name: mBSV
+        - name: bits
+        - name: sat
+team_url: https://bitcoinsv.io/team/
+whitepapers:
+  - title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
+    url: https://resource.bnbstatic.com/books/20181116/1542336458611.pdf
+webids:
+  github: 'bitcoin-sv'
+  twitter: BitcoinSVNode
+tags:
+  - satoshivision
+  - bitcoin
+  - fork
+contacts:
+  email: 'support@bitcoinsv.io'
