@@ -1,0 +1,32 @@
+name: BitcoinX
+web:
+  - 'https://bcx.org/'
+ledgers:
+  - id: bitcoinx
+    name: BitcoinX
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: DPoS
+        proof_type: DPoS
+        tools:
+          - type: explorer
+            url: 'https://bcx.info/'
+assets:
+  - id: bcx
+    name: BitcoinX
+    type: native
+    ledger: bitcoinx
+    symbol: BCX
+    max_supply: 210000000000
+    webids:
+      coinmarketcap: bitcoinx
+      cryptocompare: bcxstar
+      cryptocompare/id: '536213'
+webids:
+  bitcointalk: '4500409.0'
+  telegram: BCX_EN
+  slack: bcx-community
+  github: bitcoinx-project/bitcoinx/releases
+  twitter: bcx_team
+  reddit: BCXofficial
