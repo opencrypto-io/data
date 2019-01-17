@@ -6,7 +6,7 @@ web:
 ledgers:
   - id: bitcoin-cash
     name: Bitcoin Cash
-    alt_name:
+    alt_names:
       - 'Bitcoin Cash ABC'
     type: blockchain
     forked: true

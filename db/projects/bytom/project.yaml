@@ -20,6 +20,7 @@ ledgers:
             url: 'https://btm.tokenview.com/'
           - type: explorer
             url: 'https://www.cryptoground.com/bytom-block-explorer'
+assets:
   - id: btm
     name: Bytom
     type: native
