@@ -5,13 +5,21 @@ ledgers:
   - id: bitcoinx
     name: BitcoinX
     type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+      block: 498888
     networks:
       - id: main
-        algorithm: DPoS
-        proof_type: DPoS
+        type: main
+        algorithm: Blake2B
+        proof_type: PoW+DPoS
+        mineable: true
+        target_block_time: 120
+        maximum_block_size: 2000000
         tools:
           - type: explorer
-            url: 'https://bcx.info/'
+            url: 'http://bitcoinx.thecryptochat.net/'
 assets:
   - id: bcx
     name: BitcoinX
@@ -19,14 +27,32 @@ assets:
     ledger: bitcoinx
     symbol: BCX
     max_supply: 210000000000
+    start_date: '2017-12-12'
     webids:
       coinmarketcap: bitcoinx
       cryptocompare: bcxstar
       cryptocompare/id: '536213'
+team_url: 'http://bcx.org/contributors.html'
+team:
+  - name: Denis
+    role: designer
+    photo: 'http://bcx.org/images/denis.jpg'
+  - name: Tim
+    role: marketing
+    photo: 'http://bcx.org/images/tim.jpg'
+  - name: Tangwen
+    role: translator
+    photo: 'http://bcx.org/images/tangwen.jpg'
 webids:
+  github: 'bitcoinx-project'
   bitcointalk: '4500409.0'
   telegram: BCX_EN
   slack: bcx-community
-  github: bitcoinx-project/bitcoinx/releases
   twitter: bcx_team
   reddit: BCXofficial
+  facebook: OfficialBCXTeam
+tags:
+  - bitcoin
+  - fork
+contacts:
+  email: 'hellobcx@mail.com'

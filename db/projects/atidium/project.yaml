@@ -37,8 +37,8 @@ team:
   - name: Eliran Cohen
     role: cto
     photo: https://www.atidium.io/wp-content/uploads/eliran2.gif
-    webids: 'eliran-cohen-12817215b'
-      linkedin:
+    webids:
+      linkedin: 'eliran-cohen-12817215b'
   - name: Alexnder Kap
     role: project manager
     photo: https://www.atidium.io/wp-content/uploads/2018/03/alexander.gif
