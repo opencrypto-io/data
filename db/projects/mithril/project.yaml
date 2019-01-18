@@ -1,0 +1,23 @@
+name: Mithril
+web:
+  - 'https://mith.io/'
+assets:
+  - id: mith
+    name: Mithril
+    type: token
+    ledger: ethereum
+    symbol: MITH
+    contract_address: '0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb'
+    max_supply: 1000000000
+    start_date: '2018-03-12'
+    webids:
+      coinmarketcap: mithril
+      cryptocompare: mith
+      cryptocompare/id: '847172'
+webids:
+  bitcointalk: '3108554.0'
+  medium: mithriltoken
+  telegram: mithrilchat
+  github: mithio/mithril-smart-contract
+  twitter: MithrilOfficial
+  reddit: MithrilToken

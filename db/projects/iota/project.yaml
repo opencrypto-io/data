@@ -31,10 +31,10 @@ ledgers:
 assets:
   - id: miota
     start_date: '2016-07-17'
-    name: IOTA
+    name: MIOTA
     type: native
     ledger: iota
-    symbol: MIOTA
+    symbol: IOTA
     denominations:
       plural: Iota
       subunits:
