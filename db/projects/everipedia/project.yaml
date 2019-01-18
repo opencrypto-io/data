@@ -1,0 +1,20 @@
+name: Everipedia
+web:
+  - 'https://everipedia.org/'
+assets:
+  - id: iq
+    name: Everipedia
+    type: token
+    ledger: XXXXXXXXXX
+    symbol: IQ
+    contract_address: XXXXXXXXXX
+    start_date: '2018-07-14'
+    webids:
+      coinmarketcap: everipedia
+      cryptocompare: iq
+      cryptocompare/id: '920805'
+webids:
+  telegram: everipedia
+  github: EveripediaNetwork
+  twitter: everipedia
+  reddit: Everipedia
