@@ -4,7 +4,7 @@ web:
 assets:
   - id: eop
     name: EOSpace
-    type: tokne
+    type: token
     ledger: eos
     symbol: EOP
 webids:
