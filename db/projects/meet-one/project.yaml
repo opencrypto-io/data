@@ -1,0 +1,36 @@
+name: MEET.ONE
+alt_names:
+  - MEETONE
+web:
+  - 'https://meet.one'
+assets:
+  - id: meetone
+    name: MEET.ONE
+    type: token
+    ledger: eos
+    symbol: MEETONE
+    contract_address: 'EOS5ZPv2kumrPqPaxF1AzqMMtzRpK5a2DhVmowmULXU7Sp1P9cFKr'
+    max_supply: 10000000000
+    webids:
+      coinmarketcap: meetone
+team_url: 'https://meet.one/#3'
+team:
+  - name: Goh
+    photo: https://static.ethte.com/meet/static/images/1-2296b5a46390c04659b46e018c3e213b.jpg
+  - name: Chow Liqun
+    photo: https://static.ethte.com/meet/static/images/2-9365c91326442cba87afa044ccc7fa10.jpg
+  - name: Dmitri Prokopenko
+    photo: https://static.ethte.com/meet/static/images/3-2173bcdf9dff8927610cc9de90256ab2.jpg
+  - name: Ian
+    photo: https://static.ethte.com/meet/static/images/4-33111a4159eab079d3acbd6cfa459805.jpg
+  - name: Susen Chen
+    photo: https://static.ethte.com/meet/static/images/5-50db47b7c75d5b584d8a627e7bf3992d.jpg
+webids:
+  github: meet-one
+  medium: '@MEET.ONE'
+  custom/forum: 'https://steemit.com/@meetone'
+  telegram: MeetOneEnglish
+  twitter: MeetDotOne
+contacts:
+  email: 'hello@meet.one'
+  location:hq: Singapore
