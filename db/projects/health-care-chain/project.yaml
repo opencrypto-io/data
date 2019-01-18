@@ -1,0 +1,25 @@
+name: Health Care Chain
+alt_names:
+  - 'HealthCare Chain'
+web:
+  - https://www.hcc.top/
+ledgers:
+  - id: health-care-chain
+    name: Health Care Chain
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: HealthCareChain
+        tools:
+          - type: explorer
+            url: 'http://explorer.hcc.top'
+assets:
+  - id: hcc
+    name: Health Care Chain
+    type: native
+    ledger: health-care-chain
+    symbol: HCC
+webids:
+  github: healthcarechain
+  telegram: 'joinchat/GIL1lxCWuVH-w0npw6I8dw'

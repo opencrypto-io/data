@@ -28,6 +28,12 @@ assets:
       coinmarketcap: vechain
       cryptocompare: vet
       cryptocompare/id: '236131'
+  - id: vtho
+    name: VeThor Token
+    alt_names: VTHO
+    type: token
+    ledger: vechain
+    symbol: VTHO
 webids:
   telegram: joinchat/GG4BlQwm19czcBGOewv40Q
   twitter: vechainofficial

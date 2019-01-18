@@ -1,0 +1,35 @@
+name: Triggers
+alt_names:
+  - Trigger
+web:
+  - 'https://blocksafe.co/'
+assets:
+  - id: trig
+    name: Triggers
+    type: token
+    ledger: XXXXXXXXXX
+    symbol: TRIG
+    contract_address: XXXXXXXXXX
+    max_supply: 100000000
+    webids:
+      coinmarketcap: triggers
+      cryptocompare: trig
+      cryptocompare/id: '27996'
+team_url: https://blocksafe.co/#Our-Team
+team:
+  - name: Kevin Barnes
+    role: chairmain
+  - name: Duane Jacobsen
+    role: ceo
+  - name: Cameron Mcbride
+    role: vice president
+  - name: Jena Binderup
+    role: cco
+  - name: Emmanuel Rangel
+    role: cmo
+whitepapers:
+  - title: 'Whitepaper: Blocksafe Foundation'
+webids:
+  bitcointalk: '1642159'
+  custom/forum: 'http://blog.blocksafe.network'
+  twitter: blocksafe

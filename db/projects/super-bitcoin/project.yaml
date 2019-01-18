@@ -1,14 +1,21 @@
 name: Super Bitcoin
 web:
-  - 'http://supersmartbitcoin.com/'
+  - 'http://superbtc.org/'
 ledgers:
   - id: super-bitcoin
     name: Super Bitcoin
     type: blockchain
+    forked: true
+    fork_properties:
+      parent: bitcoin
+      block: 498888
     networks:
       - id: main
+        type: main
         algorithm: SHA256
         proof_type: PoW
+        mineable: true
+        target_block_time: 600
         tools:
           - type: explorer
             url: 'http://block.superbtc.org/'
@@ -24,9 +31,28 @@ assets:
       coinmarketcap: super-bitcoin
       cryptocompare: sbtc
       cryptocompare/id: '516982'
+team:
+  - name: Li Xiao Lai
+    role: foundation member
+    photo: https://pbs.twimg.com/profile_images/433957932435124224/rvfau9ty_400x400.jpeg
+    webids:
+      linkedin: lixiaolai
+      facebook: xiaolai
+  - name: JiaPeng Lin
+    role: foundation member
+    webids:
+      linkedin: linjiapeng
+  - name: Ranger Shi
+    role: chief scientist
+    photo: https://pbs.twimg.com/profile_images/930281530290614273/9hu6MAK4_400x400.jpg
+    webids:
+      linkedin: rangershi
+      facebook: 'shi.ranger'
 webids:
+  github: superbitcoin
   bitcointalk: '2546577.0'
   medium: '@sbtc.org'
   telegram: superbitcoinofficial
-  github: superbitcoin/SuperBitcoin
   twitter: SuperBTC2
+contacts:
+  email: 'official@superbtc.org'

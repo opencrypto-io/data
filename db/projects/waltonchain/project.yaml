@@ -1,4 +1,6 @@
 name: Waltonchain
+alt_names:
+  - Walton
 web:
   - 'http://www.waltonchain.org/'
 assets:
