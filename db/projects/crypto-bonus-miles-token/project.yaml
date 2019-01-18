@@ -1,0 +1,25 @@
+name: Crypto Bonus Miles Token
+web:
+  - 'https://cryptobonusmiles.com/'
+assets:
+  - id: cbm
+    name: Crypto Bonus Miles Token
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: CBM
+    contract_address: '0x95efd1fe6099f65a7ed524def487483221094947'
+    decimals: 18
+    max_supply: 5000000000
+tags:
+  - aeron
+webids:
+  github: aeronaero
+  medium: '@aeronaero'
+  redit: aeronaero
+  facebook: aeronpublic
+  twitter: 'aeron_aero'
+  bitcointalk: '2078239.0'
+  telegram: aeronaero
+contacts:
+  email: 'info@cryptobonusmiles.com'
