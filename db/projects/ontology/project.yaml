@@ -23,6 +23,11 @@ assets:
       coinmarketcap: ontology
       cryptocompare: ont
       cryptocompare/id: '808414'
+  - id: ong
+    name: ONG
+    type: token
+    ledger: ontology
+    symbol: ONG
 webids:
   medium: ontologynetwork
   telegram: OntologyNetworkCN
