@@ -1,0 +1,23 @@
+name: LLToken
+web:
+  - 'https://www.lltoken.com/'
+assets:
+  - id: llt
+    name: LLToken
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: LLT
+    contract_address: '0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2'
+    decimals: 8
+    max_supply: 1000000000
+whitepapers:
+  - title: 'LLT Writepaper: The first distributed CDN sharing platform based on blockchain in the world'
+    url: https://minerdl.yunfan.com/miner/lltoken/uploadfile/pdf/llt_white_paper_en.pdf
+tags:
+  - inactif
+webids:
+  bitcointalk: '2178923.0'
+  telegram: 'lltoken_com'
+contacts:
+  email: 'support@lltoken.com'
