@@ -1,4 +1,6 @@
 name: Stellar
+alt_names:
+  - Stellar Lumens
 web:
   - 'https://www.stellar.org'
 start_date: '2013-07-19'

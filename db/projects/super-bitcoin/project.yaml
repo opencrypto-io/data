@@ -1,0 +1,32 @@
+name: Super Bitcoin
+web:
+  - 'http://supersmartbitcoin.com/'
+ledgers:
+  - id: super-bitcoin
+    name: Super Bitcoin
+    type: blockchain
+    networks:
+      - id: main
+        algorithm: SHA256
+        proof_type: PoW
+        tools:
+          - type: explorer
+            url: 'http://block.superbtc.org/'
+assets:
+  - id: sbtc
+    name: Super Bitcoin
+    type: native
+    ledger: super-bitcoin
+    symbol: SBTC
+    max_supply: 21210000
+    start_date: '2017-12-08'
+    webids:
+      coinmarketcap: super-bitcoin
+      cryptocompare: sbtc
+      cryptocompare/id: '516982'
+webids:
+  bitcointalk: '2546577.0'
+  medium: '@sbtc.org'
+  telegram: superbitcoinofficial
+  github: superbitcoin/SuperBitcoin
+  twitter: SuperBTC2
