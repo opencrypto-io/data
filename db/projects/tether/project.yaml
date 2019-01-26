@@ -1,5 +1,6 @@
 name: Tether
-alt_names: TetherUS
+alt_names:
+  - TetherUS
 web:
   - 'https://tether.to'
 assets:

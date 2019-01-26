@@ -6,3 +6,4 @@ assets:
     name: ETF
     type: token
     symbol: ETF
+    ledger: ethereum

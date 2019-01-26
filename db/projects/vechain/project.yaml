@@ -30,7 +30,8 @@ assets:
       cryptocompare/id: '236131'
   - id: vtho
     name: VeThor Token
-    alt_names: VTHO
+    alt_names:
+      - VTHO
     type: token
     ledger: vechain
     symbol: VTHO
