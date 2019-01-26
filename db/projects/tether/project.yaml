@@ -7,6 +7,7 @@ assets:
   - id: usdt
     name: Tether
     type: token
+    ledger: omni
     symbol: USDT
     start_date: '2014-06-10'
     webids:
