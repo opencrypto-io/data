@@ -1,4 +1,6 @@
 name: Power Ledger
+alt_names:
+  - PowerLedger
 web:
   - 'https://powerledger.io/'
 assets:

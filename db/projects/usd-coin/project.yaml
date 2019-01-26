@@ -1,0 +1,23 @@
+name: USD Coin
+web:
+  - 'https://www.centre.io/'
+assets:
+  - id: usdc
+    name: USD Coin
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: USDC
+    contract_address: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'
+    decimals: 6
+whitepapers:
+  - title: 'centre: Whitepaper'
+    url: https://www.centre.io/pdfs/centre-whitepaper.pdf
+tags:
+  - stablecoin
+webids:
+  github: centrehq
+  medium: 'centre-blog'
+  twitter: 'centre_io'
+contacts:
+  email: 'usdc@centre.io'

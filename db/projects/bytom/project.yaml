@@ -1,0 +1,68 @@
+name: Bytom
+web:
+  - 'http://bytom.io/'
+ledgers:
+  - id: bytom
+    name: Bytom
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        proof_type: PoW
+        mineable: true
+        algorithm: edg25519
+        tools:
+          - type: explorer
+            url: 'https://blockmeta.com/'
+          - type: explorer
+            url: 'https://btmscan.com/'
+          - type: explorer
+            url: 'https://btm.tokenview.com/'
+          - type: explorer
+            url: 'https://www.cryptoground.com/bytom-block-explorer'
+assets:
+  - id: btm
+    name: Bytom
+    type: native
+    ledger: bytom
+    symbol: BTM
+    max_supply: 2100000000
+    start_date: '2017-06-20'
+    webids:
+      coinmarketcap: bytom
+      cryptocompare: btmstar
+      cryptocompare/id: '218008'
+team_url: 'https://www.bytom.io/team/'
+team:
+  - name: Chang Jia
+    role: founder
+    photo: https://www.bytom.io/wp-content/themes/freddo/images/team/Team_Chang.png
+  - name: Duan Xinxing
+    role: founder
+    photo: https://www.bytom.io/wp-content/themes/freddo/images/team/Team_Duan.png
+  - name: Lang Yu
+    role: cto
+    photo: https://www.bytom.io/wp-content/themes/freddo/images/team/Team_Lang.png
+  - name: Jin Lei
+    role: co-cto
+    photo: https://www.bytom.io/wp-content/themes/freddo/images/team/Team_Jinlei.png
+  - name: Zhu Yiqi
+    role: blockchain specialist
+    photo: https://www.bytom.io/wp-content/themes/freddo/images/team/Team_Zhu.png
+whitepapers:
+  - title: 'Bytom: An Interoperation Protocol for Diversified Byte Assets'
+    url: 'https://resource.bnbstatic.com/books/20180305/1520237284988.pdf'
+webids:
+  github: Bytom
+  bitcointalk: '1975390.0'
+  telegram: BytomInternational
+  twitter: Bytom_Official
+  reddit: BytomBlockchain
+  facebook: bytomofficial
+  discord: U3RSYr5
+  custom/blog: 'https://www.bytom.io/blog/'
+  medium: '@Bytom_Official'
+  linkedin/company: 'bytom-foundation'
+  custom/forum: 'http://8btc.com/bytom'
+contacts:
+  email: 'contact@bytom.io'

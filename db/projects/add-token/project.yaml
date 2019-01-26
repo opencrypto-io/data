@@ -1,0 +1,49 @@
+name: ADD token
+alt_names:
+  - 'ADD'
+web:
+  - 'https://addtoken.io/'
+assets:
+  - id: add
+    name: ADD Token
+    alt_names:
+      - 'ADD'
+    type: token
+    ledger: ethereum
+    token_standard: ERC-20
+    symbol: ADD
+    decimals: 8
+    max_supply: 500000000
+team:
+  - name: Terry Low
+    role: founder
+    photo: https://addtoken.io/portal/images/team/terrylow_bw.jpg
+  - name: Tan Teong Cheng
+    role: co-founder
+    photo: https://addtoken.io/portal/images/team/002_tan_teong_cheng.jpg
+  - name: Steffen Haase
+    role: cto
+    photo: https://addtoken.io/portal/images/team/003_steffen_haase.png
+  - name: Mercury Ooi
+    role: graphic
+    photo: https://addtoken.io/portal/images/team/mercury_300x353.jpg
+  - name: Mohammed Genedabi
+    role: lead developer
+    photo: https://addtoken.io/portal/images/team/005_mohammed_genedabi.png
+whitepapers:
+  - title: 'Whitepaper: ADD Token'
+    url: https://addtoken.io/media/ADD_TOKEN_ICO_WHITE_PAPER.pdf
+webids:
+  facebook: addtokencryptocurrency
+  instagram: Addtoken
+  twitter: addtoken
+  telegram: addtoken
+  linkedin: 'add-token-153b4415a'
+tags:
+  - finance
+  - will
+  - token
+contacts:
+  email: 'info@addtoken.io'
+  phone: '+600327327177'
+  location:hq: 'ADD Blockchain Sdn Bhd. Suite 9-1, Level 9, Vertical Corporate Tower B, Avenue 10, The Vertical Bangsar South City, No. 8 Jalan Kerinchi, 59200 Kuala Lumpur, Malaysia'

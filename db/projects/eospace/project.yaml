@@ -1,0 +1,12 @@
+name: EOSpace
+web:
+  - 'http://eospace.io/'
+assets:
+  - id: eop
+    name: EOSpace
+    type: token
+    ledger: eos
+    symbol: EOP
+webids:
+  twitter: EospaceI
+  telegram: eospace

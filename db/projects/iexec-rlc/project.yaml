@@ -1,6 +1,7 @@
 name: iExec RLC
 alt_names:
   - iEx.ec
+  - iExecRLC
 start_date: '2016-10-16'
 description: 'iExec is building marketplace for cloud resources.'
 web:
@@ -9,6 +10,8 @@ assets:
   - id: rlc
     start_date: '2017-01-10'
     name: iExec RLC
+    alt_names:
+      - iExecRLC
     type: token
     token_standard: ERC-20
     contract_address: '0x607f4c5bb672230e8672085532f7e901544a7375'

@@ -1,0 +1,66 @@
+name: Atidium
+web:
+  - 'https://www.atidium.io/'
+assets:
+  - id: atd
+    start_date: '2018-06-28'
+    name: Atidium
+    type: token
+    token_standard: ERC-20
+    contract_address: '0xf69709c4c6f3f2b17978280dce8b7b7a2cbcba8b'
+    decimals: 18
+    ledger: ethereum
+    symbol: ATD
+    max_supply: 1500000000
+    first_distribution:
+      - title: 'team'
+        amount: 300000000
+        percent: 20
+      - title: 'airdrop'
+        amount: 900000000
+        percent: 60
+      - title: 'development'
+        amount: 300000000
+        percent: 20
+team_url: https://www.atidium.io/#Team
+team:
+  - name: Eliav Cohen
+    role: co-ceo
+    photo: https://www.atidium.io/wp-content/uploads/2018/03/eliav.gif
+    webids:
+      linkedin: 'eliav-cohen-40b59065'
+  - name: Idan More
+    role: co-ceo
+    photo: https://www.atidium.io/wp-content/uploads/2018/03/idan.gif
+    webids:
+      linkedin: 'idan-more'
+  - name: Eliran Cohen
+    role: cto
+    photo: https://www.atidium.io/wp-content/uploads/eliran2.gif
+    webids:
+      linkedin: 'eliran-cohen-12817215b'
+  - name: Alexnder Kap
+    role: project manager
+    photo: https://www.atidium.io/wp-content/uploads/2018/03/alexander.gif
+  - name: Vladislav Natochen
+    role: product development
+    photo: https://www.atidium.io/wp-content/uploads/2018/03/vladislav.gif
+whitepapers:
+  - title: 'Atidium: Payment & Budget Management Decentralized App'
+    url: http://www.atidium.io/wp-content/uploads/Atidium-WhitePaper-English.pdf
+webids:
+  github: atidium
+  telegram: atidium
+  facebook: Atidium
+  bitcointalk: '4442155.0'
+  twitter: AtidiumNetwork
+  linkedin/company: atidium
+  youtube/channel: UCEsqXclpqLji2sG3X7ezHeg
+  reddit: 'atidium-network'
+tags:
+  - payment
+  - budget
+  - dapp
+contacts:
+  email: 'contact@atidium.io'
+  location:hq: Lisbon, Portugal

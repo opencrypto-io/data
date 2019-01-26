@@ -1,0 +1,60 @@
+name: Mithril
+web:
+  - 'https://mith.io/'
+assets:
+  - id: mith
+    name: Mithril
+    alt_names:
+      - Mithril Token
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: MITH
+    contract_address: '0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb'
+    decimals: 18
+    max_supply: 1000000000
+    start_date: '2018-03-12'
+    webids:
+      coinmarketcap: mithril
+      cryptocompare: mith
+      cryptocompare/id: '847172'
+team_url: https://mith.io/en-US/team
+team:
+  - name: Jeffrey Huang
+    role: founder
+    photo: https://mith.io/img/team/machi.jpg
+    webids:
+      linkedin: 'jeffrey-huang-33b711157'
+  - name: Wilson Huang
+    role: cryptocurrency researcher
+    photo: https://mith.io/img/team/wilson.jpg
+    webids:
+      github: HuangJi
+      linkedin: wilsonhuangji
+  - name: Roy Lin
+    role: product manager
+    webids:
+      linkedin: 'roy-lin'
+  - name: Li-Chun Yang
+    role: senior developer
+    webids:
+      github: asoul
+      linkedin: asoul
+  - name: Chiao-Yen Chang
+    role: senior android developer
+    webids:
+      linkedin: 'chiao-yen-chang'
+whitepapers:
+  - title: The Future of Social Networks
+    url: https://resource.bnbstatic.com/books/20181203/1543816897913.pdf
+webids:
+  github: mithio
+  bitcointalk: '3108554.0'
+  medium: mithriltoken
+  telegram: mithrilchat
+  twitter: MithrilOfficial
+  reddit: MithrilToken
+  facebook: MithrilOfficial
+contacts:
+  email: 'w@mith.io'
+  location:hq: Taiwan

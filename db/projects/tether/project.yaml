@@ -1,0 +1,32 @@
+name: Tether
+alt_names:
+  - TetherUS
+web:
+  - 'https://tether.to'
+assets:
+  - id: usdt
+    name: Tether
+    type: token
+    ledger: omni
+    symbol: USDT
+    start_date: '2014-06-10'
+    webids:
+      coinmarketcap: tether
+      cryptocompare: usdt
+      cryptocompare/id: '171986'
+team:
+  - name: Jl Van Der Velde
+    role: ceo
+    photo: https://tether.to/wp-content/uploads/bfi_thumb/photo-grading-nie0zaxqt55xvdw9tti94e342veks1pllep68rccno.jpg
+  - name: Giancarlo Devasini
+    role: cfo
+    photo: https://tether.to/wp-content/uploads/bfi_thumb/giancarlo-nie16ghitqyi8ji61wu13l3eug55d441wtg7qkqhas.jpg
+  - name: Stuart Hoegner
+    role: general counsel
+    photo: https://tether.to/wp-content/uploads/bfi_thumb/stu-nie15vt2ne6754c7enw8kqb9ryz2nrtyhz3j6hl53o.jpg
+whitepapers:
+  - title: 'Tether: Fiat currencies on the Bitcoin blockchain'
+    url: https://resource.bnbstatic.com/books/20180301/1519893458876.pdf
+webids:
+  twitter: tether_to
+  facebook: 'tether.to'

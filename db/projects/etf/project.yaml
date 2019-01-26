@@ -1,0 +1,9 @@
+name: ETF
+web:
+  - 'https://www.etftoken.org/'
+assets:
+  - id: etf
+    name: ETF
+    type: token
+    symbol: ETF
+    ledger: ethereum

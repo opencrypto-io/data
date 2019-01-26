@@ -1,0 +1,27 @@
+name: Everipedia
+web:
+  - 'https://everipedia.org/'
+assets:
+  - id: iq
+    name: Everipedia
+    type: token
+    ledger: eos
+    symbol: IQ
+    contract_address: 'EOS5c961rTyRaybz4XXXzd9d7dpaKBdNi4z2pySdc5WnFP5JCT2wt'
+    start_date: '2018-07-14'
+    max_supply: 10000000000
+    webids:
+      coinmarketcap: everipedia
+      cryptocompare: iq
+      cryptocompare/id: '920805'
+whitepapers:
+  - title: 'A Peer-to-Peer Encyclopedia Network'
+    url: https://resource.bnbstatic.com/books/20180715/1531628480744.pdf
+webids:
+  github: EveripediaNetwork
+  telegram: everipedia
+  twitter: everipedia
+  reddit: Everipedia
+  facebook: everipedia
+contacts:
+  location:hq: 'Everipedia International, 171 Elgin Avenue, Floor 2 #709, Willow House, Cricket Square, Grand Cayman, KY1-1103, Cayman Islands'

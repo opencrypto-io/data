@@ -1,0 +1,62 @@
+name: Republic Protocol
+web:
+  - 'https://republicprotocol.com/'
+assets:
+  - id: ren
+    name: Republic Protocol
+    alt_names:
+      - Republic
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: REN
+    contract_address: '0x408e41876cccdc0f92210600ef50372656052a38'
+    decimals: 18
+    max_supply: 1000000000
+    ico_properties:
+      start_date: '2018-02-03'
+      ico_price: 0.00006 ETH
+      country: Singapore
+    webids:
+      coinmarketcap: republic-protocol
+team:
+  - name: Taiyang Zhang
+    role: ceo
+    webids:
+      github: sixteen
+      linkedin: taiyangzhang
+      medium: '@taiyangzhang'
+  - name: Loong Wang
+    role: cto
+    webids:
+      github: loongy
+      twitter: bzlwang
+      linkedin: bzlwang
+      medium: '@loong'
+  - name: Noah I
+    role: blockchain developer
+    webids:
+      github: negaex
+      linkedin: noahi
+  - name: Susruth Nadimpalli
+    role: blockchain developer
+    webids:
+      github: susruth
+      linkedin: 'susruth-nadimpalli'
+  - name: Yunshi Sun
+    role: software developer
+    webids:
+      github: 'tok-kkk'
+      linkedin: 'yunshi-sun'
+whitepapers:
+  - title: 'Republic Protocol: A decentralized dark pool exchange providing atomic swaps for Ethereum-based assets and Bitcoin.'
+    url: https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf
+webids:
+  github: republicprotocol
+  medium: republicprotocol
+  telegram: republicprotocol
+  twitter: republicorg
+  reddit: republicprotocol
+  facebook: RepublicProtocol
+contacts:
+  email: 'community@republicprotocol.com'

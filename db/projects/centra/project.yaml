@@ -1,0 +1,32 @@
+name: Centra
+web:
+  - 'https://www.centra.tech/'
+assets:
+  - id: ctr
+    name: Centra
+    type: token
+    token_standard: ERC-20
+    ledger: ethereum
+    symbol: CTR
+    contract_address: '0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a'
+    decimals: 18
+    max_supply: 99999999.5
+    ico_properties:
+      start_date: '2017-09-19'
+      end_date: '2017-09-26'
+      raised: 26100000 USD
+      ico_price: 0.73 USD
+      country: USA
+tags:
+  - card
+  - token
+  - inactif
+webids:
+  github: CentraTech
+  bitcointalk: '2114806'
+  slack: phantomcommunit
+  twitter: 'Centra_Card'
+  medium: '@Centra'
+  telegram: CentraTech
+contacts:
+  email: 'support@centra.tech'

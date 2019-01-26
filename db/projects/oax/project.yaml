@@ -1,4 +1,6 @@
 name: OAX
+alt_names:
+  - openANX
 web:
   - 'https://oax.org/'
 assets:

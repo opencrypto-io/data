@@ -1,4 +1,6 @@
 name: NavCoin
+alt_names:
+  - NAV Coin
 web:
   - 'http://www.navcoin.org/'
 start_date: '2014-06-06'

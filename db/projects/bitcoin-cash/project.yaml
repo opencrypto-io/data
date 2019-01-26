@@ -1,4 +1,6 @@
 name: Bitcoin Cash
+alt_names:
+  - 'Bitcoin Cash ABC'
 web:
   - 'https://www.bitcoincash.org/'
 ledgers:
@@ -32,11 +34,14 @@ ledgers:
 assets:
   - id: bch
     name: Bitcoin Cash
+    alt_names:
+      - 'Bitcoin Cash ABC'
     type: native
     ledger: bitcoin-cash
     symbol: BCH
     alt_symbols:
       - BCC
+      - BCHABC
     max_supply: 21000000
     start_date: '2017-08-01'
     webids:

@@ -1,4 +1,6 @@
 name: WaBi
+alt_names:
+  - TAEL
 web:
   - 'https://wacoin.io/'
 assets:
